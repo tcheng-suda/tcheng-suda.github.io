@@ -18,6 +18,7 @@ Email: [**tcheng@suda.edu.cn**](tcheng@suda.edu.cn)
 # Experience
 - **2018.11 - now**  
 **Professor**  
+[**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/)   
 [**Soochow University**](http://www.suda.edu.cn/)  
 - **2015.10 - 2018.10**   
 **Research Scientist**    
@@ -29,15 +30,15 @@ Email: [**tcheng@suda.edu.cn**](tcheng@suda.edu.cn)
 with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard)  
 
 # Education
-- **2009.9.1 - 2012.9.30**  
+- **2009.9 - 2012.9**  
 **Ph.D.in Chemistry**  
 [**School of Chemistry and Chemical Engineering (SCCE)**](http://scce.sjtu.edu.cn/)  
 [**Shanghai Jiao Tong University (SJTU)**](https://www.sjtu.edu.cn/)    
 Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
-- **2007.9.1 - 2009.6.24**  
+- **2007.9 - 2009.6**  
 **M.S. in Chemistry**     
 [**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)    
-- **2003.9.1 - 2007.7.1**  
+- **2003.9 - 2007.7**  
 **B.S.in Chemistry**   
 [**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)    
 
