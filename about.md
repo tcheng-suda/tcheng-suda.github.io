@@ -15,6 +15,9 @@ Soochow University Dushu-Lake Campus, Box 33, 199 Ren'ai Rd, Suzhou Industrial P
 Email: [**tcheng@suda.edu.cn**](tcheng@suda.edu.cn)  
 
 # Experience
+- **2018.11 - now**  
+**Professor**  
+[**Soochow University**](http://www.suda.edu.cn/)  
 - **2015.10 - 2018.10**   
 **Research Scientist**    
 [**Joint Center for Artificial Photosynthesis**](https://solarfuelshub.org/), [**Caltech**](http://www.caltech.edu/)   
