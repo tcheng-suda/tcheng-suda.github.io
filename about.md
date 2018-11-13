@@ -7,7 +7,7 @@ permalink: /about/
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-6.jpg" caption="T.C.@ Pasadena, CA, 2018" width=300 align="right" %}
 
-<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>
+<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>  
 [**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/)   
 [**Soochow University**](http://www.suda.edu.cn/)   
 Soochow University Dushu-Lake Campus  
