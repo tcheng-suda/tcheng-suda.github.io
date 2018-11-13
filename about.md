@@ -7,7 +7,7 @@ permalink: /about/
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-6.jpg" caption="T.C.@ Pasadena, CA, 2018" width=300 align="right" %}
 
-[<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>](https://directory.caltech.edu/personnel/tcheng)  
+<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>
 [**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/)   
 [**Soochow University**](http://www.suda.edu.cn/)   
 Soochow University Dushu-Lake Campus  
@@ -43,7 +43,7 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 [**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)    
 
 ---
-[<span style="color:black;font-size:18pt;font-weight:bold">Graduate Students</span>](https://directory.caltech.edu/personnel/tcheng)
+<span style="color:black;font-size:18pt;font-weight:bold">Graduate Students</span>
 
 # About This Website
 This website is Tao Cheng’s personal academic website.
