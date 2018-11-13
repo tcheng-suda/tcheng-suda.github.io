@@ -7,9 +7,9 @@ permalink: /about/
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-6.jpg" caption="T.C.@ Pasadena, CA, 2018" width=300 align="right" %}
 
-[<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>](https://directory.caltech.edu/personnel/tcheng) ([**Caltech Directory**](https://directory.caltech.edu/personnel/tcheng))  
-[**Joint Center for Artificial Photosynthesis (JCAP)**](https://solarfuelshub.org/)    
-[**California Institute of Technology (Caltech)**](http://www.caltech.edu/)   
+[<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>](https://directory.caltech.edu/personnel/tcheng) 
+[**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/)   
+[**Soochow University**](http://www.suda.edu.cn/)   
 Office: 319 Beckman Institute (BI) ([**Campus map**](http://www.caltech.edu/map/beckman-institute))  
 Address: 1200 East California Blvd, Pasadena, CA, 91125.([**Directions**](http://www.caltech.edu/content/directions))   
 Phone: 626-395-2731(office)  
