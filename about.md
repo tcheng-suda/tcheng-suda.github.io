@@ -10,7 +10,9 @@ permalink: /about/
 [<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>](https://directory.caltech.edu/personnel/tcheng)  
 [**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/)   
 [**Soochow University**](http://www.suda.edu.cn/)   
-Soochow University Dushu-Lake Campus, Box 33, 199 Ren'ai Rd, Suzhou Industrial Park, Suzhou, Jiangsu, 215123, P.R. China
+Soochow University Dushu-Lake Campus  
+Box 33, 199 Ren'ai Rd, Suzhou Industrial Park  
+Suzhou, Jiangsu, 215123, P.R. China
 
 Email: [**tcheng@suda.edu.cn**](tcheng@suda.edu.cn)  
 
