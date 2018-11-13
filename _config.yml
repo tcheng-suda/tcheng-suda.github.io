@@ -1,13 +1,12 @@
 # Site settings
-title: Tao Cheng 
-email: tcheng@caltech.edu.cn
+title: Tao Cheng Group
+email: tcheng@suda.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
   Stay hungry. Stay foolish.  
   不忘初心，方得始终。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tcheng.org" # the base hostname & protocol for your site
-twitter_username: Tao94037228
-linkedin_username: tao-cheng-5191331a
+url: "http://funsom.suda.edu.cn/tcheng" # the base hostname & protocol for your site
+twitter_username: 
 
 # Build settings
 markdown: kramdown
