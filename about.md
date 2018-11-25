@@ -45,11 +45,3 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 ---
 <span style="color:black;font-size:18pt;font-weight:bold">Graduate Students</span>
 
-# About This Website
-This website is Tao Cheng’s personal academic website.
-Tao Cheng is the copyright holder to all the contents published
-on this website except the underlying theme, which is based on the
-<a href="http://jekyllthemes.org/themes/svm-ngvb/" target="_blank">Steve's No-Good-Very-Bad Jekyll Theme</a>
-If you wish to use any copyright material on this website,
-please contact me via the Email or address listed above to obtain
-a permission.
