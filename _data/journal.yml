@@ -1,2 +1,25 @@
 # Tao's Publications - Journal articles
 
+- title: 'Atomistic Description of the Electrode-Electrolyte Interface during Operando Electrocatalysis from Quantum Mechanics Full Solvent Theory'
+  volume:   
+  issue:
+  page: 
+  year: 2018
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: In prepare
+  URL: 
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
