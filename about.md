@@ -44,3 +44,6 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 
 ---
 <span style="color:black;font-size:18pt;font-weight:bold">Qi Yuan (苑琦)</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+# Education
+
