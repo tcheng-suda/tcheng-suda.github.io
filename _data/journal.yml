@@ -11,6 +11,9 @@
     family: Cheng
     role: main
   - given:
+    given_initial: A
+    family: Fortunelli
+  - given:
     given_initial: WA
     family: Goddard
     role: corr
