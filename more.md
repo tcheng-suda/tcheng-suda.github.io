@@ -1,6 +1,6 @@
 ---
 layout: page
-title: More
+title: Resources
 permalink: /more/
 ---
 
