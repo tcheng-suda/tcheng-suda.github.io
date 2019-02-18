@@ -45,7 +45,7 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 ---
   
 # Miao Xie(谢淼)
-{% include image.html url="/images/tao-6.jpg" caption="" width=300 align="right" %}
+![Miao Xie](/images/tao-6.jpg)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 [**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)   
 [**Soochow University**](http://www.suda.edu.cn/)   
