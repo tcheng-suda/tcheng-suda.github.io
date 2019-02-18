@@ -43,7 +43,7 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 [**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)    
 
 ---
-<span style="color:black;font-size:18pt;font-weight:bold">Postdoc</span>    
+<span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>    
 # Miao Xie(谢淼)
 # Hao Yang(杨昊)
 
