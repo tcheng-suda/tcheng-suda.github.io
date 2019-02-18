@@ -43,9 +43,13 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 [**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)    
 
 ---
+<span style="color:black;font-size:18pt;font-weight:bold">Miao Xie(谢淼)</span>    
+<span style="color:black;font-size:18pt;font-weight:bold">Hao Yang(杨昊)</span>    
+
+---
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 <span style="color:black;font-size:18pt;font-weight:bold">Qi Yuan (苑琦)</span>    
   
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
   
 # Education
 
