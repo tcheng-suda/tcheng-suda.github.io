@@ -30,7 +30,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='53' reversed>
-{% for article in site.data.journal %}
+{% for article in site.data.journal-2019 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
