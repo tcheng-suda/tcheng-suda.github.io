@@ -68,7 +68,7 @@ permalink: /publications/
 </ol>
 </div>
 
-## before Soochow University
+## Before Soochow University
 
 <div class='panel-pub'>
 <ol start='52' reversed>
