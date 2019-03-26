@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-|[carbon dioxide reduction](#co2rr)|
+|[Carbon Dioxide Reduction](#co2rr)|[Oxygen Reduction Reaction](#orr)|[Accelerated Molecular Dynamics](#amd)|  
 
 ## <a name="co2rr"></a>**Carbon Dioxide Reduction Reaction** 
 ![co2](/images/co2.png#left)
