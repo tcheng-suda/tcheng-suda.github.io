@@ -29,7 +29,7 @@ Email: [**tcheng@suda.edu.cn**](tcheng@suda.edu.cn)
 **Postdoc**  
 [**Materials and Process Simulation Center**](http://www.wag.caltech.edu/), [**Caltech**](http://www.caltech.edu/)   
 [**Division of Chemistry and Chemical Engineering**](http://cce.caltech.edu/), [**Caltech**](http://www.caltech.edu/)   
-with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-goddard)  
+with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-a-goddard)  
 
 # Education
 - **2009.9 - 2012.9**  
@@ -48,29 +48,16 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <br />   
 # <a name="mxie"></a>Miao Xie(谢淼)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
-[**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)   
-[**Soochow University**](http://www.suda.edu.cn/)   
-Soochow University Dushu-Lake Campus  
-Box 33, 199 Ren'ai Rd, Suzhou Industrial Park  
-Suzhou, Jiangsu, 215123, P.R. China  
+Email:
 
 ---
 <br />   
 # <a name="hyang"></a>Hao Yang(杨昊)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
-[**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)   
-[**Soochow University**](http://www.suda.edu.cn/)   
-Soochow University Dushu-Lake Campus  
-Box 33, 199 Ren'ai Rd, Suzhou Industrial Park  
-Suzhou, Jiangsu, 215123, P.R. China  
+Email:
 
 ---
 <br />   
 # <a name="qyuan"></a>Qi Yuang (苑琦)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
-[**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)   
-[**Soochow University**](http://www.suda.edu.cn/)   
-Soochow University Dushu-Lake Campus  
-Box 33, 199 Ren'ai Rd, Suzhou Industrial Park  
-Suzhou, Jiangsu, 215123, P.R. China  
-
+Email:
