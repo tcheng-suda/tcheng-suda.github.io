@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-|[Carbon Dioxide Reduction](#co2rr)|[Oxygen Reduction Reaction](#orr)|[Accelerated Molecular Dynamics](#amd)|   
+|[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|[**Accelerated Molecular Dynamics**](#amd)|   
 # <a name="co2rr"></a>**Carbon Dioxide Reduction Reaction** 
 ![co2](/images/co2.png#left)
 
@@ -30,7 +30,7 @@ Related Publications:
 * [**"Ultrafine Jagged Platinum Nanowires Enable Ultrahigh Mass Activity for the Oxygen Reduction Reaction"**](
 http://dx.doi.org/10.1126/science.aaf9050)  
 
-#<a name="amd"></a> **Accelerated Molecular Dynamics**
+# <a name="amd"></a> **Accelerated Molecular Dynamics**
 
 **We develop the methodology for dramatically accelerating the ReaxFF reactive force field based reactive molecular dynamics simulations through use of the bond boost concept, which we validate for describing hydrogen combustion.**  
 Related Publications:  

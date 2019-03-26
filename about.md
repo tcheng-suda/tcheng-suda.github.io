@@ -4,7 +4,7 @@ title: People
 permalink: /about/
 ---
 
-|[**Tao Cheng**](#tcheng)|Miao Xie|Hao Yang|Qi Yuan|  
+|[**Tao Cheng**](#tcheng)|[**Miao Xie**](#mxie)|[**Hao Yang**](#hyang)|[**Qi Yuan**](#qyuan)|  
 # <a name="tcheng"></a> Tao Cheng(程涛)
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-caltech-2018.JPG" caption="" width=300 align="right" %}
@@ -46,7 +46,7 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 
 ---
 <br />   
-# Miao Xie(谢淼)
+# <a name="mxie"></a>Miao Xie(谢淼)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 [**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)   
 [**Soochow University**](http://www.suda.edu.cn/)   
@@ -56,7 +56,7 @@ Suzhou, Jiangsu, 215123, P.R. China
 
 ---
 <br />   
-# Hao Yang(杨昊)
+# <a name="hyang"></a>Hao Yang(杨昊)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 [**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)   
 [**Soochow University**](http://www.suda.edu.cn/)   
@@ -66,7 +66,7 @@ Suzhou, Jiangsu, 215123, P.R. China
 
 ---
 <br />   
-# Qi Yuang (苑琦)
+# <a name=qyuan></a>Qi Yuang (苑琦)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 [**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)   
 [**Soochow University**](http://www.suda.edu.cn/)   
