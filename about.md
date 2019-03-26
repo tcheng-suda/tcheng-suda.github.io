@@ -4,8 +4,8 @@ title: People
 permalink: /about/
 ---
 
-|test|  
-# Tao Cheng(程涛)
+|[**Tao Cheng**](#tcheng)|Miao Xie|Hao Yang|Qi Yuan|  
+# <a name="tcheng"></a> Tao Cheng(程涛)
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-caltech-2018.JPG" caption="" width=300 align="right" %}
 
