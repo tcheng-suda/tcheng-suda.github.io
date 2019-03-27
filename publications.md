@@ -25,9 +25,9 @@ permalink: /publications/
 |[**JPCL**](https://pubs.acs.org/journal/jpclcd)
 |[**JMCA**](http://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-a/)
 |  
-|2019|2018|2017|2016|2015|2014|before 2014|  
+|[**2019**](#2019)|[**2018**](#2018)|[**2017**](#2017)|[**2016**](#2016)|[**2015**](#2015)|[**2014**](#2014)|[**before 2014**](#2014-b)|  
 
-## 2019
+## <a name="2019"></a>2019
 
 <div class='panel-pub'>
 <ol start='52' reversed>
@@ -69,7 +69,7 @@ permalink: /publications/
 </ol>
 </div>
 
-## 2018
+## <a name="2018"></a>2018
 
 <div class='panel-pub'>
 <ol start='51' reversed>
@@ -112,7 +112,7 @@ permalink: /publications/
 </div>
 
 
-## 2017
+## <a name="2017"></a>2017
 
 <div class='panel-pub'>
 <ol start='36' reversed>
@@ -155,7 +155,7 @@ permalink: /publications/
 </div>
 
 
-## 2016
+## <a name="2016"></a>2016
 
 <div class='panel-pub'>
 <ol start='21' reversed>
@@ -198,7 +198,7 @@ permalink: /publications/
 </div>
 
 
-## 2015
+## <a name="2015"></a>2015
 
 <div class='panel-pub'>
 <ol start='17' reversed>
@@ -240,7 +240,7 @@ permalink: /publications/
 </ol>
 </div>
 
-## 2014
+## <a name="2014"></a>2014
 
 <div class='panel-pub'>
 <ol start='10' reversed>
@@ -282,10 +282,7 @@ permalink: /publications/
 </ol>
 </div>
 
-
-
-
-## before 2014
+## <a name="2014-b"></a>before 2014
 
 <div class='panel-pub'>
 <ol start='6' reversed>
