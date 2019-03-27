@@ -1,0 +1,126 @@
+- title: 'Initial Steps of Thermal Decomposition of Dihydroxylammonium
+          5,5 -bistetrazole-1,1 -diolate Crystals from Quantum Mechanics'
+  volume: '118'
+  issue: '46'
+  page: '27175-27181'
+  year: 2014
+  author:
+  - given:
+    given_initial: Q
+    family: An
+  - given:
+    given_initial: WG
+    family: Liu
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: ZV
+    family: Zybin
+  - given:
+    given_initial: H
+    family: Xiao
+  journal:
+    abbreviation: J Phys. Chem. C
+  URL: http://dx.doi.org/10.1021/jp509582x
+  type: article
+  DOI: 10.1021/jp509582x
+  fulltext:
+  language: english
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpccck/2014/jpccck.2014.118.issue-46/jp509582x/20141114/images/medium/jp-2014-09582x_0008.gif
+
+- title: 'Atomistic Explanation of Shear-Induced Amorphous Band Formation in Boron Carbide'
+  volume: '113'
+  issue: '9'
+  page: '095501'
+  year: 2014
+  author:
+  - given:
+    given_initial: Q
+    family: An
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Phys. Rev. Lett.
+  URL: http://dx.doi.org/10.1103/PhysRevLett.113.095501
+  type: article
+  DOI: 10.1103/PhysRevLett.113.095501
+  fulltext:
+  language: english
+  image_url: https://journals.aps.org/prl/article/10.1103/PhysRevLett.113.095501/figures/3/medium
+
+- title: 'Deformation Induced Solid/Solid Phase Transitions in Gamma Boron'
+  volume: '26'
+  issue: '14'
+  page: '4289-4298'
+  year: 2014
+  author:
+  - given:
+    given_initial: Q
+    family: An
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: H
+    family: Xiao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Chem. Mater.
+  URL: http://dx.doi.org/10.1021/cm5020114
+  type: article
+  DOI: 10.1021/cm5020114
+  fulltext:
+  language: english
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/cmatex/2014/cmatex.2014.26.issue-14/cm5020114/production/images/medium/cm-2014-020114_0015.gif
+
+- title: 'Adaptive Accelerated ReaxFF Reactive Dynamics with Validation from Simulating Hydrogen Combustion'
+  volume: '136'
+  issue: '26'
+  page: '9434-9442'
+  year: 2014
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: A
+    family: Jaramillo-Botero
+    role: corr
+  - given:
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/ja5037258
+  type: article
+  DOI: 10.1021/ja5037258
+  fulltext:
+  language: english
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jacsat/2014/jacsat.2014.136.issue-26/ja5037258/production/images/medium/ja-2014-037258_0005.gif
+
