@@ -68,11 +68,11 @@ permalink: /publications/
 </ol>
 </div>
 
-## Before Soochow University
+## Before 2012
 
 <div class='panel-pub'>
 <ol start='52' reversed>
-{% for article in site.data.journal-old %}
+{% for article in site.data.journal-2012 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
