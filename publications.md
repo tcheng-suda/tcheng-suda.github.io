@@ -29,7 +29,7 @@ permalink: /publications/
 ## 2019
 
 <div class='panel-pub'>
-<ol start='53' reversed>
+<ol start='52' reversed>
 {% for article in site.data.journal-2019 %}
     <li>
     <div class="title">
@@ -71,7 +71,7 @@ permalink: /publications/
 ## 2018
 
 <div class='panel-pub'>
-<ol start='6' reversed>
+<ol start='51' reversed>
 {% for article in site.data.journal-2018 %}
     <li>
     <div class="title">
@@ -114,7 +114,7 @@ permalink: /publications/
 ## 2017
 
 <div class='panel-pub'>
-<ol start='6' reversed>
+<ol start='36' reversed>
 {% for article in site.data.journal-2017 %}
     <li>
     <div class="title">
@@ -157,7 +157,7 @@ permalink: /publications/
 ## 2016
 
 <div class='panel-pub'>
-<ol start='6' reversed>
+<ol start='21' reversed>
 {% for article in site.data.journal-2016 %}
     <li>
     <div class="title">
@@ -200,7 +200,7 @@ permalink: /publications/
 ## 2015
 
 <div class='panel-pub'>
-<ol start='6' reversed>
+<ol start='17' reversed>
 {% for article in site.data.journal-2015 %}
     <li>
     <div class="title">
@@ -242,7 +242,7 @@ permalink: /publications/
 ## 2014
 
 <div class='panel-pub'>
-<ol start='6' reversed>
+<ol start='10' reversed>
 {% for article in site.data.journal-2014 %}
     <li>
     <div class="title">
