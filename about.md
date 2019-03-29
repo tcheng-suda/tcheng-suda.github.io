@@ -48,19 +48,26 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <br />   
 # <a name="mxie"></a>Miao Xie(谢淼)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
-Personal web page:  
-Email:
+Personal web page: [Miao Xie]()
+Email: xiemiao@suda.edu.cn
 
 ---
 <br />   
 # <a name="hyang"></a>Hao Yang(杨昊)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
-Personal web page:  
+Personal web page: [Hao Yang]()  
+Email: haoyang@suda.edu.cn
+
+---
+<br />   
+# <a name="hyang"></a>Bingyun Ma(麻冰云)
+<span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
+Personal web page: [Bingyun Ma]()
 Email:
 
 ---
 <br />   
-# <a name="qyuan"></a>Qi Yuang (苑琦)
+# <a name="qyuan"></a>Qi Yuan (苑琦)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
-Personal web page:  
-Email:
+Personal web page:  [Qi Yuan]() 
+Email: 
