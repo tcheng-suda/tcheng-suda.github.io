@@ -1,5 +1,95 @@
 # Tao's Publications - Journal articles
 
+- title: 'Single atom tailoring platinum nanocatalysts for high performance multifunctional electrocatalysis'
+  volume:
+  issue:
+  page: Accepted
+  year: 2019
+  author:
+  - given:
+    given_initial: MF
+    family: Li#
+  - given:
+    given_initial: KN
+    family: Duanmu#
+  - given:
+    given_initial: CZ
+    family: Wan#
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: L
+    family: Zhang
+  - given:
+    given_initial: S
+    family: Dai
+  - given:
+    given_initial: WX
+    family: Chen
+  - given:
+    given_initial: ZP
+    family: Zhao
+  - given:
+    given_initial: P
+    family: Li
+  - given:
+    given_initial: HL
+    family: Fei
+  - given:
+    given_initial: YM
+    family: Zhu
+  - given:
+    given_initial: R
+    family: Yu
+  - given:
+    given_initial: J
+    family: Luo
+  - given:
+    given_initial: KT
+    family: Zang
+  - given:
+    given_initial: ZY
+    family: Lin
+  - given:
+    given_initial: MN
+    family: Ding
+  - given:
+    given_initial: J
+    family: Huang
+  - given:
+    given_initial: HT
+    family: Sun
+  - given:
+    given_initial: XQ
+    family: Pan
+  - given:
+    given_initial: JH
+    family: Guo
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: P
+    family: Sautet
+  - given:
+    given_initial: Y
+    family: Huang
+    role: corr
+  - given:
+    given_initial: XF
+    family: Duan
+Ketao Zang, Zhaoyang Lin, Mengning Ding, Jin Huang, Hongtao Sun, Xiaoqing Pan, Jinghua Guo, WILLIAM GODDARD, Philippe Sautet, Yu Huang, and Xiangfeng Duan
+  journal:
+    abbreviation: J. Am. Chem. Soc
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Electrocatalysis at Organic-Metal Interfaces: Identification of Structure-Reactivity Relationships for CO2 Reduction at Modified Cu Surfaces'
   volume:
   issue:
