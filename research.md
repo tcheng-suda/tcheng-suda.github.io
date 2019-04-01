@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-|[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|[**Accelerated Molecular Dynamics**](#amd)|   
+|<a name="top"></a>[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|[**Accelerated Molecular Dynamics**](#amd)|   
 # <a name="co2rr"></a>**Carbon Dioxide Reduction Reaction** 
 ![co2](/images/co2.png#left)
 
@@ -18,6 +18,7 @@ Related publications:
 * [**"The Full Atomistic Reaction Mechanism with Kinetics for CO Reduction on Cu(100) from Aimd Free Energy Calculations at 298k"**](http://dx.doi.org/10.1073/pnas.1612106114)  
 * [**"Reaction Mechanisms for the Electrochemical Reduction of CO2 to CO and Formate on the Cu(100) Surface at 298 K from Quantum Mechanics Free Energy Calculations with Explicit Water"**](http://dx.doi.org/10.1021/jacs.6b08534)  
 * [**"Free-Energy Barriers and Reaction Mechanisms for the Electrochemical Reduction of CO on the Cu(100) Surface, Including Multiple Layers of Explicit Solvent at pH 0"**](http://dx.doi.org/10.1021/acs.jpclett.5b02247)  
+[**back to top**](#top)
 
 # <a name="orr"></a>**Oxygen Reduction Reaction**
 ![orr](/images/orr.png#left)
@@ -29,9 +30,11 @@ Related Publications:
 * [**"Mechanism and Kinetics of the Electrocatalytic Reaction Responsible for the High Cost of Hydrogen Fuel Cells"**](http://dx.doi.org/10.1039/C6CP08055C)  
 * [**"Ultrafine Jagged Platinum Nanowires Enable Ultrahigh Mass Activity for the Oxygen Reduction Reaction"**](
 http://dx.doi.org/10.1126/science.aaf9050)  
+[**back to top**](#top)
 
 # <a name="amd"></a> **Accelerated Molecular Dynamics**
 
 **We develop the methodology for dramatically accelerating the ReaxFF reactive force field based reactive molecular dynamics simulations through use of the bond boost concept, which we validate for describing hydrogen combustion.**  
 Related Publications:  
 * [**"Adaptive Accelerated ReaxFF Reactive Dynamics with Validation from Simulating Hydrogen Combustion"**](http://dx.doi.org/10.1021/ja5037258)  
+[**back to top**](#top)
