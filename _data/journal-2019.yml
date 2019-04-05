@@ -1,6 +1,60 @@
 # Tao's Publications - Journal articles
 
-- title: 'Single atom tailoring platinum nanocatalysts for high performance multifunctional electrocatalysis'
+- title: 'Benzo-Fused Periacenes or Double Helicenes? Different Cy-clodehydrogenation Pathways on Surface and in Solution'
+  volume:
+  issue:
+  page: Submitted
+  year: 2019
+  author:
+  - given:
+    given_initial: QG
+    family: Zhong
+  - given:
+    given_initial: YB
+    family: Hu
+  - given:
+    given_initial: KF
+    family: Niu
+  - given:
+    given_initial: HM
+    family: Zhang
+  - given:
+    given_initial: Y
+    family: Biao
+  - given:
+    given_initial: E
+    family: Daniel
+  - given:
+    given_initial: T
+    family: Jalmar
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: S
+    family: Andre
+  - given:
+    given_initial: N
+    family: Akimitsu
+    role: corr
+  - given:
+    given_initial: M
+    family: Klaus
+    role: corr
+  - given:
+    given_initial: LF
+    family: Chi
+    role: corr
+  journal:
+    abbreviation: 
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Single Atom Tailoring Platinum Nanocatalysts for High Performance Multifunctional Electrocatalysis'
   volume:
   issue:
   page: Accepted
@@ -73,6 +127,7 @@
   - given:
     given_initial: P
     family: Sautet
+    role: corr
   - given:
     given_initial: Y
     family: Huang
