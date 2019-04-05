@@ -135,6 +135,7 @@
   - given:
     given_initial: XF
     family: Duan
+    role: corr
   journal:
     abbreviation: Nat. Catal.
   URL:
