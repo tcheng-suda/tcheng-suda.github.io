@@ -70,4 +70,4 @@ Email: [byma@suda.edu.cn](byma@suda.edu.cn)
 # <a name="qyuan"></a>Qi Yuan (苑琦)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Qi Yuan]()   
-Email: 
+Email: [Qi Yuan email](1185326833@qq.com)
