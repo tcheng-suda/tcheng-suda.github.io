@@ -4,7 +4,9 @@ title: People
 permalink: /about/
 ---
 
-|[**Tao Cheng**](#tcheng)|[**Miao Xie**](#mxie)|[**Hao Yang**](#hyang)|[**Qi Yuan**](#qyuan)|  
+|[**Tao Cheng**](#tcheng)|[**Miao Xie**](#mxie)|[**Hao Yang**](#hyang)|[**Qi Yuan**](#qyuan)
+|[**Peiping Yu**](#ppyu)|[**Yu Wu**](#ywu)|[**Yiming Lu**](#ymlu)|[**Liang Xu**](#lxu)
+|  
 # <a name="tcheng"></a> Tao Cheng(程涛)
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-caltech-2018.JPG" caption="" width=300 align="right" %}
@@ -71,3 +73,31 @@ Email: [byma@suda.edu.cn](byma@suda.edu.cn)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Qi Yuan](https://tcheng-suda.github.io/people/qyuan/)   
 Email: [Qi Yuan email](1185326833@qq.com)
+
+---
+<br />   
+# <a name="ppyu"></a>Peiping Yu(于沛平)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Peiping Yu](https://tcheng-suda.github.io/people/ppyu/)   
+Email: 
+
+---
+<br />   
+# <a name="qyuan"></a>Yu Wu(吴宇)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Yu Wu](https://tcheng-suda.github.io/people/ywu/)   
+Email: 
+
+---
+<br />   
+# <a name="qyuan"></a>Yiming Lu(陆一鸣)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Yiming Lu](https://tcheng-suda.github.io/people/ymlu/)   
+Email: 
+
+---
+<br />   
+# <a name="qyuan"></a>Liang Xu(许亮)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Liang Xu](https://tcheng-suda.github.io/people/lxu/)   
+Email: 
