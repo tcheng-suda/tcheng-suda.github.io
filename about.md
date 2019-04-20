@@ -63,7 +63,7 @@ Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
 # <a name="hyang"></a>Bingyun Ma(麻冰云)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 Personal web page: [Bingyun Ma]()  
-Email:
+Email: [byma@suda.edu.cn](byma@suda.edu.cn)
 
 ---
 <br />   
