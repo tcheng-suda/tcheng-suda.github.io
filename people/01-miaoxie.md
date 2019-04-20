@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Miao Xie
-permalink: /people/miaoxie/
+permalink: /people/mxie/
 ---
 
