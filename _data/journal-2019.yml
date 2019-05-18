@@ -55,9 +55,9 @@
   language: english
 
 - title: 'Single Atom Tailoring Platinum Nanocatalysts for High Performance Multifunctional Electrocatalysis'
-  volume: 10
+  volume: 
   issue:
-  page: 1875
+  page: ASAP
   year: 2019
   author:
   - given:
@@ -188,9 +188,9 @@
 
 
 - title: 'Dramatic Differences in Carbon Dioxide Adsorption and Initial Steps of Reduction Between Silver and Copper'
-  volume:
+  volume: 10
   issue:
-  page: Accepted
+  page: "1875"
   year: 2019
   author:
   - given:
@@ -231,8 +231,8 @@
     abbreviation: Nat. Commun.
   URL:
   type: article
-  DOI:
-  fulltext:
+  DOI: 10.1038/s41467-019-09846-y
+  fulltext: https://doi.org/10.1038/s41467-019-09846-y
   language: english
 
 - title: 'Reaction Intermediates During Operando Electrocatalysis Identiﬁed from Full Solvent Quantum Mechanics Molecular Dynamics'
