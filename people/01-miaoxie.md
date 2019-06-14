@@ -4,3 +4,43 @@ title: Miao Xie
 permalink: /people/mxie/
 ---
 
+# Miao Xie(谢淼)
+
+<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>
+[**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)
+[**Soochow University**](http://www.suda.edu.cn/)
+office: 910-601B  
+Soochow University Dushu-Lake Campus
+Box 33, 199 Ren'ai Rd, Suzhou Industrial Park
+Suzhou, Jiangsu, 215123, P.R. China
+Email: [**xiemiao@suda.edu.cn**](xiemiao@suda.edu.cn)
+
+# Experience
+- **2018.11 - now**
+**Professor**
+[**Institute of Functional Nano & Soft Materials**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)
+[**Soochow University**](http://www.suda.edu.cn/)
+- **2015.10 - 2018.10**
+**Research Scientist**
+[**Joint Center for Artificial Photosynthesis**](https://solarfuelshub.org/), [**Caltech**](http://www.caltech.edu/)
+- **2012.10.24 - 2015.10.26**
+**Postdoc**
+[**Materials and Process Simulation Center**](http://www.wag.caltech.edu/), [**Caltech**](http://www.caltech.edu/)
+[**Division of Chemistry and Chemical Engineering**](http://cce.caltech.edu/), [**Caltech**](http://www.caltech.edu/)
+with Prof. [**William A Goddard III**](https://www.cce.caltech.edu/content/william-a-goddard)
+
+# Education
+- **2009.9 - 2012.9**
+**Ph.D.in Chemistry**
+[**School of Chemistry and Chemical Engineering (SCCE)**](http://scce.sjtu.edu.cn/)
+[**Shanghai Jiao Tong University (SJTU)**](https://www.sjtu.edu.cn/)
+Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
+- **2007.9 - 2009.6**
+**M.S. in Chemistry**
+[**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)
+- **2003.9 - 2007.7**
+**B.S.in Chemistry**
+[**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)
+
+
+
