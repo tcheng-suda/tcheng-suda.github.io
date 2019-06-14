@@ -26,17 +26,16 @@ Email: [**xiemiao@suda.edu.cn**](xiemiao@suda.edu.cn)
 **Ningbo University  
 
 # Education
-- **2009.9 - 2012.9**
-**Ph.D.in Chemistry**
-[**School of Chemistry and Chemical Engineering (SCCE)**](http://scce.sjtu.edu.cn/)
-[**Shanghai Jiao Tong University (SJTU)**](https://www.sjtu.edu.cn/)
-Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
-- **2007.9 - 2009.6**
-**M.S. in Chemistry**
-[**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)
-- **2003.9 - 2007.7**
+- **2010.9 - 2015.12**
+**Ph.D.in Physical Chemistry**
+**Institute of Theoretical Chemistry**  
+**Jilin University, China**
+Advisor: Prof. **Hongxing Zhang**
+- **2006.9 - 2010.6**
 **B.S.in Chemistry**
-[**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)
+**Chemistry and Chemical Engineering College**
+**Inner Mongolia University for Nationalities, China**
+
 
 
 
