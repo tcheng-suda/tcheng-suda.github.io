@@ -3,7 +3,7 @@
 - title: 'Rational Molecular Design of Dibenzo[a,c]phenazine-based Thermally Activated Delayed Fluorescence Emitters for Orange-Red OLEDs with EQE up to 22.0%'
   volume: 
   issue: 
-  page: "Submitted"
+  page: "ASAP"
   year: 2019
   author:
   - given:
@@ -35,9 +35,9 @@
     role: corr
   journal:
     abbreviation: ACS Appl. Mater. Interfaces
-  URL: 
+  URL: https://doi.org/10.1021/acsami.9b06401
   type: article
-  DOI:
+  DOI: 10.1021/acsami.9b06401
   fulltext:
   language: english
 
@@ -71,9 +71,9 @@
 
 
 - title: 'Formation of Carbon-Nitrogen Bonds in Carbon Monoxide Electrolysis'
-  volume: 
+  volume: 2 
   issue: 
-  page: "ASAP"
+  page: "495-503"
   year: 2019
   author:
   - given:
@@ -102,9 +102,9 @@
     role: corr
   journal:
     abbreviation: Nat. Chem.
-  URL: 
+  URL: https://doi.org/10.1038/s41929-019-0279-6
   type: article
-  DOI:
+  DOI: 10.1038/s41929-019-0279-6
   fulltext:
   language: english
   note: (Jouny M, Lv JJ, and Cheng T contributed equally)
