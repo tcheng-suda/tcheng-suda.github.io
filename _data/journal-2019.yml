@@ -39,7 +39,8 @@
   - given:
     given_initial: T
     family: Cheng
-    role: main, corr
+    role: main
+    role: corr
   - given:
     given_initial: YG
     family: Li
