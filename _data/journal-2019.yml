@@ -1,5 +1,58 @@
 # Tao's Publications - Journal articles
 
+- title: 'Weakening Hydrogen Adsorption on Nickel via Interstitial Nitrogen Doping Promotes Bifunctional Hydrogen Electrocatalysis in Alkaline Solution'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2019
+  author:
+  - given:
+    given_initial: TT
+    family: Wang
+  - given:
+    given_initial: M
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: MQ
+    family: Xu
+  - given:
+    given_initial: GD
+    family: Zuo
+  - given:
+    given_initial: K
+    family: Feng
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: J
+    family: Deng
+  - given:
+    given_initial: J
+    family: Zhong
+  - given:
+    given_initial: W
+    family: Zhou
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main, corr
+  - given:
+    given_initial: YG
+    family: Li
+    role: corr
+  journal:
+    abbreviation: ACS Appl. Mater. Interfaces
+  URL: https://doi.org/10.1021/acsami.9b06401
+  type: article
+  DOI: 10.1021/acsami.9b06401
+  fulltext:
+  language: english
+
+
 - title: 'Rational Molecular Design of Dibenzo[a,c]phenazine-based Thermally Activated Delayed Fluorescence Emitters for Orange-Red OLEDs with EQE up to 22.0%'
   volume: 
   issue: 
