@@ -84,21 +84,21 @@ Email:
 
 ---
 <br />   
-# <a name="qyuan"></a>Yu Wu(吴宇)
+# <a name="ywu"></a>Yu Wu(吴宇)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Yu Wu](https://tcheng-suda.github.io/people/ywu/)   
 Email: 
 
 ---
 <br />   
-# <a name="qyuan"></a>Yiming Lu(陆一鸣)
+# <a name="ymlu"></a>Yiming Lu(陆一鸣)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Yiming Lu](https://tcheng-suda.github.io/people/ymlu/)   
 Email: 
 
 ---
 <br />   
-# <a name="qyuan"></a>Liang Xu(许亮)
+# <a name="lxu"></a>Liang Xu(许亮)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Liang Xu](https://tcheng-suda.github.io/people/lxu/)   
 Email: 
