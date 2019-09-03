@@ -46,12 +46,11 @@
     role: corr
   journal:
     abbreviation: ACS Appl. Mater. Interfaces
-  URL: https://doi.org/10.1021/acsami.9b06401
+  URL: https://doi.org/10.1039/C9EE01743G
   type: article
-  DOI: 10.1021/acsami.9b06401
+  DOI: 10.1039/C9EE01743G
   fulltext:
   language: english
-
 
 - title: 'Rational Molecular Design of Dibenzo[a,c]phenazine-based Thermally Activated Delayed Fluorescence Emitters for Orange-Red OLEDs with EQE up to 22.0%'
   volume: 
