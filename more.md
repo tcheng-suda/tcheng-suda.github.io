@@ -32,4 +32,8 @@ permalink: /more/
 |[**地图**](http://map.suda.edu.cn/Projects/SZDX/WebSite/Index.aspx)
 |  
 
+## **量子化学**
+|[**c1**]()
+|  
+
 
