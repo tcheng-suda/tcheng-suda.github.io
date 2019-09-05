@@ -33,7 +33,12 @@ permalink: /more/
 |  
 
 ## **量子化学**
-|[**c1**]()
+|[**c1**](https://tcheng-suda.github.io/downloads/chap0.pdf)
+|[**c2**](https://tcheng-suda.github.io/downloads/chap1.pdf)
+|[**c3**](https://tcheng-suda.github.io/downloads/chap2.pdf)
+|[**c4**](https://tcheng-suda.github.io/downloads/chap3.pdf)
+|[**c5**](https://tcheng-suda.github.io/downloads/chap5.pdf)
+|[**c6**](https://tcheng-suda.github.io/downloads/chap8.pdf)
 |  
 
 
