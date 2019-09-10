@@ -218,10 +218,10 @@
   image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jacsat/2018/jacsat.2018.140.issue-42/jacs.8b08519/20181018/images/medium/ja-2018-085199_0008.gif
 
 - title: 'First Principles Based Reaction Kinetics from Reactive Molecular Dynamics Simulations: Application to Hydrogen Peroxide Decomposition'
-  volume:  
+  volume: 116 
   issue:
-  page: "10.1073/pnas.1701383115"
-  year: 2018
+  page: "18202-18208"
+  year: 2019
   author:
   - given: 
     given_initial: DV
@@ -312,10 +312,10 @@
   image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jacsat/2018/jacsat.2018.140.issue-30/jacs.8b03986/20180726/images/large/ja-2018-03986c_0004.jpeg
 
 - title: 'First Principles Based Multiscale Atomistic Methods for Input into First Principles Non-equilibrium Transport Across Interfaces'
-  volume:  
+  volume: 116 
   issue:
-  page: "10.1073/pnas.1800035115"
-  year: 2018
+  page: "18193-18201"
+  year: 2019
   author:
   - given: Tao
     given_initial: T
