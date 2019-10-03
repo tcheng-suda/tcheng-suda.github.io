@@ -1,5 +1,35 @@
 # Tao's Publications - Journal articles
 
+- title: 'Design of a One-Dimensional Stacked Spin Peierls System with Room Temperature Switching from QM Predictions'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2019
+  author:
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: XM
+    family: Ren
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
+
 - title: 'Weakening Hydrogen Adsorption on Nickel via Interstitial Nitrogen Doping Promotes Bifunctional Hydrogen Electrocatalysis in Alkaline Solution'
   volume: 
   issue: 
