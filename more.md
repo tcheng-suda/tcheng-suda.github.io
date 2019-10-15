@@ -40,5 +40,10 @@ permalink: /more/
 |[**c5**](https://tcheng-suda.github.io/downloads/chap5.pdf)
 |[**c6**](https://tcheng-suda.github.io/downloads/chap8.pdf)
 |  
+|[**e1**](https://tcheng-suda.github.io/downloads/e1.pptx)
+|[**e2**](https://tcheng-suda.github.io/downloads/e2.pptx)
+|[**e3**](https://tcheng-suda.github.io/downloads/e3.pptx)
+|[**e4**](https://tcheng-suda.github.io/downloads/e4.pptx)
+|  
 
 
