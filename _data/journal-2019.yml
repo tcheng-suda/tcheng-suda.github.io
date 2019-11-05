@@ -1,19 +1,5 @@
 # Tao's Publications - Journal articles
 
-- title: 'High-Performance Non-doped Blue Delayed Fluorescence Organic Light-Emitting Diodes Featuring Low Driving Voltage and High Brightness'
-  volume: 
-  issue: 
-  page: "ASAP"
-  year: 2019
-  author:
-  journal:
-    abbreviation: Adv. Sci.
-  URL: https://doi.org/10.1002/advs.201902508
-  type: article
-  DOI: 10.1002/advs.201902508
-  fulltext:
-  language: english
-
 - title: 'Efficient Orange–Red Delayed Fluorescence Organic Light‐Emitting Diodes with External Quantum Efficiency over 26%'
   volume: 
   issue: 
@@ -39,7 +25,7 @@
   - given:
     given_initial: M
     family: Xie
-- given:
+  - given:
     given_initial: JX
     family: Tang
     role: corr
@@ -49,9 +35,9 @@
     role: corr
   journal:
     abbreviation: J. Phys. Chem. Lett.
-  URL: https://doi.org/10.1021/acs.jpclett.9b02219
+  URL: https://doi.org/10.1002/aelm.201900843
   type: article
-  DOI: 10.1021/acs.jpclett.9b02219
+  DOI: 10.1002/aelm.201900843
   fulltext:
   language: english
   
