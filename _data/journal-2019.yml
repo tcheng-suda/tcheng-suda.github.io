@@ -1,5 +1,47 @@
 # Tao's Publications - Journal articles
 
+- title: 'High-Performance Nondoped Blue Delayed Fluorescence Organic Light-Emitting Diodes Featuring Low Driving Voltage and High Brightness'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2019
+  author:
+  - given:
+    given_initial: SJ
+    family: Zou
+  - given:
+    given_initial: FM
+    family: Xie
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: YQ
+    family: Li
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: XH
+    family: Zhang
+  - given:
+    given_initial: CS
+    family: Lee
+    role: corr
+  - given:
+    given_initial: JX
+    family: Tang
+    role: corr
+  journal:
+    abbreviation: Adv. Sci.
+  URL: https://doi.org/10.1002/advs.201902508
+  type: article
+  DOI: 10.1002/advs.201902508
+  fulltext:
+  language: english
+  
 - title: 'Efficient Orange–Red Delayed Fluorescence Organic Light‐Emitting Diodes with External Quantum Efficiency over 26%'
   volume: 
   issue: 
