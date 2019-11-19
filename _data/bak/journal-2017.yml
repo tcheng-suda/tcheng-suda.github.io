@@ -72,6 +72,7 @@
   note: (Sun K and Cheng T contributed equally)
   media1: (J. Am. Chem. Soc. Cover Publication)
   media1_url: http://pubs.acs.org/subscribe/covers/jacsat/jacsat_v139i044-2.jpg?0.7583455086716329
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jacsat/2017/jacsat.2017.139.issue-44/jacs.7b09251/20171227/images/large/ja-2017-092512_0005.jpeg
 
 - title: 'Nature of the Active Sites for CO Reduction on Copper Nanoparticles; Suggestions for Optimizing Performance'
   volume: 139
@@ -97,6 +98,7 @@
   DOI: 10.1021/jacs.7b03300
   fulltext:
   language: english
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jacsat/2017/jacsat.2017.139.issue-34/jacs.7b03300/20170824/images/medium/ja-2017-03300p_0005.gif
 
 - title: 'Predicted Structures of the Active Sites Responsible for the Improved Reduction of Carbon Dioxide by Gold Nanoparticles'
   volume: 8
@@ -125,6 +127,7 @@
   DOI: 10.1021/acs.jpclett.7b01335
   fulltext:
   language: english
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpclcd/2017/jpclcd.2017.8.issue-14/acs.jpclett.7b01335/20170714/images/medium/jz-2017-013355_0005.gif
 
 - title: 'Quantum Mechanics Reactive Dynamics Study of Solid Li-Electrode/Li6PS5Cl-Electrolyte Interface'
   volume: 2
@@ -153,6 +156,7 @@
   DOI: 10.1021/acsenergylett.7b00319
   fulltext:
   language: english
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/aelccp/2017/aelccp.2017.2.issue-6/acsenergylett.7b00319/20170605/images/medium/nz-2017-00319t_0008.gif
 
 - title: 'Reactive Molecular Dynamics Simulations to Understand Mechanical Response of Thaumasite under Temperature and Strain Rate Effects'
   volume: 121
@@ -181,6 +185,7 @@
   DOI: 10.1021/acs.jpca.7b02824
   fulltext:
   language: english
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2017/jpcafh.2017.121.issue-24/acs.jpca.7b02824/20170616/images/medium/jp-2017-02824k_0011.gif
 
 - title: 'Epitaxial Growth of Cobalt Oxide Phases on Ru(0001) for Spintronic Device Applications'
   volume: 32
@@ -258,6 +263,7 @@
   DOI:
   fulltext:
   language: english
+  image_url: http://www.pnas.org/content/pnas/114/26/6685/F8.large.jpg
 
 - title: 'Subsurface Oxide Plays a Critical Role in CO2 Activation by Copper (111) Surfaces to Form  Chemisorbed CO2, the First Step in Reduction of CO2'
   volume: 114
@@ -294,6 +300,7 @@
   DOI:
   fulltext:
   language: english
+  image_url: http://www.pnas.org/content/pnas/114/26/6706/F2.large.jpg
 
 - title: 'Intramolecular Energy and Electron Transfer Within a Diazaperopyrenium-Based Cyclophane'
   volume: '139'
@@ -359,6 +366,7 @@
   DOI: 10.1021/jacs.6b13223
   fulltext:
   language: english
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jacsat/2017/jacsat.2017.139.issue-11/jacs.6b13223/20180222/images/large/ja-2016-132239_0011.jpeg
 
 - title: 'Size-Matched Radical Multivalency'
   volume: '139'
@@ -399,6 +407,7 @@
   DOI: 10.1021/jacs.6b09892
   fulltext:
   language: english
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jacsat/2017/jacsat.2017.139.issue-11/jacs.6b09892/20170316/images/medium/ja-2016-09892r_0001.gif
 
 - title: 'Full Atomistic Reaction Mechanism with Kinetics for CO Reduction on Cu(100) from ab initio Molecular Dynamics Free-energy Calculations at 298 K.'
   volume: '114'
@@ -425,6 +434,7 @@
   fulltext:
   language: english
   note: (direct submission)
+  image_url: http://www.pnas.org/content/pnas/114/8/1795/F3.large.jpg
 
 - title: 'Mechanism and Kinetics of the Electrocatalytic Reaction Responsible for the High Cost of Hydrogen Fuel Cells'
   volume: '19'
@@ -460,6 +470,7 @@
   fulltext:
   language: english
   note: (2017 PCCP HOT Articles)
+  image_url: http://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C6CP08055C
 
 - title: 'Atomistic Mechanisms Underlying Selectivities in C1 and C2 Products from Electrochemical Reduction of CO on Cu(111)'
   volume: '139'
@@ -485,6 +496,7 @@
   DOI: 10.1021/jacs.6b06846
   fulltext:
   language: english
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jacsat/2017/jacsat.2017.139.issue-1/jacs.6b06846/20170105/images/medium/ja-2016-068463_0005.gif
 
 - title: "Nucleation of Graphene Layers On Magnetic Oxides: Co3O4 (111)
           and Cr2O3 (0001) from Theory and Experiment"
@@ -522,4 +534,5 @@
   fulltext:
   language: english
   note: (Beatty J and Cheng T contributed equally)
+  image_url: https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpclcd/2017/jpclcd.2017.8.issue-1/acs.jpclett.6b02325/20161229/images/medium/jz-2016-023254_0005.gif
 
