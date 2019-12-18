@@ -1,5 +1,50 @@
 # Tao's Publications - Journal articles
 
+- title: 'Customizable Ligand Exchange for Tailored Surface Property of Noble Metal Nanocrystals'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2019
+  author:
+  - given:
+    given_initial: QK
+    family: Fan
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: J
+    family: Ge
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: ZJ
+    family: Lei
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: YY
+    family: Li
+  - given:
+    given_initial: YD
+    family: Yin
+    role: corr
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: Research
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+
 - title: 'High-Performance Nondoped Blue Delayed Fluorescence Organic Light-Emitting Diodes Featuring Low Driving Voltage and High Brightness'
   volume: 
   issue: 
