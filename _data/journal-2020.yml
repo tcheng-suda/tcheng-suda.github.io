@@ -1,5 +1,30 @@
 # Tao's Publications - Journal articles
 
+- title: 'Atomistic Explanation of the Dramatically Improved Oxygen Reduction Reaction of Jagged Platinum Nanowires, 50 times better than Pt'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2020
+  author:
+  - given:
+    given_initial: YL
+    family: Chen
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr  
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
 - title: 'A yolk–shell structured metal–organic framework with encapsulated iron-porphyrin and its derived bimetallic nitrogen-doped porous carbon for an efficient oxygen reduction reaction'
   volume: 
   issue: 
@@ -44,11 +69,9 @@
   - given:
     given_initial: R
     family: Cao
-    role: corr
-  
-  
+    role: corr  
   journal:
-    abbreviation: J. Mater. Chem. C,
+    abbreviation: J. Mater. Chem. A,
   URL: 
   type: article
   DOI: 
