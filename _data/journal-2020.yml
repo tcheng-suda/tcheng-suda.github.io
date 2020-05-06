@@ -1,14 +1,14 @@
 # Tao's Publications - Journal articles
 
-- title: 'Hetero-donor Incorporation Tert-butyl Strategy for Solution-Processed Non-doped Blue Thermally Activated Delayed Fluorescence Devices'
+- title: 'tert-Butyl substituted hetero-donor TADF compounds for efficient solution-processed non-doped blue OLEDs'
   volume: 
   issue: 
   page: "submitted"
   year: 2020
   author:
   - given:
-    given_initial: ZD
-    family: An
+    given_initial: FM
+    family: Xie
   - given:
     given_initial: Miao
     family: Xie
@@ -37,7 +37,7 @@
     family: Tang
     role: corr
   journal:
-    abbreviation: 
+    abbreviation: J. Mater. Chem. C,
   URL: 
   type: article
   DOI: 
