@@ -1,9 +1,9 @@
 # Tao's Publications - Journal articles
 
 - title: 'Atomistic Explanation of the Dramatically Improved Oxygen Reduction Reaction of Jagged Platinum Nanowires, 50 times better than Pt'
-  volume: 
-  issue: 
-  page: "ASAP"
+  volume: 142
+  issue: 19
+  page: "8625"
   year: 2020
   author:
   - given:
@@ -26,9 +26,9 @@
   language: english
 
 - title: 'A yolk–shell structured metal–organic framework with encapsulated iron-porphyrin and its derived bimetallic nitrogen-doped porous carbon for an efficient oxygen reduction reaction'
-  volume: 
-  issue: 
-  page: "ASAP"
+  volume: 8
+  issue: 19
+  page: "9536"
   year: 2020
   author:
   - given:
@@ -79,9 +79,9 @@
   language: english
 
 - title: 'tert-Butyl substituted hetero-donor TADF compounds for efficient solution-processed non-doped blue OLEDs'
-  volume: 
-  issue: 
-  page: "ASAP"
+  volume: 8
+  issue: 17
+  page: "5769"
   year: 2020
   author:
   - given:
