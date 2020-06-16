@@ -1,5 +1,55 @@
 # Tao's Publications - Journal articles
-
+- title: 'Synergy between Silver-Copper Surface Alloy Composition and Carbon Dioxide Adsorption and Activation'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2020
+  author:
+  - given:
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: J
+    family: Qian
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: HY
+    family: Su
+  - given:
+    given_initial: KJ
+    family: Lee
+  - given:
+    given_initial: A
+    family: Etxebarria
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Xiao
+  - given:
+    given_initial: J
+    family: Yano
+    role: corr  
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr  
+  - given:
+    given_initial: EJ
+    family: Crumlin
+    role: corr  
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Atomistic Explanation of the Dramatically Improved Oxygen Reduction Reaction of Jagged Platinum Nanowires, 50 times better than Pt'
   volume: 142
   issue: 19
