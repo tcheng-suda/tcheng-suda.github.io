@@ -1,3 +1,9 @@
+---
+layout: page
+title: Friends
+permalink: /more/friends/
+---
+
 Substance	S° （J/K Mol）
 	
 Ag(s)	42.6
