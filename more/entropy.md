@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Friends
-permalink: /more/friends/
+permalink: /more/entropy/
 ---
 
 Substance	S° （J/K Mol）
