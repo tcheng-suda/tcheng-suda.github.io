@@ -1,5 +1,40 @@
 # Tao's Publications - Journal articles
 
+- title: 'Surface engineering of RhOOH nanosheets promotes hydrogen evolution in alkaline'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2020
+  author:
+  - given:
+    given_initial: SX
+    family: Bai
+  - given:
+    given_initial: Miao
+    family: Xie
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main, corr  
+  - given:
+    given_initial: KL
+    family: Cao
+  - given:
+    given_initial: Y
+    family: Xu
+    role: corr
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr  
+  journal:
+    abbreviation: Nano Energy
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Controllable CO adsorption determines ethylene and methane productions from CO2 electroreduction'
   volume: 
   issue: 
