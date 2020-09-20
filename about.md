@@ -4,8 +4,10 @@ title: People
 permalink: /about/
 ---
 
-|[**Tao Cheng**](#tcheng)|[**Miao Xie**](#mxie)|[**Hao Yang**](#hyang)|[**Qi Yuan**](#qyuan)
-|[**Peiping Yu**](#ppyu)|[**Yu Wu**](#ywu)|[**Yiming Lu**](#ymlu)|[**Liang Xu**](#lxu)
+[**Miao Xie(谢淼)**](#mxie)|[**Hao Yang(杨昊)**](#hyang)|[**Qi Yuan(苑琦)**](#qyuan)
+|[**Peiping Yu(于沛平)**](#ppyu)|[**Yu Wu(吴宇)**](#ywu)|[**Yiming Lu(陆一鸣)**](#ymlu)|[**Liang Xu(许亮)**](#lxu)
+|[**Mengwen Wang(王梦文)**](#mwwang)|[**Zhe Zhang(张哲)**](#zzhang)|[**Xianghui Song(宋相辉)**](#xhsong)|[**Qintao Sun(孙钦涛)**](#qtsun)
+|[**Yanyan Zhang(张滟滟)**](#yyzhang)
 |  
 # <a name="tcheng"></a> Tao Cheng(程涛)
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
