@@ -72,14 +72,14 @@ Email: [byma@suda.edu.cn](byma@suda.edu.cn)
 ---
 <br />   
 # <a name="qyuan"></a>Qi Yuan (苑琦)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>  
 Personal web page:  [Qi Yuan](https://tcheng-suda.github.io/people/qyuan/)   
 Email: [Qi Yuan email](1185326833@qq.com)
 
 ---
 <br />   
 # <a name="ppyu"></a>Peiping Yu(于沛平)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>  
 Personal web page:  [Peiping Yu](https://tcheng-suda.github.io/people/ppyu/)   
 Email: 
 
@@ -103,3 +103,25 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Liang Xu](https://tcheng-suda.github.io/people/lxu/)   
 Email: 
+
+---
+<br />   
+# <a name="mwwang"></a>Mengwen Wang(王梦文)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Mengwen Wang](https://tcheng-suda.github.io/people/mwwang/)   
+Email: 
+
+---
+<br />   
+# <a name="xhsong"></a>Xianghui Song(宋相辉)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Xianghui Song](https://tcheng-suda.github.io/people/xhsong/)   
+Email: 
+
+---
+<br />   
+# <a name="qtsun"></a>Qintao Sun(孙钦涛)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Qintao Sun](https://tcheng-suda.github.io/people/qtsun/)   
+Email: 
+
