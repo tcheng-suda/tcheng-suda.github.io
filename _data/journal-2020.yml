@@ -99,7 +99,7 @@
   - given:
     given_initial: T
     family: Cheng
-    role: main, corr
+    role: corr, main
   - given:
     given_initial: B
     family: Zhang
@@ -155,7 +155,7 @@
   - given:
     given_initial: T
     family: Cheng
-    role: main, corr
+    role: corr, main
   - given:
     given_initial: WA
     family: Goddard
@@ -233,7 +233,7 @@
   - given:
     given_initial: T
     family: Cheng
-    role: main, corr  
+    role: corr, main
   - given:
     given_initial: KL
     family: Cao
@@ -428,7 +428,7 @@
   - given:
     given_initial: T
     family: Cheng
-    role: main, corr
+    role: corr, main
   - given:
     given_initial: R
     family: Cao
@@ -475,7 +475,7 @@
   - given:
     given_initial: T
     family: Cheng
-    role: main, corr
+    role: corr, main
   - given:
     given_initial: JX
     family: Tang
