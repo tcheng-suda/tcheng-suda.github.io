@@ -1,5 +1,65 @@
 # Tao's Publications - Journal articles
 
+- title: 'Bismuth Oxyhydroxide-Pt Inverse Interface for Enhanced Methanol Electrooxidation Performance'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2020
+  author:
+  - given:
+    given_initial: XC
+    family: Wang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: FL
+    family: Lyu
+    role: corr 
+  - given:
+    given_initial: YM
+    family: Y
+  - given:
+    given_initial: ZQ
+    family: W
+  - given:
+    given_initial: JT
+    family: Chen
+  - given:
+    given_initial: LY
+    family: Chang
+  - given:
+    given_initial: YJ
+    family: Xia
+  - given:
+    given_initial: QX
+    family: Zhong
+  - given:
+    given_initial: MY
+    family: Chu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main, corr
+  - given:
+    given_initial: TK
+    family: Sham
+    role: corr 
+  - given:
+    given_initial: Q
+    family: Zhang
+    role: corr
+  journal:
+    abbreviation: Nano Lett.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'N-modulated Cu+ for efficient electrochemical carbon monoxide reduction to acetate'
   volume: 
   issue: 
