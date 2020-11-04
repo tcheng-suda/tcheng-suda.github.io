@@ -1,5 +1,84 @@
 # Tao's Publications - Journal articles
 
+- title: 'Compressed Intermetallic PdCu for Enhanced Electrocatalysis'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2020
+  author:
+  - given:
+    given_initial: M
+    family: Espinosa
+  - given:
+    given_initial: Tao
+    family: Cheng
+    role: main
+  - given:
+    given_initial: L
+    family: Abatemarco
+  - given:
+    given_initial: CS
+    family: Choi
+  - given:
+    given_initial: XQ
+    family: Pan
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: ZP
+    family: Zhao
+    role: corr
+  - given:
+    given_initial: Y
+    family: Huang
+    role: corr 
+  journal:
+    abbreviation: Nano Lett.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Te-Doped Pd Nanocrystal for Electrochemical Urea Production by Efficiently Coupling Carbon Dioxide Reduction with Nitrite Reduction'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2020
+  author:
+  - given:
+    given_initial: YG
+    family: Feng
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Y
+    family: Zhang
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  - given:
+    given_initial: LG
+    family: Li
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Q
+    family: Shao
+    role: corr 
+  journal:
+    abbreviation: Nano Lett.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Bismuth Oxyhydroxide-Pt Inverse Interface for Enhanced Methanol Electrooxidation Performance'
   volume: 
   issue: 
