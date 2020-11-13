@@ -5,39 +5,35 @@ permalink: /people/hyang/
 ---
 
 **HaoYang**
-PhD,InstituteofFunctionalNano&SoftMaterials,
-SoochowUniversity
-199 Ren’aiRoad,SuzhouIndustrialPark,
-Suzhou,Jiangsu 215123 ,P.R.China
-Cell:+ 86 - 15251898976
-E-mail:haoyang@suda.edu.cn
+PhD,InstituteofFunctionalNano&SoftMaterials,  
+SoochowUniversity  
+199 Ren’aiRoad,SuzhouIndustrialPark,  
+Suzhou,Jiangsu 215123 ,P.R.China  
+Cell:+ 86 - 15251898976  
+E-mail:haoyang@suda.edu.cn  
 
 **Education**
 
-2019. 03 - Current: **Postdoctoralresearcher** ,inMaterialChemistry,Instituteof
+2019-03 - Current: **Postdoctoralresearcher** ,inMaterialChemistry,Instituteof
 FunctionalNano&SoftMaterials(FUNSOM),Soochow
 University
 Supervisor:Prof.Dr.TaoCheng
-2017. 02 - 2019. 02 : **Visitingresearcher** ,MaterialsandProcessSimulationCenter,
+2017-02 - 2019-02 : **Visitingresearcher** ,MaterialsandProcessSimulationCenter,
 CaliforniaInstituteofTechnology
 Supervisor:Prof.Dr.WilliamA.GoddardIII
-2014. 03 - 2018. 12 : **DoctorofPhilosophy** ,inAppliedChemistry,CollegeofChem-
+2014-03 - 2018-12 : **DoctorofPhilosophy** ,inAppliedChemistry,CollegeofChem-
 istryandMolecularEngineering,NanjingTechUniversity
 Supervisor:Prof.Dr.Xiao-MingRen
-Thesistitle: _Experimentalandtheoreticalinvestigationsofcation
+Thesistitle: Experimentalandtheoreticalinvestigationsofcation
 conformationdependenceofcrystalstructures,magneticand
 electricpropertiesintransitionmetaldithioleneioniccrystals_
-2011. 09 - 2014. 03 : **MasterofScience** ,inOrganicChemistry,CollegeofScience,
+2011-09 - 2014-03 : **MasterofScience** ,inOrganicChemistry,CollegeofScience,
 NanjingTechUniversity
 Supervisor:Prof.Dr.Xiao-MingRen
-2007. 09 - 2011. 06 : **BachelorofScience** ,inMaterialChemistry,SchoolofChemistry
+2007-09 - 2011-06 : **BachelorofScience** ,inMaterialChemistry,SchoolofChemistry
 andChemicalEngineering,AnqingNormalUniversity
-Thesistitle: _Synthesis,characterizationandmagneticpropertiesof_
+Thesistitle: Synthesis,characterizationandmagneticpropertiesof_Ni(dmit) 2-basedmolecularspin-laddermaterials
 
-
-```
-[Ni(dmit) 2 ]-basedmolecularspin-laddermaterials
-```
 **Publications**
 
 **Manuscriptsprepared**
