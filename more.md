@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Resources
+title: More
 permalink: /more/
 ---
 
-## **Manual**
+# Talks
+
+# **Manual**
 |[**VMD**](http://www.ks.uiuc.edu/Research/vmd/current/ug/)
 |[**VASP**](http://cms.mpi.univie.ac.at/vasp/vasp/vasp.html)
 |[**DFTB+**](https://www.dftbplus.org/documentation/)
 |[**mopac**](http://openmopac.net/manual/)
 |  
-## **Journals**
+# **Journals**
 |[**ACS**](https://acs.manuscriptcentral.com/acs)
 |[**RSC**](https://mc.manuscriptcentral.com/rsc)
 |[**Wiley**](http://www.editorialmanager.com/anie/default.aspx)
@@ -27,12 +29,12 @@ permalink: /more/
 |[**JPCL**](https://pubs.acs.org/journal/jpclcd)
 |[**JMCA**](http://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-a/)
 |
-## **苏州大学**
+# **苏州大学**
 |[**校历**](http://www.suda.edu.cn/commonality_service/univ_calander.jsp)
 |[**地图**](http://map.suda.edu.cn/Projects/SZDX/WebSite/Index.aspx)
 |  
 
-## **量子化学**
+# **量子化学 2019**
 |[**c1**](https://tcheng-suda.github.io/downloads/chap0.pdf)
 |[**c2**](https://tcheng-suda.github.io/downloads/chap1.pdf)
 |[**c3**](https://tcheng-suda.github.io/downloads/chap2.pdf)
