@@ -6,7 +6,7 @@ permalink: /about/
 
 [**Miao Xie(谢淼)**](#mxie)|[**Hao Yang(杨昊)**](#hyang)|[**Qi Yuan(苑琦)**](#qyuan)
 |[**Peiping Yu(于沛平)**](#ppyu)|[**Yu Wu(吴宇)**](#ywu)|[**Yiming Lu(陆一鸣)**](#ymlu)|[**Liang Xu(许亮)**](#lxu)
-|[**Mengwen Wang(王梦文)**](#mwwang)|[**Zhe Zhang(张哲)**](#zzhang)|[**Xianghui Song(宋相辉)**](#xhsong)|[**Qintao Sun(孙钦涛)**](#qtsun)
+|[**Mengwen Wang(王梦文)**](#mwwang)|[**Zhe Zhang(张哲)**](#zzhang)|[**Xiangcong Song(宋相聪)**](#xhsong)|[**Qintao Sun(孙钦涛)**](#qtsun)
 |[**Yanyan Zhang(张滟滟)**](#yyzhang)
 |  
 # <a name="tcheng"></a> Tao Cheng(程涛)
@@ -122,9 +122,9 @@ Email:
 
 ---
 <br />   
-# <a name="xhsong"></a>Xianghui Song(宋相辉)
+# <a name="xhsong"></a>Xiangcong Song(宋相聪)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
-Personal web page:  [Xianghui Song](https://tcheng-suda.github.io/people/xhsong/)   
+Personal web page:  [Xiangcong Song](https://tcheng-suda.github.io/people/xhsong/)   
 Email: 
 
 ---
