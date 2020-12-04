@@ -11,7 +11,6 @@ permalink: /about/
 |[**Yanyan Zhang(张滟滟)**](#yyzhang)
 |  
 **Alumni:**
-  
 ---
   
 # <a name="tcheng"></a> Tao Cheng(程涛)
