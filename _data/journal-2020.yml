@@ -1,5 +1,29 @@
 # Tao's Publications - Journal articles
-
+- title: 'London Dispersion Corrections to Density Functional Theory for Transition Metals Based on Fitting to Experimental Temperature-Programmed Desorption of Benzene Monolayers'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2020
+  author:
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main, corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. Lett
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Compressed Intermetallic PdCu for Enhanced Electrocatalysis'
   volume: 
   issue: 
