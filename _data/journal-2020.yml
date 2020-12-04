@@ -23,7 +23,34 @@
   DOI: 
   fulltext:
   language: english
-  
+
+- title: 'Theoretical Research on the Electroreduction of Carbon Dioxide'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2020
+  author:
+  - given:
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Acta Phys. -Chim. Sin.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
 - title: 'Compressed Intermetallic PdCu for Enhanced Electrocatalysis'
   volume: 
   issue: 
