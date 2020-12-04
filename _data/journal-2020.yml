@@ -11,7 +11,7 @@
   - given:
     given_initial: T
     family: Cheng
-    role: main, corr
+    role: corr, main
   - given:
     given_initial: WA
     family: Goddard
