@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ---
 **Current:**
-[**Miao Xie(谢淼)**](#mxie)|[**Hao Yang(杨昊)**](#hyang)|[**Qi Yuan(苑琦)**](#qyuan)
+[**Miao Xie(谢淼)**](#mxie)|[**Hao Yang(杨昊)**](#hyang)|[**Yue Liu(刘越)**](#yliu)|[**Qi Yuan(苑琦)**](#qyuan)
 |[**Peiping Yu(于沛平)**](#ppyu)|[**Yu Wu(吴宇)**](#ywu)|[**Yiming Lu(陆一鸣)**](#ymlu)|[**Liang Xu(许亮)**](#lxu)
 |[**Mengwen Wang(王梦文)**](#mwwang)|[**Zhe Zhang(张哲)**](#zzhang)|[**Xiangcong Song(宋相聪)**](#xhsong)|[**Qintao Sun(孙钦涛)**](#qtsun)
 |[**Yanyan Zhang(张滟滟)**](#yyzhang)|  
@@ -66,6 +66,13 @@ Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 Personal web page: [Hao Yang](https://tcheng-suda.github.io/people/hyang/)  
 Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
+
+---
+<br />   
+# <a name="yliu"></a>Yue Liu(刘越)
+<span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
+Personal web page: [Yue Liu](https://tcheng-suda.github.io/people/hyang/)  
+Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)
 
 ---
 <br />   
