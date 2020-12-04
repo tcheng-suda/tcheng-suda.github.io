@@ -12,7 +12,7 @@ permalink: /about/
 |  
 **Alumni:**
 ---
-  
+<br />
 # <a name="tcheng"></a> Tao Cheng(程涛)
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-7.jpg" caption="" width=300 align="right" %}
