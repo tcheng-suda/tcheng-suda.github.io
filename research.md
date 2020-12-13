@@ -4,8 +4,9 @@ title: Research
 permalink: /research/
 ---
 We are working on:
-Electrochemical reactions
-
+- Electrochemical reactions:
+- Battery:
+- Development of methods for multiscale simulations:
 # <center><a name="reaction"></a>**Electrochemical Reaction**</center> 
 |<a name="top"></a>[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|   
 
