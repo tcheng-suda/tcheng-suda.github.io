@@ -16,12 +16,12 @@
 - title: "Software"
   href: "/software/"
 
-- title: "More"
-  href: "/more/"
-  
 - title: "Gallery"
   href: "/gallery/"
 
+- title: "More"
+  href: "/more/"
+  
 #- title: "CONTACT"
 #  href: "/contact/"
 #  subcategories:
