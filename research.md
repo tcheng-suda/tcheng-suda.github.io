@@ -7,7 +7,7 @@ We are working on:
 - Electrochemical reactions:
 - Battery:
 - Development of methods for multiscale simulations:
-# <center><a name="reaction"></a>**Electrochemical Reaction**</center> 
+# <a name="reaction"></a>**Electrochemical Reaction**
 |<a name="top"></a>[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|   
 
 ## <a name="co2rr"></a>**Carbon Dioxide Reduction** 
