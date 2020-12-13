@@ -1,5 +1,45 @@
 # Tao's Publications - Journal articles
 
+- title: 'Fastening Brˉ ions at Copper-Molecule Interface Enables Highly Efficient Electroreduction of CO2 to Ethanol'
+  volume: 
+  issue: 
+  page: "submitted"
+  year: 2020
+  author:
+  - given:
+    given_initial: JH
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: QQ
+    family: Liu
+  - given:
+    given_initial: Q
+    family: Liu
+  - given:
+    given_initial: XT
+    family: Li
+  - given:
+    given_initial: XZ
+    family: Lv
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: HB
+    family: Wu
+    role: corr
+  journal:
+    abbreviation: ACS Energy Lett.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
 - title: 'Bioinspired Activation of N2 on Asymmetrical Coordinated Fe grafted 1T MoS2 at Room Temperature'
   volume: 
   issue: 
