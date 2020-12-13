@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 # <a name="reaction"></a>**Electrochemical Reaction** 
-|<a name="top"></a>[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|[**Accelerated Molecular Dynamics**](#amd)|   
+|<a name="top"></a>[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|   
 
 ## <a name="co2rr"></a>**Carbon Dioxide Reduction** 
 ![co2](/images/co2.png#left)
@@ -37,8 +37,9 @@ http://dx.doi.org/10.1126/science.aaf9050)
 [**back to top**](#top)
 
 # <a name="method"></a>**Multiscale Simulation Methods** 
-# <a name="amd"></a> **Accelerated Molecular Dynamics**
+|[**Accelerated Molecular Dynamics**](#amd)|  
 
+## <a name="amd"></a> **Accelerated Molecular Dynamics**
 **We develop the methodology for dramatically accelerating the ReaxFF reactive force field based reactive molecular dynamics simulations through use of the bond boost concept, which we validate for describing hydrogen combustion.**  
 Related Publications:  
 * [**"Adaptive Accelerated ReaxFF Reactive Dynamics with Validation from Simulating Hydrogen Combustion"**](http://dx.doi.org/10.1021/ja5037258)  
