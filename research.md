@@ -5,7 +5,7 @@ permalink: /research/
 ---
 **We are working on:**
 1. **Electrochemical reactions**:[**Carbon Dioxide Reduction**](#co2rr);[**Oxygen Reduction Reaction**](#orr);
-2. **Battery**:
+2. **Battery**:[**Solid Electrolyte Interface**](#solid);
 3. **Methods for multiscale simulations**:[**Accelerated Molecular Dynamics**](#amd);
 
 # <a name="reaction"></a>**1. Electrochemical Reaction**
