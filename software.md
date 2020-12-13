@@ -12,3 +12,4 @@ permalink: /software/
 
 # **Methods for Multiscale Simulation**
 - **VASP-lg**
+  - https://pubs.acs.org/doi/10.1021/acs.jpclett.0c03126
