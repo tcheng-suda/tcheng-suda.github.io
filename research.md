@@ -3,10 +3,10 @@ layout: page
 title: Research
 permalink: /research/
 ---
-We are working on:
-- [**Electrochemical reactions**](#reaction):[**Carbon Dioxide Reduction**](#co2rr),[**Oxygen Reduction Reaction**](#orr)
-- [**Battery**](#battery):
-- [**Methods for multiscale simulations**](#method):[**Accelerated Molecular Dynamics**](#amd)
+**We are working on:**
+- [**1. Electrochemical reactions**]:[**Carbon Dioxide Reduction**](#co2rr),[**Oxygen Reduction Reaction**](#orr)
+- [**2. Battery**](#battery):
+- [**3. Methods for multiscale simulations**](#method):[**Accelerated Molecular Dynamics**](#amd)
 
 # <a name="reaction"></a>**1. Electrochemical Reaction**
 |<a name="top"></a>[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|   
