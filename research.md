@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# <a name="reaction"></a>**Electrochemical Reaction** 
+#<center><a name="reaction"></a>**Electrochemical Reaction**</center> 
 |<a name="top"></a>[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|   
 
 ## <a name="co2rr"></a>**Carbon Dioxide Reduction** 
