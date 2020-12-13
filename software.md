@@ -4,11 +4,11 @@ title: Software
 permalink: /software/
 ---
 
-# **Electrochemical Reaction
-- Electrode
+# **Electrochemical Reaction**
+- **Electrode**
 
 # **Battery**
-- Battery
+- **Battery**
 
 # **Methods for Multiscale Simulation**
-- VASP-lg
+- **VASP-lg**
