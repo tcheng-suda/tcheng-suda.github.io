@@ -40,6 +40,11 @@ http://dx.doi.org/10.1126/science.aaf9050)
 
 [**back to top**](#top)
 
+# <a name="battery"></a>**2. Battery** 
+|[**Solid Electrolyte Interface**](#solid)|  
+## <a name="solid"></a> **Solid Electrolyte Interface**
+[**back to top**](#top)
+
 # <a name="method"></a>**3. Multiscale Simulation Methods** 
 |[**Accelerated Molecular Dynamics**](#amd)|  
 
