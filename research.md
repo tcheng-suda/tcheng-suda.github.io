@@ -4,13 +4,14 @@ title: Research
 permalink: /research/
 ---
 We are working on:
-- Electrochemical reactions:
-- Battery:
-- Development of methods for multiscale simulations:
-# <a name="reaction"></a>**Electrochemical Reaction**
+- [**Electrochemical reactions**](#reaction):[**Carbon Dioxide Reduction**](#co2rr),[**Oxygen Reduction Reaction**](#orr)
+- [**Battery**](#battery):
+- [**Methods for multiscale simulations**](#method):[**Accelerated Molecular Dynamics**](#amd)
+
+# <a name="reaction"></a>**1. Electrochemical Reaction**
 |<a name="top"></a>[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|   
 
-## <a name="co2rr"></a>**Carbon Dioxide Reduction** 
+## <a name="co2rr"></a>**1.1 Carbon Dioxide Reduction** 
 ![co2](/images/co2.png#left)
 
 **A critical step towards rational design of new catalysts that achieve selective and efficient reduction of carbon dioxide to specific hydrocarbons and oxygenates is to determine the detailed reaction mechanism including kinetics and product selectivity as a function of pH and applied potential for known systems. To accomplish this we apply ab initio molecular dynamics free energy calculation for the water/Cu system with explicit solvent to determine the kinetics and pathways for major products (ethylene and methane) and minor products (ethanol, glyoxal, glycoladehyde, ethylene glycol, acetaldehyde, ethane and methanol).**
@@ -26,7 +27,7 @@ Related publications:
 
 [**back to top**](#top)
 
-## <a name="orr"></a>**Oxygen Reduction Reaction**
+## <a name="orr"></a>**1.2 Oxygen Reduction Reaction**
 ![orr](/images/orr.png#left)
 
 **The sluggish Oxygen Reduction Reaction (ORR) is a major impediment to economical use of fuel cells in transportation.**
@@ -39,7 +40,7 @@ http://dx.doi.org/10.1126/science.aaf9050)
 
 [**back to top**](#top)
 
-# <a name="method"></a>**Multiscale Simulation Methods** 
+# <a name="method"></a>**3. Multiscale Simulation Methods** 
 |[**Accelerated Molecular Dynamics**](#amd)|  
 
 ## <a name="amd"></a> **Accelerated Molecular Dynamics**
