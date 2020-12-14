@@ -9,7 +9,7 @@ permalink: /software/
 - **SAC**
 
 # **Battery**
-- **Battery**
+- **Battery**: **HAIR**
 - **Dendrite**
 
 # **Methods for Multiscale Simulation**
