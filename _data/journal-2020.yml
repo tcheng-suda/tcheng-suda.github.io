@@ -1,5 +1,57 @@
 # Tao's Publications - Journal articles
 
+- title: 'Alloying Nickel with Molybdenum Significantly Accelerates Alkaline Hydrogen Electrocatalysis'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2020
+  author:
+  - given:
+    given_initial: M
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: JN
+    family: Shi
+  - given:
+    given_initial: YF
+    family: Chen
+  - given:
+    given_initial: Y
+    family: Zhou
+  - given:
+    given_initial: LG
+    family: Wang
+  - given:
+    given_initial: SJ
+    family: Di
+  - given:
+    given_initial: X
+    family: Zhao
+  - given:
+    given_initial: J
+    family: Zhong
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: W
+    family: Zhou
+  - given:
+    given_initial: YG
+    family: Li
+    role: corr
+  journal:
+    abbreviation: Angew. Chem. Int. Ed.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Fastening Brˉ ions at Copper-Molecule Interface Enables Highly Efficient Electroreduction of CO2 to Ethanol'
   volume: 
   issue: 
