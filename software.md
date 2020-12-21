@@ -5,12 +5,12 @@ permalink: /software/
 ---
 
 # **Electrochemical Reaction**
-- **Electrode**
-- **SAC**
+- **Electrode**: TBA
+- **SAC**: TBA
 
 # **Battery**
-- **Battery**: **HAIR**
-- **Dendrite**
+- **Battery**: TBA
+- **Dendrite**: TBA
 
 # **Methods for Multiscale Simulation**
 - **VASP-lg** : [**souce code**](https://tcheng-suda.github.io/downloads/jz0c03126_si_003.txt); [**ffield**](https://tcheng-suda.github.io/downloads/jz0c03126_si_001.txt); If you use the code or force field for publication, please cite [**London Dispersion Corrections to Density Functional Theory for Transition Metals Based on Fitting to Experimental Temperature-Programmed Desorption of Benzene Monolayers**](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c03126)
