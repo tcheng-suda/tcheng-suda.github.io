@@ -20,5 +20,5 @@ permalink: /software/
 
 # **Force Field**
 - **Pt** : [**download**](https://tcheng-suda.github.io/downloads/ffield-pt) If you use the force field for pulication, please cite [**Ultrafine jagged platinum nanowires enable ultrahigh mass activity for the oxygen reduction reaction**](http://dx.doi.org/10.1126/science.aaf9050)
-- **Au** :
-- **Cu** :
+- **Au** : TBA
+- **Cu** : TBA
