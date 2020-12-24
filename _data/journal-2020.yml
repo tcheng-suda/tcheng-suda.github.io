@@ -1,5 +1,46 @@
 # Tao's Publications - Journal articles
 
+- title: 'A synergized Cu/Pb core/shell electrocatalyst for high-efficiency CO2 reduction to C2+ liquids'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2020
+  author:
+  - given:
+    given_initial: PT
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Y
+    family: Xu
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  - given:
+    given_initial: J
+    family: Wang
+  - given:
+    given_initial: M
+    family: Zhong
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Q
+    family: Shao
+    role: corr
+  journal:
+    abbreviation: ACS Nano
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Efficient Direct H2O2 Synthesis Enabled by PdPb Nanorings via Inhibiting the O−O Bond Cleavage in O2 and H2O2'
   volume: 
   issue: 
