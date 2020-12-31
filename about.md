@@ -8,7 +8,7 @@ permalink: /about/
 [**Miao Xie(谢淼)**](#mxie)|[**Hao Yang(杨昊)**](#hyang)|[**Yue Liu(刘越)**](#yliu)|[**Qi Yuan(苑琦)**](#qyuan)
 |[**Peiping Yu(于沛平)**](#ppyu)|[**Yu Wu(吴宇)**](#ywu)|[**Yiming Lu(陆一鸣)**](#ymlu)|[**Liang Xu(许亮)**](#lxu)
 |[**Mengwen Wang(王梦文)**](#mwwang)|[**Zhe Zhang(张哲)**](#zzhang)|[**Xiangcong Song(宋相聪)**](#xhsong)|[**Qintao Sun(孙钦涛)**](#qtsun)
-|[**Yanyan Zhang(张滟滟)**](#yyzhang)|  
+|[**Yanyan Zhang(张滟滟)**](#yyzhang)|[**Wenxuan Du(杜文轩)**](#wxdu)|  
 **Alumni:**  
 
 ---
@@ -150,5 +150,12 @@ Email:
 # <a name="yyzhang"></a>Qintao Sun(张滟滟)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Yanyan Zhang](https://tcheng-suda.github.io/people/yyzhang/)   
+Email: 
+
+---
+<br />   
+# <a name="wxdu"></a>Wenxuan Du(杜文轩)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+Personal web page:  [Wenxuan Du](https://tcheng-suda.github.io/people/wxdu/)   
 Email: 
 
