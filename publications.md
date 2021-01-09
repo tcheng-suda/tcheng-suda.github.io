@@ -14,7 +14,6 @@ permalink: /publications/
 |[**2019**](#2019)|[**2018**](#2018)|[**2017**](#2017)|[**2016**](#2016)
 |[**2015**](#2015)|[**2014**](#2014)|[**before 2014**](#2014-b)|  
 
-## <a name="2022"></a>2022
 <div class='panel-pub'>
 <ol start='101' reversed>
 {% for article in site.data.journal-2021 %}
