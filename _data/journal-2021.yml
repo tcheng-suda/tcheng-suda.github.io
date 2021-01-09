@@ -1,45 +1,38 @@
-- title: 'Dramatic Differences in Carbon Dioxide Adsorption and Initial Steps of Reduction Between Silver and Copper'
+- title: 'Selective CO2 Electrochemical Reduction Enabled by a Tri-component Copolymer Modifier on a Copper Surface '
   volume:
   issue:
-  page: Accepted
-  year: 2019
+  page: Submitted
+  year: 2021
   author:
   - given: 
-    given_initial: YF
-    family: Ye
-  - given: 
-    given_initial: H
-    family: Yang
-  - given: 
-    given_initial: J
-    family: Qian
-  - given: 
-    given_initial: HY
-    family: Su
-  - given: 
-    given_initial: KJ
-    family: Lee
+    given_initial: JC
+    family: Wang
   - given: 
     given_initial: T
     family: Cheng
     role: main 
   - given: 
-    given_initial: H
-    family: Xiao
+    given_initial: AQ
+    family: Fenwick
   - given:
-    given_initial: J
-    family: Yano
-    role: corr
+    given_initial: A
+    family: Rosas-Hernandez
   - given:
+    given_initial: JH
+    family: Ko
+  - given:
+    given_initial: Q
+    family: Gan
+- given:
     given_initial: WA
     family: Goddard
     role: corr
   - given:
-    given_initial: EJ
-    family: Crumlin
+    given_initial: RH
+    family: Grubbs
     role: corr
   journal:
-    abbreviation: Nat. Commun. 
+    abbreviation: 
   URL: 
   type: article
   DOI: 
