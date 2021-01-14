@@ -395,3 +395,4 @@ permalink: /publications/
 </ol>
 </div>
 
+<a href="#top">Back to top</a>
