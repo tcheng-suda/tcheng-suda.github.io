@@ -52,7 +52,7 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 - **2003.9 - 2007.7**  
 **B.S.in Chemistry**   
 [**SCCE**](http://scce.sjtu.edu.cn/), [**SJTU**](https://www.sjtu.edu.cn/)    
-
+  
 <a href="#top">Back to top</a>
 
 ---
@@ -60,7 +60,7 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 # <a name="mxie"></a>Miao Xie(谢淼)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 Personal web page: [Miao Xie](https://tcheng-suda.github.io/people/mxie/)  
-Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)
+Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)  
 <a href="#top">Back to top</a>
 
 ---
@@ -68,7 +68,7 @@ Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)
 # <a name="hyang"></a>Hao Yang(杨昊)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 Personal web page: [Hao Yang](https://tcheng-suda.github.io/people/hyang/)  
-Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
+Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)  
 <a href="#top">Back to top</a>
 
 ---
@@ -76,7 +76,7 @@ Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
 # <a name="yliu"></a>Yue Liu(刘越)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 Personal web page: [Yue Liu](https://tcheng-suda.github.io/people/hyang/)  
-Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)
+Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)  
 <a href="#top">Back to top</a>
 
 ---
@@ -84,7 +84,7 @@ Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)
 # <a name="hyang"></a>Bingyun Ma(麻冰云)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 Personal web page: [Bingyun Ma](https://tcheng-suda.github.io/people/byma/)  
-Email: [byma@suda.edu.cn](byma@suda.edu.cn)
+Email: [byma@suda.edu.cn](byma@suda.edu.cn)  
 <a href="#top">Back to top</a>
 
 ---
@@ -92,7 +92,7 @@ Email: [byma@suda.edu.cn](byma@suda.edu.cn)
 # <a name="qyuan"></a>Qi Yuan (苑琦)
 <span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>  
 Personal web page:  [Qi Yuan](https://tcheng-suda.github.io/people/qyuan/)   
-Email: [Qi Yuan email](1185326833@qq.com)
+Email: [Qi Yuan email](1185326833@qq.com)  
 <a href="#top">Back to top</a>
 
 ---
@@ -100,7 +100,7 @@ Email: [Qi Yuan email](1185326833@qq.com)
 # <a name="ppyu"></a>Peiping Yu(于沛平)
 <span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>  
 Personal web page:  [Peiping Yu](https://tcheng-suda.github.io/people/ppyu/)   
-Email: 
+Email:   
 <a href="#top">Back to top</a>
 
 ---
@@ -108,7 +108,7 @@ Email:
 # <a name="ywu"></a>Yu Wu(吴宇)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Yu Wu](https://tcheng-suda.github.io/people/ywu/)   
-Email: 
+Email:   
 <a href="#top">Back to top</a>
 
 ---
@@ -116,7 +116,7 @@ Email:
 # <a name="ymlu"></a>Yiming Lu(陆一鸣)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Yiming Lu](https://tcheng-suda.github.io/people/ymlu/)   
-Email: 
+Email:   
 <a href="#top">Back to top</a>
 
 ---
@@ -124,7 +124,7 @@ Email:
 # <a name="lxu"></a>Liang Xu(许亮)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Liang Xu](https://tcheng-suda.github.io/people/lxu/)   
-Email: 
+Email:   
 <a href="#top">Back to top</a>
 
 ---
@@ -132,7 +132,7 @@ Email:
 # <a name="mwwang"></a>Mengwen Wang(王梦文)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Mengwen Wang](https://tcheng-suda.github.io/people/mwwang/)   
-Email: 
+Email:   
 <a href="#top">Back to top</a>
 
 ---
@@ -140,7 +140,7 @@ Email:
 # <a name="zzhang"></a>Zhe Zhang(张哲)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Zhe Zhang](https://tcheng-suda.github.io/people/zzhang/)   
-Email: 
+Email:   
 <a href="#top">Back to top</a>
 
 ---
@@ -148,7 +148,7 @@ Email:
 # <a name="xhsong"></a>Xiangcong Song(宋相聪)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Xiangcong Song](https://tcheng-suda.github.io/people/xhsong/)   
-Email: 
+Email:   
 <a href="#top">Back to top</a>
 
 ---
@@ -156,7 +156,7 @@ Email:
 # <a name="qtsun"></a>Qintao Sun(孙钦涛)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Qintao Sun](https://tcheng-suda.github.io/people/qtsun/)   
-Email: 
+Email:   
 <a href="#top">Back to top</a>
 
 ---
@@ -164,7 +164,7 @@ Email:
 # <a name="yyzhang"></a>Qintao Sun(张滟滟)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Yanyan Zhang](https://tcheng-suda.github.io/people/yyzhang/)   
-Email: 
+Email:   
 <a href="#top">Back to top</a>
 
 ---
@@ -172,6 +172,6 @@ Email:
 # <a name="wxdu"></a>Wenxuan Du(杜文轩)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Wenxuan Du](https://tcheng-suda.github.io/people/wxdu/)   
-Email: 
+Email:   
 <a href="#top">Back to top</a>
 
