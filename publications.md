@@ -55,6 +55,7 @@ permalink: /publications/
 {% endfor %}
 </ol>
 </div>
+<a href="#top">Back to top</a>
 
 ## <a name="2020"></a>2020
 
@@ -97,6 +98,7 @@ permalink: /publications/
 {% endfor %}
 </ol>
 </div>
+<a href="#top">Back to top</a>
 
 ## <a name="2019"></a>2019
 
@@ -139,6 +141,7 @@ permalink: /publications/
 {% endfor %}
 </ol>
 </div>
+<a href="#top">Back to top</a>
 
 ## <a name="2018"></a>2018
 
@@ -181,7 +184,7 @@ permalink: /publications/
 {% endfor %}
 </ol>
 </div>
-
+<a href="#top">Back to top</a>
 
 ## <a name="2017"></a>2017
 
@@ -224,7 +227,7 @@ permalink: /publications/
 {% endfor %}
 </ol>
 </div>
-
+<a href="#top">Back to top</a>
 
 ## <a name="2016"></a>2016
 
@@ -267,7 +270,7 @@ permalink: /publications/
 {% endfor %}
 </ol>
 </div>
-
+<a href="#top">Back to top</a>
 
 ## <a name="2015"></a>2015
 
@@ -310,6 +313,7 @@ permalink: /publications/
 {% endfor %}
 </ol>
 </div>
+<a href="#top">Back to top</a>
 
 ## <a name="2014"></a>2014
 
@@ -352,6 +356,7 @@ permalink: /publications/
 {% endfor %}
 </ol>
 </div>
+<a href="#top">Back to top</a>
 
 ## <a name="2014-b"></a>before 2014
 
@@ -394,5 +399,4 @@ permalink: /publications/
 {% endfor %}
 </ol>
 </div>
-
 <a href="#top">Back to top</a>
