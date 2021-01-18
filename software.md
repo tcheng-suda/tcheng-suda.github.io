@@ -9,7 +9,7 @@ permalink: /software/
 - **SAC**: TBA
 
 # **Battery**
-- **Battery**: **source code** [(download)](https://tcheng-suda.github.io/downloads/jz0c03126_si_003.txt); (If use the code, please cite [**The DFT-ReaxFF Hybrid Molecular Dynamics Method with Application to the Reductive Decomposition Reaction of the TFSI and DOL Electrolyte at the Lithium-Metal Anode Surfaces**](https://tcheng-suda.github.io/downloads/jz0c03126_si_003.txt))
+- **Battery**: **source code** [(download)](https://tcheng-suda.github.io/downloads/jz0c03126_si_003.txt); (If use the code, please cite [**"The DFT-ReaxFF Hybrid Molecular Dynamics Method with Application to the Reductive Decomposition Reaction of the TFSI and DOL Electrolyte at the Lithium-Metal Anode Surfaces"**](https://tcheng-suda.github.io/downloads/jz0c03126_si_003.txt))
 - **Dendrite**: TBA
 
 # **Methods for Multiscale Simulation**
