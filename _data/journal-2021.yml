@@ -177,9 +177,9 @@
   language: english
   
 - title: 'The DFT-ReaxFF Hybrid Molecular Dynamics Method with Application to the Reductive Decomposition Reaction of the TFSI and DOL Electrolyte at the Lithium-Metal Anode Surfaces'
-  volume: 
+  volume: 12
   issue: 
-  page: ""
+  page: "1300"
   year: 2021
   author:
   - given:
@@ -209,7 +209,7 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Accepted
+    abbreviation: J. Phys. Chem. Lett.
   URL: 
   type: article
   DOI: 
@@ -273,7 +273,7 @@
 - title: 'Selective CO2 Electrochemical Reduction Enabled by a Tri-component Copolymer Modifier on a Copper Surface'
   volume: 
   issue: 
-  page: ""
+  page: "ASAP"
   year: 2021
   author:
   - given:
@@ -304,7 +304,7 @@
     family: Grubbs
     role: corr
   journal:
-    abbreviation: Accepted
+    abbreviation: J. Am. Chem. Soc.
   URL: 
   type: article
   DOI: 
