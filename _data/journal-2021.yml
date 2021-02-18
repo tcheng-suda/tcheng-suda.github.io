@@ -50,6 +50,50 @@
   fulltext:
   language: english
 
+- title: 'Predictions of Chemical Shifts for Reactive Intermediates in CO2 Reduction under operando Conditions'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: Hao
+    family: Yang
+  - given:
+    given_initial: F
+    family: Negreiros
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: L
+    family: Sementa
+  - given:
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: A
+    family: Fortunelli
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard III
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Effects of High and Low Salt Concentration in Electrolytes at Lithium−Metal Anode Surfaces using DFT-ReaxFF Hybrid Molecular Dynamics Method '
   volume: 
   issue: 
