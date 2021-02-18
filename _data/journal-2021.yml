@@ -50,6 +50,46 @@
   fulltext:
   language: english
 
+- title: 'Pathway of in situ Polymerization of 1,3-dioxolane in LiPF6 Electrolyte on Li Metal Anode'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: R
+    family: Jia
+  - given:
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: WA
+    family: Goddard III
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Predictions of Chemical Shifts for Reactive Intermediates in CO2 Reduction under operando Conditions'
   volume: 
   issue: 
