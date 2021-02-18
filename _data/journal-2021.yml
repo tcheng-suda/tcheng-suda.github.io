@@ -1,3 +1,55 @@
+- title: 'Epitaxial Lattice Expansion of Palladium on Silver Nanocrystals Accelerates Dehydrogenation of Ethanol toward Complete Oxidation'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: MX
+    family: Liu
+  - given:
+    given_initial: Miao
+    family: Xie
+  - given:
+    given_initial: YL
+    family: Jiang
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: YM
+    family: Lu
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: ZX
+    family: Zhang
+  - given:
+    given_initial: XX
+    family: Wang
+  - given:
+    given_initial: K
+    family: Liu
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main, corr
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'The DFT-ReaxFF Hybrid Molecular Dynamics Method with Application to the Reductive Decomposition Reaction of the TFSI and DOL Electrolyte at the Lithium-Metal Anode Surfaces'
   volume: 
   issue: 
@@ -31,7 +83,7 @@
     family: Cheng
     role: main, corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Accepted
   URL: 
   type: article
   DOI: 
