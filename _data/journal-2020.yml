@@ -1,9 +1,9 @@
 # Tao's Publications - Journal articles
 
 - title: 'Tri-fluorinated Keto-Enol Tautomeric Switch in Probing Domain Rotation of a G Protein-Coupled Receptor'
-  volume: 
+  volume: 32
   issue: 
-  page: ""
+  page: "99"
   year: 2020
   author:
   - given:
@@ -30,7 +30,7 @@
     family: Ye
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Bioconjugate Chem.
   URL: 
   type: article
   DOI: 
