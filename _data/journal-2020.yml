@@ -31,17 +31,17 @@
     role: corr
   journal:
     abbreviation: Bioconjugate Chem.
-  URL: 
+  URL: https://doi.org/10.1021/acs.bioconjchem.0c00670
   type: article
   DOI: 
   fulltext:
   language: english
   
-- title: 'A synergized Cu/Pb core/shell electrocatalyst for high-efficiency CO2 reduction to C2+ liquids'
-  volume: 
+- title: 'Synergized Cu/Pb Core/Shell Electrocatalyst for High-Efficiency CO2 Reduction to C2+ Liquids'
+  volume: 15
   issue: 
-  page: "ASAP"
-  year: 2020
+  page: "1039–1047"
+  year: 2021
   author:
   - given:
     given_initial: PT
@@ -72,7 +72,7 @@
     role: corr
   journal:
     abbreviation: ACS Nano
-  URL: 
+  URL: https://doi.org/10.1021/acsnano.0c07869
   type: article
   DOI: 
   fulltext:
@@ -80,9 +80,9 @@
   
 - title: 'Efficient Direct H2O2 Synthesis Enabled by PdPb Nanorings via Inhibiting the O−O Bond Cleavage in O2 and H2O2'
   volume: 
-  issue: 
-  page: "ASAP"
-  year: 2020
+  issue: 11
+  page: "1106–1118"
+  year: 2021
   author:
   - given:
     given_initial: KL
@@ -122,17 +122,17 @@
     role: corr
   journal:
     abbreviation: ACS Catal.
-  URL: 
+  URL: https://doi.org/10.1021/acscatal.0c04348
   type: article
   DOI: 
   fulltext:
   language: english
   
 - title: 'Alloying Nickel with Molybdenum Significantly Accelerates Alkaline Hydrogen Electrocatalysis'
-  volume: 
+  volume: 60
   issue: 
-  page: "ASAP"
-  year: 2020
+  page: "5771-5777"
+  year: 2021
   author:
   - given:
     given_initial: M
@@ -174,7 +174,7 @@
     role: corr
   journal:
     abbreviation: Angew. Chem. Int. Ed.
-  URL: 
+  URL: https://doi.org/10.1002/anie.202013047
   type: article
   DOI: 
   fulltext:
