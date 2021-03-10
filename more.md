@@ -5,12 +5,7 @@ permalink: /more/
 ---
 
 # **Talks**
-``
-TITLE: “Significant improvement of CO2 reduction via polymer modified metal surface”
-MEETING: ACS 2021 CATL
-DATE: April 12, 2021
-PRESENTATION TIME: 11:30 AM to 11:50 AM 
-``
+![](https://raw.githubusercontent.com/esemble/pic/master/Screenshot20210311070919.png)
 
 # **Manual**
 |[**VMD**](http://www.ks.uiuc.edu/Research/vmd/current/ug/)
