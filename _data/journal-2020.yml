@@ -411,9 +411,9 @@
   language: english
   
 - title: 'Bismuth Oxyhydroxide-Pt Inverse Interface for Enhanced Methanol Electrooxidation Performance'
-  volume: 
+  volume: 20
   issue: 
-  page: "ASAP"
+  page: "7751–7759"
   year: 2020
   author:
   - given:
@@ -464,16 +464,16 @@
     role: corr
   journal:
     abbreviation: Nano Lett.
-  URL: 
+  URL: https://doi.org/10.1021/acs.nanolett.0c03340
   type: article
   DOI: 
   fulltext:
   language: english
   
 - title: 'N-modulated Cu+ for efficient electrochemical carbon monoxide reduction to acetate'
-  volume: 
+  volume: 63
   issue: 
-  page: "ASAP"
+  page: "2606–2612"
   year: 2020
   author:
   - given:
@@ -519,16 +519,16 @@
     family: Peng
   journal:
     abbreviation: Sci. China Mater.
-  URL: 
+  URL: https://doi.org/10.1007/s40843-020-1440-6
   type: article
   DOI: 
   fulltext:
   language: english
   
 - title: 'Highly Selective Electrocatalytic Reduction of CO2 into Methane on Cu–Bi Nanoalloys'
-  volume: 
+  volume: 11
   issue: 
-  page: "ASAP"
+  page: "7261–7266"
   year: 2020
   author:
   - given:
@@ -572,16 +572,16 @@
     role: corr 
   journal:
     abbreviation: J. Phys. Chem. Lett.
-  URL: 
+  URL: https://doi.org/10.1021/acs.jpclett.0c01261
   type: article
   DOI: 
   fulltext:
   language: english
 
 - title: 'Highly Active and Stable Stepped Cu Surface for Enhanced Electrochemical CO2 Reduction to C2H4'
-  volume: 
+  volume: 3
   issue: 
-  page: "ASAP"
+  page: "804–812"
   year: 2020
   author:
   - given:
@@ -622,7 +622,7 @@
     role: corr 
   journal:
     abbreviation: Nat. Catal.
-  URL: 
+  URL: https://doi.org/10.1038/s41929-020-00504-x
   type: article
   DOI: 
   fulltext:
@@ -657,16 +657,16 @@
     role: corr  
   journal:
     abbreviation: Nano Energy
-  URL: 
+  URL: https://doi.org/10.1016/j.nanoen.2020.105224
   type: article
   DOI: 
   fulltext:
   language: english
   
 - title: 'Controllable CO adsorption determines ethylene and methane productions from CO2 electroreduction'
-  volume: 
+  volume: 78
   issue: 
-  page: "ASAP"
+  page: "105224"
   year: 2020
   author:
   - given:
@@ -723,9 +723,9 @@
   language: english
   
 - title: 'Synergy between Silver-Copper Surface Alloy Composition and Carbon Dioxide Adsorption and Activation'
-  volume: 
+  volume: 12
   issue: 
-  page: "ASAP"
+  page: "25374–25382"
   year: 2020
   author:
   - given:
@@ -767,7 +767,7 @@
     role: corr  
   journal:
     abbreviation: ACS Appl. Mater. Interfaces
-  URL: 
+  URL: https://doi.org/10.1021/acsami.0c02057
   type: article
   DOI: 
   fulltext:
@@ -792,7 +792,7 @@
     role: corr  
   journal:
     abbreviation: J. Am. Chem. Soc.
-  URL: 
+  URL: https://doi.org/10.1021/jacs.9b13218
   type: article
   DOI: 
   fulltext:
@@ -845,7 +845,7 @@
     role: corr  
   journal:
     abbreviation: J. Mater. Chem. A,
-  URL: 
+  URL: https://doi.org/10.1039/D0TA00962H
   type: article
   DOI: 
   fulltext:
@@ -892,7 +892,7 @@
     role: corr
   journal:
     abbreviation: J. Mater. Chem. C,
-  URL: 
+  URL: https://doi.org/10.1039/D0TC00718H
   type: article
   DOI: 
   fulltext:
