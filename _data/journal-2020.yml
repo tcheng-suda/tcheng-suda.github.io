@@ -181,10 +181,10 @@
   language: english
   
 - title: 'Fastening Brˉ ions at Copper-Molecule Interface Enables Highly Efficient Electroreduction of CO2 to Ethanol'
-  volume: 
+  volume: 6
   issue: 
-  page: "ASAP"
-  year: 2020
+  page: "437–444"
+  year: 2021
   author:
   - given:
     given_initial: JH
@@ -214,7 +214,7 @@
     role: corr
   journal:
     abbreviation: ACS Energy Lett.
-  URL: 
+  URL: https://doi.org/10.1021/acsenergylett.0c02364
   type: article
   DOI: 
   fulltext:
@@ -223,7 +223,7 @@
 - title: 'Bioinspired Activation of N2 on Asymmetrical Coordinated Fe grafted 1T MoS2 at Room Temperature'
   volume: 
   issue: 
-  page: "submitted"
+  page: "ASAP"
   year: 2020
   author:
   - given:
@@ -280,10 +280,10 @@
   language: english
 
 - title: 'London Dispersion Corrections to Density Functional Theory for Transition Metals Based on Fitting to Experimental Temperature-Programmed Desorption of Benzene Monolayers'
-  volume: 
+  volume: 12
   issue: 
-  page: "ASAP"
-  year: 2020
+  page: "73–79"
+  year: 2021
   author:
   - given:
     given_initial: H
@@ -298,17 +298,17 @@
     role: corr
   journal:
     abbreviation: J. Phys. Chem. Lett
-  URL: 
+  URL: https://doi.org/10.1021/acs.jpclett.0c03126
   type: article
   DOI: 
   fulltext:
   language: english
 
 - title: 'Theoretical Research on the Electroreduction of Carbon Dioxide'
-  volume: 
+  volume: 37
   issue: 
-  page: "ASAP"
-  year: 2020
+  page: "2010040"
+  year: 2021
   author:
   - given:
     given_initial: Q
@@ -325,16 +325,16 @@
     role: corr, main
   journal:
     abbreviation: Acta Phys. -Chim. Sin.
-  URL: 
+  URL: https://doi.org/10.3866/PKU.WHXB202010040
   type: article
-  DOI: 
+  DOI: 10.3866/PKU.WHXB202010040
   fulltext:
   language: english
 
 - title: 'Compressed Intermetallic PdCu for Enhanced Electrocatalysis'
-  volume: 
+  volume: 5
   issue: 
-  page: "ASAP"
+  page: "3672–3680"
   year: 2020
   author:
   - given:
@@ -366,16 +366,16 @@
     role: corr 
   journal:
     abbreviation: ACS Energy Lett.
-  URL: 
+  URL: https://doi.org/10.1021/acsenergylett.0c01959
   type: article
   DOI: 
   fulltext:
   language: english
   
 - title: 'Te-Doped Pd Nanocrystal for Electrochemical Urea Production by Efficiently Coupling Carbon Dioxide Reduction with Nitrite Reduction'
-  volume: 
+  volume: 20
   issue: 
-  page: "ASAP"
+  page: "8282–8289"
   year: 2020
   author:
   - given:
@@ -404,7 +404,7 @@
     role: corr 
   journal:
     abbreviation: Nano Lett.
-  URL: 
+  URL: https://doi.org/10.1021/acs.nanolett.0c03400
   type: article
   DOI: 
   fulltext:
