@@ -5,13 +5,12 @@ permalink: /more/
 ---
 
 # **Talks**
-- PAPER TITLE: “Significant improvement of CO2 reduction via polymer modified metal surface”
-DIVISION/COMMITTEE: CATL
-SESSION TYPE: Live Presentation
-
+``
+TITLE: “Significant improvement of CO2 reduction via polymer modified metal surface”
+MEETING: ACS 2021 CATL
 DATE: April 12, 2021
-PRESENTATION TIME: 11:30 AM to 11:50 AM
-ACS 2021
+PRESENTATION TIME: 11:30 AM to 11:50 AM 
+``
 
 # **Manual**
 |[**VMD**](http://www.ks.uiuc.edu/Research/vmd/current/ug/)
