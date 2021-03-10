@@ -364,9 +364,9 @@
   language: english
 
 - title: 'Selective CO2 Electrochemical Reduction Enabled by a Tri-component Copolymer Modifier on a Copper Surface'
-  volume: 
+  volume: 143
   issue: 
-  page: "ASAP"
+  page: "2857–2865"
   year: 2021
   author:
   - given:
@@ -398,7 +398,7 @@
     role: corr
   journal:
     abbreviation: J. Am. Chem. Soc.
-  URL: 
+  URL: https://doi.org/10.1021/jacs.0c12478
   type: article
   DOI: 
   fulltext:
