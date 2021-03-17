@@ -224,7 +224,7 @@
   volume: 
   issue: 
   page: "ASAP"
-  year: 2020
+  year: 2021
   author:
   - given:
     given_initial: JJ
@@ -273,7 +273,7 @@
     role: corr
   journal:
     abbreviation: Chin. J. Chem.
-  URL: 
+  URL: https://doi.org/10.1002/cjoc.202000675
   type: article
   DOI: 
   fulltext:
