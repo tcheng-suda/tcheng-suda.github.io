@@ -4,6 +4,6 @@ title: Opening
 permalink: /opening/
 ---
 
-![](https://raw.githubusercontent.com/esemble/pic/master/o1.png)
-![](https://raw.githubusercontent.com/esemble/pic/master/o2.png)
-![](https://raw.githubusercontent.com/esemble/pic/master/o3.png)
+![p1](/images/p1.jpg)
+![p2](/images/p2.jpg)
+![p3](/images/p3.jpg)
