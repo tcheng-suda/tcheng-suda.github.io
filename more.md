@@ -4,9 +4,6 @@ title: More
 permalink: /more/
 ---
 
-# **Talks**
-![](https://raw.githubusercontent.com/esemble/pic/master/Screenshot20210311070919.png)
-
 # **Manual**
 |[**VMD**](http://www.ks.uiuc.edu/Research/vmd/current/ug/)
 |[**VASP**](http://cms.mpi.univie.ac.at/vasp/vasp/vasp.html)
@@ -51,4 +48,6 @@ permalink: /more/
 |  
 
 # **量子化学 2020**
+
+# **量子化学 2021**
 
