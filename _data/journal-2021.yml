@@ -1,3 +1,64 @@
+- title: 'Exceptionally active and stable RuO2 with interstitial carbon for water oxidation in acid'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: J
+    family: Wang
+  - given:
+    given_initial: C
+    family: Cheng
+  - given:
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: FP
+    family: Meng
+  - given:
+    given_initial: QH
+    family: Zhang
+  - given:
+    given_initial: L
+    family: G
+  - given:
+    given_initial: JL
+    family: Cao
+  - given:
+    given_initial: LG
+    family: Li
+  - given:
+    given_initial: SC
+    family: Haw
+  - given:
+    given_initial: Q
+    family: Shao
+  - given:
+    given_initial: L
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: F
+    family: Jiao
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
 - title: 'Inorganic cation-tailored “trapdoor” effect of the silicoaluminophosphate zeolite for highly selective CO2 separation'
   volume: 
   issue: 
