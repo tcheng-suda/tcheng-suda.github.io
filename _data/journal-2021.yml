@@ -1,3 +1,35 @@
+- title: 'Predicted three-dimensional structure of low-density amorphous carbon for electrocatalysis electrodes'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: D
+    family: Hossain
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: ZT
+    family: Luo
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Bimetallic PdAu Nanoframes for Electrochemical H2O2 Production in Acids'
   volume: 
   issue: 
