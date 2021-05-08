@@ -93,7 +93,7 @@ permalink: /talks/
 ## <a name="2018"></a>2018
 
 <div class='panel-pub'>
-<ol start='2' reversed>
+<ol start='4' reversed>
 {% for article in site.data.talk-2018 %}
     <li>
     <div class="title">
@@ -135,7 +135,7 @@ permalink: /talks/
 ## <a name="2017"></a>2017
 
 <div class='panel-pub'>
-<ol start='2' reversed>
+<ol start='1' reversed>
 {% for article in site.data.talk-2017 %}
     <li>
     <div class="title">
