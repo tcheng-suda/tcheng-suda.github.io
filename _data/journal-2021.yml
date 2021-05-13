@@ -503,10 +503,10 @@
   fulltext:
   language: english
   
-- title: 'Sulfur-doped Graphene Anchoring Ultrafine Au25 Nanoclusters for Electrocatalysis'
+- title: 'Sulfur-doped Graphene Anchoring of Ultrafine Au25 Nanoclusters for Electrocatalysis'
   volume: 
   issue: 
-  page: ""
+  page: "ASAP"
   year: 2021
   author:
   - given:
@@ -542,10 +542,10 @@
     family: Yang
     role: corr
   journal:
-    abbreviation: Submitted
-  URL: 
+    abbreviation: Nano Res.
+  URL: https://doi.org/10.1007/s12274-021-3561-2 
   type: article
-  DOI: 
+  DOI: 10.1007/s12274-021-3561-2 
   fulltext:
   language: english
   
