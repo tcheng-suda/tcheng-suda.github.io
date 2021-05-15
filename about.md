@@ -12,7 +12,7 @@ permalink: /about/
 |[**Baitong Yue(乐柏佟)**](#btyue)|[**Hongchao Tang(唐宏超)**](#hctang)|[**Shuang Feng(冯爽)**](#sfeng)|[**Qiwei Zhou(周琦蔚)**](#qwzhou)
 |[**Jinying Wu(吴晋莹)**](#jywu)|[**Zhengan Xu(严正安)**](#zaxu)|[**Qiyu Xu(徐祺禹)**](#qyxu)
 |  
----
+
 ---
 <br />
 # <a name="tcheng"></a> Tao Cheng(程涛)
@@ -78,7 +78,7 @@ Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
 <br />   
 # <a name="yliu"></a>Yue Liu(刘越)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
-Personal web page: [Yue Liu](https://tcheng-suda.github.io/people/hyang/)  
+Personal web page: [Yue Liu](https://tcheng-suda.github.io/people/yliu/)  
 Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)  
 <a href="#top">Back to top</a>
 
@@ -183,6 +183,70 @@ Email:
 # <a name="wxdu"></a>Shiwen Wang(王诗文)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Shiwen Wang](https://tcheng-suda.github.io/people/swwang/)   
+Email:   
+<a href="#top">Back to top</a>
+
+---
+<br />   
+# <a name="jyzhang"></a>Jiayi Zhang(张家奕)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+Personal web page:  [Jiayi Zhang](https://tcheng-suda.github.io/people/jyzhang/)   
+Email:   
+<a href="#top">Back to top</a>
+
+---
+<br />   
+# <a name="btyue"></a>Baitong Yue(乐柏佟)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+Personal web page:  [Baitong Yue](https://tcheng-suda.github.io/people/btyue/)   
+Email:   
+<a href="#top">Back to top</a>
+
+---
+<br />   
+# <a name="hctang"></a>Hongchao Tang(唐宏超)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Hongchao Tang](https://tcheng-suda.github.io/people/hctang/)   
+Email:   
+<a href="#top">Back to top</a>
+
+---
+<br />   
+# <a name="sfeng"></a>Shuang Feng(冯爽)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Shuang Feng](https://tcheng-suda.github.io/people/sfeng/)   
+Email:   
+<a href="#top">Back to top</a>
+
+---
+<br />   
+# <a name="qwzhou"></a>Qiwei Zhou(周琦蔚)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Qiwei Zhou](https://tcheng-suda.github.io/people/qwzhou/)   
+Email:   
+<a href="#top">Back to top</a>
+
+---
+<br />   
+# <a name="jywu"></a>Jinying Wu(吴晋莹)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+Personal web page:  [Jinying Wu](https://tcheng-suda.github.io/people/jywu/)   
+Email:   
+<a href="#top">Back to top</a>
+
+---
+<br />   
+# <a name="zayan"></a>Zhengan Yan(严正安)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+Personal web page:  [Zhengan Yan](https://tcheng-suda.github.io/people/zayan/)   
+Email:   
+<a href="#top">Back to top</a>
+
+---
+<br />   
+# <a name="qyxu"></a>Qiyu Xu(徐祺禹)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+Personal web page:  [Qiyu Xu](https://tcheng-suda.github.io/people/qyxu/)   
 Email:   
 <a href="#top">Back to top</a>
 
