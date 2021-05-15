@@ -10,9 +10,7 @@ permalink: /about/
 |[**Mengwen Wang(王梦文)**](#mwwang)|[**Zhe Zhang(张哲)**](#zzhang)|[**Xiangcong Song(宋相聪)**](#xhsong)|[**Qintao Sun(孙钦涛)**](#qtsun)
 |[**Yanyan Zhang(张滟滟)**](#yyzhang)|[**Wenxuan Du(杜文轩)**](#wxdu)|[**Shiwen Wang(王诗文)**](#wxdu)|[**Jiayi Zhang(张家奕)**](#jyzhang)
 |[**Baitong Yue(乐柏佟)**](#btyue)|[**Hongchao Tang(唐宏超)**](#hctang)|[**Shuang Feng(冯爽)**](#sfeng)|[**Qiwei Zhou(周琦蔚)**](#qwzhou)
-|[**Jinying Wu(吴晋莹)**](#jywu)|[**Zhengan Xu(严正安)**](#zaxu)|[**Qiyu Xu(徐祺禹)**](#qyxu)
-|  
-
+|[**Jinying Wu(吴晋莹)**](#jywu)|[**Zhengan Xu(严正安)**](#zaxu)|[**Qiyu Xu(徐祺禹)**](#qyxu)|  
 ---
 <br />
 # <a name="tcheng"></a> Tao Cheng(程涛)
