@@ -1,3 +1,86 @@
+- title: 'Multi-scale Simulation Reveals the Decomposition Mechanism of Electrolyte on Lithium Metal Electrode'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: YY
+    family: Zhang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: WX
+    family: Du
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: YY
+    family: Li
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given:
+    given_initial: M
+    family: Xie
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Reaction Mechanism on Sulphur Doped Ni Single-Atom Catalysis for CO2 Reduction Reaction'
   volume: 
   issue: 
