@@ -109,6 +109,9 @@
     given_initial: T
     family: Cheng
     role: corr, main
+ - given:
+    given_initial: WA
+    family: Goddard
   journal:
     abbreviation: ACS Energy Lett.
   URL: 
