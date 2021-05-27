@@ -81,10 +81,10 @@
   fulltext:
   language: english
   
-- title: 'Boron Insertion Enables operando Polymerization of Electrolyte at Lithium Anode'
+- title: 'Predicted operando Polymerization at Lithium Anode via Boron Insertion'
   volume: 
   issue: 
-  page: ""
+  page: "ASAP"
   year: 2021
   author:
   - given:
@@ -110,7 +110,7 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Submitted
+    abbreviation: ACS Energy Lett.
   URL: 
   type: article
   DOI: 
