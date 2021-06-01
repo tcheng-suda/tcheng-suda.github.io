@@ -114,9 +114,9 @@
     family: Goddard
   journal:
     abbreviation: ACS Energy Lett.
-  URL: 
+  URL: https://doi.org/10.1021/acsenergylett.1c00907
   type: article
-  DOI: 
+  DOI: 10.1021/acsenergylett.1c00907
   fulltext:
   language: english
   
@@ -197,7 +197,7 @@
     role: corr
   journal:
     abbreviation: J. Mater. Chem. A
-  URL: 
+  URL: https://doi.org/10.1039/D1TA03365D
   type: article
   DOI: 
   fulltext:
