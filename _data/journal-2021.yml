@@ -1,3 +1,51 @@
+- title: 'A Low Spin Fe(II) Complex Bearing aHighly Conjugated Aromatic Lig-and with Nanosecond Charge-Transfer Excited State Lifetime'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: YF
+    family: Cui
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: XM
+    family: Zhang
+  - given:
+    given_initial: YH
+    family: Li
+    role: corr
+  - given:
+    given_initial: CC
+    family: Qin
+    role: corr
+  - given:
+    given_initial: M
+    family: Xie
+    role: corr
+  - given:
+    given_initial: L
+    family: Wu
+  - given:
+    given_initial: YP
+    family: Dong
+  - given:
+    given_initial: CP
+    family: Kong
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Multi-scale Simulation Reveals the Decomposition Mechanism of Electrolyte on Lithium Metal Electrode'
   volume: 
   issue: 
