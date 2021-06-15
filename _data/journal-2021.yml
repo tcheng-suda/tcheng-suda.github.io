@@ -786,7 +786,7 @@
 - title: 'Predictions of Chemical Shifts for Reactive Intermediates in CO2 Reduction under operando Conditions'
   volume: 
   issue: 
-  page: ""
+  page: "ASAP"
   year: 2021
   author:
   - given:
@@ -820,7 +820,7 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Submitted
+    abbreviation: ACS Appl. Mater. Interfaces
   URL: 
   type: article
   DOI: 
