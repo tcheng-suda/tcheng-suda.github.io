@@ -421,7 +421,7 @@
 - title: 'Bimetallic PdAu Nanoframes for Electrochemical H2O2 Production in Acids'
   volume: 
   issue: 
-  page: ""
+  page: "ASAP"
   year: 2021
   author:
   - given:
@@ -442,8 +442,8 @@
     family: Li
     role: corr
   journal:
-    abbreviation: Submitted
-  URL: 
+    abbreviation: ACS Mater. Lett.
+  URL: https://doi.org/10.1021/acsmaterialslett.1c00263
   type: article
   DOI: 
   fulltext:
