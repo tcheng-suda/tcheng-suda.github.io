@@ -1,3 +1,55 @@
+- title: 'Facet-selective deposition of ultrathin Al2O3 on copper nanocrystals for highly stable CO2 electroreduction to ethylene'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: H
+    family: Li
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: RB
+    family: Lei
+  - given:
+    given_initial: P
+    family: Wen
+  - given:
+    given_initial: X
+    family: Ma
+  - given:
+    given_initial: GS
+    family: Zeng
+  - given:
+    given_initial: FM
+    family: Toma
+  - given:
+    given_initial: YJ
+    family: Qiu
+  - given:
+    given_initial: SM
+    family: Geyer
+  - given:
+    given_initial: XW
+    family: Wang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: W
+    family: Drisdell
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Anomalous Size Effect of Pt Ultrathin Nanowires on Oxygen Reduction Reaction'
   volume: 
   issue: 
