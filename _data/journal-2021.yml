@@ -309,8 +309,8 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Submitted
-  URL: 
+    abbreviation: J. Electrochem.
+  URL: http://electrochem.xmu.edu.cn/CN/10.13208/j.electrochem.210518
   type: article
   DOI: 
   fulltext:
@@ -354,10 +354,10 @@
     role: corr, main
   journal:
     abbreviation: J. Exp. Nanosci.
-  URL: 
+  URL: https://doi.org/10.1080/17458080.2021.1959032
   type: article
   DOI: 10.1080/17458080.2021.1959032
-  fulltext: https://doi.org/10.1080/17458080.2021.1959032
+  fulltext: 
   language: english
   
 - title: 'Predicted operando Polymerization at Lithium Anode via Boron Insertion'
