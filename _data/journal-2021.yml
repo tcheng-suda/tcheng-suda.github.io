@@ -573,7 +573,7 @@
 - title: 'Predicted three-dimensional structure of low-density amorphous carbon for electrocatalysis electrodes'
   volume: 
   issue: 
-  page: ""
+  page: "ASAP"
   year: 2021
   author:
   - given:
@@ -595,7 +595,7 @@
     family: Luo
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Carbon
   URL: 
   type: article
   DOI: 
@@ -824,9 +824,9 @@
   language: english
   
 - title: 'Approaching 100% Selectivity for Electrochemical CO2 Reduction to CO at Low Potential on Ag Using a Surface Additive'
-  volume: 
+  volume: 11
   issue: 
-  page: "ASAP"
+  page: "9034"
   year: 2021
   author:
   - given:
@@ -1009,9 +1009,9 @@
   language: english
   
 - title: 'Predictions of Chemical Shifts for Reactive Intermediates in CO2 Reduction under operando Conditions'
-  volume: 
-  issue: 
-  page: "ASAP"
+  volume: 13
+  issue: 27
+  page: "31554"
   year: 2021
   author:
   - given:
