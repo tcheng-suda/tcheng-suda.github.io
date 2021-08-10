@@ -613,7 +613,7 @@
   fulltext:
   language: english
   
-- title: 'Predicted three-dimensional structure of low-density amorphous carbon for electrocatalysis electrodes'
+- title: 'Graphitization of low-density amorphous carbon for electrocatalysis electrodes from ReaxFF reactive dynamics'
   volume: 
   issue: 
   page: "ASAP"
@@ -639,7 +639,7 @@
     role: corr
   journal:
     abbreviation: Carbon
-  URL: 
+  URL: https://doi.org/10.1016/j.carbon.2021.07.080
   type: article
   DOI: 
   fulltext:
