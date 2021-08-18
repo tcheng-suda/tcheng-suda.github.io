@@ -1,3 +1,90 @@
+- title: 'Molecular Understanding of Interphase Formation via in-situ Polymerization'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: YL
+    family: Jie
+  - given:
+    given_initial: YL
+    family: Xu
+  - given:
+    given_initial: YW
+    family: Chen
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: FY
+    family: Huang
+  - given:
+    given_initial: ZW
+    family: L
+  - given:
+    given_initial: Z
+    family: Kochovski
+  - given:
+    given_initial: L
+    family: Zheng
+  - given:
+    given_initial: PD
+    family: Song
+  - given:
+    given_initial: CS
+    family: Hu
+  - given:
+    given_initial: ZM
+    family: Qi
+  - given:
+    given_initial: XP
+    family: Li
+  - given:
+    given_initial: SY
+    family: Wang
+  - given:
+    given_initial: YB
+    family: Shen
+  - given:
+    given_initial: LW
+    family: Chen
+  - given:
+    given_initial: YZ
+    family: You
+  - given:
+    given_initial: RG
+    family: Cao
+  - given:
+    given_initial: Y
+    family: Lu
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: K
+    family: Xu
+    role: corr
+  - given:
+    given_initial: SH
+    family: J
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
 - title: 'Au-activated N motifs in Non-coherent Cupric Porphyrin Metal Organic Frameworks for Promoting and Stabilizing Ethylene Production'
   volume: 
   issue: 
