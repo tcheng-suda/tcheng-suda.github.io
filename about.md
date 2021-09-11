@@ -107,6 +107,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Qi Yuan](https://tcheng-suda.github.io/people/qyuan/)   
 Email: [Qi Yuan email](1185326833@qq.com)  
+Now: Ph. D. Student in Tsinghua University  
 <a href="#top">Back to top</a>
 
 ---
@@ -179,6 +180,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Wenxuan Du](https://tcheng-suda.github.io/people/wxdu/)   
 Email:   
+Now:     
 <a href="#top">Back to top</a>
 
 ---
@@ -187,6 +189,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Shiwen Wang](https://tcheng-suda.github.io/people/swwang/)   
 Email:   
+Now: Master Student in Peking University  
 <a href="#top">Back to top</a>
 
 ---
