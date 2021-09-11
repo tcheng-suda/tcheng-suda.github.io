@@ -15,7 +15,7 @@ permalink: /about/
 ---
 **Alumni:**
 |[**Qi Yuan(苑琦)**](#qyuan)
-|. 
+|  
 ---
 ---
 <br />
