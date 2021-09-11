@@ -5,12 +5,16 @@ permalink: /about/
 ---
 ---
 **Members:**
-[**Miao Xie(谢淼)**](#mxie)|[**Hao Yang(杨昊)**](#hyang)|[**Yue Liu(刘越)**](#yliu)|[**Qi Yuan(苑琦)**](#qyuan)
+[**Miao Xie(谢淼)**](#mxie)|[**Hao Yang(杨昊)**](#hyang)|[**Yue Liu(刘越)**](#yliu)
 |[**Peiping Yu(于沛平)**](#ppyu)|[**Yu Wu(吴宇)**](#ywu)|[**Yiming Lu(陆一鸣)**](#ymlu)|[**Liang Xu(许亮)**](#lxu)
 |[**Mengwen Wang(王梦文)**](#mwwang)|[**Zhe Zhang(张哲)**](#zzhang)|[**Xiangcong Song(宋相聪)**](#xhsong)|[**Qintao Sun(孙钦涛)**](#qtsun)
 |[**Yanyan Zhang(张滟滟)**](#yyzhang)|[**Wenxuan Du(杜文轩)**](#wxdu)|[**Shiwen Wang(王诗文)**](#wxdu)|[**Jiayi Zhang(张家奕)**](#jyzhang)
 |[**Baitong Yue(乐柏佟)**](#btyue)|[**Hongchao Tang(唐宏超)**](#hctang)|[**Shuang Feng(冯爽)**](#sfeng)|[**Qiwei Zhou(周琦蔚)**](#qwzhou)
 |[**Jinying Wu(吴晋莹)**](#jywu)|[**Zhengan Xu(严正安)**](#zayan)|[**Qiyu Xu(徐祺禹)**](#qyxu)|  
+---
+**Alumni:**
+|[**Qi Yuan(苑琦)**](#qyuan)
+|. 
 ---
 <br />
 # <a name="tcheng"></a> Tao Cheng(程涛)
