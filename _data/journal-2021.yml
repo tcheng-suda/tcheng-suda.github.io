@@ -1,36 +1,36 @@
 - title: 'Boron-promoted oxidation state transition of nickel in single-layer NiFeB hydroxide nanosheets for efficient oxygen evolution'
- volume:
+  volume:
   issue:
   page: ""
   year: 2021
   author:
- - given:
+  - given:
     given_initial: YK
     family: Bai
- - given:
+  - given:
     given_initial: Y
     family: Wu
- - given:
+  - given:
     given_initial: XC
     family: Zhou
- - given:
+  - given:
     given_initial: M
     family: Xie
- - given:
+  - given:
     given_initial: ZX
     family: Zhang
- - given:
+  - given:
     given_initial: ZJ
     family: Liu
- - given: Tao
+  - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
- - given:
+  - given:
     given_initial: CB
     family: Gao
     role: corr
- journal:
+  journal:
     abbreviation: Submitted
   URL:
   type: article
