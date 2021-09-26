@@ -3,6 +3,8 @@ layout: page
 title: Gallery
 permalink: /gallery/
 ---
+# **Group 2021**
+![group 2021](/images/group2021.jpeg)
 
 # **Cover 2021 ACS Energy Letter**
 ![](https://raw.githubusercontent.com/esemble/pic/master/aelccp_v006i002-4.jpg)
@@ -11,4 +13,4 @@ permalink: /gallery/
 ![cover2020](/images/jpclcd_v011i017-3.jpg)
 
 # **Team 2020**
-![team 2020](/images/group-01-cut.jpg)
+![group 2020](/images/group-01-cut.jpg)
