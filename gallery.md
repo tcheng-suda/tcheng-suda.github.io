@@ -12,5 +12,5 @@ permalink: /gallery/
 # **Cover 2020 JPCL**
 ![cover2020](/images/jpclcd_v011i017-3.jpg)
 
-# **Team 2020**
+# **Group 2020**
 ![group 2020](/images/group-01-cut.jpg)
