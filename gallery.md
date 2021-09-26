@@ -10,7 +10,7 @@ permalink: /gallery/
 ![aelccp-2020](/images/aelccp-2020.jpg)
 
 # **Cover 2020 JPCL**
-![cover2020](/images/jpclcd_v011i017-3.jpg)
+![cover2020](/images/jpclcd_v011i017-3.jpeg)
 
 # **Group 2020**
 ![group 2020](/images/group-01-cut.jpg)
