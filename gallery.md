@@ -4,6 +4,9 @@ title: Gallery
 permalink: /gallery/
 ---
 # **Group 2021**
+![group 2021](/images/group2021-office.jpg)
+
+# **Group 2021**
 ![group 2021](/images/group2021.jpeg)
 
 # **Cover 2021 ACS Energy Letter**
