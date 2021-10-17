@@ -1,3 +1,42 @@
+- title: 'Reduction Mechanism of Solid Electrolyte Interphase Formation on Lithium Metal Anode: Fluorine-rich Electrolyte'
+  volume:
+  issue:
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'In Situ Formation of Circular and Branched Oligomers in Localized High Concentration Electrolyte at Lithium−metal Solid Electrolyte Interphase: A Hybrid ab initio and Reactive Molecular Dynamics'
   volume:
   issue:
