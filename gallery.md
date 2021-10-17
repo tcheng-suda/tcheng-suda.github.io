@@ -4,7 +4,7 @@ title: Gallery
 permalink: /gallery/
 ---
 # **Group 2021 3**
-![group 2021_out](/images/group-2021-out.jpg)
+![group 2021_out](/images/group-2021-out.jpeg)
 
 # **Group 2021 2**
 ![group 2021](/images/group2021-office.jpg)
