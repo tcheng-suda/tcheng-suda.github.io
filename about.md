@@ -84,7 +84,7 @@ Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
 Personal web page: [Yue Liu](https://tcheng-suda.github.io/people/yliu/)  
 Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)  
 
-![yliu_pic](/images/yliu.jpeg)
+{% include image.html url="/images/yliu.jpeg" caption="" width=300 align="center" %}
 
 <a href="#top">Back to top</a>
 
