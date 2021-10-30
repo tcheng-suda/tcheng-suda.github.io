@@ -83,6 +83,9 @@ Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 Personal web page: [Yue Liu](https://tcheng-suda.github.io/people/yliu/)  
 Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)  
+
+![yliu_pic](/images/yliu.jpeg)
+
 <a href="#top">Back to top</a>
 
 ---
