@@ -67,6 +67,9 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <span style="color:black;font-size:18pt;font-weight:bold">Senior Postdoctoral Researcher</span>  
 Personal web page: [Miao Xie](https://tcheng-suda.github.io/people/mxie/)  
 Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)  
+
+{% include image.html url="/images/mxie.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
