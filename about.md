@@ -68,7 +68,7 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 Personal web page: [Miao Xie](https://tcheng-suda.github.io/people/mxie/)  
 Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)  
 
-{% include image.html url="/images/mxie.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/mxie.jpeg" caption="" width=300 align="right" %}
 
 <a href="#top">Back to top</a>
 
@@ -78,6 +78,9 @@ Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)
 <span style="color:black;font-size:18pt;font-weight:bold">Senior Postdoctoral Researcher</span>  
 Personal web page: [Hao Yang](https://tcheng-suda.github.io/people/hyang/)  
 Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)  
+
+{% include image.html url="/images/hyang.jpeg" caption="" width=300 align="right" %}
+
 <a href="#top">Back to top</a>
 
 ---
@@ -87,7 +90,7 @@ Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
 Personal web page: [Yue Liu](https://tcheng-suda.github.io/people/yliu/)  
 Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)  
 
-{% include image.html url="/images/yliu.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/yliu.jpeg" caption="" width=300 align="right" %}
 
 <a href="#top">Back to top</a>
 
