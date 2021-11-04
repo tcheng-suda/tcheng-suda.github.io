@@ -131,6 +131,9 @@ Now: Ph. D. Student in Tsinghua University
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Yu Wu](https://tcheng-suda.github.io/people/ywu/)   
 Email:   
+
+{% include image.html url="/images/ywu.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
@@ -166,6 +169,9 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Zhe Zhang](https://tcheng-suda.github.io/people/zzhang/)   
 Email:   
+
+{% include image.html url="/images/zzhang.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
@@ -261,6 +267,9 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Qiwei Zhou](https://tcheng-suda.github.io/people/qwzhou/)   
 Email:   
+
+{% include image.html url="/images/qwzhou.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
