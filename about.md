@@ -268,7 +268,7 @@ Personal web page:  [Jinying Wu](https://tcheng-suda.github.io/people/jywu/)
 Email:   
 <a href="#top">Back to top</a>
 
-{% include image.html url="/images/jjwu.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/jywu.jpeg" caption="" width=300 align="center" %}
 
 ---
 <br />   
