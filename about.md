@@ -171,6 +171,9 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Xiangcong Song](https://tcheng-suda.github.io/people/xhsong/)   
 Email:   
+
+{% include image.html url="/images/xcsong.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
@@ -179,6 +182,9 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Qintao Sun](https://tcheng-suda.github.io/people/qtsun/)   
 Email:   
+
+{% include image.html url="/images/qtsun.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
@@ -240,6 +246,10 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Shuang Feng](https://tcheng-suda.github.io/people/sfeng/)   
 Email:   
+
+{% include image.html url="/images/sfeng.jpeg" caption="" width=300 align="center" %}
+
+
 <a href="#top">Back to top</a>
 
 ---
@@ -257,6 +267,8 @@ Email:
 Personal web page:  [Jinying Wu](https://tcheng-suda.github.io/people/jywu/)   
 Email:   
 <a href="#top">Back to top</a>
+
+{% include image.html url="/images/jjwu.jpeg" caption="" width=300 align="center" %}
 
 ---
 <br />   
