@@ -119,7 +119,7 @@ Email: [ppyu@stu.suda.edu.cn](ppyu@stu.suda.edu.cn)
 ---
 <br />   
 # <a name="qyuan"></a>Qi Yuan (苑琦)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Graduated)</span>  
 Personal web page:  [Qi Yuan](https://tcheng-suda.github.io/people/qyuan/)   
 Email: [Qi Yuan email](1185326833@qq.com)  
 Now: Ph. D. Student in Tsinghua University  
@@ -201,16 +201,16 @@ Email:
 ---
 <br />   
 # <a name="wxdu"></a>Wenxuan Du(杜文轩)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Graduated)</span>  
 Personal web page:  [Wenxuan Du](https://tcheng-suda.github.io/people/wxdu/)   
 Email:   
-Now:     
+Now: Master Student in University of Southern California (USA)     
 <a href="#top">Back to top</a>
 
 ---
 <br />   
 # <a name="wxdu"></a>Shiwen Wang(王诗文)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Graduated)</span>  
 Personal web page:  [Shiwen Wang](https://tcheng-suda.github.io/people/swwang/)   
 Email:   
 Now: Master Student in Peking University  
