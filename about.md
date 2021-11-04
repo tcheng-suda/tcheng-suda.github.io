@@ -147,6 +147,9 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Liang Xu](https://tcheng-suda.github.io/people/lxu/)   
 Email:   
+
+{% include image.html url="/images/lxu.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
