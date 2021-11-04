@@ -100,6 +100,9 @@ Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)
 <span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>  
 Personal web page: [Bingyun Ma](https://tcheng-suda.github.io/people/byma/)  
 Email: [byma@suda.edu.cn](byma@suda.edu.cn)  
+
+{% include image.html url="/images/byma.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
@@ -107,7 +110,10 @@ Email: [byma@suda.edu.cn](byma@suda.edu.cn)
 # <a name="ppyu"></a>Peiping Yu(于沛平)
 <span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>  
 Personal web page:  [Peiping Yu](https://tcheng-suda.github.io/people/ppyu/)   
-Email:   
+Email: [ppyu@stu.suda.edu.cn](ppyu@stu.suda.edu.cn)  
+
+{% include image.html url="/images/ppyu.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
@@ -223,6 +229,9 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Hongchao Tang](https://tcheng-suda.github.io/people/hctang/)   
 Email:   
+
+{% include image.html url="/images/hctang.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
