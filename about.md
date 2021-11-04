@@ -130,7 +130,7 @@ Now: Ph. D. Student in Tsinghua University
 # <a name="ywu"></a>Yu Wu(吴宇)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Yu Wu](https://tcheng-suda.github.io/people/ywu/)   
-Email:   
+Email:[20194214097@stu.suda.edu.cn](20194214097@stu.suda.edu.cn)   
 
 {% include image.html url="/images/ywu.jpeg" caption="" width=300 align="center" %}
 
@@ -141,7 +141,7 @@ Email:
 # <a name="ymlu"></a>Yiming Lu(陆一鸣)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Yiming Lu](https://tcheng-suda.github.io/people/ymlu/)   
-Email:   
+Email:[ymlu@stu.suda.edu.cn](ymlu@stu.suda.edu.cn)   
 <a href="#top">Back to top</a>
 
 ---
@@ -149,7 +149,7 @@ Email:
 # <a name="lxu"></a>Liang Xu(许亮)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Liang Xu](https://tcheng-suda.github.io/people/lxu/)   
-Email:   
+Email:[lxu110@stu.suda.edu.cn](lxu110@stu.suda.edu.cn)   
 
 {% include image.html url="/images/lxu.jpeg" caption="" width=300 align="center" %}
 
@@ -160,7 +160,8 @@ Email:
 # <a name="mwwang"></a>Mengwen Wang(王梦文)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Mengwen Wang](https://tcheng-suda.github.io/people/mwwang/)   
-Email:   
+Email:[mwwang1@stu.suda.edu.cn](mwwang1@stu.suda.edu.cn)
+
 <a href="#top">Back to top</a>
 
 ---
@@ -168,7 +169,7 @@ Email:
 # <a name="zzhang"></a>Zhe Zhang(张哲)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Zhe Zhang](https://tcheng-suda.github.io/people/zzhang/)   
-Email:   
+Email:[zzhangz@stu.suda.edu.cn](zzhangz@stu.suda.edu.cn)   
 
 {% include image.html url="/images/zzhang.jpeg" caption="" width=300 align="center" %}
 
@@ -179,7 +180,7 @@ Email:
 # <a name="xhsong"></a>Xiangcong Song(宋相聪)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Xiangcong Song](https://tcheng-suda.github.io/people/xhsong/)   
-Email:   
+Email:[xcsongxcsong@stu.suda.edu.cn](xcsongxcsong@stu.suda.edu.cn)   
 
 {% include image.html url="/images/xcsong.jpeg" caption="" width=300 align="center" %}
 
@@ -190,7 +191,7 @@ Email:
 # <a name="qtsun"></a>Qintao Sun(孙钦涛)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Qintao Sun](https://tcheng-suda.github.io/people/qtsun/)   
-Email:   
+Email:[qtsunqtsun@stu.suda.edu.cn](qtsunqtsun@stu.suda.edu.cn)   
 
 {% include image.html url="/images/qtsun.jpeg" caption="" width=300 align="center" %}
 
@@ -198,10 +199,10 @@ Email:
 
 ---
 <br />   
-# <a name="yyzhang"></a>Qintao Sun(张滟滟)
+# <a name="yyzhang"></a>Yanyan Zhang(张滟滟)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Yanyan Zhang](https://tcheng-suda.github.io/people/yyzhang/)   
-Email:   
+Email:[1814401017@stu.suda.edu.cn](1814401017@stu.suda.edu.cn)   
 <a href="#top">Back to top</a>
 
 ---
@@ -227,7 +228,7 @@ Now: Master Student in Peking University
 # <a name="jyzhang"></a>Jiayi Zhang(张家奕)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Jiayi Zhang](https://tcheng-suda.github.io/people/jyzhang/)   
-Email:   
+Email:[1219646977@qq.com](1219646977@qq.com)   
 <a href="#top">Back to top</a>
 
 ---
@@ -243,7 +244,7 @@ Email:
 # <a name="hctang"></a>Hongchao Tang(唐宏超)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Hongchao Tang](https://tcheng-suda.github.io/people/hctang/)   
-Email:   
+Email:[1197853233@qq.com](1197853233@qq.com)   
 
 {% include image.html url="/images/hctang.jpeg" caption="" width=300 align="center" %}
 
@@ -254,7 +255,7 @@ Email:
 # <a name="sfeng"></a>Shuang Feng(冯爽)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Shuang Feng](https://tcheng-suda.github.io/people/sfeng/)   
-Email:   
+Email:[fengshuanghi@qq.com](fengshuanghi@qq.com)   
 
 {% include image.html url="/images/sfeng.jpeg" caption="" width=300 align="center" %}
 
@@ -266,7 +267,7 @@ Email:
 # <a name="qwzhou"></a>Qiwei Zhou(周琦蔚)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Qiwei Zhou](https://tcheng-suda.github.io/people/qwzhou/)   
-Email:   
+Email:[1012024382@qq.com](1012024382@qq.com)   
 
 {% include image.html url="/images/qwzhou.jpeg" caption="" width=300 align="center" %}
 
@@ -277,11 +278,11 @@ Email:
 # <a name="jywu"></a>Jinying Wu(吴晋莹)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Jinying Wu](https://tcheng-suda.github.io/people/jywu/)   
-Email:   
-<a href="#top">Back to top</a>
+Email:[woshiwjy@foxmail.com](woshiwjy@foxmail.com)   
 
 {% include image.html url="/images/jywu.jpeg" caption="" width=300 align="center" %}
 
+<a href="#top">Back to top</a>
 ---
 <br />   
 # <a name="zayan"></a>Zhengan Yan(严正安)
