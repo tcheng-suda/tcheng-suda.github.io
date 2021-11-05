@@ -10,7 +10,7 @@ permalink: /about/
 |[**Mengwen Wang(王梦文)**](#mwwang)|[**Zhe Zhang(张哲)**](#zzhang)|[**Xiangcong Song(宋相聪)**](#xhsong)|[**Qintao Sun(孙钦涛)**](#qtsun)
 |[**Yanyan Zhang(张滟滟)**](#yyzhang)|[**Jiayi Zhang(张家奕)**](#jyzhang)
 |[**Baitong Yue(乐柏佟)**](#btyue)|[**Hongchao Tang(唐宏超)**](#hctang)|[**Shuang Feng(冯爽)**](#sfeng)|[**Qiwei Zhou(周琦蔚)**](#qwzhou)
-|[**Jinying Wu(吴晋莹)**](#jywu)|[**Zhengan Xu(严正安)**](#zayan)|[**Qiyu Xu(徐祺禹)**](#qyxu)|  
+|[**Jinying Wu(吴晋莹)**](#jywu)|[**Zhengan Xu(严正安)**](#zayan)|[**Qiyu Xu(徐祺禹)**](#qyxu)|[**Yingqi Liao(廖英琦)**](#yqliao)|  
 **Alumni:**
 |[**Qi Yuan(苑琦)**](#qyuan)
 |[**Wenxuan Du(杜文轩)**](#wxdu)
@@ -302,3 +302,10 @@ Personal web page:  [Qiyu Xu](https://tcheng-suda.github.io/people/qyxu/)
 Email:   
 <a href="#top">Back to top</a>
 
+---
+<br />   
+# <a name="yqliao"></a>Yingqi Liao(廖英琦)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+Personal web page:  [Yingqi Liao](https://tcheng-suda.github.io/people/yqliao/)   
+Email:   
+<a href="#top">Back to top</a>
