@@ -142,6 +142,9 @@ Email:[20194214097@stu.suda.edu.cn](20194214097@stu.suda.edu.cn)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Yiming Lu](https://tcheng-suda.github.io/people/ymlu/)   
 Email:[ymlu@stu.suda.edu.cn](ymlu@stu.suda.edu.cn)   
+
+{% include image.html url="/images/ymlu.jpg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
