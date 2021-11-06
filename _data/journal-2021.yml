@@ -1,3 +1,40 @@
+- title: 'Ligand-Mediated Self-Terminating Growth of Single-Atom Pt on Au Nanocrystals for Improved Formic Acid Oxidation Activity'
+  volume:
+  issue:
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: MX
+    family: Liu
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: ZX
+    family: Zhang
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: Adv. Energy Mater.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Rh/RhOx nanosheets as pH-universal bifunctional catalysts for hydrazine oxidation and hydrogen evolution reactions'
   volume:
   issue:
