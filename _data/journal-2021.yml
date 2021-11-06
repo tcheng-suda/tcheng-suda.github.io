@@ -22,7 +22,7 @@
   - given:
     given_initial: T
     family: Cheng
-    role: corr
+    role: corr, main
   - given:
     given_initial: CB
     family: Gao
