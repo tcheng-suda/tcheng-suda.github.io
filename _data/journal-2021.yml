@@ -1,3 +1,54 @@
+- title: 'From n-alkane to polyacetylene on Cu (110): Linkage modulation in Chain Growth'
+  volume:
+  issue:
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: ZM
+    family: Hao
+  - given:
+    given_initial: JJ
+    family: Zhang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: XC
+    family: Li
+  - given:
+    given_initial: LN
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: KF
+    family: Niu
+  - given:
+    given_initial: JB
+    family: Wang
+  - given:
+    given_initial: LY
+    family: Song
+  - given:
+    given_initial: T
+    family: Cheng
+  - given:
+    given_initial: HM
+    family: Zhang
+  - given:
+    given_initial: LF
+    family: Chi
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'The exclusive surface and electronic effects of Ni on promoting the activity of Pt towards alkaline hydrogen oxidation'
   volume:
   issue:
