@@ -1,3 +1,39 @@
+- title: 'Multiscale Simulation of Solid Electrolyte Interface Formation in Fluorinated Diluted Electrolyte with Lithium Anode'
+  volume:
+  issue:
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'From n-alkane to polyacetylene on Cu (110): Linkage modulation in Chain Growth'
   volume:
   issue:
