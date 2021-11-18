@@ -53,12 +53,15 @@
   - given:
     given_initial: J
     family: Li
+    role: corr
   - given:
     given_initial: HS
     family: Peng
+    role: corr
   - given:
     given_initial: B
     family: Zhang
+    role: corr
   journal:
     abbreviation: Submitted
   URL:
