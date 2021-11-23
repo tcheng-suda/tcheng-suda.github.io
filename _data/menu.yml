@@ -1,6 +1,7 @@
 - title: "Research"
   href: "/research/"
 
+  
 - title: "News"
   href: "/news/"
 
@@ -27,6 +28,9 @@
   
 - title: "More"
   href: "/more/"
+
+- title: "blog"
+  href: "/blog/"
   
 #- title: "CONTACT"
 #  href: "/contact/"
