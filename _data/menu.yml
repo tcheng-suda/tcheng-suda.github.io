@@ -2,7 +2,7 @@
   href: "/research/"
 
   
-- title: "News"
+- title: "Blog"
   href: "/news/"
 
 - title: "People"
@@ -29,8 +29,8 @@
 - title: "More"
   href: "/more/"
 
-- title: "blog"
-  href: "/blog/"
+#- title: "blog"
+#  href: "/blog/"
   
 #- title: "CONTACT"
 #  href: "/contact/"
