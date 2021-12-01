@@ -911,10 +911,10 @@
   fulltext:
   language: english
   
-- title: 'Dual-activation interfacial polymerization toward ionic covalent organic framework membranes'
+- title: 'Assembling covalent organic framework membranes with superhigh ion exchange capacity'
   volume: 
   issue: 
-  page: ""
+  page: "ASAP"
   year: 2021
   author:
   - given:
@@ -951,12 +951,13 @@
   - given:
     given_initial: RN
     family: Zhang
+    role: corr
   - given:
     given_initial: ZY
     family: Jiang
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Nat. Comm.
   URL: 
   type: article
   DOI: 
