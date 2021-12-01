@@ -1,3 +1,46 @@
+- title: 'TiH2 quantum dots exfoliated via facile sonication as bifunctional electrocatalysts for Li-S batteries'
+  volume:
+  issue:
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: TR
+    family: Yan
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: F
+    family: Gong
+  - given:
+    given_initial: C
+    family: Cheng
+  - given:
+    given_initial: J
+    family: Mao
+  - given:
+    given_initial: KH
+    family: Dai
+  - given:
+    given_initial: L
+    family: Cheng
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: *
+    family:
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Harmonizing Graphene Laminate Spacing and Zn-ion Solvated Structure toward Efficient Compact Capacitive Charge Storage'
   volume:
   issue:
