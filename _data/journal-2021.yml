@@ -28,10 +28,10 @@
   - given: Tao
     given_initial: T
     family: Cheng
-    role: main
+    role: main, corr
   - given:
-    given_initial: *
-    family:
+    given_initial: L
+    family: Zhang
     role: corr
   journal:
     abbreviation: Submitted
