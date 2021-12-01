@@ -25,6 +25,7 @@
   - given:
     given_initial: L
     family: Cheng
+    role: corr
   - given: Tao
     given_initial: T
     family: Cheng
