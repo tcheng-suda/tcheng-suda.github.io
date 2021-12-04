@@ -1,3 +1,50 @@
+- title: 'Single-site Pt doped RuO2 hollow nanospheres with interstitial C for high-performance acidic overall water splitting'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2021
+  author:
+  - given:
+    given_initial: J
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: F
+    family: Li
+  - given:
+    given_initial: LG
+    family: Li
+  - given:
+    given_initial: JB
+    family: Wu
+  - given:
+    given_initial: SH
+    family: Liu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Y
+    family: Xu
+    role: corr
+  - given:
+    given_initial: Q
+    family: Shao
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Sci. Adv.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'TiH2 quantum dots exfoliated via facile sonication as bifunctional electrocatalysts for Li-S batteries'
   volume:
   issue:
