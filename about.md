@@ -207,6 +207,9 @@ Email:[qtsunqtsun@stu.suda.edu.cn](qtsunqtsun@stu.suda.edu.cn)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Yanyan Zhang](https://tcheng-suda.github.io/people/yyzhang/)   
 Email:[1814401017@stu.suda.edu.cn](1814401017@stu.suda.edu.cn)   
+
+{% include image.html url="/images/yyzhang.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
@@ -233,6 +236,9 @@ Now: Master Student in Peking University
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Jiayi Zhang](https://tcheng-suda.github.io/people/jyzhang/)   
 Email:[1219646977@qq.com](1219646977@qq.com)   
+
+{% include image.html url="/images/jyzhang.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
@@ -317,6 +323,9 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Jiachen Lu](https://tcheng-suda.github.io/people/jclu/)   
 Email:   
+
+{% include image.html url="/images/jclu.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
@@ -325,4 +334,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 Personal web page:  [Haochen Huang](https://tcheng-suda.github.io/people/jclu/)   
 Email:   
+
+{% include image.html url="/images/hchuang.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
