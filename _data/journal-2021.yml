@@ -10,6 +10,7 @@
   - given:
     given_initial: T
     family: Cheng
+    role: main
   - given:
     given_initial: ZH
     family: Huang
