@@ -1,3 +1,47 @@
+- title: 'Record electrocatalytic CO2–to–ethanol production via asymmetric C–C coupling'
+  volume:
+  issue:
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: PT
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Cheng
+  - given:
+    given_initial: C
+    family: Tang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Y
+    family: Zheng
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: K
+    family: Davey
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  - given:
+    given_initial: SZ
+    family: Qiao
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Determining Hydronium pKa on Platinum Surface and Impact on Hydrogen Evolution Reaction'
   volume:
   issue:
