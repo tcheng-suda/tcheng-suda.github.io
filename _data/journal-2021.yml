@@ -603,10 +603,10 @@
   language: english
 
 - title: 'Reduction Mechanism of Solid Electrolyte Interphase Formation on Lithium Metal Anode: Fluorine-rich Electrolyte'
-  volume:
+  volume: 169
   issue:
-  page: "ASAP"
-  year: 2021
+  page: "010503"
+  year: 2022
   author:
   - given:
     given_initial: Y
@@ -635,7 +635,7 @@
     role: corr, main
   journal:
     abbreviation: J. Electrochem. Soc.
-  URL:
+  URL: https://doi.org/10.1149/1945-7111/ac44bc
   type: article
   DOI:
   fulltext:
