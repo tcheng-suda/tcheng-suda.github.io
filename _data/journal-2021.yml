@@ -642,10 +642,10 @@
   language: english
 
 - title: 'In Situ Formation of Circular and Branched Oligomers in Localized High Concentration Electrolyte at Lithium−metal Solid Electrolyte Interphase: A Hybrid ab initio and Reactive Molecular Dynamics'
-  volume:
+  volume: 10
   issue:
-  page: "ASAP"
-  year: 2021
+  page: "632-639"
+  year: 2022
   author:
   - given:
     given_initial: Y
