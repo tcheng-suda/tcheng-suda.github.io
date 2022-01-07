@@ -11,7 +11,7 @@ permalink: /about/
 |[**Yanyan Zhang(张滟滟)**](#yyzhang)|[**Jiayi Zhang(张家奕)**](#jyzhang)
 |[**Baitong Yue(乐柏佟)**](#btyue)|[**Hongchao Tang(唐宏超)**](#hctang)|[**Shuang Feng(冯爽)**](#sfeng)|[**Qiwei Zhou(周琦蔚)**](#qwzhou)
 |[**Jinying Wu(吴晋莹)**](#jywu)|[**Zhengan Xu(严正安)**](#zayan)|[**Qiyu Xu(徐祺禹)**](#qyxu)|[**Yingqi Liao(廖英琦)**](#yqliao)
-|[**Jianchen Lu(鲁珈辰)**](#jclu)|[**Haochen Huang(黄浩宸)**](#hchuang)|  
+|[**Jianchen Lu(鲁珈辰)**](#jclu)|[**Haochen Huang(黄浩宸)**](#hchuang)|[**Yongpeng Wang(王永朋)**](#ypwang)|  
 **Alumni:**
 |[**Qi Yuan(苑琦)**](#qyuan)
 |[**Wenxuan Du(杜文轩)**](#wxdu)
@@ -336,5 +336,14 @@ Personal web page:  [Haochen Huang](https://tcheng-suda.github.io/people/jclu/)
 Email:   
 
 {% include image.html url="/images/hchuang.jpeg" caption="" width=300 align="center" %}
+
+<a href="#top">Back to top</a>
+
+---
+<br />   
+# <a name="ypwang"></a>Yongpeng Wang(王永朋)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+Personal web page:  [Yongpeng Wang](https://tcheng-suda.github.io/people/ypwang/)   
+Email:   
 
 <a href="#top">Back to top</a>
