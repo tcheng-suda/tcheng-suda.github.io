@@ -342,7 +342,7 @@ Email:
 ---
 <br />   
 # <a name="ypwang"></a>Yongpeng Wang(王永朋)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
 Personal web page:  [Yongpeng Wang](https://tcheng-suda.github.io/people/ypwang/)   
 Email:   
 
