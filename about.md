@@ -76,7 +76,7 @@ Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)
 ---
 <br />   
 # <a name="hyang"></a>Hao Yang(杨昊)
-<span style="color:black;font-size:18pt;font-weight:bold">Senior Postdoctoral Researcher</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Assistant Professor</span>  
 Personal web page: [Hao Yang](https://tcheng-suda.github.io/people/hyang/)  
 Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)  
 
@@ -87,7 +87,7 @@ Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
 ---
 <br />   
 # <a name="yliu"></a>Yue Liu(刘越)
-<span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Senior Postdoctoral Researcher</span>  
 Personal web page: [Yue Liu](https://tcheng-suda.github.io/people/yliu/)  
 Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)  
 
