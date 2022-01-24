@@ -1,8 +1,41 @@
+- title: 'Multiscale Simulation of Solid Electrolyte Interphase'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Stimulating the pre-catalyst redox reaction and proton-electron transfer process of cobalt phthalocyanine for CO2 electroreduction'
   volume:
   issue:
   page: ""
-  year: 2021
+  year: 2022
   author:
   - given:
     given_initial: HY
