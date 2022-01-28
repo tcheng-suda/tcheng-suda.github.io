@@ -263,8 +263,8 @@
     given_initial: L
     family: Zhang
     role: corr
-  journal: ACS Appl. Mater. Interfaces
-    abbreviation: Submitted
+  journal: 
+    abbreviation: ACS Appl. Mater. Interfaces
   URL: https://doi.org/10.1021/acsami.1c23815
   type: article
   DOI:
