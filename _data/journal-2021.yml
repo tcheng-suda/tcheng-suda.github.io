@@ -231,7 +231,7 @@
   volume:
   issue:
   page: ""
-  year: 2021
+  year: 2022
   author:
   - given:
     given_initial: TR
@@ -263,9 +263,9 @@
     given_initial: L
     family: Zhang
     role: corr
-  journal:
+  journal: ACS Appl. Mater. Interfaces
     abbreviation: Submitted
-  URL:
+  URL: https://doi.org/10.1021/acsami.1c23815
   type: article
   DOI:
   fulltext:
@@ -401,8 +401,8 @@
 - title: 'Multiscale Simulation of Solid Electrolyte Interface Formation in Fluorinated Diluted Electrolyte with Lithium Anode'
   volume:
   issue:
-  page: ""
-  year: 2021
+  page: "ASAP"
+  year: 2022
   author:
   - given:
     given_initial: PP
@@ -427,7 +427,7 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Submitted
+    abbreviation: ACS Appl. Mater. Interfaces
   URL:
   type: article
   DOI:
