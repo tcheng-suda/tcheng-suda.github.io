@@ -141,7 +141,7 @@
 - title: 'Formation of Linear Oligomers in Solid Electrolyte Interphase via Two-Electron Reduction of Ethylene Carbonate'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2021
   author:
   - given:
@@ -173,7 +173,7 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Submitted
+    abbreviation: Adv. Theory Simul.
   URL:
   type: article
   DOI:
@@ -274,8 +274,8 @@
 - title: 'Harmonizing Graphene Laminate Spacing and Zn-ion Solvated Structure toward Efficient Compact Capacitive Charge Storage'
   volume:
   issue:
-  page: ""
-  year: 2021
+  page: "ASAP"
+  year: 2022
   author:
   - given:
     given_initial: JR
@@ -319,7 +319,7 @@
     family: Shao
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Adv. Funct. Mater
   URL:
   type: article
   DOI:
@@ -428,7 +428,7 @@
     role: corr, main
   journal:
     abbreviation: ACS Appl. Mater. Interfaces
-  URL:
+  URL: https://doi.org/10.1021/acsami.1c22610
   type: article
   DOI:
   fulltext:
@@ -872,10 +872,10 @@
   fulltext:
   language: english
   
-- title: 'Regular Shaped and Slim Nanosheets of Hofmann Type MOF with Site Tuning Highly Efficient for Oxygen Evolution Reaction'
-  volume: 
+- title: 'Hofmann-Type Metal–Organic Framework Nanosheets for Oxygen Evolution'
+  volume: 4
   issue: 
-  page: ""
+  page: "14161–14168"
   year: 2021
   author:
   - given:
@@ -908,7 +908,7 @@
     family: Cheng
     role: main
   journal:
-    abbreviation: Submitted
+    abbreviation: ACS Appl. Nano Mater.
   URL: 
   type: article
   DOI: 
@@ -918,8 +918,8 @@
 - title: 'Self-supported hierarchical crystalline carbon nitride arrays with triazine-heptazine heterojunctions for highly efficient photoredox catalysis'
   volume: 
   issue: 
-  page: ""
-  year: 2021
+  page: "ASAP"
+  year: 2022
   author:
   - given:
     given_initial: ZZ
@@ -954,8 +954,8 @@
     family: Huang
     role: corr
   journal:
-    abbreviation: Submitted
-  URL: 
+    abbreviation: Chem. Eng. Sci.
+  URL: https://doi.org/10.1016/j.cej.2022.134865
   type: article
   DOI: 
   fulltext:
@@ -1391,9 +1391,9 @@
     role: corr
   journal:
     abbreviation: Chin. J. Chem. Phys
-  URL: 
+  URL: 10.1063/1674-0068/cjcp2109153 
   type: article
-  DOI: 
+  DOI: 10.1063/1674-0068/cjcp2109153
   fulltext:
   language: english
   
@@ -1449,8 +1449,8 @@
 - title: 'Boosting Hydrogen Production with Ultralow Working Voltage by Selenium Vacancy Enhanced Ultrafine Platinum-Nickel Nanowires'
   volume: 
   issue: 
-  page: ""
-  year: 2021
+  page: "ASAP"
+  year: 2022
   author:
   - given:
     given_initial: Y
@@ -1481,10 +1481,10 @@
     family: Shao
     role: corr
   journal:
-    abbreviation: Submitted
-  URL: 
+    abbreviation: SmartMat
+  URL: https://doi.org/10.1002/smm2.1083
   type: article
-  DOI: 
+  DOI: 10.1002/smm2.1083
   fulltext:
   language: english
   
