@@ -320,7 +320,7 @@
     role: corr
   journal:
     abbreviation: Adv. Funct. Mater
-  URL:
+  URL: https://doi.org/10.1002/adfm.202112151
   type: article
   DOI:
   fulltext:
@@ -399,9 +399,9 @@
   language: english
 
 - title: 'Multiscale Simulation of Solid Electrolyte Interface Formation in Fluorinated Diluted Electrolyte with Lithium Anode'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 14
+  issue: 6
+  page: "7972–7979"
   year: 2022
   author:
   - given:
@@ -435,8 +435,8 @@
   language: english
 
 - title: 'From n-alkane to polyacetylene on Cu (110): Linkage modulation in Chain Growth'
-  volume:
-  issue:
+  volume: 8
+  issue: 10
   page: ""
   year: 2021
   author:
@@ -478,9 +478,9 @@
     given_initial: LF
     family: Chi
     role: corr
-  journal:
+  journal: Natl. Sci. Rev.
     abbreviation: Submitted
-  URL:
+  URL: https://doi.org/10.1093/nsr/nwab093
   type: article
   DOI:
   fulltext:
@@ -525,10 +525,10 @@
   language: english
 
 - title: 'Ligand-Mediated Self-Terminating Growth of Single-Atom Pt on Au Nanocrystals for Improved Formic Acid Oxidation Activity'
-  volume:
+  volume: 12
   issue:
-  page: "ASAP"
-  year: 2021
+  page: "2103195"
+  year: 2022
   author:
   - given:
     given_initial: MX
@@ -562,10 +562,10 @@
   language: english
 
 - title: 'Rh/RhOx nanosheets as pH-universal bifunctional catalysts for hydrazine oxidation and hydrogen evolution reactions'
-  volume:
+  volume: 10
   issue:
-  page: "ASAP"
-  year: 2021
+  page: "1891-1898"
+  year: 2022
   author:
   - given:
     given_initial: JJ
@@ -808,10 +808,10 @@
   language: english
   
 - title: 'Au-activated N motifs in Non-coherent Cupric Porphyrin Metal Organic Frameworks for Promoting and Stabilizing Ethylene Production'
-  volume: 
+  volume: 13
   issue: 
-  page: "ASAP"
-  year: 2021
+  page: "63"
+  year: 2022
   author:
   - given:
     given_initial: X
@@ -909,16 +909,16 @@
     role: main
   journal:
     abbreviation: ACS Appl. Nano Mater.
-  URL: 
+  URL: https://doi.org/10.1021/acsanm.1c03619
   type: article
   DOI: 
   fulltext:
   language: english
   
 - title: 'Self-supported hierarchical crystalline carbon nitride arrays with triazine-heptazine heterojunctions for highly efficient photoredox catalysis'
-  volume: 
+  volume: 435
   issue: 
-  page: "ASAP"
+  page: "134865"
   year: 2022
   author:
   - given:
@@ -962,10 +962,10 @@
   language: english
   
 - title: 'In-silico Screening the Nitrogen Reduction Reaction on Single-Atom Electrocatalysts Anchored on MoS2'
-  volume: 
+  volume: 65
   issue: 
-  page: "ASAP"
-  year: 2021
+  page: "234–241"
+  year: 2022
   author:
   - given:
     given_initial: L
@@ -1141,9 +1141,9 @@
   language: english
   
 - title: 'Assembling covalent organic framework membranes with superhigh ion exchange capacity'
-  volume: 
+  volume: 13
   issue: 
-  page: "ASAP"
+  page: "1020"
   year: 2021
   author:
   - given:
@@ -1187,7 +1187,7 @@
     role: corr
   journal:
     abbreviation: Nat. Comm.
-  URL: 
+  URL: https://doi.org/10.1038/s41467-022-28643-8
   type: article
   DOI: 
   fulltext:
@@ -1449,7 +1449,7 @@
 - title: 'Boosting Hydrogen Production with Ultralow Working Voltage by Selenium Vacancy Enhanced Ultrafine Platinum-Nickel Nanowires'
   volume: 
   issue: 
-  page: "ASAP"
+  page: "1"
   year: 2022
   author:
   - given:
