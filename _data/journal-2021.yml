@@ -229,7 +229,7 @@
 
 - title: 'TiH2 quantum dots exfoliated via facile sonication as bifunctional electrocatalysts for Li-S batteries'
   volume: 14
-  issue: 5
+  issue: 
   page: "6937–6944"
   year: 2022
   author:
@@ -400,7 +400,7 @@
 
 - title: 'Multiscale Simulation of Solid Electrolyte Interface Formation in Fluorinated Diluted Electrolyte with Lithium Anode'
   volume: 14
-  issue: 6
+  issue: 
   page: "7972–7979"
   year: 2022
   author:
@@ -436,7 +436,7 @@
 
 - title: 'From n-alkane to polyacetylene on Cu (110): Linkage modulation in Chain Growth'
   volume: 8
-  issue: 10
+  issue: 
   page: ""
   year: 2021
   author:
@@ -478,8 +478,8 @@
     given_initial: LF
     family: Chi
     role: corr
-  journal: Natl. Sci. Rev.
-    abbreviation: Submitted
+  journal: 
+    abbreviation: Natl. Sci. Rev.
   URL: https://doi.org/10.1093/nsr/nwab093
   type: article
   DOI:
