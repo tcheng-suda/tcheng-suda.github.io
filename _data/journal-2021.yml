@@ -181,9 +181,9 @@
   language: english
 
 - title: 'Single-site Pt doped RuO2 hollow nanospheres with interstitial C for high-performance acidic overall water splitting'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 8
+  issue: 9
+  page: "eabl9271"
   year: 2021
   author:
   - given:
@@ -221,9 +221,9 @@
     role: corr
   journal:
     abbreviation: Sci. Adv.
-  URL:
+  URL: https://doi.org/10.1126/sciadv.abl9271
   type: article
-  DOI:
+  DOI: 10.1126/sciadv.abl9271
   fulltext:
   language: english
 
