@@ -1193,54 +1193,6 @@
   fulltext:
   language: english
   
-- title: 'A Low Spin Fe(II) Complex Bearing aHighly Conjugated Aromatic Lig-and with Nanosecond Charge-Transfer Excited State Lifetime'
-  volume: 
-  issue: 
-  page: ""
-  year: 2021
-  author:
-  - given:
-    given_initial: YF
-    family: Cui
-  - given:
-    given_initial: Q
-    family: Zhang
-  - given:
-    given_initial: XM
-    family: Zhang
-  - given:
-    given_initial: YH
-    family: Li
-    role: corr
-  - given:
-    given_initial: CC
-    family: Qin
-    role: corr
-  - given:
-    given_initial: M
-    family: Xie
-    role: corr
-  - given:
-    given_initial: L
-    family: Wu
-  - given:
-    given_initial: YP
-    family: Dong
-  - given:
-    given_initial: CP
-    family: Kong
-  - given:
-    given_initial: T
-    family: Cheng
-    role: main
-  journal:
-    abbreviation: Submitted
-  URL: 
-  type: article
-  DOI: 
-  fulltext:
-  language: english
-  
 - title: 'Multi-scale Simulation Reveals the Decomposition Mechanism of Electrolyte on Lithium Metal Electrode'
   volume: 
   issue: 
@@ -1831,58 +1783,6 @@
   URL: https://doi.org/10.1007/s12274-021-3561-2 
   type: article
   DOI: 10.1007/s12274-021-3561-2 
-  fulltext:
-  language: english
-  
-- title: 'Epitaxial Lattice Expansion of Palladium on Silver Nanocrystals Accelerates Dehydrogenation of Ethanol toward Complete Oxidation'
-  volume: 
-  issue: 
-  page: ""
-  year: 2021
-  author:
-  - given:
-    given_initial: MX
-    family: Liu
-  - given:
-    given_initial: Miao
-    family: Xie
-  - given:
-    given_initial: YL
-    family: Jiang
-  - given:
-    given_initial: ZJ
-    family: Liu
-  - given:
-    given_initial: YM
-    family: Lu
-  - given:
-    given_initial: SM
-    family: Zhang
-  - given:
-    given_initial: ZX
-    family: Zhang
-  - given:
-    given_initial: XX
-    family: Wang
-  - given:
-    given_initial: K
-    family: Liu
-  - given:
-    given_initial: Q
-    family: Zhang
-  - given:
-    given_initial: T
-    family: Cheng
-    role: corr, main
-  - given:
-    given_initial: CB
-    family: Gao
-    role: corr
-  journal:
-    abbreviation: Submitted
-  URL: 
-  type: article
-  DOI: 
   fulltext:
   language: english
 
