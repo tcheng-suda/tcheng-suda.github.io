@@ -2,7 +2,7 @@
   volume:
   issue:
   page: ""
-  year: 2021
+  year: 2022
   author:
   - given:
     given_initial: PT
@@ -46,7 +46,7 @@
   volume:
   issue:
   page: ""
-  year: 2021
+  year: 2022
   author:
   - given:
     given_initial: GY
@@ -91,7 +91,7 @@
   volume:
   issue:
   page: ""
-  year: 2021
+  year: 2022
   author:
   - given:
     given_initial: K
@@ -142,7 +142,7 @@
   volume:
   issue:
   page: "ASAP"
-  year: 2021
+  year: 2022
   author:
   - given:
     given_initial: Yue
@@ -184,7 +184,7 @@
   volume: 8
   issue: 9
   page: "eabl9271"
-  year: 2021
+  year: 2022
   author:
   - given:
     given_initial: J
@@ -330,7 +330,7 @@
   volume:
   issue:
   page: ""
-  year: 2021
+  year: 2022
   author:
   - given:
     given_initial: CY
@@ -437,8 +437,8 @@
 - title: 'From n-alkane to polyacetylene on Cu (110): Linkage modulation in Chain Growth'
   volume: 8
   issue: 
-  page: ""
-  year: 2021
+  page: "ASAP"
+  year: 2022
   author:
   - given:
     given_initial: ZM
@@ -479,8 +479,8 @@
     family: Chi
     role: corr
   journal: 
-    abbreviation: Natl. Sci. Rev.
-  URL: https://doi.org/10.1093/nsr/nwab093
+    abbreviation: Submitted
+  URL: 
   type: article
   DOI:
   fulltext:
@@ -490,7 +490,7 @@
   volume:
   issue:
   page: ""
-  year: 2021
+  year: 2022
   author:
   - given:
     given_initial: KC
