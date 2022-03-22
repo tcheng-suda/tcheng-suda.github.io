@@ -4,14 +4,17 @@ title: Yue Liu
 permalink: /people/yliu/
 ---
 
+<br />   
+# <a name="yliu"></a>Yue Liu(刘越)
+<span style="color:black;font-size:18pt;font-weight:bold">Senior Postdoctoral Researcher</span>  
+Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)  
 
-Postdoctoral Researcher
-Institute of Functional Nano & Soft Materials Soochow University
-office: 912-408
-Soochow University Dushu-Lake Campus
-Box 33, 199 Ren’ai Rd, Suzhou Industrial Park
-Suzhou, Jiangsu, 215123, P.R. China
-Email: yliu1992@suda.edu.cn
+{% include image.html url="/images/yliu.jpeg" caption="" width=300 align="center" %}
+
+- Institute of Functional Nano & Soft Materials Soochow University
+- office: 912-408
+- Soochow University Dushu-Lake Campus Box 33, 199 Ren’ai Rd, Suzhou Industrial Park Suzhou, Jiangsu, 215123, P.R. China
+- Email: yliu1992@suda.edu.cn
 
 ## Experience
 2020.08 - now
