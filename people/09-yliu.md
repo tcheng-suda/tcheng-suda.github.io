@@ -13,12 +13,12 @@ Box 33, 199 Ren’ai Rd, Suzhou Industrial Park
 Suzhou, Jiangsu, 215123, P.R. China
 Email: yliu1992@suda.edu.cn
 
-Experience
-2020.08 - now
+## Experience
+2020.08 - now
 Postdoc Researcher
 Institute of Functional Nano & Soft Materials
 Soochow University
-Education
+## Education
 2014.9 - 2020.6
 Ph.D.in Physical Chemistry
 College of Chemistry and Molecular Sciences
@@ -28,7 +28,7 @@ Advisor: Prof. Baoshan Wang
 B.S.in Polymer materials and engineering
 College of Materials Science and Engineering
 Wuhan Institute and Technology, China
-Publications
+## Publications
 1. Yue Liu, Yu Wu, Qintao Sun, Bingyun Ma, Peiping Yu, Liang Xu, Miao Xie, Hao Yang, Tao Cheng*. Formation of Linear Oligomers in Solid Electrolyte Interphase via Two-Electron Reduction of Ethylene Carbonate. Advanced Theory and Simulations, 2022, 2100612.
 2. Yue Liu, Qintao Sun, Peiping Yu, Bingyun Ma, Hao Yang, Jiayi Zhang, Miao Xie, Tao Cheng*. In Situ Formation of Circular and Branched Oligomers in a Localized High Concentration Electrolyte at the Lithium-Metal Solid Electrolyte Interphase: A Hybrid ab initio and Reactive Molecular Dynamics Study. Journal of Materials Chemistry A, 2022, 10, 632-639.
 3. Yue Liu, Peiping Yu, Qintao Sun, Yu Wu, Miao Xie, Hao Yang, Tao Cheng*,  William A Goddard III. Predicted Operando Polymerization at Lithium Anode via Boron Insertion. ACS Energy Letter 2021, 6, 2320−2327.
