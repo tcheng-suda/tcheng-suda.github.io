@@ -21,6 +21,7 @@ permalink: /people/yliu/
 Postdoc Researcher
 Institute of Functional Nano & Soft Materials
 Soochow University
+
 ## Education
 - 2014.9 - 2020.6
 Ph.D.in Physical Chemistry
@@ -31,6 +32,7 @@ Advisor: Prof. Baoshan Wang
 B.S.in Polymer materials and engineering
 College of Materials Science and Engineering
 Wuhan Institute and Technology, China
+
 ## Publications
 1. **Yue Liu**, Yu Wu, Qintao Sun, Bingyun Ma, Peiping Yu, Liang Xu, Miao Xie, Hao Yang, Tao Cheng*. Formation of Linear Oligomers in Solid Electrolyte Interphase via Two-Electron Reduction of Ethylene Carbonate. Advanced Theory and Simulations, 2022, 2100612.
 2. **Yue Liu**, Qintao Sun, Peiping Yu, Bingyun Ma, Hao Yang, Jiayi Zhang, Miao Xie, Tao Cheng*. In Situ Formation of Circular and Branched Oligomers in a Localized High Concentration Electrolyte at the Lithium-Metal Solid Electrolyte Interphase: A Hybrid ab initio and Reactive Molecular Dynamics Study. Journal of Materials Chemistry A, 2022, 10, 632-639.
