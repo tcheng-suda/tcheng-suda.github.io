@@ -17,17 +17,17 @@ Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)
 - Email: yliu1992@suda.edu.cn
 
 ## Experience
-2020.08 - now
+- 2020.08 - now
 Postdoc Researcher
 Institute of Functional Nano & Soft Materials
 Soochow University
 ## Education
-2014.9 - 2020.6
+- 2014.9 - 2020.6
 Ph.D.in Physical Chemistry
 College of Chemistry and Molecular Sciences
 Wuhan University, China
 Advisor: Prof. Baoshan Wang
-2010.9 - 2014.6
+- 2010.9 - 2014.6
 B.S.in Polymer materials and engineering
 College of Materials Science and Engineering
 Wuhan Institute and Technology, China
