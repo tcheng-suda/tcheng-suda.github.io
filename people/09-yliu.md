@@ -17,7 +17,7 @@ permalink: /people/yliu/
 - Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)  
 
 ## Experience
-- 2020.08 - now. 
+- 2020.08 - now.   
 Postdoc Researcher. 
 Institute of Functional Nano & Soft Materials. 
 Soochow University. 
