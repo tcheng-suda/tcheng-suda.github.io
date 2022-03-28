@@ -63,10 +63,10 @@
     role: corr
   journal:
     abbreviation: Adv. Energy Mater.
-  URL:
+  URL: https://doi.org/10.1002/aenm.202200398
   type: article
   DOI: 10.1002/aenm.202200398
-  fulltext: https://doi.org/10.1002/aenm.202200398
+  fulltext: 
   language: english
 
 - title: 'Multiscale Simulation of Solid Electrolyte Interphase'
