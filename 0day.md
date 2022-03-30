@@ -4,8 +4,8 @@ title: Research
 permalink: /0day/
 ---
 
-[Solid-State Lithium Metal Battery of Low Capacity Fade Enabled by a Composite Electrolyte with Sulfur-Containing Oligomers](https://doi.org/10.1021/acsami.1c23539)  
-[Mediating the Alloying Depth to Tune the Silicon’s Morphology and Lithium-Storage Performance](https://doi.org/10.1039/D2TA01342H) 
+- [Solid-State Lithium Metal Battery of Low Capacity Fade Enabled by a Composite Electrolyte with Sulfur-Containing Oligomers](https://doi.org/10.1021/acsami.1c23539)  
+- [Mediating the Alloying Depth to Tune the Silicon’s Morphology and Lithium-Storage Performance](https://doi.org/10.1039/D2TA01342H) 
 [Single-crystal nickel-rich material as a highly stable cathode for lithium-ion batteries](https://doi.org/10.1039/D2TA01186G)  
 [Machine Learning Prediction of the Critical Cooling Rate for Metallic Glasses from Expanded Datasets and Elemental Features](https://doi.org/10.1021/acs.chemmater.1c03542)  
 [Revealing Elusive Intermediates of Platinum Cathodic Corrosion through DFT Simulations](https://doi.org/10.1021/acs.jpclett.1c04187
