@@ -12,4 +12,8 @@ permalink: /0day/
 )  
 [Solid Electrolyte Interface Regulated by Solvent-in-Water Electrolyte Enables High-Voltage and Stable Aqueous Mg-MnO2 Batteries](https://doi.org/10.1002/aenm.202103352)  
 [An Investigation of Chemo-Mechanical Phenomena and Li Metal Penetration in All-Solid-State Lithium Metal Batteries Using In Situ Optical Curvature Measurements](https://doi.org/10.1002/aenm.202200369)  
-[]()  
+[Improved Zero-Charge Storage Performance of LiCoO2/Mesocarbon Microbead Lithium-Ion Batteries by Li5FeO4 Cathode Additive
+](https://doi.org/10.1021/acsami.1c21392
+)  
+[Blade-Coatable Hexagonal Boron Nitride Ionogel Electrolytes for Scalable Production of Lithium Metal Batteries](https://doi.org/10.1021/acsenergylett.2c00535
+)  
