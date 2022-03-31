@@ -22,3 +22,7 @@ permalink: /0day/
 
 - [Blade-Coatable Hexagonal Boron Nitride Ionogel Electrolytes for Scalable Production of Lithium Metal Batteries](https://doi.org/10.1021/acsenergylett.2c00535
 )  
+
+- [Predicting Young’s Modulus of Linear Polyurethane and Polyurethane–Polyurea Elastomers: Bridging Length Scales with Physicochemical Modeling and Machine Learning](https://doi.org/10.1021/acsami.1c24715)
+
+- [Organo-Soluble Decanoic Acid-Modified Ni-Rich Cathode Material LiNi0.90Co0.07Mn0.03O2 for Lithium-Ion Batteries](https://pubs.acs.org/doi/10.1021/acsami.2c02797)
