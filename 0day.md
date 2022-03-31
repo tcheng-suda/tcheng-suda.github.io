@@ -25,4 +25,6 @@ permalink: /0day/
 
 - [Predicting Young’s Modulus of Linear Polyurethane and Polyurethane–Polyurea Elastomers: Bridging Length Scales with Physicochemical Modeling and Machine Learning](https://doi.org/10.1021/acsami.1c24715)
 
-- [Organo-Soluble Decanoic Acid-Modified Ni-Rich Cathode Material LiNi0.90Co0.07Mn0.03O2 for Lithium-Ion Batteries](https://pubs.acs.org/doi/10.1021/acsami.2c02797)
+- [Organo-Soluble Decanoic Acid-Modified Ni-Rich Cathode Material LiNi0.90Co0.07Mn0.03O2 for Lithium-Ion Batteries](https://pubs.acs.org/doi/10.1021/acsami.2c02797)  
+
+- [A benchmark database for adsorption bond energies to transition metal surfaces and comparison to selected DFT functionals](https://doi.org/10.1016/j.susc.2015.03.023)
