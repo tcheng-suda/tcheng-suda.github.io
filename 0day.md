@@ -32,3 +32,5 @@ permalink: /0day/
 - [Influence of Porosity of Sulfide-Based Artificial Solid Electrolyte Interphases on Their Performance with Liquid and Solid Electrolytes in Li and Na Metal Batteries](https://doi.org/10.1021/acsami.1c23923)
 
 - [Atomically Dispersed Single Ni Site Catalysts for High-Efficiency CO2 Electroreduction at Industrial‐Level Current Densities](https://doi.org/10.1039/D2EE00318J)
+
+- [Phase-Field Investigation of Lithium Electrodeposition at Different Applied Overpotentials and Operating Temperatures](https://doi.org/10.1021/acsami.2c00900)
