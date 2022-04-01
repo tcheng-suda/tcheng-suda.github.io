@@ -34,4 +34,4 @@ permalink: /0day/
 - [Atomically Dispersed Single Ni Site Catalysts for High-Efficiency CO2 Electroreduction at Industrial‐Level Current Densities](https://doi.org/10.1039/D2EE00318J)
 
 - [Phase-Field Investigation of Lithium Electrodeposition at Different Applied Overpotentials and Operating Temperatures](https://doi.org/10.1021/acsami.2c00900)
-![test](https://es.informz.net/ES/data/images/Pub/Nucleation-and-Growth-170x300.jpg)
+![pic](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aamick/0/aamick.ahead-of-print/acsami.2c00900/20220328/images/medium/am2c00900_0010.gif)
