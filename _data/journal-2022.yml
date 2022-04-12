@@ -1,3 +1,46 @@
+- title: 'Origin of the exceptional selectivity of NaA zeolite for the radioactive isotope of 90Sr2+'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: WF
+    family: Hao
+  - given:
+    given_initial: NN
+    family: Yan
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: XJ
+    family: Yan
+  - given:
+    given_initial: XL
+    family: Guo
+  - given:
+    given_initial: P
+    family: Bai
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: P
+    family: Guo
+  - given:
+    given_initial: WF
+    family: Yan
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Advanced Characterization and Simulation Methods for Promoting Mechanistic Understanding of Lithium Deposition and Solid-Electrolyte Interphase (SEI) Formation: Recent Progress, Limitations, and Future Perspectives'
   volume:
   issue:
