@@ -66,10 +66,10 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 ---
 <br />   
 # <a name="mxie"></a>Miao Xie(谢淼)
-<span style="color:black;font-size:18pt;font-weight:bold">Senior Postdoctoral Researcher (Alumni)</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Senior Postdoctoral Researcher (Alumni: 2019-2022)</span>  
 Personal web page: [Miao Xie](https://tcheng-suda.github.io/people/mxie/)  
 Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)  
-Now: Associate Professor at Soochow University 
+Now: Associate Professor at Soochow University   
 
 {% include image.html url="/images/mxie.jpeg" caption="" width=300 align="center" %}
 
@@ -122,7 +122,7 @@ Email: [ppyu@stu.suda.edu.cn](ppyu@stu.suda.edu.cn)
 ---
 <br />   
 # <a name="qyuan"></a>Qi Yuan (苑琦)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni)</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2018-2021)</span>  
 Personal web page:  [Qi Yuan](https://tcheng-suda.github.io/people/qyuan/)   
 Email: [Qi Yuan email](1185326833@qq.com)  
 Now: Ph. D. Student in Tsinghua University  
