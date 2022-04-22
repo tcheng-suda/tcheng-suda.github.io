@@ -1,3 +1,54 @@
+- title: 'Unveiling the Local Structure and Electronic Properties of PdBi Surface Alloy for Selective Hydrogenation of Propyne'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: XC
+    family: Wang
+  - given:
+    given_initial: MY
+    family: Chu
+  - given:
+    given_initial: MW
+    family: Wang
+  - given:
+    given_initial: QX
+    family: Zhong
+  - given:
+    given_initial: JT
+    family: Chen
+  - given:
+    given_initial: ZQ
+    family: Wang
+  - given:
+    given_initial: MH
+    family: Cao
+  - given:
+    given_initial: H
+    family: Yang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: JX
+    family: Chen
+  - given:
+    given_initial: TK
+    family: Sham
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Dynamics at the In2O3/Pd(111) Interface: Pd-promoted Room-Temperature Reduction of In2O3 and Reduction-Driven Structural Dynamics'
   volume:
   issue:
