@@ -1,3 +1,63 @@
+- title: 'The lattice strain dominated catalytic activity in single-metal nanosheet'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: M
+    family: Wang
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: ZL
+    family: Fan
+  - given:
+    given_initial: *
+    family: WX
+  - given:
+    given_initial: F
+    family: Liao
+  - given:
+    given_initial: J
+    family: Wu
+  - given:
+    given_initial: YJ
+    family: Zhou
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: MJ
+    family: Ma
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: Q
+    family: Shao
+    role: corr
+  - given:
+    given_initial: MW
+    family: Shao
+    role: corr
+  - given:
+    given_initial: ZH
+    family: Kang
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'DFT-ReaxFF Hybrid Molecular Dynamics Investigation of the Decomposition Effects of Localized High-Concentration Electrolyte in Lithium Metal Batteries: LiFSI/DME/TFEO'
   volume:
   issue:
