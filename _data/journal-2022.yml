@@ -13,9 +13,10 @@
   - given:
     given_initial: ZL
     family: Fan
+    role: corr
   - given:
-    given_initial: *
-    family: WX
+    given_initial: WX
+    family: Zhu
   - given:
     given_initial: F
     family: Liao
@@ -57,7 +58,7 @@
   DOI:
   fulltext:
   language: english
-
+  
 - title: 'DFT-ReaxFF Hybrid Molecular Dynamics Investigation of the Decomposition Effects of Localized High-Concentration Electrolyte in Lithium Metal Batteries: LiFSI/DME/TFEO'
   volume:
   issue:
