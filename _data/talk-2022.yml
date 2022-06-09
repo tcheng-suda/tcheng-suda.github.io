@@ -1,15 +1,15 @@
-- title: 'Multi-scale Simulations to Investigate Solid Electrolyte Interfaces'
+- title: 'Multiscale simulation of reactions in solid electrolyte interphase'
   volume: 
   issue: 
-  page: "2021 国际计算化学与材料基因工程研讨会 武汉理工大学 在线"
-  year: 2021 12 12
+  page: "ACS Fall 2022"
+  year: 2022 8 24
   author:
-  - given: 
+  - given: Tao
     given_initial: 
-    family: 程涛
+    family: Cheng
     role: main
   journal:
-    abbreviation: 邀请报告  
+    abbreviation: Oral  
   URL: 
   type: article
   DOI: 
