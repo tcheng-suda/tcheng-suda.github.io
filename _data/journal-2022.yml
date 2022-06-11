@@ -1,3 +1,72 @@
+- title: 'Molecular Crowding Effect Mimicking Cold Resistant Plant to Stabilize Zinc Anode with Wider Service Temperature Range'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: HZ
+    family: Ren
+  - given:
+    given_initial: S
+    family: Li
+  - given:
+    given_initial: B
+    family: Wang
+    role: corr
+  - given:
+    given_initial: YY
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Wang
+  - given:
+    given_initial: Q
+    family: Lv
+  - given:
+    given_initial: XY
+    family: Zhang
+  - given:
+    given_initial: L
+    family: Wang
+  - given:
+    given_initial: X
+    family: Han
+  - given:
+    given_initial: F
+    family: Jin
+  - given:
+    given_initial: CY
+    family: Bao
+  - given:
+    given_initial: N
+    family: Zhang
+  - given:
+    given_initial: PF
+    family: Yan
+  - given:
+    given_initial: DL
+    family: Wang
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: HK
+    family: Liu
+  - given:
+    given_initial: SX
+    family: Dou
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'The lattice strain dominated catalytic activity in single-metal nanosheet'
   volume:
   issue:
