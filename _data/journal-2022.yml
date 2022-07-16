@@ -1,3 +1,47 @@
+- title: 'Machine Learning Predicts the XPS of the Solid Electrolyte Interface of Lithium Metal Battery'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Xiang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: TL
+    family: Leng
+  - given:
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: A
+    family: Fortunelli
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Molecular Crowding Effect Mimicking Cold Resistant Plant to Stabilize Zinc Anode with Wider Service Temperature Range'
   volume:
   issue:
