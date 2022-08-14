@@ -173,9 +173,9 @@
   language: english
   
 - title: 'DFT-ReaxFF Hybrid Molecular Dynamics Investigation of the Decomposition Effects of Localized High-Concentration Electrolyte in Lithium Metal Batteries: LiFSI/DME/TFEO'
-  volume:
+  volume: 24
   issue:
-  page: ""
+  page: "18684-18690"
   year: 2022
   author:
   - given:
@@ -401,9 +401,9 @@
   language: english
 
 - title: 'Advanced Characterization and Simulation Methods for Promoting Mechanistic Understanding of Lithium Deposition and Solid-Electrolyte Interphase (SEI) Formation: Recent Progress, Limitations, and Future Perspectives'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 12
+  issue: 19
+  page: "2200398"
   year: 2022
   author:
   - given:
