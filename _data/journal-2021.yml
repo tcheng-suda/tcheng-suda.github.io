@@ -1,12 +1,15 @@
-- title: 'Record electrocatalytic CO2–to–ethanol production via asymmetric C–C coupling'
-  volume:
+- title: 'Boosting electrocatalytic CO2–to–ethanol production via asymmetric C–C coupling'
+  volume: 13
   issue:
-  page: ""
+  page: "3754"
   year: 2022
   author:
   - given:
     given_initial: PT
     family: Wang
+  - given:
+    given_initial: H
+    family: Yang
   - given:
     given_initial: Y
     family: Cheng
@@ -14,8 +17,8 @@
     given_initial: C
     family: Tang
   - given:
-    given_initial: H
-    family: Yang
+    given_initial: Y
+    family: Wu
   - given:
     given_initial: Y
     family: Zheng
@@ -35,8 +38,8 @@
     family: Qiao
     role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-022-31427-9
   type: article
   DOI:
   fulltext:
@@ -45,7 +48,7 @@
 - title: 'Determining Hydronium pKa on Platinum Surface and Impact on Hydrogen Evolution Reaction'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2022
   author:
   - given:
@@ -80,12 +83,13 @@
     family: Duan
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
   URL:
   type: article
   DOI:
   fulltext:
   language: english
+  note: (Zhong GY and Cheng T contributed equally)
 
 - title: 'Coherent Hexagonal Platinum Skin on Nickel Nanocrystals for Enhanced Hydrogen Evolution Activity'
   volume:
