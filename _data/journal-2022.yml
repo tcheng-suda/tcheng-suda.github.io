@@ -1,3 +1,56 @@
+- title: 'Tunable Lattice Strain Dominated Catalytic Activity over a Model Electrocatalyst of Porous Flexible Iridium Nanosheet'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: M
+    family: Wang
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: ZL
+    family: Fan
+  - given:
+    given_initial: WX
+    family: Zhu
+  - given:
+    given_initial: J
+    family: Wu
+  - given:
+    given_initial: YJ
+    family: Zhou
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: MJ
+    family: Ma
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: MW
+    family: Shao
+    role: corr
+  - given:
+    given_initial: ZH
+    family: kang
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Machine Learning Predicts the XPS of the Solid Electrolyte Interface of Lithium Metal Battery'
   volume:
   issue:
