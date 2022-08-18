@@ -1,3 +1,55 @@
+- title: 'Pre-activation of CO2 at Cobalt Phthalocyanine-Mg(OH)2 Interface for Enhanced Turnover Rate'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: Lyu
+    family: FL
+  - given:
+    given_initial: Ma
+    family: BY
+  - given:
+    given_initial: Xie
+    family: XL
+  - given:
+    given_initial: Song
+    family: DQ
+  - given:
+    given_initial: Lian
+    family: YB
+  - given:
+    given_initial: Yang
+    family: H
+  - given:
+    given_initial: Hua
+    family: W
+  - given:
+    given_initial: Sun
+    family: Sun
+  - given:
+    given_initial: Zhong
+    family: J
+  - given:
+    given_initial: Deng
+    family: Z
+  - given:
+    given_initial: Cheng
+    family: Tao
+    role: corr
+  - given:
+    given_initial: Peng
+    family: Y
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Tunable Lattice Strain Dominated Catalytic Activity over a Model Electrocatalyst of Porous Flexible Iridium Nanosheet'
   volume:
   issue:
@@ -54,7 +106,7 @@
 - title: 'Machine Learning Predicts the XPS of the Solid Electrolyte Interface of Lithium Metal Battery'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2022
   author:
   - given:
@@ -88,7 +140,7 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Submitted
+    abbreviation: J. Phys. Chem. Lett.
   URL:
   type: article
   DOI:
