@@ -103,7 +103,7 @@
   fulltext:
   language: english
 
-- title: 'Machine Learning Predicts the XPS of the Solid Electrolyte Interface of Lithium Metal Battery'
+- title: 'Machine Learning Predicts the X-ray Photoelectron Spectroscopy of the Solid Electrolyte Interface of Lithium Metal Battery'
   volume:
   issue:
   page: "ASAP"
@@ -141,7 +141,7 @@
     role: corr, main
   journal:
     abbreviation: J. Phys. Chem. Lett.
-  URL:
+  URL: https://doi.org/10.1021/acs.jpclett.2c02222
   type: article
   DOI:
   fulltext:
