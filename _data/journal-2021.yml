@@ -724,11 +724,11 @@
   fulltext:
   language: english
 
-- title: 'Molecular Understanding of Interphase Formation via in-situ Polymerization'
+- title: 'Molecular Understanding of Interphase Formation via Operando Polymerization on Lithium Metal Anode'
   volume: 
   issue: 
-  page: ""
-  year: 2021
+  page: "ASAP"
+  year: 2022
   author:
   - given:
     given_initial: YL
@@ -798,13 +798,13 @@
     role: corr
   - given:
     given_initial: SH
-    family: J
+    family: Jiao
     role: corr
   - given:
     given_initial: WA
     family: Goddard
   journal:
-    abbreviation: Submitted
+    abbreviation: Cell Reports Physical Science 
   URL: 
   type: article
   DOI: 
