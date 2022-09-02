@@ -161,9 +161,9 @@
   language: english
 
 - title: 'Machine Learning Predicts the X-ray Photoelectron Spectroscopy of the Solid Electrolyte Interface of Lithium Metal Battery'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 13
+  issue: 34
+  page: "8047–8054"
   year: 2022
   author:
   - given:
