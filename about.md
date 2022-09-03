@@ -365,3 +365,13 @@ Personal web page:  [Yongpeng Wang](https://tcheng-suda.github.io/people/ypwang/
 Email:   
 
 <a href="#top">Back to top</a>
+
+---
+<br />
+# <a name="xwgu"></a>Xuewei Gu(顾雪薇)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
+Personal web page:  [Xuewei Gu](https://tcheng-suda.github.io/people/xwgu/)
+Email:
+
+<a href="#top">Back to top</a>
+
