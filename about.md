@@ -364,7 +364,7 @@ Email:
 <br />
 # <a name="xwgu"></a>Xuewei Gu(顾雪薇)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Xuewei Gu](https://tcheng-suda.github.io/people/xwgu/)
+personal web page:  [Xuewei Gu](https://tcheng-suda.github.io/people/xwgu/)  
 email:
 
 <a href="#top">back to top</a>
@@ -374,7 +374,7 @@ email:
 # <a name="ryyin"></a>Ruyue Yin(殷汝越)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student
 </span>
-personal web page:  [Ruyue Yin](https://tcheng-suda.github.io/people/ryyin/)
+personal web page:  [Ruyue Yin](https://tcheng-suda.github.io/people/ryyin/)  
 email:
 
 <a href="#top">back to top</a>
