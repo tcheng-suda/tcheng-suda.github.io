@@ -149,9 +149,10 @@ Now: Ph. D. Student in Tsinghua University
 ---
 <br />   
 # <a name="ywu"></a>Yu Wu(吴宇)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2019-2022)</span>  
 Personal web page:  [Yu Wu](https://tcheng-suda.github.io/people/ywu/)   
 Email:[20194214097@stu.suda.edu.cn](20194214097@stu.suda.edu.cn)   
+Now:  
 
 {% include image.html url="/images/ywu.jpeg" caption="" width=300 align="center" %}
 
@@ -160,9 +161,10 @@ Email:[20194214097@stu.suda.edu.cn](20194214097@stu.suda.edu.cn)
 ---
 <br />   
 # <a name="ymlu"></a>Yiming Lu(陆一鸣)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2019-2022)</span>  
 Personal web page:  [Yiming Lu](https://tcheng-suda.github.io/people/ymlu/)   
 Email:[ymlu@stu.suda.edu.cn](ymlu@stu.suda.edu.cn)   
+Now:  
 
 {% include image.html url="/images/ymlu.jpg" caption="" width=300 align="center" %}
 
@@ -224,7 +226,7 @@ Email:[qtsunqtsun@stu.suda.edu.cn](qtsunqtsun@stu.suda.edu.cn)
 ---
 <br />   
 # <a name="yyzhang"></a>Yanyan Zhang(张滟滟)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student(Alumni: 2019-2022)</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2019-2022)</span>  
 Personal web page:  [Yanyan Zhang](https://tcheng-suda.github.io/people/yyzhang/)   
 Email:[1814401017@stu.suda.edu.cn](1814401017@stu.suda.edu.cn)   
 Now: Master Student at Fudan University  
