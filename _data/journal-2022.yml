@@ -681,9 +681,9 @@
   language: english
 
 - title: 'Multiscale Simulation of Solid Electrolyte Interphase'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 11
+  issue: 3
+  page: "921-928"
   year: 2022
   author:
   - given:
@@ -707,11 +707,12 @@
     role: corr, main
   journal:
     abbreviation: Energy Storage Science and Technology
-  URL:
+  URL: https://esst.cip.com.cn/CN/10.19799/j.cnki.2095-4239.2022.0046
   type: article
-  DOI:
+  DOI: 
   fulltext:
   language: english
+  note: 多尺度模拟研究固体电解质界面
 
 - title: 'Stimulating the pre-catalyst redox reaction and proton-electron transfer process of cobalt phthalocyanine for CO2 electroreduction'
   volume: 126
