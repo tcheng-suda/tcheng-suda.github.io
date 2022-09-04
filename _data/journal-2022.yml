@@ -1,3 +1,50 @@
+- title: 'Nanoconfined molecular catalysts in integrated gas diffusion electrodes for high-current-density CO2 electroreduction'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: XZ
+    family: Lv
+  - given:
+    given_initial: Q
+    family: Liu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: JH
+    family: Wang
+  - given:
+    given_initial: XT
+    family: Li
+  - given:
+    given_initial: SQ
+    family: Zhu
+  - given:
+    given_initial: JH
+    family: Yan
+  - given:
+    given_initial: AJ
+    family: Wu
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: HB
+    family: Wu
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Correlating Electrolyte Solvation, Interphasial Structure and Deposition Morphology of Lithium Metal Anode in Ether-based Electrolytes'
   volume:
   issue:
