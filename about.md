@@ -23,6 +23,8 @@ permalink: /about/
 |[**Yingqi Liao(廖英琦)**](#yqliao)
 |[**Jianchen Lu(鲁珈辰)**](#jclu)
 |[**Haochen Huang(黄浩宸)**](#hchuang)
+|[**Xuewei Gu(顾雪薇)**](#xwgu)
+|[**Ruyue Yin(殷汝越)**](#ryyin)
 |  
 **Alumni:**
 |[**Miao Xie(谢淼)**](#mxie)
@@ -222,9 +224,10 @@ Email:[qtsunqtsun@stu.suda.edu.cn](qtsunqtsun@stu.suda.edu.cn)
 ---
 <br />   
 # <a name="yyzhang"></a>Yanyan Zhang(张滟滟)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student(Alumni: 2019-2022)</span>  
 Personal web page:  [Yanyan Zhang](https://tcheng-suda.github.io/people/yyzhang/)   
 Email:[1814401017@stu.suda.edu.cn](1814401017@stu.suda.edu.cn)   
+Now: Master Student at Fudan University  
 
 {% include image.html url="/images/yyzhang.jpeg" caption="" width=300 align="center" %}
 
@@ -358,18 +361,9 @@ Email:
 <a href="#top">Back to top</a>
 
 ---
-<br />   
-# <a name="ypwang"></a>Yongpeng Wang(王永朋)
-<span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  
-Personal web page:  [Yongpeng Wang](https://tcheng-suda.github.io/people/ypwang/)   
-Email:   
-
-<a href="#top">Back to top</a>
-
----
 <br />
 # <a name="xwgu"></a>Xuewei Gu(顾雪薇)
-<span style="color:black;font-size:18pt;font-weight:bold">master student</span>
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
 personal web page:  [Xuewei Gu](https://tcheng-suda.github.io/people/xwgu/)
 email:
 
@@ -378,8 +372,9 @@ email:
 ---
 <br />
 # <a name="ryyin"></a>Ruyue Yin(殷汝越)
-<span style="color:black;font-size:18pt;font-weight:bold">master student</span>
-personal web page:  [xuewei gu](https://tcheng-suda.github.io/people/xwgu/)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student
+</span>
+personal web page:  [Ruyue Yin](https://tcheng-suda.github.io/people/ryyin/)
 email:
 
 <a href="#top">back to top</a>
