@@ -28,7 +28,7 @@ permalink: /about/
 |[**Xuewei Gu(顾雪薇)**](#xwgu)
 |[**Ruyue Yin(殷汝越)**](#ryyin)
 |  
-**Alumni:**  
+**Alumni**  
 (**1 Postdoc, 3 M.S. student, 4 Undergraduates**)  
 |[**Miao Xie(谢淼)**](#mxie)
 |[**Qi Yuan(苑琦)**](#qyuan)
