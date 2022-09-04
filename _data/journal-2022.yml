@@ -714,9 +714,9 @@
   language: english
 
 - title: 'Stimulating the pre-catalyst redox reaction and proton-electron transfer process of cobalt phthalocyanine for CO2 electroreduction'
-  volume:
-  issue:
-  page: ""
+  volume: 126
+  issue: 23
+  page: "9665–9672"
   year: 2022
   author:
   - given:
@@ -738,8 +738,8 @@
     family: Li
     role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: J. Phys. Chem. C
+  URL: https://doi.org/10.1021/acs.jpcc.2c01125
   type: article
   DOI:
   fulltext:
