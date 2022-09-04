@@ -5,6 +5,7 @@ permalink: /about/
 ---
 ---
 **Members:**
+(20: 2 Professor, 1 Postdoc, 3 Ph.D. Students, 11 M.S. students, 3 undergraduate students)
 |[**Hao Yang(杨昊)**](#hyang)
 |[**Yue Liu(刘越)**](#yliu)
 |[**Peiping Yu(于沛平)**](#ppyu)
