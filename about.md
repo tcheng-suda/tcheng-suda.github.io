@@ -4,8 +4,8 @@ title: People
 permalink: /about/
 ---
 ---
-**Members:**
-(**21: 2 Professor, 1 Postdoc, 3 Ph.D. Students, 11 M.S. students, 4 undergraduate students**)
+**Members**  
+(**21: 2 Professor, 1 Postdoc, 3 Ph.D. Students, 11 M.S. students, 4 undergraduate students**)  
 |[**Tao Cheng(程涛)**](#tcheng)
 |[**Hao Yang(杨昊)**](#hyang)
 |[**Yue Liu(刘越)**](#yliu)
@@ -28,8 +28,8 @@ permalink: /about/
 |[**Xuewei Gu(顾雪薇)**](#xwgu)
 |[**Ruyue Yin(殷汝越)**](#ryyin)
 |  
-**Alumni:**
-(8)
+**Alumni:**  
+(**1 Postdoc, 3 M.S. student, 4 Undergraduates**)  
 |[**Miao Xie(谢淼)**](#mxie)
 |[**Qi Yuan(苑琦)**](#qyuan)
 |[**Wenxuan Du(杜文轩)**](#wxdu)
