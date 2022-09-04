@@ -27,6 +27,7 @@ permalink: /about/
 |[**Ruyue Yin(殷汝越)**](#ryyin)
 |  
 **Alumni:**
+(8)
 |[**Miao Xie(谢淼)**](#mxie)
 |[**Qi Yuan(苑琦)**](#qyuan)
 |[**Wenxuan Du(杜文轩)**](#wxdu)
