@@ -3,6 +3,9 @@ layout: page
 title: Gallery
 permalink: /gallery/
 ---
+# **Group 2022 1**
+![group 2022_out](/images/group-2022-1.jpg)
+
 # **Group 2021 3**
 ![group 2021_out](/images/group-2021-out.jpeg)
 
