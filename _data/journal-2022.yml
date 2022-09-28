@@ -1,3 +1,57 @@
+- title: 'Temperature-dependent interphase and Li+ transportation in lithium metal battery'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: ST
+    family: Weng
+  - given:
+    given_initial: X
+    family: Zhang
+  - given:
+    given_initial: GJ
+    family: Yang
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: QY
+    family: Liu
+  - given:
+    given_initial: Y
+    family: Liu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: CX
+    family: Peng
+  - given:
+    given_initial: HX
+    family: Chen
+  - given:
+    given_initial: YJ
+    family: Li
+  - given:
+    given_initial: LQ
+    family: Chen
+  - given:
+    given_initial: ZX
+    family: Wang
+  - given:
+    given_initial: XF
+    family: Wang
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Lattice and Surface Engineering of Ruthenium Nanostructures for Enhanced Hydrogen Oxidation Catalysis'
   volume:
   issue:
