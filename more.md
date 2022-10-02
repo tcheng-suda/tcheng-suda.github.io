@@ -9,6 +9,7 @@ permalink: /more/
 |[**VASP**](http://cms.mpi.univie.ac.at/vasp/vasp/vasp.html)
 |[**DFTB+**](https://www.dftbplus.org/documentation/)
 |[**mopac**](http://openmopac.net/manual/)
+|[**2pt**](https://tcheng-suda.github.io/downloads/2pt_user_guide.pdf)
 |  
 # **Journals**
 |[**ACS**](https://acs.manuscriptcentral.com/acs)
