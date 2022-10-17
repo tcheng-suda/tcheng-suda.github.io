@@ -754,7 +754,7 @@
 - title: 'Unveiling the Local Structure and Electronic Properties of PdBi Surface Alloy for Selective Hydrogenation of Propyne'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2022
   author:
   - given:
@@ -795,8 +795,8 @@
     given_initial: TK
     family: Sham
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: ACS Nano
+  URL: https://doi.org/10.1021/acsnano.2c06834
   type: article
   DOI:
   fulltext:
