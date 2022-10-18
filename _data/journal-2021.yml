@@ -700,6 +700,15 @@
     given_initial: XC
     family: Zhou
   - given:
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: KQ
+    family: Nie
+  - given:
+    given_initial: JO
+    family: Wang
+  - given:
     given_initial: M
     family: Xie
   - given:
@@ -718,7 +727,7 @@
     role: corr
   journal:
     abbreviation: Nat. Commun.
-  URL:
+  URL: https://doi.org/10.1038/s41467-022-33846-0
   type: article
   DOI:
   fulltext:
