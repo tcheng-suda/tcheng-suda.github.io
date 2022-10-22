@@ -3,6 +3,9 @@ layout: page
 title: Gallery
 permalink: /gallery/
 ---
+# **Seminar 2022 1**
+![seminar_2022_01](/images/seminar-2022-01.png)
+
 # **Group 2022 2**
 ![group 2022_out_2](/images/group-2022-02.jpeg)
 
