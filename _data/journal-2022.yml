@@ -1,3 +1,55 @@
+- title: 'Metastable hexagonal SnO2 nanoribbons with active edge sites for efficient hydrogen peroxide electrosynthesis in neutral media'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: Y
+    family: Zhang
+  - given:
+    given_initial: MW
+    family: Wang
+  - given:
+    given_initial: WX
+    family: Zhu
+  - given:
+    given_initial: MM
+    family: Fang
+  - given:
+    given_initial: MJ
+    family: Ma
+  - given:
+    given_initial: F
+    family: Liao
+    role: corr
+  - given:
+    given_initial: Q
+    family: Shao
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: MW
+    family: Shao
+    role: corr
+  - given:
+    given_initial: ZH
+    family: Kang
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Origin of dendrite-free lithium deposition in concentrated electrolytes'
   volume:
   issue:
