@@ -27,6 +27,7 @@ permalink: /about/
 |[**Haochen Huang(黄浩宸)**](#hchuang)
 |[**Xuewei Gu(顾雪薇)**](#xwgu)
 |[**Ruyue Yin(殷汝越)**](#ryyin)
+|[**Tianxiu Yin(殷田秀)**](#txyin)
 |  
 **Alumni**  
 (**1 Postdoc, 3 M.S. student, 4 Undergraduates**)  
@@ -380,6 +381,15 @@ email:
 # <a name="ryyin"></a>Ruyue Yin(殷汝越)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 personal web page:  [Ruyue Yin](https://tcheng-suda.github.io/people/ryyin/)  
+email:
+
+<a href="#top">back to top</a>
+
+---
+<br />
+# <a name="txyin"></a>Tianxiu Yin(殷田秀)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+personal web page:  [Tianxiu Yin](https://tcheng-suda.github.io/people/txyin/)  
 email:
 
 <a href="#top">back to top</a>
