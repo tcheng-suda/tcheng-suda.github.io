@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ---
 **Members**  
-(**21: 2 Professor, 1 Postdoc, 3 Ph.D. Students, 11 M.S. students, 4 undergraduate students**)  
+(**24: 2 Professor, 1 Postdoc, 3 Ph.D. Students, 11 M.S. students, 7 undergraduate students**)  
 |[**Tao Cheng(程涛)**](#tcheng)
 |[**Hao Yang(杨昊)**](#hyang)
 |[**Yue Liu(刘越)**](#yliu)
@@ -29,6 +29,7 @@ permalink: /about/
 |[**Xuewei Gu(顾雪薇)**](#xwgu)
 |[**Ruyue Yin(殷汝越)**](#ryyin)
 |[**Tianxiu Yin(殷田秀)**](#txyin)
+|[**Siyuan Fan(范思远)**](#xyfan)
 |  
 **Alumni**  
 (**1 Postdoc, 3 M.S. student, 4 Undergraduates**)  
@@ -391,6 +392,15 @@ email:
 # <a name="txyin"></a>Tianxiu Yin(殷田秀)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Tianxiu Yin](https://tcheng-suda.github.io/people/txyin/)  
+email:
+
+<a href="#top">back to top</a>
+
+---
+<br />
+# <a name="syfan"></a>Siyuan Fan(范思远)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+personal web page:  [Siyuan Fan](https://tcheng-suda.github.io/people/syfan/)  
 email:
 
 <a href="#top">back to top</a>
