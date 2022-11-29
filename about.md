@@ -9,6 +9,7 @@ permalink: /about/
 |[**Tao Cheng(程涛)**](#tcheng)
 |[**Hao Yang(杨昊)**](#hyang)
 |[**Yue Liu(刘越)**](#yliu)
+|[**Bingyun Ma(麻冰云)**](#byma)
 |[**Peiping Yu(于沛平)**](#ppyu)
 |[**Liang Xu(许亮)**](#lxu)
 |[**Mengwen Wang(王梦文)**](#mwwang)
