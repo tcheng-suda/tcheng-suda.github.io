@@ -685,9 +685,9 @@
   language: english
   
 - title: 'Promoting Oxidation State Transition of Nickel in Single-Layer NiFeB Hydroxide Nanosheets for Efficient Oxygen Evolution'
-  volume:
+  volume: 13
   issue:
-  page: "ASAP"
+  page: "6094"
   year: 2022
   author:
   - given:
@@ -734,9 +734,9 @@
   language: english
 
 - title: 'Molecular Understanding of Interphase Formation via Operando Polymerization on Lithium Metal Anode'
-  volume: 
+  volume: 3
   issue: 
-  page: "ASAP"
+  page: "101057"
   year: 2022
   author:
   - given:
