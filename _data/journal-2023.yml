@@ -1,3 +1,45 @@
+- title: 'A Robust and General Synthesis of High-Entropy Nanoalloys with Programmable Structures and Compositions'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: MF
+    family: Li
+  - given:
+    given_initial: CM
+    family: Huang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Y
+    family: Wang
+  - given:
+    given_initial: XC
+    family: Song
+  - given:
+    given_initial: T
+    family: Cheng
+  - given:
+    given_initial: MC
+    family: Liu
+  - given:
+    given_initial: YF
+    family: Lu
+  - given:
+    given_initial: HW
+    family: Huang
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+  note: 
+
 - title: 'Far-from-equilibrium electrosynthesis of hierarchical and self-supporting high-entropy alloy nanostructures'
   volume:
   issue:
