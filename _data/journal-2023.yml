@@ -1,0 +1,37 @@
+- title: 'Far-from-equilibrium electrosynthesis of hierarchical and self-supporting high-entropy alloy nanostructures'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: YN
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Z
+    family: Zhang
+  - given:
+    given_initial: XY
+    family: Meng
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: GW
+    family: Qin
+  - given:
+    given_initial: S
+    family: Li
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
