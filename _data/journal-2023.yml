@@ -1,3 +1,59 @@
+- title: 'Precisely Optimizing Polysulfides Adsorption and Conversion by Local Coordination Engineering for High-Performance Li-S Batteries'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: C
+    family: Yuan
+  - given:
+    given_initial: XC
+    family: Song
+  - given:
+    given_initial: P
+    family: Zeng
+  - given:
+    given_initial: GL
+    family: Liu
+  - given:
+    given_initial: SH
+    family: Zhou
+  - given:
+    given_initial: G
+    family: Zhao
+  - given:
+    given_initial: HT
+    family: Li
+  - given:
+    given_initial: TR
+    family: Yan
+  - given:
+    given_initial: J
+    family: Mao
+  - given:
+    given_initial: H
+    family: Yang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: JP
+    family: Wu
+    role: corr
+  - given:
+    given_initial: L
+    family: Zhang
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Enabling long-life 450 Wh kg-1 lithium metal battery with ultra-lean electrolyte'
   volume:
   issue:
