@@ -374,7 +374,9 @@ Email:
 # <a name="xwgu"></a>Xuewei Gu(顾雪薇)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Xuewei Gu](https://tcheng-suda.github.io/people/xwgu/)  
-email:
+Email:
+
+{% include image.html url="/images/xwgu.jpeg" caption="" width=300 align="center" %}
 
 <a href="#top">back to top</a>
 
@@ -383,7 +385,9 @@ email:
 # <a name="ryyin"></a>Ruyue Yin(殷汝越)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 personal web page:  [Ruyue Yin](https://tcheng-suda.github.io/people/ryyin/)  
-email:
+Email:
+
+{% include image.html url="/images/txyin.jpeg" caption="" width=300 align="center" %}
 
 <a href="#top">back to top</a>
 
@@ -392,7 +396,7 @@ email:
 # <a name="txyin"></a>Tianxiu Yin(殷田秀)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Tianxiu Yin](https://tcheng-suda.github.io/people/txyin/)  
-email:
+Email:
 
 <a href="#top">back to top</a>
 
@@ -401,7 +405,7 @@ email:
 # <a name="syfan"></a>Siyuan Fan(范思远)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 personal web page:  [Siyuan Fan](https://tcheng-suda.github.io/people/syfan/)  
-email:
+Email:
 
 <a href="#top">back to top</a>
 
