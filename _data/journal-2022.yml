@@ -147,11 +147,11 @@
   fulltext:
   language: english
 
-- title: 'Metastable hexagonal SnO2 nanoribbons with active edge sites for efficient hydrogen peroxide electrosynthesis in neutral media'
+- title: 'Metastable Hexagonal Phase SnO2Nanoribbons with Active Edge Sites for Efficient Hydrogen Peroxide Electrosynthesis in Neutral Media'
   volume:
   issue:
   page: ""
-  year: 2022
+  year: 2023
   author:
   - given:
     given_initial: Y
@@ -193,7 +193,7 @@
     role: corr
   journal:
     abbreviation: Submitted
-  URL:
+  URL: https://doi.org/10.1002/ange.202218924
   type: article
   DOI:
   fulltext:
@@ -467,7 +467,7 @@
     role: corr
   journal:
     abbreviation: Submitted
-  URL:
+  URL: https://doi.org/10.1002/adfm.202210328
   type: article
   DOI:
   fulltext:
