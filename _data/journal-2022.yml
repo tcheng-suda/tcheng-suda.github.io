@@ -580,8 +580,8 @@
 - title: 'Pre-activation of CO2 at Cobalt Phthalocyanine-Mg(OH)2 Interface for Enhanced Turnover Rate'
   volume:
   issue:
-  page: ""
-  year: 2022
+  page: "ASAP"
+  year: 2023
   author:
   - given:
     given_initial: Lyu
@@ -622,10 +622,10 @@
     family: Y
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Adv. Funct. Mater.
   URL:
   type: article
-  DOI:
+  DOI: 10.1002/adfm.202214609
   fulltext:
   language: english
 
