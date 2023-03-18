@@ -41,6 +41,7 @@
   - given:
     given_initial: YL
     family: Shao
+    role: corr
   journal:
     abbreviation: Submitted
   URL:
