@@ -1,3 +1,33 @@
+- title: 'Elucidating Solid Electrolyte Interphase Formation in Sodium-Based Batteries: Key Reductive Reactions and Inorganic Composition'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: BT
+    family: Yue
+  - given:
+    given_initial: YY
+    family: Zhang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Hydrogen Evolution and Suppression in Lithium Metal Battery'
   volume:
   issue:
