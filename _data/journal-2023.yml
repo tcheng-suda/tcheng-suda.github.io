@@ -106,7 +106,7 @@
 - title: 'Regulating Inner Helmholtz Plane with A Small Addition of High Donor Additive for Efficient Zn Anode Reversibility'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2023
   author:
   - given:
@@ -148,8 +148,8 @@
     family: Shao
     role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: Angew. Chem., Int. Ed.
+  URL: https://doi.org/10.1002/anie.202302302
   type: article
   DOI:
   fulltext:
@@ -158,7 +158,7 @@
 - title: 'Precisely Optimizing Polysulfides Adsorption and Conversion by Local Coordination Engineering for High-Performance Li-S Batteries'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2023
   author:
   - given:
