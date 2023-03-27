@@ -28,7 +28,7 @@
   - given: Tao
     given_initial: T
     family: Cheng
-    role: main
+    role: corr, main
   journal:
     abbreviation: Submitted
   URL:
