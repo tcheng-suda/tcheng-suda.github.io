@@ -274,7 +274,7 @@ Email:[1219646977@qq.com](1219646977@qq.com)
 ---
 <br />   
 # <a name="btyue"></a>Baitong Yue(乐柏佟)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;fonn-weight:bold">Undergraduate Student (Alumni: 2019-2022)</span>  
 Personal web page:  [Baitong Yue](https://tcheng-suda.github.io/people/btyue/)   
 Email:   
 <a href="#top">Back to top</a>
