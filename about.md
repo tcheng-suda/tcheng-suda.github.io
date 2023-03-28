@@ -180,7 +180,7 @@ Next:
 ---
 <br />   
 # <a name="lxu"></a>Liang Xu(许亮)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>  
 Personal web page:  [Liang Xu](https://tcheng-suda.github.io/people/lxu/)   
 Email:[lxu110@stu.suda.edu.cn](lxu110@stu.suda.edu.cn)   
 
