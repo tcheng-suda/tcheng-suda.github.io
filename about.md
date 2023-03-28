@@ -94,7 +94,7 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <span style="color:black;font-size:18pt;font-weight:bold">Senior Postdoctoral Researcher (Alumni: 2019-2022)</span>  
 Personal web page: [Miao Xie](https://tcheng-suda.github.io/people/mxie/)  
 Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)  
-Now: Associate Professor at Soochow University   
+Next: Associate Professor at Soochow University   
 
 {% include image.html url="/images/mxie.jpeg" caption="" width=300 align="center" %}
 
@@ -150,7 +150,7 @@ Email: [ppyu@stu.suda.edu.cn](ppyu@stu.suda.edu.cn)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2018-2021)</span>  
 Personal web page:  [Qi Yuan](https://tcheng-suda.github.io/people/qyuan/)   
 Email: [Qi Yuan email](1185326833@qq.com)  
-Now: Ph. D. Student in Tsinghua University  
+Next: Ph. D. Student in Tsinghua University  
 <a href="#top">Back to top</a>
 
 ---
@@ -159,7 +159,7 @@ Now: Ph. D. Student in Tsinghua University
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2019-2022)</span>  
 Personal web page:  [Yu Wu](https://tcheng-suda.github.io/people/ywu/)   
 Email:[20194214097@stu.suda.edu.cn](20194214097@stu.suda.edu.cn)   
-Now:  
+Next:  
 
 {% include image.html url="/images/ywu.jpeg" caption="" width=300 align="center" %}
 
@@ -171,7 +171,7 @@ Now:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2019-2022)</span>  
 Personal web page:  [Yiming Lu](https://tcheng-suda.github.io/people/ymlu/)   
 Email:[ymlu@stu.suda.edu.cn](ymlu@stu.suda.edu.cn)   
-Now:  
+Next:  
 
 {% include image.html url="/images/ymlu.jpg" caption="" width=300 align="center" %}
 
@@ -236,7 +236,7 @@ Email:[qtsunqtsun@stu.suda.edu.cn](qtsunqtsun@stu.suda.edu.cn)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2019-2022)</span>  
 Personal web page:  [Yanyan Zhang](https://tcheng-suda.github.io/people/yyzhang/)   
 Email:[1814401017@stu.suda.edu.cn](1814401017@stu.suda.edu.cn)   
-Now: Master Student at Fudan University  
+Next: Master Student at Fudan University  
 
 {% include image.html url="/images/yyzhang.jpeg" caption="" width=300 align="center" %}
 
@@ -245,19 +245,19 @@ Now: Master Student at Fudan University
 ---
 <br />   
 # <a name="wxdu"></a>Wenxuan Du(杜文轩)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Graduated)</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2019-2022)</span>  
 Personal web page:  [Wenxuan Du](https://tcheng-suda.github.io/people/wxdu/)   
 Email:   
-Now: Master Student in University of Southern California (USA)     
+Next: Master Student in University of Southern California (USA)     
 <a href="#top">Back to top</a>
 
 ---
 <br />   
 # <a name="wxdu"></a>Shiwen Wang(王诗文)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Graduated)</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2019-2022)</span>  
 Personal web page:  [Shiwen Wang](https://tcheng-suda.github.io/people/swwang/)   
 Email:   
-Now: Master Student in Peking University  
+Next: Master Student in Peking University  
 <a href="#top">Back to top</a>
 
 ---
@@ -387,8 +387,6 @@ Email:
 personal web page:  [Ruyue Yin](https://tcheng-suda.github.io/people/ryyin/)  
 Email:
 
-{% include image.html url="/images/txyin.jpeg" caption="" width=300 align="center" %}
-
 <a href="#top">back to top</a>
 
 ---
@@ -397,6 +395,8 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Tianxiu Yin](https://tcheng-suda.github.io/people/txyin/)  
 Email:
+
+{% include image.html url="/images/txyin.jpeg" caption="" width=300 align="center" %}
 
 <a href="#top">back to top</a>
 
