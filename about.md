@@ -263,7 +263,7 @@ Next: Master Student in Peking University
 ---
 <br />   
 # <a name="jyzhang"></a>Jiayi Zhang(张家奕)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Jiayi Zhang](https://tcheng-suda.github.io/people/jyzhang/)   
 Email:[1219646977@qq.com](1219646977@qq.com)   
 
