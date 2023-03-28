@@ -94,8 +94,8 @@
 - title: 'Coherent Hexagonal Platinum Skin on Nickel Nanocrystals for Enhanced Hydrogen Evolution Activity'
   volume:
   issue:
-  page: ""
-  year: 2022
+  page: "ASAP"
+  year: 2023
   author:
   - given:
     given_initial: K
@@ -135,7 +135,7 @@
     family: Gao
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Nat. Commun.
   URL:
   type: article
   DOI:
