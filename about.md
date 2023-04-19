@@ -30,6 +30,8 @@ permalink: /about/
 |[**Ruyue Yin(殷汝越)**](#ryyin)
 |[**Tianxiu Yin(殷田秀)**](#txyin)
 |[**Siyuan Fan(范思远)**](#xyfan)
+|[**Jiayi Li(李佳怡)**](#jyli)
+|[**Jiarui Zhu(朱佳睿)**](#jrzhu)
 |  
 **Alumni**  
 (**1 Postdoc, 3 M.S. student, 4 Undergraduates**)  
@@ -408,4 +410,22 @@ personal web page:  [Siyuan Fan](https://tcheng-suda.github.io/people/syfan/)
 Email:
 
 <a href="#top">back to top</a>
+---
+<br />
+# <a name="jyli"></a>Jiayi Li(李佳怡)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+personal web page:  [Jiayi Li](https://tcheng-suda.github.io/people/jyli/)  
+Email:
 
+<a href="#top">back to top</a>
+---
+<br />
+# <a name="jrzhu"></a>Jiarui Zhu(朱佳睿)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+personal web page:  [Jiarui Zhu](https://tcheng-suda.github.io/people/jrzhu/)  
+Email:
+
+<a href="#top">back to top</a>
+
+
+|[**Jiarui Zhu(朱佳睿)**](#jrzhu)
