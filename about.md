@@ -42,7 +42,6 @@ permalink: /about/
 |[**Yu Wu(吴宇)**](#ywu)
 |[**Yiming Lu(陆一鸣)**](#ymlu)
 |[**Yanyan Zhang(张滟滟)**](#yyzhang)
-|[**Baitong Yue(乐柏佟)**](#btyue)
 |  
 
 <br />
@@ -271,14 +270,6 @@ Email:[1219646977@qq.com](1219646977@qq.com)
 
 {% include image.html url="/images/jyzhang.jpeg" caption="" width=300 align="center" %}
 
-<a href="#top">Back to top</a>
-
----
-<br />   
-# <a name="btyue"></a>Baitong Yue(乐柏佟)
-<span style="color:black;font-size:18pt;fonn-weight:bold">Undergraduate Student (Alumni: 2019-2022)</span>  
-Personal web page:  [Baitong Yue](https://tcheng-suda.github.io/people/btyue/)   
-Email:   
 <a href="#top">Back to top</a>
 
 ---
