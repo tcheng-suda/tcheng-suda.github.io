@@ -125,7 +125,7 @@ Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)
 
 ---
 <br />   
-# <a name="hyang"></a>Bingyun Ma(麻冰云)
+# <a name="byma"></a>Bingyun Ma(麻冰云)
 <span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>  
 Personal web page: [Bingyun Ma](https://tcheng-suda.github.io/people/byma/)  
 Email: [byma@suda.edu.cn](byma@suda.edu.cn)  
