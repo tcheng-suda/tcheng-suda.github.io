@@ -419,4 +419,3 @@ Email:
 <a href="#top">back to top</a>
 
 
-|[**Jiarui Zhu(朱佳睿)**](#jrzhu)
