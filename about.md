@@ -29,7 +29,7 @@ permalink: /about/
 |[**Xuewei Gu(顾雪薇)**](#xwgu)
 |[**Ruyue Yin(殷汝越)**](#ryyin)
 |[**Tianxiu Yin(殷田秀)**](#txyin)
-|[**Siyuan Fan(范思远)**](#xyfan)
+|[**Siyuan Fan(范思远)**](#syfan)
 |[**Jiayi Li(李佳怡)**](#jyli)
 |[**Jiarui Zhu(朱佳睿)**](#jrzhu)
 |  
