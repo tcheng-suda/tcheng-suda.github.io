@@ -1,3 +1,53 @@
+- title: 'Fast Interfacial Defluorination Kinetics Enables Stable Cycling of Low-Temperature Lithium Metal Batteries'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: XP
+    family: Li
+  - given:
+    given_initial: MH
+    family: Li
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: YL
+    family: Jie
+  - given:
+    given_initial: YW
+    family: Chen
+  - given:
+    given_initial: WX
+    family: Li
+  - given:
+    given_initial: YC
+    family: Zhang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: M
+    family: Gu
+    role: corr
+  - given:
+    given_initial: SH
+    family: Jiao
+  - given:
+    given_initial: RG
+    family: Cao
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Efficient CO Electroreduction to Methanol by CuRh Alloys with Isolated Rh Sites'
   volume:
   issue:
