@@ -424,10 +424,10 @@
   language: english
 
 - title: 'Lattice and Surface Engineering of Ruthenium Nanostructures for Enhanced Hydrogen Oxidation Catalysis'
-  volume:
+  volume: 33
   issue:
-  page: ""
-  year: 2022
+  page: "2210328"
+  year: 2023
   author:
   - given:
     given_initial: YT
