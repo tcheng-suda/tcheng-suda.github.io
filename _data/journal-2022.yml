@@ -350,8 +350,8 @@
     given_initial: HT
     family: Liu
   - given:
-    given_initial: 1
-    family:
+    given_initial: Y
+    family: Huang
     role: corr
   - given:
     given_initial: WA
