@@ -21,7 +21,7 @@ permalink: /about/
 |[**Shuang Feng(冯爽)**](#sfeng)
 |[**Qiwei Zhou(周琦蔚)**](#qwzhou)
 |[**Jinying Wu(吴晋莹)**](#jywu)
-|[**Zhengan Xu(严正安)**](#zayan)
+|[**Zhengan Yan(严正安)**](#zayan)
 |[**Qiyu Xu(徐祺禹)**](#qyxu)
 |[**Yingqi Liao(廖英琦)**](#yqliao)
 |[**Jianchen Lu(鲁珈辰)**](#jclu)
