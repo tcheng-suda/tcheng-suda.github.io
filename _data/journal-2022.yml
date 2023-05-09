@@ -203,7 +203,7 @@
   volume:
   issue:
   page: ""
-  year: 2022
+  year: 2023
   author:
   - given:
     given_initial: YW
@@ -255,8 +255,8 @@
     family: Jiao
     role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-023-38387-8
   type: article
   DOI:
   fulltext:
