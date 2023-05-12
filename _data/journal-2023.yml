@@ -49,9 +49,9 @@
   language: english
 
 - title: 'Efficient CO Electroreduction to Methanol by CuRh Alloys with Isolated Rh Sites'
-  volume:
+  volume: 13
   issue:
-  page: ""
+  page: "7170–7177"
   year: 2023
   author:
   - given:
@@ -78,8 +78,8 @@
     family: Zheng
     role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: ACS Catal.
+  URL: https://doi.org/10.1021/acscatal.3c00972
   type: article
   DOI:
   fulltext:
