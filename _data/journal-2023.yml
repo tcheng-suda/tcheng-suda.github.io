@@ -1,3 +1,47 @@
+- title: 'Atomically unraveling the structural evolution of surfaces and interfaces in metal halide perovskite quantum dots'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: MM
+    family: Ma
+  - given:
+    given_initial: XL
+    family: Zhang
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: X
+    family: Chen
+  - given:
+    given_initial: L
+    family: Wang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: F
+    family: Wei
+  - given:
+    given_initial: JY
+    family: Yuan
+    role: corr
+  - given:
+    given_initial: BY
+    family: Shen
+    role: corr
+  journal:
+    abbreviation: Adv. Mater.
+  URL:
+  type: article
+  DOI:
+  fulltext: https://doi.org/10.1002/adma.202300653
+  language: english
+
 - title: 'Fast Interfacial Defluorination Kinetics Enables Stable Cycling of Low-Temperature Lithium Metal Batteries'
   volume:
   issue:
