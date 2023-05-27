@@ -477,7 +477,7 @@
   volume:
   issue:
   page: ""
-  year: 2022
+  year: 2023
   author:
   - given:
     given_initial: XZ
@@ -514,7 +514,7 @@
     role: corr
   journal:
     abbreviation: Adv. Funct. Mater.
-  URL:
+  URL: https://doi.org/10.1002/adfm.202301334
   type: article
   DOI:
   fulltext:
