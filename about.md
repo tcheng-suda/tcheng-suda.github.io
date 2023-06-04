@@ -32,6 +32,7 @@ permalink: /about/
 |[**Siyuan Fan(范思远)**](#syfan)
 |[**Jiayi Li(李佳怡)**](#jyli)
 |[**Jiarui Zhu(朱佳睿)**](#jrzhu)
+|[**Jinglong Xiang(项景龙)**](#jlxiang)
 |  
 **Alumni**  
 (**1 Postdoc, 3 M.S. student, 4 Undergraduates**)  
@@ -416,6 +417,15 @@ Email:
 # <a name="jrzhu"></a>Jiarui Zhu(朱佳睿)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 personal web page:  [Jiarui Zhu](https://tcheng-suda.github.io/people/jrzhu/)  
+Email:
+
+<a href="#top">back to top</a>
+
+---
+<br />
+# <a name="jlxiang"></a>Jinglong Xiang(项景龙)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+personal web page:  [Jinglong Xiang](https://tcheng-suda.github.io/people/jlxiang/)  
 Email:
 
 <a href="#top">back to top</a>
