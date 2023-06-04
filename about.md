@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ---
 **Members**  
-(**24: 2 Professor, 1 Postdoc, 3 Ph.D. Students, 11 M.S. students, 7 undergraduate students**)  
+(**25: 2 Professor, 1 Postdoc, 3 Ph.D. Students, 11 M.S. students, 8 undergraduate students**)  
 |[**Tao Cheng(程涛)**](#tcheng)
 |[**Hao Yang(杨昊)**](#hyang)
 |[**Yue Liu(刘越)**](#yliu)
