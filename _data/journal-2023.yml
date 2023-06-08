@@ -316,7 +316,7 @@
 - title: 'Elucidating Solid Electrolyte Interphase Formation in Sodium-Based Batteries: Key Reductive Reactions and Inorganic Composition'
   volume:
   issue:
-  page: ""
+  page: "10.1039/D3TA01878D"
   year: 2023
   author:
   - given:
@@ -336,8 +336,8 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D3TA01878D
   type: article
   DOI:
   fulltext:
