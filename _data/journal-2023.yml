@@ -96,10 +96,10 @@
     role: corr
   journal:
     abbreviation: Adv. Mater.
-  URL:
+  URL: https://doi.org/10.1002/adma.202300653
   type: article
   DOI:
-  fulltext: https://doi.org/10.1002/adma.202300653
+  fulltext: 
   language: english
 
 - title: 'Fast Interfacial Defluorination Kinetics Enables Stable Cycling of Low-Temperature Lithium Metal Batteries'
