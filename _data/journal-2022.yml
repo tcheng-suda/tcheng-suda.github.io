@@ -629,11 +629,11 @@
   fulltext:
   language: english
 
-- title: 'Tunable Lattice Strain Dominated Catalytic Activity over a Model Electrocatalyst of Porous Flexible Iridium Nanosheet'
-  volume:
+- title: 'The lattice strain dominated catalytic activity in single-metal nanosheets'
+  volume: 11
   issue:
-  page: ""
-  year: 2022
+  page: "4037-4044"
+  year: 2023
   author:
   - given:
     given_initial: M
@@ -675,8 +675,8 @@
     family: kang
     role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D2TA08454F
   type: article
   DOI:
   fulltext:
