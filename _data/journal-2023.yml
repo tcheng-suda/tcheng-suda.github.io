@@ -771,10 +771,10 @@
   fulltext:
   language: english
 
-- title: 'Far-from-equilibrium electrosynthesis of hierarchical and self-supporting high-entropy alloy nanostructures'
+- title: 'Far-from-equilibrium electrosynthesis ramifies high-entropy alloy for alkaline hydrogen evolution'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2023
   author:
   - given:
@@ -801,7 +801,7 @@
     family: Li
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: J. Mater. Sci. Technol.
   URL:
   type: article
   DOI:
