@@ -30,7 +30,7 @@ permalink: /about/
 |[**Jinglong Xiang(项景龙)**](#jlxiang)
 |  
 **Alumni**  
-(**1 Postdoc, 3 M.S. student, 4 Undergraduates**)  
+(**1 Postdoc, 6 M.S. student, 6 Undergraduates**)  
 |[**Miao Xie(谢淼)**](#mxie)
 |[**Qi Yuan(苑琦)**](#qyuan)
 |[**Wenxuan Du(杜文轩)**](#wxdu)
