@@ -195,7 +195,7 @@ Email:[lxu110@stu.suda.edu.cn](lxu110@stu.suda.edu.cn)
 # <a name="mwwang"></a>Mengwen Wang(王梦文)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2020-2023)</span>  
 Personal web page:  [Mengwen Wang](https://tcheng-suda.github.io/people/mwwang/)   
-Email:[mwwang1@stu.suda.edu.cn](mwwang1@stu.suda.edu.cn)
+Email:[mwwang1@stu.suda.edu.cn](mwwang1@stu.suda.edu.cn)  
 Next: Eve Energy Co., Ltd.  
 
 <a href="#top">Back to top</a>
