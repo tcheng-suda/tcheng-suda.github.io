@@ -218,7 +218,7 @@ Next:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2020-2023)</span>  
 Personal web page:  [Xiangcong Song](https://tcheng-suda.github.io/people/xhsong/)   
 Email:[xcsongxcsong@stu.suda.edu.cn](xcsongxcsong@stu.suda.edu.cn)   
-Next:  
+Next: Semiconductor Manufacturing International Corporation  
 
 {% include image.html url="/images/xcsong.jpeg" caption="" width=300 align="center" %}
 
