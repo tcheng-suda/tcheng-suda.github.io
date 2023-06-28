@@ -23,14 +23,14 @@ permalink: /about/
 |[**Yingqi Liao(廖英琦)**](#yqliao)
 |[**Haochen Huang(黄浩宸)**](#hchuang)
 |[**Xuewei Gu(顾雪薇)**](#xwgu)
-|[**Ruyue Yin(殷汝越)**](#ryyin)
+|[**Tianxiu Yin(殷田秀)**](#txyin)
 |[**Siyuan Fan(范思远)**](#syfan)
 |[**Jiayi Li(李佳怡)**](#jyli)
 |[**Jiarui Zhu(朱佳睿)**](#jrzhu)
 |[**Jinglong Xiang(项景龙)**](#jlxiang)
 |  
 **Alumni**  
-(**1 Postdoc, 6 M.S. student, 6 Undergraduates**)  
+(**1 Postdoc, 6 M.S. student, 5 Undergraduates**)  
 |[**Miao Xie(谢淼)**](#mxie)
 |[**Qi Yuan(苑琦)**](#qyuan)
 |[**Wenxuan Du(杜文轩)**](#wxdu)
@@ -42,7 +42,7 @@ permalink: /about/
 |[**Zhe Zhang(张哲)**](#zzhang)
 |[**Xiangcong Song(宋相聪)**](#xhsong)
 |[**Jianchen Lu(鲁珈辰)**](#jclu)
-|[**Tianxiu Yin(殷田秀)**](#txyin)
+|[**Ruyue Yin(殷汝越)**](#ryyin)
 |  
 
 <br />
