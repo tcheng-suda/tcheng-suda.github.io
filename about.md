@@ -21,11 +21,9 @@ permalink: /about/
 |[**Zhengan Yan(严正安)**](#zayan)
 |[**Qiyu Xu(徐祺禹)**](#qyxu)
 |[**Yingqi Liao(廖英琦)**](#yqliao)
-|[**Jianchen Lu(鲁珈辰)**](#jclu)
 |[**Haochen Huang(黄浩宸)**](#hchuang)
 |[**Xuewei Gu(顾雪薇)**](#xwgu)
 |[**Ruyue Yin(殷汝越)**](#ryyin)
-|[**Tianxiu Yin(殷田秀)**](#txyin)
 |[**Siyuan Fan(范思远)**](#syfan)
 |[**Jiayi Li(李佳怡)**](#jyli)
 |[**Jiarui Zhu(朱佳睿)**](#jrzhu)
@@ -43,6 +41,8 @@ permalink: /about/
 |[**Mengwen Wang(王梦文)**](#mwwang)
 |[**Zhe Zhang(张哲)**](#zzhang)
 |[**Xiangcong Song(宋相聪)**](#xhsong)
+|[**Jianchen Lu(鲁珈辰)**](#jclu)
+|[**Tianxiu Yin(殷田秀)**](#txyin)
 |  
 
 <br />
@@ -358,9 +358,10 @@ Email:
 ---
 <br />   
 # <a name="hchuang"></a>Haochen Huang(黄浩宸)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2021-2023)</span>  
 Personal web page:  [Haochen Huang](https://tcheng-suda.github.io/people/jclu/)   
 Email:   
+Next: Master Student at Shanghai Jiao Tong University  
 
 {% include image.html url="/images/hchuang.jpeg" caption="" width=300 align="center" %}
 
@@ -380,9 +381,10 @@ Email:
 ---
 <br />
 # <a name="ryyin"></a>Ruyue Yin(殷汝越)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2021-2023)</span>  
 personal web page:  [Ruyue Yin](https://tcheng-suda.github.io/people/ryyin/)  
 Email:
+Next: Master Student at Southeast University  
 
 <a href="#top">back to top</a>
 
