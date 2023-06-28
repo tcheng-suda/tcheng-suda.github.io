@@ -411,7 +411,7 @@ Email:
 ---
 <br />
 # <a name="jyli"></a>Jiayi Li(李佳怡)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Jiayi Li](https://tcheng-suda.github.io/people/jyli/)  
 Email:
 
@@ -420,7 +420,7 @@ Email:
 ---
 <br />
 # <a name="jrzhu"></a>Jiarui Zhu(朱佳睿)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Jiarui Zhu](https://tcheng-suda.github.io/people/jrzhu/)  
 Email:
 
