@@ -12,9 +12,6 @@ permalink: /about/
 |[**Bingyun Ma(麻冰云)**](#byma)
 |[**Peiping Yu(于沛平)**](#ppyu)
 |[**Liang Xu(许亮)**](#lxu)
-|[**Mengwen Wang(王梦文)**](#mwwang)
-|[**Zhe Zhang(张哲)**](#zzhang)
-|[**Xiangcong Song(宋相聪)**](#xhsong)
 |[**Qintao Sun(孙钦涛)**](#qtsun)
 |[**Jiayi Zhang(张家奕)**](#jyzhang)
 |[**Hongchao Tang(唐宏超)**](#hctang)
@@ -43,6 +40,9 @@ permalink: /about/
 |[**Yu Wu(吴宇)**](#ywu)
 |[**Yiming Lu(陆一鸣)**](#ymlu)
 |[**Yanyan Zhang(张滟滟)**](#yyzhang)
+|[**Mengwen Wang(王梦文)**](#mwwang)
+|[**Zhe Zhang(张哲)**](#zzhang)
+|[**Xiangcong Song(宋相聪)**](#xhsong)
 |  
 
 <br />
@@ -193,18 +193,20 @@ Email:[lxu110@stu.suda.edu.cn](lxu110@stu.suda.edu.cn)
 ---
 <br />   
 # <a name="mwwang"></a>Mengwen Wang(王梦文)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2020-2023)</span>  
 Personal web page:  [Mengwen Wang](https://tcheng-suda.github.io/people/mwwang/)   
 Email:[mwwang1@stu.suda.edu.cn](mwwang1@stu.suda.edu.cn)
+Next: 
 
 <a href="#top">Back to top</a>
 
 ---
 <br />   
 # <a name="zzhang"></a>Zhe Zhang(张哲)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2020-2023)</span>  
 Personal web page:  [Zhe Zhang](https://tcheng-suda.github.io/people/zzhang/)   
 Email:[zzhangz@stu.suda.edu.cn](zzhangz@stu.suda.edu.cn)   
+Next:  
 
 {% include image.html url="/images/zzhang.jpeg" caption="" width=300 align="center" %}
 
@@ -213,9 +215,10 @@ Email:[zzhangz@stu.suda.edu.cn](zzhangz@stu.suda.edu.cn)
 ---
 <br />   
 # <a name="xhsong"></a>Xiangcong Song(宋相聪)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2020-2023)</span>  
 Personal web page:  [Xiangcong Song](https://tcheng-suda.github.io/people/xhsong/)   
 Email:[xcsongxcsong@stu.suda.edu.cn](xcsongxcsong@stu.suda.edu.cn)   
+Next:  
 
 {% include image.html url="/images/xcsong.jpeg" caption="" width=300 align="center" %}
 
