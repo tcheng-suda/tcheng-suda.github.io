@@ -383,7 +383,7 @@ Email:
 # <a name="ryyin"></a>Ruyue Yin(殷汝越)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2021-2023)</span>  
 personal web page:  [Ruyue Yin](https://tcheng-suda.github.io/people/ryyin/)  
-Email:
+Email:  
 Next: Master Student at Southeast University  
 
 <a href="#top">back to top</a>
