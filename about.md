@@ -227,7 +227,7 @@ Next: Semiconductor Manufacturing International Corporation
 ---
 <br />   
 # <a name="qtsun"></a>Qintao Sun(孙钦涛)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>  
 Personal web page:  [Qintao Sun](https://tcheng-suda.github.io/people/qtsun/)   
 Email:[qtsunqtsun@stu.suda.edu.cn](qtsunqtsun@stu.suda.edu.cn)   
 
