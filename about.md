@@ -339,7 +339,7 @@ Email:
 ---
 <br />   
 # <a name="yqliao"></a>Yingqi Liao(廖英琦)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Yingqi Liao](https://tcheng-suda.github.io/people/yqliao/)   
 Email:   
 <a href="#top">Back to top</a>
@@ -347,9 +347,10 @@ Email:
 ---
 <br />   
 # <a name="jclu"></a>Jiachen Lu(鲁珈辰)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2021-2023)</span>  
 Personal web page:  [Jiachen Lu](https://tcheng-suda.github.io/people/jclu/)   
 Email:   
+Next: Master Student at Shanghai Jiao Tong University  
 
 {% include image.html url="/images/jclu.jpeg" caption="" width=300 align="center" %}
 
@@ -358,10 +359,9 @@ Email:
 ---
 <br />   
 # <a name="hchuang"></a>Haochen Huang(黄浩宸)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2021-2023)</span>  
-Personal web page:  [Haochen Huang](https://tcheng-suda.github.io/people/jclu/)   
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student)</span>  
+Personal web page:  [Haochen Huang](https://tcheng-suda.github.io/people/hchuang/)   
 Email:   
-Next: Master Student at Shanghai Jiao Tong University  
 
 {% include image.html url="/images/hchuang.jpeg" caption="" width=300 align="center" %}
 
