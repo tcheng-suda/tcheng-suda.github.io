@@ -41,8 +41,8 @@
 - title: 'The operation active site of O2 reduction to H2O2 over ZnO'
   volume:
   issue:
-  page: ""
-  year: 2022
+  page: "ASAP"
+  year: 2023
   author:
   - given:
     given_initial: YJ
@@ -77,9 +77,9 @@
     given_initial: ZH
     family: Kang
     role: corr
-  journal:
+  journal: Energy Environ. Sci.
     abbreviation: Submitted
-  URL:
+  URL: https://doi.org/10.1039/D3EE01788E
   type: article
   DOI:
   fulltext:
