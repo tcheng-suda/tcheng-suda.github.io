@@ -711,11 +711,11 @@
   fulltext:
   language: english
 
-- title: 'A Robust and General Synthesis of High-Entropy Nanoalloys with Programmable Structures and Compositions'
+- title: 'Programmable Synthesis of High-Entropy Nanoalloys for Efficient Ethanol Oxidation Reaction'
   volume:
   issue:
-  page: ""
-  year: 2023 
+  page: "ASAP"
+  year: 2023
   author:
   - given:
     given_initial: MF
@@ -732,27 +732,40 @@
   - given:
     given_initial: XC
     family: Song
-  - given:
+  - given: Tao
     given_initial: T
     family: Cheng
+    role: main
+  - given:
+    given_initial: JT
+    family: Jiang
+  - given:
+    given_initial: YF
+    family: Lu
   - given:
     given_initial: MC
     family: Liu
   - given:
-    given_initial: YF
-    family: Lu
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: ZZ
+    family: Ye
+  - given:
+    given_initial: Z
+    family: Hu
+    role: corr
   - given:
     given_initial: HW
     family: Huang
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: ACS Nano
   URL:
   type: article
   DOI:
   fulltext:
   language: english
-  note: 
 
 - title: 'Stable and oxidative charged Ru enhance the oxygen evolution reaction activity in two-dimensional ruthenium-iridium oxide'
   volume:
