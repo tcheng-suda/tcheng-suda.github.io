@@ -372,8 +372,8 @@
 - title: 'Temperature-dependent interphase and Li+ transportation in lithium metal battery'
   volume:
   issue:
-  page: ""
-  year: 2022
+  page: "ASAP"
+  year: 2023
   author:
   - given:
     given_initial: ST
@@ -416,7 +416,7 @@
     given_initial: XF
     family: Wang
   journal:
-    abbreviation: Submitted
+    abbreviation: Nat. Commun.
   URL:
   type: article
   DOI:
