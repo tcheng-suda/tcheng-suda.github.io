@@ -1,3 +1,63 @@
+- title: 'Anion-involved Solvation Configuration in Sodium Hexafluorophosphate/1,2-Diethoxyethane Electrolytes Enables Dendrite-free Sodium Metal Batteries'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: SY
+    family: Wang
+  - given:
+    given_initial: ST
+    family: Weng
+  - given:
+    given_initial: XP
+    family: Li
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: XL
+    family: Huang
+  - given:
+    given_initial: YL
+    family: Jie
+  - given:
+    given_initial: YX
+    family: Pan
+  - given:
+    given_initial: HM
+    family: Zhou
+  - given:
+    given_initial: XF
+    family: Wang
+  - given:
+    given_initial: Q
+    family: Li
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: RG
+    family: Cao
+    role: corr
+  - given:
+    given_initial: SH
+    family: Jiao
+    role: corr
+  - given:
+    given_initial: DS
+    family: Xu
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Artificial intelligence for the understanding of electrolyte chemistry and electrode interface in lithium battery'
   volume:
   issue:
