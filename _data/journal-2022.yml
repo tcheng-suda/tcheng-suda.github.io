@@ -369,7 +369,7 @@
   fulltext:
   language: english
 
-- title: 'Temperature-dependent interphase and Li+ transportation in lithium metal battery'
+- title: 'Temperature-dependent interphase formation and Li+ transport in lithium metal batteries'
   volume:
   issue:
   page: "ASAP"
@@ -417,7 +417,7 @@
     family: Wang
   journal:
     abbreviation: Nat. Commun.
-  URL:
+  URL: https://www.nature.com/articles/s41467-023-40221-0
   type: article
   DOI:
   fulltext:
