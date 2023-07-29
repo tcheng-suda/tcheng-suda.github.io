@@ -727,10 +727,10 @@
   language: english
 
 - title: 'Molecular Crowding Effect Mimicking Cold Resistant Plant to Stabilize Zinc Anode with Wider Service Temperature Range'
-  volume:
-  issue:
+  volume: 35
+  issue: 1
   page: "2208237"
-  year: 2022
+  year: 2023
   author:
   - given:
     given_initial: HZ
