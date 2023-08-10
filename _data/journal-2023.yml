@@ -1,3 +1,46 @@
+- title: 'In situ Imaging of the Atomic Phase Transition Dynamics in Metal Halide Perovskites'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: MM
+    family: Ma
+  - given:
+    given_initial: XL
+    family: Zhang
+  - given:
+    given_initial: X
+    family: Chen
+  - given:
+    given_initial: H
+    family: Xiong
+  - given:
+    given_initial: L
+    family: Xu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: JY
+    family: Yuan
+  - given:
+    given_initial: F
+    family: Wei
+  - given:
+    given_initial: BY
+    family: Shen
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'A Holistic Additive Protocol Steers Dendrite-Free Zn(101) Orientational Electrodeposition'
   volume:
   issue:
