@@ -1,3 +1,55 @@
+- title: 'A Holistic Additive Protocol Steers Dendrite-Free Zn(101) Orientational Electrodeposition'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: YW
+    family: Su
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: YJ
+    family: Sun
+  - given:
+    given_initial: WY
+    family: Guo
+  - given:
+    given_initial: XZ
+    family: Yang
+  - given:
+    given_initial: YH
+    family: Zou
+  - given:
+    given_initial: M
+    family: Ding
+  - given:
+    given_initial: QH
+    family: Zhang
+  - given:
+    given_initial: CP
+    family: Qiao
+  - given:
+    given_initial: SX
+    family: Dou
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: JY
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Fast Interfacial Defluorination Kinetics Enables Stable Cycling of Low-Temperature Lithium Metal Batteries'
   volume:
   issue:
