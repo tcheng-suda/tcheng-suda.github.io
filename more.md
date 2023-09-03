@@ -58,7 +58,8 @@ permalink: /more/
 |[**阿里云**](http://47.103.5.36:8889)
 
 # **量子化学 2023**
-|[**阿里云**](http://47.103.5.36:8889)
+|[**c1-ppt**](https://tcheng-suda.github.io/downloads/qm-2023-01.pptx)
+|[**c1-pdf**](https://tcheng-suda.github.io/downloads/qm-2023-01.pdf)
 
 # **Tools**
 |[**electrochemical calculators**](https://www.gamry.com/resources-2/electrochemical-calculators-tools)
