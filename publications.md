@@ -25,7 +25,7 @@ permalink: /publications/
     <div class="title">
     <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
-        <a title="fulltext" href="{{ site.url }}/downloads/journal/{{ thesis.fulltext }}"><i class="fa fa-file-pdf-o"></i></a>
+        <a title="fulltext" href="{{ site.url }}/downloads/journal/{{ article.fulltext }}"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
     </div>
     <div class='author'>
