@@ -39,9 +39,9 @@
   language: english
 
 - title: 'The operation active site of O2 reduction to H2O2 over ZnO'
-  volume:
+  volume: 16
   issue:
-  page: "ASAP"
+  page: "3526-3533"
   year: 2023
   author:
   - given:
