@@ -769,10 +769,10 @@
   fulltext:
   language: english
 
-- title: 'Incremental Molecule Design towards Stable Solid Electrolyte Interphase on Lithium Metal Anode from in-silico simulation'
+- title: 'Fine-Tuned Molecular Design toward a Stable Solid Electrolyte Interphase on a Lithium Metal Anode from in silico Simulation'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2023
   author:
   - given:
@@ -801,7 +801,7 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Submitted
+    abbreviation: Mater. Today Chem.
   URL:
   type: article
   DOI:
