@@ -34,6 +34,24 @@
   fulltext:
   language: english
 
+- title: '多尺度模拟研究固体电解质界面'
+  volume: 
+  issue: 
+  page: "中国化学会首届全国能源化学学术会议"
+  year: 2023 7 14
+  author:
+  - given: Tao
+    given_initial: 
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Oral  
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
 - title: '多尺度模拟解析固体电解质相界面原子结构'
   volume: 
   issue: 
