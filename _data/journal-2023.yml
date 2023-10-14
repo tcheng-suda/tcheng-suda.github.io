@@ -1,3 +1,37 @@
+- title: 'Interfacial Polymerization Mechanisms Assisted Flame Retardancy Process of a Low-Flammable Electrolytes on Lithium Anode'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Physical Inspired Machine Learning Prediction of Battery Coulombic Efficiency Leveraging Small Datasets'
   volume:
   issue:
