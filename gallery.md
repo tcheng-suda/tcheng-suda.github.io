@@ -3,6 +3,9 @@ layout: page
 title: Gallery
 permalink: /gallery/
 ---
+# **Spring Break 2 2023**
+![group_2023_01](/images/group-2023-02.jpg)
+
 # **Spring Break 2023**
 ![group_2023_01](/images/group-2023-01.jpeg)
 
