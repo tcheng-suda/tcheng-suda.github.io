@@ -18,15 +18,15 @@ permalink: /about/
 |[**Shuang Feng(冯爽)**](#sfeng)
 |[**Qiwei Zhou(周琦蔚)**](#qwzhou)
 |[**Jinying Wu(吴晋莹)**](#jywu)
-|[**Zhengan Yan(严正安)**](#zayan)
-|[**Qiyu Xu(徐祺禹)**](#qyxu)
 |[**Yingqi Liao(廖英琦)**](#yqliao)
 |[**Haochen Huang(黄浩宸)**](#hchuang)
 |[**Xuewei Gu(顾雪薇)**](#xwgu)
 |[**Tianxiu Yin(殷田秀)**](#txyin)
-|[**Siyuan Fan(范思远)**](#syfan)
 |[**Jiayi Li(李佳怡)**](#jyli)
 |[**Jiarui Zhu(朱佳睿)**](#jrzhu)
+|[**Zhengan Yan(严正安)**](#zayan)
+|[**Qiyu Xu(徐祺禹)**](#qyxu)
+|[**Siyuan Fan(范思远)**](#syfan)
 |[**Jinglong Xiang(项景龙)**](#jlxiang)
 |  
 **Alumni**  
