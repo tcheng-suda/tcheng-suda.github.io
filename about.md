@@ -166,7 +166,10 @@ Personal web page:  [Yu Wu](https://tcheng-suda.github.io/people/ywu/)
 Email:[20194214097@stu.suda.edu.cn](20194214097@stu.suda.edu.cn)   
 Next: National Public Employee (Jiangsu Province)
 
+<!---
 {% include image.html url="/images/ywu.jpeg" caption="" width=300 align="center" %}
+--->
+
 
 <a href="#top">Back to top</a>
 
@@ -178,7 +181,10 @@ Personal web page:  [Yiming Lu](https://tcheng-suda.github.io/people/ymlu/)
 Email:[ymlu@stu.suda.edu.cn](ymlu@stu.suda.edu.cn)   
 Next: High School Teacher (Jiangsu Province)  
 
+<!---
 {% include image.html url="/images/ymlu.jpg" caption="" width=300 align="center" %}
+--->
+
 
 <a href="#top">Back to top</a>
 
@@ -211,7 +217,9 @@ Personal web page:  [Zhe Zhang](https://tcheng-suda.github.io/people/zzhang/)
 Email:[zzhangz@stu.suda.edu.cn](zzhangz@stu.suda.edu.cn)   
 Next:  
 
+<!---
 {% include image.html url="/images/zzhang.jpeg" caption="" width=300 align="center" %}
+--->
 
 <a href="#top">Back to top</a>
 
@@ -223,7 +231,9 @@ Personal web page:  [Xiangcong Song](https://tcheng-suda.github.io/people/xhsong
 Email:[xcsongxcsong@stu.suda.edu.cn](xcsongxcsong@stu.suda.edu.cn)   
 Next: Semiconductor Manufacturing International Corporation  
 
+<!---
 {% include image.html url="/images/xcsong.jpeg" caption="" width=300 align="center" %}
+--->
 
 <a href="#top">Back to top</a>
 
@@ -246,7 +256,9 @@ Personal web page:  [Yanyan Zhang](https://tcheng-suda.github.io/people/yyzhang/
 Email:[1814401017@stu.suda.edu.cn](1814401017@stu.suda.edu.cn)   
 Next: Master Student at Fudan University  
 
+<!---
 {% include image.html url="/images/yyzhang.jpeg" caption="" width=300 align="center" %}
+--->
 
 <a href="#top">Back to top</a>
 
@@ -355,7 +367,9 @@ Personal web page:  [Jiachen Lu](https://tcheng-suda.github.io/people/jclu/)
 Email:   
 Next: Master Student at Shanghai Jiao Tong University  
 
+<!---
 {% include image.html url="/images/jclu.jpeg" caption="" width=300 align="center" %}
+--->
 
 <a href="#top">Back to top</a>
 
