@@ -899,9 +899,9 @@
   language: english
 
 - title: 'Fine-Tuned Molecular Design toward a Stable Solid Electrolyte Interphase on a Lithium Metal Anode from in silico Simulation'
-  volume:
+  volume: 33
   issue:
-  page: "ASAP"
+  page: "101735"
   year: 2023
   author:
   - given:
@@ -931,7 +931,7 @@
     role: corr, main
   journal:
     abbreviation: Mater. Today Chem.
-  URL:
+  URL: https://doi.org/10.1016/j.mtchem.2023.101735
   type: article
   DOI:
   fulltext:
