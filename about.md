@@ -29,6 +29,7 @@ permalink: /about/
 |[**Siyuan Fan(范思远)**](#syfan)
 |[**Jinglong Xiang(项景龙)**](#jlxiang)
 |[**Letao Bian(边乐陶)**](#ltbian)
+|[**Miao Zhang(张淼)**](#mzhang)
 |  
 **Alumni**  
 (**1 Postdoc, 6 M.S. student, 5 Undergraduates**)  
@@ -458,6 +459,15 @@ Email:
 # <a name="ltbian"></a>Letao Bian(边乐陶)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 personal web page:  [Letao Bian](https://tcheng-suda.github.io/people/ltbian/)  
+Email:
+
+<a href="#top">back to top</a>
+
+---
+<br />
+# <a name="mzhang"></a>Miao Zhang(张淼)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+personal web page:  [Miao Zhang](https://tcheng-suda.github.io/people/mzhang/)  
 Email:
 
 <a href="#top">back to top</a>
