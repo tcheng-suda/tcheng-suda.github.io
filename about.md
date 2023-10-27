@@ -28,6 +28,7 @@ permalink: /about/
 |[**Qiyu Xu(徐祺禹)**](#qyxu)
 |[**Siyuan Fan(范思远)**](#syfan)
 |[**Jinglong Xiang(项景龙)**](#jlxiang)
+|[**Letao Bian(边乐陶)**](#ltbian)
 |  
 **Alumni**  
 (**1 Postdoc, 6 M.S. student, 5 Undergraduates**)  
@@ -448,6 +449,15 @@ Email:
 # <a name="jlxiang"></a>Jinglong Xiang(项景龙)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 personal web page:  [Jinglong Xiang](https://tcheng-suda.github.io/people/jlxiang/)  
+Email:
+
+<a href="#top">back to top</a>
+
+---
+<br />
+# <a name="ltbian"></a>Letao Bian(边乐陶)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+personal web page:  [Letao Bian](https://tcheng-suda.github.io/people/ltbian/)  
 Email:
 
 <a href="#top">back to top</a>
