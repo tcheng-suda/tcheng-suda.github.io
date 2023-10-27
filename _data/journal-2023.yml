@@ -211,7 +211,7 @@
 - title: 'In situ Imaging of the Atomic Phase Transition Dynamics in Metal Halide Perovskites'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2023
   author:
   - given:
@@ -244,7 +244,7 @@
     family: Shen
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Nat. Commun.
   URL:
   type: article
   DOI:
