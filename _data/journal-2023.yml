@@ -513,7 +513,7 @@
   fulltext:
   language: english
 
-- title: 'Anion-involved Solvation Configuration in Sodium Hexafluorophosphate/1,2-Diethoxyethane Electrolytes Enables Dendrite-free Sodium Metal Batteries'
+- title: 'Unraveling the Solvent Effect on Solid-Electrolyte Interphase Formation for Sodium Metal Batteries'
   volume:
   issue:
   page: ""
@@ -566,8 +566,8 @@
     family: Xu
     role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: Angew. Chem. Int. Ed.
+  URL: https://doi.org/10.1002/anie.202313447
   type: article
   DOI:
   fulltext:
