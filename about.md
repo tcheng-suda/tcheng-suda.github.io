@@ -359,6 +359,9 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 Personal web page:  [Yingqi Liao](https://tcheng-suda.github.io/people/yqliao/)   
 Email:   
+
+{% include image.html url="/images/yqliao.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">Back to top</a>
 
 ---
