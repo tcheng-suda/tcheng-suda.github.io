@@ -434,6 +434,8 @@ Email:
 personal web page:  [Jiayi Li](https://tcheng-suda.github.io/people/jyli/)  
 Email:
 
+{% include image.html url="/images/jyli.jpeg" caption="" width=300 align="center" %}
+
 <a href="#top">back to top</a>
 
 ---
