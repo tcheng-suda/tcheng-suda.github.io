@@ -360,7 +360,7 @@ Email:
 Personal web page:  [Yingqi Liao](https://tcheng-suda.github.io/people/yqliao/)   
 Email:   
 
-{% include image.html url="/images/yqliao.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/yqliao.jpg" caption="" width=300 align="center" %}
 
 <a href="#top">Back to top</a>
 
