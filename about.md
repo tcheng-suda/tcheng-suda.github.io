@@ -434,7 +434,7 @@ Email:
 personal web page:  [Jiayi Li](https://tcheng-suda.github.io/people/jyli/)  
 Email:
 
-{% include image.html url="/images/jyli.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/jyli.jpg" caption="" width=300 align="center" %}
 
 <a href="#top">back to top</a>
 
@@ -444,6 +444,8 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Jiarui Zhu](https://tcheng-suda.github.io/people/jrzhu/)  
 Email:
+
+{% include image.html url="/images/jrzhu.jpg" caption="" width=300 align="center" %}
 
 <a href="#top">back to top</a>
 
