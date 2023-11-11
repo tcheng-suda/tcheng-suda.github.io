@@ -1,6 +1,24 @@
 - title: '多尺度模拟研究电化学界面'
   volume: 
   issue: 
+  page: "2023世界青年科学家峰会--碳能源国际学术研讨会"
+  year: 2023 11 9
+  author:
+  - given: Tao
+    given_initial: 
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Keynote
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
+- title: '多尺度模拟研究电化学界面'
+  volume: 
+  issue: 
   page: "2023年国际理论与计算物理、化学前沿研讨会"
   year: 2023 8 13 
   author:
