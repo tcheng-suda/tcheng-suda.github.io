@@ -63,3 +63,6 @@ permalink: /more/
 
 # **Tools**
 |[**electrochemical calculators**](https://www.gamry.com/resources-2/electrochemical-calculators-tools)
+
+# **VIP papers**
+|[**Molecular Modeling of Environmentally Important Processes: Reduction Potentials**](https://tcheng-suda.github.io/downloads/vip-1.pdf)
