@@ -1,0 +1,53 @@
+- title: 'Auto-bifunctional Mechanism of Jagged Pt Nanowire for Hydrogen Evolution Kinetics via End-to-End In Situ Simulation'
+  volume: 143
+  issue: 
+  page: "5355–5363"
+  year: 2021
+  author:
+  - given:
+    given_initial: GH
+    family: Gu
+  - given:
+    given_initial: JH
+    family: Lim
+  - given:
+    given_initial: CZ
+    family: Wan
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: HT
+    family: Pu
+  - given:
+    given_initial: S
+    family: Kim
+  - given:
+    given_initial: J
+    family: Noh
+  - given:
+    given_initial: C
+    family: Choi
+  - given:
+    given_initial: J
+    family: Kim
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: XF
+    family: Duan
+    role: corr
+  - given:
+    given_initial: YS
+    family: Jung
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: https://doi.org/10.1021/jacs.0c11261
+  type: article
+  DOI: 
+  fulltext:
+  language: english

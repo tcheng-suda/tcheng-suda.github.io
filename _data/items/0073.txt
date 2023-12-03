@@ -1,0 +1,40 @@
+- title: 'Compressed Intermetallic PdCu for Enhanced Electrocatalysis'
+  volume: 5
+  issue: 
+  page: "3672–3680"
+  year: 2020
+  author:
+  - given:
+    given_initial: M
+    family: Espinosa
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: L
+    family: Abatemarco
+  - given:
+    given_initial: CS
+    family: Choi
+  - given:
+    given_initial: XQ
+    family: Pan
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: ZP
+    family: Zhao
+    role: corr
+  - given:
+    given_initial: Y
+    family: Huang
+    role: corr 
+  journal:
+    abbreviation: ACS Energy Lett.
+  URL: https://doi.org/10.1021/acsenergylett.0c01959
+  type: article
+  DOI: 
+  fulltext:
+  language: english

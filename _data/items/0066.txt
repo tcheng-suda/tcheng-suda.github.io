@@ -1,0 +1,40 @@
+- title: 'Synergized Cu/Pb Core/Shell Electrocatalyst for High-Efficiency CO2 Reduction to C2+ Liquids'
+  volume: 15
+  issue: 
+  page: "1039–1047"
+  year: 2021
+  author:
+  - given:
+    given_initial: PT
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Y
+    family: Xu
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  - given:
+    given_initial: J
+    family: Wang
+  - given:
+    given_initial: M
+    family: Zhong
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Q
+    family: Shao
+    role: corr
+  journal:
+    abbreviation: ACS Nano
+  URL: https://doi.org/10.1021/acsnano.0c07869
+  type: article
+  DOI: 
+  fulltext:
+  language: english

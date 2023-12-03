@@ -1,0 +1,24 @@
+- title: 'Reaction Intermediates During Operando Electrocatalysis Identiﬁed from Full Solvent Quantum Mechanics Molecular Dynamics'
+  volume:  116 
+  issue: 16
+  page: "7718-7722"
+  year: 2019
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: A
+    family: Fortunelli
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: https://doi.org/10.1073/pnas.1821709116  
+  type: article
+  DOI: 10.1073/pnas.1821709116 
+  fulltext: 
+  language: english

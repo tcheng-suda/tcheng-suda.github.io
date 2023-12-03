@@ -1,0 +1,36 @@
+- title: 'Efficient CO Electroreduction to Methanol by CuRh Alloys with Isolated Rh Sites'
+  volume: 13
+  issue:
+  page: "7170–7177"
+  year: 2023
+  author:
+  - given:
+    given_initial: JB
+    family: Zhang
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: C
+    family: Peng
+  - given:
+    given_initial: XM
+    family: Lv
+  - given:
+    given_initial: ZZ
+    family: Liu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: GF
+    family: Zheng
+    role: corr
+  journal:
+    abbreviation: ACS Catal.
+  URL: https://doi.org/10.1021/acscatal.3c00972
+  type: article
+  DOI:
+  fulltext:
+  language: english

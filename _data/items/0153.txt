@@ -1,0 +1,31 @@
+- title: 'Stimulating the pre-catalyst redox reaction and proton-electron transfer process of cobalt phthalocyanine for CO2 electroreduction'
+  volume: 126
+  issue: 23
+  page: "9665–9672"
+  year: 2022
+  author:
+  - given:
+    given_initial: HY
+    family: Li
+  - given:
+    given_initial: J
+    family: Wei
+    role: corr
+  - given:
+    given_initial: L
+    family: Gan
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: J
+    family: Li
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. C
+  URL: https://doi.org/10.1021/acs.jpcc.2c01125
+  type: article
+  DOI:
+  fulltext:
+  language: english

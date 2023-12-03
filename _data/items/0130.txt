@@ -1,0 +1,39 @@
+- title: 'Elucidating the Mechanism of Nonflammable Electrolytes in Lithium Metal Batteries'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: JY
+    family: Wu
+  - given:
+    given_initial: HC
+    family: Tang
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given:
+    given_initial: QW
+    family: Zhou
+  - given:
+    given_initial: S
+    family: Feng
+  - given:
+    given_initial: PP
+    family: Yu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english

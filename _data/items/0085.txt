@@ -1,0 +1,46 @@
+- title: 'Boosting electrocatalytic CO2–to–ethanol production via asymmetric C–C coupling'
+  volume: 13
+  issue:
+  page: "3754"
+  year: 2022
+  author:
+  - given:
+    given_initial: PT
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Y
+    family: Cheng
+  - given:
+    given_initial: C
+    family: Tang
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: Y
+    family: Zheng
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: K
+    family: Davey
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  - given:
+    given_initial: SZ
+    family: Qiao
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-022-31427-9
+  type: article
+  DOI:
+  fulltext:
+  language: english

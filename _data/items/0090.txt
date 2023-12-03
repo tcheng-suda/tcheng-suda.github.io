@@ -1,0 +1,43 @@
+- title: 'TiH2 quantum dots exfoliated via facile sonication as bifunctional electrocatalysts for Li-S batteries'
+  volume: 14
+  issue: 
+  page: "6937–6944"
+  year: 2022
+  author:
+  - given:
+    given_initial: TR
+    family: Yan
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: F
+    family: Gong
+  - given:
+    given_initial: C
+    family: Cheng
+  - given:
+    given_initial: J
+    family: Mao
+  - given:
+    given_initial: KH
+    family: Dai
+  - given:
+    given_initial: L
+    family: Cheng
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: L
+    family: Zhang
+    role: corr
+  journal: 
+    abbreviation: ACS Appl. Mater. Interfaces
+  URL: https://doi.org/10.1021/acsami.1c23815
+  type: article
+  DOI:
+  fulltext:
+  language: english

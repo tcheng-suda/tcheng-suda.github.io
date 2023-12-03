@@ -1,0 +1,36 @@
+- title: 'Tri-fluorinated Keto-Enol Tautomeric Switch in Probing Domain Rotation of a G Protein-Coupled Receptor'
+  volume: 32
+  issue: 
+  page: "99"
+  year: 2021
+  author:
+  - given:
+    given_initial: XD
+    family: Wang
+  - given:
+    given_initial: WJ
+    family: Zhao
+  - given:
+    given_initial: AM
+    family: Sameer
+  - given:
+    given_initial: YM
+    family: Lu
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: M
+    family: Jesper
+  - given:
+    given_initial: LB
+    family: Ye
+    role: corr
+  journal:
+    abbreviation: Bioconjugate Chem.
+  URL: https://doi.org/10.1021/acs.bioconjchem.0c00670
+  type: article
+  DOI: 
+  fulltext:
+  language: english

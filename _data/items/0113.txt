@@ -1,0 +1,33 @@
+- title: 'Atomistic Mechanisms for catalytic transformations of NO to NH3, N2O, and N2 by Pd'
+  volume: 94 
+  issue: 
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: Chin. J. Chem. Phys
+  URL: https://doi.org/10.1063/1674-0068/cjcp2109153 
+  type: article
+  DOI: 
+  fulltext:
+  language: english

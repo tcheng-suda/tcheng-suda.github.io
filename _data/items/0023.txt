@@ -1,0 +1,49 @@
+- title: 'Ultrahigh Mass Activity for Carbon Dioxide Reduction Enabled by Gold-iron Core-shell Nanoparticles'
+  volume: 139
+  issue: 44
+  page: '15608–15611'
+  year: 2017
+  author:
+  - given: Kun
+    given_initial: K
+    family: Sun
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: LN
+    family: Wu
+  - given:
+    given_initial: YF
+    family: Hu
+  - given:
+    given_initial: JG
+    family: Zhou
+  - given:
+    given_initial: A
+    family: Maclennan
+  - given:
+    given_initial: ZH
+    family: Jiang
+  - given:
+    given_initial: YZ
+    family: Gao
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: ZJ
+    family: Wang
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/jacs.7b09251
+  type: article
+  DOI: 10.1021/jacs.7b09251
+  fulltext:
+  language: english
+  note: (Sun K and Cheng T contributed equally)
+  media1: (J. Am. Chem. Soc. Cover Publication)
+  media1_url: http://pubs.acs.org/subscribe/covers/jacsat/jacsat_v139i044-2.jpg?0.7583455086716329

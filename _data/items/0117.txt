@@ -1,0 +1,30 @@
+- title: 'Bimetallic PdAu Nanoframes for Electrochemical H2O2 Production in Acids'
+  volume: 3
+  issue: 
+  page: "996"
+  year: 2021
+  author:
+  - given:
+    given_initial: X
+    family: Zhao
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: J
+    family: Xu
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: YG
+    family: Li
+    role: corr
+  journal:
+    abbreviation: ACS Mater. Lett.
+  URL: https://doi.org/10.1021/acsmaterialslett.1c00263
+  type: article
+  DOI: 
+  fulltext:
+  language: english

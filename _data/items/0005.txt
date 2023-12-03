@@ -1,0 +1,24 @@
+- title: 'On the Accuracy of Predicting Shear Viscosity of Molecular Liquids Using the Periodic Perturbation Method'
+  volume: '129'
+  issue:
+  page: '144501'
+  year: 2008
+  author:
+  - given:
+    given_initial: LF
+    family: Zhao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: J. Chem. Phys.
+  URL: http://dx.doi.org/10.1063/1.2936986
+  type: article
+  DOI: 10.1063/1.2936986
+  fulltext:
+  language: english

@@ -1,0 +1,24 @@
+- title: 'Atomistic Mechanisms Underlying Selectivities in C1 and C2 Products from Electrochemical Reduction of CO on Cu(111)'
+  volume: '139'
+  issue: '1'
+  page: '130-136'
+  year: 2017
+  author:
+  - given:
+    given_initial: H
+    family: Xiao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/jacs.6b06846
+  type: article
+  DOI: 10.1021/jacs.6b06846
+  fulltext:
+  language: english

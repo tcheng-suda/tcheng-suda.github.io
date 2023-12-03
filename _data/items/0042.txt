@@ -1,0 +1,27 @@
+- title: 'First Principles Based Reaction Kinetics from Reactive Molecular Dynamics Simulations: Application to Hydrogen Peroxide Decomposition'
+  volume: 116 
+  issue:
+  page: "18202-18208"
+  year: 2019
+  author:
+  - given: 
+    given_initial: DV
+    family: Ilyin
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: JJ
+    family: Oppenheim
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: https://doi.org/10.1073/pnas.1701383115 
+  type: article
+  DOI: 10.1073/pnas.1701383115 
+  fulltext: 
+  language: english

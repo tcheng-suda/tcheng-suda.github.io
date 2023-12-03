@@ -1,0 +1,41 @@
+- title: 'Formation of Linear Oligomers in Solid Electrolyte Interphase via Two-Electron Reduction of Ethylene Carbonate'
+  volume: 5
+  issue: 5
+  page: "2100612"
+  year: 2022
+  author:
+  - given:
+    given_initial: Yue
+    family: Liu
+  - given:
+    given_initial: Yu
+    family: Wu
+  - given:
+    given_initial: Qintao
+    family: Sun
+  - given:
+    given_initial: Bingyun
+    family: Ma
+  - given:
+    given_initial: Peiping
+    family: Yu
+  - given:
+    given_initial: Liang
+    family: Xu
+  - given:
+    given_initial: Miao
+    family: Xie
+  - given:
+    given_initial: Hao
+    family: Yang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Adv. Theory Simul.
+  URL: https://doi.org/10.1002/adts.202100612
+  type: article
+  DOI:
+  fulltext:
+  language: english

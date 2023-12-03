@@ -1,0 +1,36 @@
+- title: "Nucleation of Graphene Layers On Magnetic Oxides: Co3O4 (111)
+          and Cr2O3 (0001) from Theory and Experiment"
+  volume: '8'
+  issue: ''
+  page: '188-192'
+  year: 2017
+  author:
+  - given: John
+    given_initial: J
+    family: Beatty
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: Yuan
+    given_initial: Y
+    family: Cao
+  - given: Marcus
+    given_initial: M
+    family: Driver
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Jeffry
+    given_initial: J
+    family: Kelber
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: http://dx.doi.org/10.1021/acs.jpclett.6b02325
+  type: article
+  DOI: 10.1021/acs.jpclett.6b02325
+  fulltext:
+  language: english
+  note: (Beatty J and Cheng T contributed equally)

@@ -1,0 +1,44 @@
+- title: 'Physical Inspired Machine Learning Prediction of Battery Coulombic Efficiency Leveraging Small Datasets'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: S
+    family: Feng
+  - given:
+    given_initial: YL
+    family: Jie
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: JY
+    family: Wu
+  - given:
+    given_initial: JY
+    family: Zhang
+  - given:
+    given_initial: SH
+    family: Jiao
+  - given:
+    given_initial: RG
+    family: Cao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english

@@ -1,0 +1,29 @@
+- title: 'Elucidating Solid Electrolyte Interphase Formation in Sodium-Based Batteries: Key Reductive Reactions and Inorganic Composition'
+  volume: 11
+  issue:
+  page: "14640-14645"
+  year: 2023
+  author:
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: BT
+    family: Yue
+  - given:
+    given_initial: YY
+    family: Zhang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D3TA01878D
+  type: article
+  DOI:
+  fulltext:
+  language: english

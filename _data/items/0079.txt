@@ -1,0 +1,34 @@
+- title: 'Surface engineering of RhOOH nanosheets promotes hydrogen evolution in alkaline'
+  volume: 78
+  issue: 
+  page: "105224"
+  year: 2020
+  author:
+  - given:
+    given_initial: SX
+    family: Bai
+  - given:
+    given_initial: Miao
+    family: Xie
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: KL
+    family: Cao
+  - given:
+    given_initial: Y
+    family: Xu
+    role: corr
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr  
+  journal:
+    abbreviation: Nano Energy
+  URL: https://doi.org/10.1016/j.nanoen.2020.105224
+  type: article
+  DOI: 
+  fulltext:
+  language: english

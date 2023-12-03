@@ -1,0 +1,38 @@
+- title: 'Multi-scale Simulation Reveals the Decomposition Mechanism of Electrolyte on Lithium Metal Electrode'
+  volume: 28
+  issue: 4
+  page: "2105181"
+  year: 2021
+  author:
+  - given:
+    given_initial: YY
+    family: Zhang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: WX
+    family: Du
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Electrochem.
+  URL: http://electrochem.xmu.edu.cn/CN/10.13208/j.electrochem.210518
+  type: article
+  DOI: 
+  fulltext:
+  language: english

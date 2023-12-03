@@ -1,0 +1,45 @@
+- title: 'Customizable Ligand Exchange for Tailored Surface Property of Noble Metal Nanocrystals'
+  volume: 
+  issue: 
+  page: "2131806"
+  year: 2020
+  author:
+  - given:
+    given_initial: QK
+    family: Fan
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: J
+    family: Ge
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: B
+    family: Lei
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: YY
+    family: Li
+  - given:
+    given_initial: YD
+    family: Yin
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: Research
+  URL: https://doi.org/10.34133/2020/2131806
+  type: article
+  DOI: 
+  fulltext:
+  language: english

@@ -1,0 +1,58 @@
+- title: 'Controllable CO adsorption determines ethylene and methane productions from CO2 electroreduction'
+  volume: 78
+  issue: 
+  page: "105224"
+  year: 2020
+  author:
+  - given:
+    given_initial: HP
+    family: Bai
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: SY
+    family: Li
+  - given:
+    given_initial: ZY
+    family: Zhou
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: J
+    family: Li
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: JY
+    family: Ye
+  - given:
+    given_initial: YJ
+    family: Ji
+  - given:
+    given_initial: YY
+    family: Li
+  - given:
+    given_initial: ZY
+    family: Zhou
+  - given:
+    given_initial: SG
+    family: Sun
+  - given:
+    given_initial: Bo
+    family: Zhang
+    role: corr  
+  - given:
+    given_initial: HS
+    family: Peng
+    role: corr  
+  journal:
+    abbreviation: Sci. Bull
+  URL: https://doi.org/10.1016/j.scib.2020.06.023
+  type: article
+  DOI: 
+  fulltext:
+  language: english

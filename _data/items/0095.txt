@@ -1,0 +1,37 @@
+- title: 'The exclusive surface and electronic effects of Ni on promoting the activity of Pt towards alkaline hydrogen oxidation'
+  volume: 15
+  issue:
+  page: "5865-5872"
+  year: 2022
+  author:
+  - given:
+    given_initial: KC
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: JT
+    family: Zhang
+  - given:
+    given_initial: GM
+    family: Ren
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Y
+    family: Xu
+    role: corr
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Nano Res.
+  URL: https://doi.org/10.1007/s12274-022-4228-3
+  type: article
+  DOI:
+  fulltext:
+  language: english

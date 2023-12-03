@@ -1,0 +1,49 @@
+- title: 'Lattice and Surface Engineering of Ruthenium Nanostructures for Enhanced Hydrogen Oxidation Catalysis'
+  volume: 33
+  issue:
+  page: "2210328"
+  year: 2023
+  author:
+  - given:
+    given_initial: YT
+    family: Dong
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: CH
+    family: Zhan
+  - given:
+    given_initial: JT
+    family: Zhang
+  - given:
+    given_initial: H
+    family: Yang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Y
+    family: Xu
+    role: corr
+  - given:
+    given_initial: ZW
+    family: Hu
+  - given:
+    given_initial: CW
+    family: Pao
+  - given:
+    given_initial: HB
+    family: Geng
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Adv. Funct. Mater.  
+  URL: https://doi.org/10.1002/adfm.202210328
+  type: article
+  DOI:
+  fulltext:
+  language: english

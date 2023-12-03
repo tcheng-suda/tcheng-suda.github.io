@@ -1,0 +1,26 @@
+- title: 'Atomistic Origin of Portland Cement Paste Expansion from Ettringite Formation and its Effects on Concrete Durability: In-silico Study'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: AJ
+    family: Botero
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: LC
+    family: Liu
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english

@@ -1,0 +1,52 @@
+- title: 'The lattice strain dominated catalytic activity in single-metal nanosheets'
+  volume: 11
+  issue:
+  page: "4037-4044"
+  year: 2023
+  author:
+  - given:
+    given_initial: M
+    family: Wang
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: ZL
+    family: Fan
+  - given:
+    given_initial: WX
+    family: Zhu
+  - given:
+    given_initial: J
+    family: Wu
+  - given:
+    given_initial: YJ
+    family: Zhou
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: MJ
+    family: Ma
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: MW
+    family: Shao
+    role: corr
+  - given:
+    given_initial: ZH
+    family: kang
+    role: corr
+  journal:
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D2TA08454F
+  type: article
+  DOI:
+  fulltext:
+  language: english

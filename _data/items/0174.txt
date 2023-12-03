@@ -1,0 +1,43 @@
+- title: 'Impact of Lithium Nitrate Additives on the Solid Electrolyte Interphase in Lithium Metal Batteries'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2023
+  author:
+  - given:
+    given_initial: MW
+    family: Wang
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given:
+    given_initial: ZA
+    family: Yan
+  - given:
+    given_initial: QY
+    family: Xu
+  - given:
+    given_initial: B
+    family: Wang
+  - given:
+    given_initial: YH
+    family: Li
+    role: corr
+  - given:
+    given_initial: XF
+    family: Wang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Chinese J. Struc. Chem.
+  URL: https://doi.org/10.1016/j.cjsc.2023.100203
+  type: article
+  DOI:
+  fulltext:
+  language: english

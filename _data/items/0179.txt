@@ -1,0 +1,51 @@
+- title: 'Regulating Inner Helmholtz Plane with A Small Addition of High Donor Additive for Efficient Zn Anode Reversibility'
+  volume: 62
+  issue: 21
+  page: "e202302302"
+  year: 2023
+  author:
+  - given:
+    given_initial: JR
+    family: Luo
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: YJ
+    family: Zhou
+  - given:
+    given_initial: TR
+    family: Yan
+  - given:
+    given_initial: YY
+    family: Shao
+  - given:
+    given_initial: DZ
+    family: Yang
+  - given:
+    given_initial: L
+    family: Zhang
+  - given:
+    given_initial: Z
+    family: Xia
+  - given:
+    given_initial: TH
+    family: Wang
+  - given:
+    given_initial: L
+    family: Zhang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: YL
+    family: Shao
+    role: corr
+  journal:
+    abbreviation: Angew. Chem., Int. Ed.
+  URL: https://doi.org/10.1002/anie.202302302
+  type: article
+  DOI:
+  fulltext:
+  language: english

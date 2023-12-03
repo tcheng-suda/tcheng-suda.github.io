@@ -1,0 +1,25 @@
+- title: 'Full Atomistic Reaction Mechanism with Kinetics for CO Reduction on Cu(100) from ab initio Molecular Dynamics Free-energy Calculations at 298 K.'
+  volume: '114'
+  issue: ''
+  page: '1795-1800'
+  year: 2017
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: Hai
+    given_initial: H
+    family: Xiao
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: http://dx.doi.org/10.1073/pnas.1612106114
+  type: article
+  DOI: 10.1073/pnas.1612106114
+  fulltext:
+  language: english
+  note: (direct submission)

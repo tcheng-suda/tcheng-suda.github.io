@@ -1,0 +1,46 @@
+- title: 'Rescaling of Metal Oxide Nanocrystals for Energy Storage Having High Capacitance and Energy Density with Robust Cycle Life'
+  volume: '112'
+  issue: '26'
+  page: '7914-7919'
+  year: 2015
+  author:
+  - given:
+    given_initial: HM
+    family: Jeong
+  - given:
+    given_initial: KM
+    family: Choi
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: DK
+    family: Lee
+  - given:
+    given_initial: RJ
+    family: Zhou
+  - given:
+    given_initial: IW
+    family: Ock
+  - given:
+    given_initial: DJ
+    family: Milliron
+  - given:
+    given_initial: AJ
+    family: Colussi
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: JK
+    family: Kang
+    role: corr
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: http://dx.doi.org/10.1073/pnas.1503546112
+  type: article
+  DOI: 10.1073/pnas.1503546112
+  fulltext:
+  language: english

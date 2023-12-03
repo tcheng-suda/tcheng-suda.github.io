@@ -1,0 +1,554 @@
+
+- title: 'Discrete Dimers of Redox-Active and Fluorescent Perylene Diimide-Based Rigid Isosceles Triangles in the Solid State'
+  volume: 141   
+  issue:
+  page: "1290–1303"
+  year: 2018
+  author:
+  - given:
+    given_initial: SKM
+    family: Nalluri
+  - given:
+    given_initial: JW
+    family: Zhou
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: ZC
+    family: Liu
+  - given:
+    given_initial: MT
+    family: Nguyen
+  - given:
+    given_initial: TY
+    family: Chen
+  - given:
+    given_initial: HA
+    family: Patel
+  - given:
+    given_initial: MD
+    family: Krzyaniak
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: MR
+    family: Wasielewski
+    role: corr
+  - given:
+    given_initial: JF
+    family: Stoddart
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: https://doi.org/10.1021/jacs.8b11201
+  type: article
+  DOI: 10.1021/jacs.8b11201 
+  fulltext: 
+  language: english
+
+- title: 'Highly Active Star Decahedron Cu Nanocatalyst for Hydrocarbon Production at Low Overpotentials'
+  volume: 31   
+  issue:
+  page: "1805405"
+  year: 2019
+  author:
+  - given:
+    given_initial: C
+    family: Choi
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: MF
+    family: Expinosa
+  - given:
+    given_initial: HL
+    family: Fei
+  - given:
+    given_initial: XF
+    family: Duan
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: Y
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Adv. Mater.
+  URL: https://doi.org/10.1002/adma.201805405
+  type: article
+  DOI: 10.1002/adma.201805405
+  fulltext: 
+  language: english
+
+- title: 'Identification of the Selective Sites for Electrochemical Reduction of CO to C2+ Products on Copper Nanoparticles by Combining Reactive Force Fields, Density Functional Theory, and Machine Learning'
+  volume: 3  
+  issue:
+  page: "2983–2988"
+  year: 2018
+  author:
+  - given:
+    given_initial: YF
+    family: Huang
+  - given:
+    given_initial: YL
+    family: Chen
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: ACS Energy Lett.
+  URL: https://doi.org/10.1021/acsenergylett.8b01933
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+
+- title: 'Molecular Russian Dolls'
+  volume: 9  
+  issue:
+  page: "5275"
+  year: 2018
+  author:
+  - given:
+    given_initial: K
+    family: Cai
+  - given:
+    given_initial: MC
+    family: Lipke
+  - given:
+    given_initial: ZC
+    family: Liu
+  - given:
+    given_initial: J
+    family: Nelson
+  - given:
+    given_initial: Y
+    family: Shi
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: CY
+    family: Cheng
+  - given:
+    given_initial: DK
+    family: Shen
+  - given:
+    given_initial: JM
+    family: Han
+  - given:
+    given_initial: S
+    family: Vemuri
+  - given:
+    given_initial: YN
+    family: Feng
+  - given:
+    given_initial: CL
+    family: Stern
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: MR
+    family: Wasielewski
+  - given: 
+    given_initial: JF 
+    family: Stoddart
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-018-07673-1
+  type: article
+  DOI: 10.1038/s41467-018-07673-1
+  fulltext: 
+  language: english
+
+
+- title: 'The Neighboring Component Effect in a Tristable [2]Rotaxane'
+  volume: 140
+  issue: 42
+  page: "13827–13834"
+  year: 2018
+  author:
+  - given:
+    given_initial: YP
+    family: Wang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: JL
+    family: Sun
+  - given:
+    given_initial: ZC
+    family: Liu
+  - given:
+    given_initial: M
+    family: Frasconi
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given: 
+    given_initial: JF 
+    family: Stoddart
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc. 
+  URL: https://doi.org/10.1021/jacs.8b08519
+  type: article
+  DOI: 10.1021/jacs.8b08519
+  fulltext: 
+  language: english
+
+- title: 'First Principles Based Reaction Kinetics from Reactive Molecular Dynamics Simulations: Application to Hydrogen Peroxide Decomposition'
+  volume: 116 
+  issue:
+  page: "18202-18208"
+  year: 2019
+  author:
+  - given: 
+    given_initial: DV
+    family: Ilyin
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: JJ
+    family: Oppenheim
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: https://doi.org/10.1073/pnas.1701383115 
+  type: article
+  DOI: 10.1073/pnas.1701383115 
+  fulltext: 
+  language: english
+
+- title: 'In silico Optimization of Organic-inorganic Hybrid Perovskites for Photocatalytic Hydrogen Evolution Reaction in Acidic Solution '
+  volume: 122 
+  issue: 36
+  page: "20918-20922"
+  year: 2018
+  author:
+  - given: 
+    given_initial: L
+    family: Wang
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Tao 
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Xiao
+  - given:
+    given_initial: YY
+    family: Li
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. C
+  URL: https://doi.org/10.1021/acs.jpcc.8b07380
+  type: article
+  DOI: 10.1021/acs.jpcc.8b07380 
+  fulltext: 
+  language: english
+
+
+- title: 'Electrochemical CO Reduction Builds Solvent Water into Oxygenate Products'
+  volume: 140 
+  issue: 30
+  page: "9337-9340"
+  year: 2018
+  author:
+  - given: 
+    given_initial: YW 
+    family: Lum
+  - given: Tao 
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: JW
+    family: Ager
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: https://doi.org/10.1021/jacs.8b03986 
+  type: article
+  DOI: 10.1021/jacs.8b03986
+  fulltext: 
+  language: english
+  note: (Lum YW and Cheng T contributed equally)
+
+- title: 'First Principles Based Multiscale Atomistic Methods for Input into First Principles Non-equilibrium Transport Across Interfaces'
+  volume: 116 
+  issue:
+  page: "18193-18201"
+  year: 2019
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: A
+    family: Jaramillo-Botero
+  - given: 
+    given_initial: Q
+    family: An
+  - given: 
+    given_initial: DV
+    family: Ilyin
+  - given: 
+    given_initial: S
+    family: Naserifar
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: https://doi.org/10.1073/pnas.1800035115
+  type: article
+  DOI: 10.1073/pnas.1800035115
+  fulltext: 
+  language: english
+
+- title: 'Explanation of Dramatic pH-Dependence of Hydrogen Binding on Noble Metal Electrode: Greatly Weakened Water Adsorption at High pH.'
+  volume: 140  
+  issue: 25
+  page: '7787-7790'
+  year: 2018
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: 
+    given_initial: L
+    family: Wang
+  - given: 
+    given_initial: MV
+    family: Boris
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/jacs.8b04006
+  type: article
+  DOI: 10.1021/jacs.8b04006
+  fulltext: 
+  language: english
+  media1: (J. Am. Chem. Soc. Spotlights)
+  media1_url: https://pubs.acs.org/doi/pdfplus/10.1021/jacs.8b05954
+
+- title: 'Surface Ligand Promotion of Carbon Dioxide Reduction through Stabilizing Chemisorbed Reactive Intermediates'
+  volume: 9 
+  issue:
+  page: '3057-3061'
+  year: 2018
+  author:
+  - given:
+    given_initial: ZJ
+    family: Wang
+    role: corr
+  - given:
+    given_initial: LN
+    family: Wu
+  - given:
+    given_initial: K
+    family: Sun 
+  - given:
+    given_initial: T
+    family: Chen
+  - given:
+    given_initial: ZH
+    family: Jiang
+  - given: Tao
+    given_initial: T*
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: http://dx.doi.org/10.1021/acs.jpclett.8b00959
+  type: article
+  DOI: 10.1021/acs.jpclett.8b00959
+  fulltext: 
+  language: english
+
+- title: 'Ordered Three-fold Symmetric Graphene Oxide/Buckled Graphene/Graphene Heterostructures on MgO (111) by Carbon Molecular Beam Epitaxy'
+  volume: 6
+  issue:
+  page: '4225-4233'
+  year: 2018
+  author:
+  - given:
+    given_initial: C
+    family: Ladewig
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: MD
+    family: Randle
+  - given:
+    given_initial: J
+    family: Bird
+  - given:
+    given_initial: O
+    family: Olanipekun
+  - given:
+    given_initial: PA
+    family: Dowben
+  - given:
+    given_initial: J
+    family: Kelber
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Mater. Chem. C
+  URL: http://dx.doi.org/10.1039/C8TC00178B
+  type: article
+  DOI: 10.1039/C8TC00178B
+  fulltext:
+  language: english
+  note: (Ladewig C and Cheng T contributed equally)
+
+- title: 'Reaction Mechanisms and Sensitivity for Silicon Nitrocarbamate and Related Systems from Quantum Mechanics Reaction Dynamics'
+  volume: 6
+  issue:
+  page: '5082-5097'
+  year: 2018
+  author:
+  - given:
+    given_initial: TT
+    family: Zhou
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: SZ
+    family: Zybin
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: FL
+    family: Huang
+  journal:
+    abbreviation: J. Mater. Chem. A
+  URL: http://dx.doi.org/10.1039/C7TA10998A
+  type: article
+  DOI: 10.1039/C7TA10998A
+  fulltext:
+  language: english
+  note: (2018 Journal of Materials Chemistry A HOT Papers)
+
+- title: 'Pb-activated Amine-assisted Photocatalytic Hydrogen Evolution Reaction on Organic-Inorganic Perovskites'
+  volume: 140
+  issue: 6
+  page: '1994–1997'
+  year: 2018
+  author:
+  - given:
+    given_initial: L
+    family: Wang
+    role: corr
+  - given:
+    given_initial: H
+    family: Xiao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: YY
+    family: Li
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/jacs.7b12028
+  type: article
+  DOI: 10.1021/jacs.7b12028
+  fulltext:
+  language: english
+  media1: (J. Am. Chem. Soc. Cover Publication)
+  media1_url: https://pubs.acs.org/toc/jacsat/140/6
+
+- title: 'Predicted Detonation Properties at the Chapman-Jouguet State for Proposed Energetic Materials (MTO and MTO3N) from Combined ReaxFF and Quantum Mechanics Reactive Dynamics'
+  volume: 20
+  issue: 6
+  page: '3953-3969'
+  year: 2018
+  author:
+  - given:
+    given_initial: T
+    family: Zhou
+  - given:
+    given_initial: SV
+    family: Zybin
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: S
+    family: Naserifar
+  - given:
+    given_initial: A
+    family: Jaramillo-Botero
+  - given:
+    given_initial: FL
+    family: Huang
+  journal:
+    abbreviation: Phys. Chem. Chem. Phys.
+  URL: http://dx.doi.org/10.1039/C7CP07321F
+  type: article
+  DOI: 10.1039/C7CP07321F
+  fulltext:
+  language: english
+

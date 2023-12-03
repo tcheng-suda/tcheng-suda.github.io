@@ -1,0 +1,40 @@
+- title: 'Selective CO2 Electrochemical Reduction Enabled by a Tri-component Copolymer Modifier on a Copper Surface'
+  volume: 143
+  issue: 
+  page: "2857–2865"
+  year: 2021
+  author:
+  - given:
+    given_initial: JC
+    family: Wang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: AQ
+    family: Fenwick
+  - given:
+    given_initial: A
+    family: Rosas-Hernández
+  - given:
+    given_initial: JH
+    family: Ko
+  - given:
+    given_initial: Q
+    family: Gan
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: RH
+    family: Grubbs
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: https://doi.org/10.1021/jacs.0c12478
+  type: article
+  DOI: 
+  fulltext:
+  language: english

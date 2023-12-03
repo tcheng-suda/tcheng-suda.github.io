@@ -1,0 +1,43 @@
+- title: 'DFT-ReaxFF Hybrid Molecular Dynamics Investigation of the Decomposition Effects of Localized High-Concentration Electrolyte in Lithium Metal Batteries: LiFSI/DME/TFEO'
+  volume: 24
+  issue:
+  page: "18684-18690"
+  year: 2022
+  author:
+  - given:
+    given_initial: YM
+    family: Lu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: YY
+    family: Zhang
+  - given:
+    given_initial: JC
+    family: Lu
+  - given:
+    given_initial: HC
+    family: Huang
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Phys. Chem. Chem. Phys.
+  URL: https://doi.org/10.1039/D2CP02130G
+  type: article
+  DOI:
+  fulltext:
+  language: english

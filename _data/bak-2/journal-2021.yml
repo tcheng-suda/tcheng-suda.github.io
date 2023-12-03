@@ -1,0 +1,2061 @@
+- title: 'Boosting electrocatalytic CO2–to–ethanol production via asymmetric C–C coupling'
+  volume: 13
+  issue:
+  page: "3754"
+  year: 2022
+  author:
+  - given:
+    given_initial: PT
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Y
+    family: Cheng
+  - given:
+    given_initial: C
+    family: Tang
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: Y
+    family: Zheng
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: K
+    family: Davey
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  - given:
+    given_initial: SZ
+    family: Qiao
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-022-31427-9
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Determining Hydronium pKa on Platinum Surface and Impact on Hydrogen Evolution Reaction'
+  volume: 119
+  issue: 39
+  page: "e2208187119"
+  year: 2022
+  author:
+  - given:
+    given_initial: GY
+    family: Zhong
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: ZH
+    family: Huang
+  - given:
+    given_initial: CZ
+    family: Wan
+  - given:
+    given_initial: AH
+    family: Shah
+  - given:
+    given_initial: SB
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Huang
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: Xiangfeng
+    family: Duan
+    role: corr
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: https://doi.org/10.1073/pnas.2208187119
+  type: article
+  DOI:
+  fulltext:
+  language: english
+  note: (Zhong GY and Cheng T contributed equally)
+
+- title: 'Coherent Hexagonal Platinum Skin on Nickel Nanocrystals for Enhanced Hydrogen Evolution Activity'
+  volume: 14
+  issue:
+  page: "2424"
+  year: 2023
+  author:
+  - given:
+    given_initial: K
+    family: Liu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: YL
+    family: Jiang
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: ZX
+    family: Zhang
+  - given:
+    given_initial: YM
+    family: Lu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: O
+    family: Terasaki
+    role: corr
+  - given:
+    given_initial: Q
+    family: Zhang
+    role: corr
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-023-38018-2
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Formation of Linear Oligomers in Solid Electrolyte Interphase via Two-Electron Reduction of Ethylene Carbonate'
+  volume: 5
+  issue: 5
+  page: "2100612"
+  year: 2022
+  author:
+  - given:
+    given_initial: Yue
+    family: Liu
+  - given:
+    given_initial: Yu
+    family: Wu
+  - given:
+    given_initial: Qintao
+    family: Sun
+  - given:
+    given_initial: Bingyun
+    family: Ma
+  - given:
+    given_initial: Peiping
+    family: Yu
+  - given:
+    given_initial: Liang
+    family: Xu
+  - given:
+    given_initial: Miao
+    family: Xie
+  - given:
+    given_initial: Hao
+    family: Yang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Adv. Theory Simul.
+  URL: https://doi.org/10.1002/adts.202100612
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Single-site Pt doped RuO2 hollow nanospheres with interstitial C for high-performance acidic overall water splitting'
+  volume: 8
+  issue: 9
+  page: "eabl9271"
+  year: 2022
+  author:
+  - given:
+    given_initial: J
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: F
+    family: Li
+  - given:
+    given_initial: LG
+    family: Li
+  - given:
+    given_initial: JB
+    family: Wu
+  - given:
+    given_initial: SH
+    family: Liu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Y
+    family: Xu
+    role: corr
+  - given:
+    given_initial: Q
+    family: Shao
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Sci. Adv.
+  URL: https://doi.org/10.1126/sciadv.abl9271
+  type: article
+  DOI: 10.1126/sciadv.abl9271
+  fulltext:
+  language: english
+
+- title: 'TiH2 quantum dots exfoliated via facile sonication as bifunctional electrocatalysts for Li-S batteries'
+  volume: 14
+  issue: 
+  page: "6937–6944"
+  year: 2022
+  author:
+  - given:
+    given_initial: TR
+    family: Yan
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: F
+    family: Gong
+  - given:
+    given_initial: C
+    family: Cheng
+  - given:
+    given_initial: J
+    family: Mao
+  - given:
+    given_initial: KH
+    family: Dai
+  - given:
+    given_initial: L
+    family: Cheng
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: L
+    family: Zhang
+    role: corr
+  journal: 
+    abbreviation: ACS Appl. Mater. Interfaces
+  URL: https://doi.org/10.1021/acsami.1c23815
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Harmonizing Graphene Laminate Spacing and Zn-ion Solvated Structure toward Efficient Compact Capacitive Charge Storage'
+  volume: 32
+  issue: 20
+  page: "2112151"
+  year: 2022
+  author:
+  - given:
+    given_initial: JR
+    family: Luo
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: Q
+    family: Wang
+  - given:
+    given_initial: HM
+    family: Liu
+  - given:
+    given_initial: YS
+    family: Wang
+  - given:
+    given_initial: YY
+    family: Shao
+  - given:
+    given_initial: ML
+    family: Wang
+  - given:
+    given_initial: DZ
+    family: Yang
+  - given:
+    given_initial: S
+    family: Li
+  - given:
+    given_initial: L
+    family: Zhang
+  - given:
+    given_initial: Z
+    family: Xia
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: YL
+    family: Shao
+    role: corr
+  journal:
+    abbreviation: Adv. Funct. Mater
+  URL: https://doi.org/10.1002/adfm.202112151
+  type: article
+  DOI: 10.1002/adfm.202112151
+  fulltext:
+  language: english
+
+- title: 'Exclusive CO-to-acetate electroconversion via hydroxide-paired CO–CO coupling reaction'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: CY
+    family: Cui
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: YZ
+    family: Wen
+  - given:
+    given_initial: WZ
+    family: Niu
+  - given:
+    given_initial: FL
+    family: Ni
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: TW
+    family: Jiang
+  - given:
+    given_initial: N
+    family: Wang
+  - given:
+    given_initial: JY
+    family: Ye
+  - given:
+    given_initial: YZ
+    family: Finfrock
+  - given:
+    given_initial: XD
+    family: Zhang
+  - given:
+    given_initial: PN
+    family: Chen
+  - given:
+    given_initial: WB
+    family: Cai
+  - given:
+    given_initial: YY
+    family: Xia
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: J
+    family: Li
+    role: corr
+  - given:
+    given_initial: HS
+    family: Peng
+    role: corr
+  - given:
+    given_initial: B
+    family: Zhang
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Multiscale Simulation of Solid Electrolyte Interface Formation in Fluorinated Diluted Electrolyte with Lithium Anode'
+  volume: 14
+  issue: 
+  page: "7972–7979"
+  year: 2022
+  author:
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: ACS Appl. Mater. Interfaces
+  URL: https://doi.org/10.1021/acsami.1c22610
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'From n-alkane to polyacetylene on Cu (110): Linkage modulation in Chain Growth'
+  volume: 8
+  issue: 
+  page: "733–739"
+  year: 2022
+  author:
+  - given:
+    given_initial: ZM
+    family: Hao
+  - given:
+    given_initial: JJ
+    family: Zhang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: XC
+    family: Li
+  - given:
+    given_initial: LN
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: KF
+    family: Niu
+  - given:
+    given_initial: JB
+    family: Wang
+  - given:
+    given_initial: LY
+    family: Song
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: HM
+    family: Zhang
+  - given:
+    given_initial: LF
+    family: Chi
+    role: corr
+  journal: 
+    abbreviation: Sci. China Chem.
+  URL: https://doi.org/10.1007/s11426-021-1213-2
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'The exclusive surface and electronic effects of Ni on promoting the activity of Pt towards alkaline hydrogen oxidation'
+  volume: 15
+  issue:
+  page: "5865-5872"
+  year: 2022
+  author:
+  - given:
+    given_initial: KC
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: JT
+    family: Zhang
+  - given:
+    given_initial: GM
+    family: Ren
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Y
+    family: Xu
+    role: corr
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Nano Res.
+  URL: https://doi.org/10.1007/s12274-022-4228-3
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Ligand-Mediated Self-Terminating Growth of Single-Atom Pt on Au Nanocrystals for Improved Formic Acid Oxidation Activity'
+  volume: 12
+  issue:
+  page: "2103195"
+  year: 2022
+  author:
+  - given:
+    given_initial: MX
+    family: Liu
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: ZX
+    family: Zhang
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: Adv. Energy Mater.
+  URL: https://doi.org/10.1002/aenm.202103195
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Rh/RhOx nanosheets as pH-universal bifunctional catalysts for hydrazine oxidation and hydrogen evolution reactions'
+  volume: 10
+  issue:
+  page: "1891-1898"
+  year: 2022
+  author:
+  - given:
+    given_initial: JJ
+    family: Yang
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: WX
+    family: Zhua
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: F
+    family: Liao
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: ZH
+    family: Kang
+  - given:
+    given_initial: MW
+    family: Shao
+    role: corr
+  journal:
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D1TA09391F
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Reduction Mechanism of Solid Electrolyte Interphase Formation on Lithium Metal Anode: Fluorine-rich Electrolyte'
+  volume: 169
+  issue:
+  page: "010503"
+  year: 2022
+  author:
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Electrochem. Soc.
+  URL: https://doi.org/10.1149/1945-7111/ac44bc
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'In Situ Formation of Circular and Branched Oligomers in Localized High Concentration Electrolyte at Lithium−metal Solid Electrolyte Interphase: A Hybrid ab initio and Reactive Molecular Dynamics'
+  volume: 10
+  issue:
+  page: "632-639"
+  year: 2022
+  author:
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: JY
+    family: Zhang
+  - given:
+    given_initial: M
+    family: Xie
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D1TA08182A
+  type: article
+  DOI: 10.1039/D1TA08182A
+  fulltext:
+  language: english
+  
+- title: 'Promoting Oxidation State Transition of Nickel in Single-Layer NiFeB Hydroxide Nanosheets for Efficient Oxygen Evolution'
+  volume: 13
+  issue:
+  page: "6094"
+  year: 2022
+  author:
+  - given:
+    given_initial: YK
+    family: Bai
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: XC
+    family: Zhou
+  - given:
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: KQ
+    family: Nie
+  - given:
+    given_initial: JO
+    family: Wang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: ZX
+    family: Zhang
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-022-33846-0
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Molecular Understanding of Interphase Formation via Operando Polymerization on Lithium Metal Anode'
+  volume: 3
+  issue: 
+  page: "101057"
+  year: 2022
+  author:
+  - given:
+    given_initial: YL
+    family: Jie
+  - given:
+    given_initial: YL
+    family: Xu
+  - given:
+    given_initial: YW
+    family: Chen
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: FY
+    family: Huang
+  - given:
+    given_initial: ZW
+    family: L
+  - given:
+    given_initial: Z
+    family: Kochovski
+  - given:
+    given_initial: L
+    family: Zheng
+  - given:
+    given_initial: PD
+    family: Song
+  - given:
+    given_initial: CS
+    family: Hu
+  - given:
+    given_initial: ZM
+    family: Qi
+  - given:
+    given_initial: XP
+    family: Li
+  - given:
+    given_initial: SY
+    family: Wang
+  - given:
+    given_initial: YB
+    family: Shen
+  - given:
+    given_initial: LW
+    family: Chen
+  - given:
+    given_initial: YZ
+    family: You
+  - given:
+    given_initial: RG
+    family: Cao
+  - given:
+    given_initial: Y
+    family: Lu
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: K
+    family: Xu
+    role: corr
+  - given:
+    given_initial: SH
+    family: Jiao
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+  journal:
+    abbreviation: Cell Reports Physical Science 
+  URL: https://doi.org/10.1016/j.xcrp.2022.101057 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Au-activated N motifs in Non-coherent Cupric Porphyrin Metal Organic Frameworks for Promoting and Stabilizing Ethylene Production'
+  volume: 13
+  issue: 
+  page: "63"
+  year: 2022
+  author:
+  - given:
+    given_initial: X
+    family: Zhang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: XL
+    family: Xie
+  - given:
+    given_initial: LK
+    family: Xiong
+  - given:
+    given_initial: H
+    family: Sun
+  - given:
+    given_initial: YT
+    family: Lu
+  - given:
+    given_initial: QQ
+    family: Mu
+  - given:
+    given_initial: MH
+    family: Rummeli
+  - given:
+    given_initial: JB
+    family: Xu
+  - given:
+    given_initial: S
+    family: Li
+  - given:
+    given_initial: J
+    family: Zhong
+  - given:
+    given_initial: Z
+    family: Deng
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: Y
+    family: Peng
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-021-27768-6
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Hofmann-Type Metal–Organic Framework Nanosheets for Oxygen Evolution'
+  volume: 4
+  issue: 
+  page: "14161–14168"
+  year: 2021
+  author:
+  - given:
+    given_initial: TT
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: Y
+    family: Han
+  - given:
+    given_initial: PW
+    family: Xu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: YB
+    family: Jiang
+  - given:
+    given_initial: JW
+    family: Wen
+  - given:
+    given_initial: WJ
+    family: J
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: ACS Appl. Nano Mater.
+  URL: https://doi.org/10.1021/acsanm.1c03619
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Self-supported hierarchical crystalline carbon nitride arrays with triazine-heptazine heterojunctions for highly efficient photoredox catalysis'
+  volume: 435
+  issue: 
+  page: "134865"
+  year: 2022
+  author:
+  - given:
+    given_initial: ZZ
+    family: Sun
+  - given:
+    given_initial: HZ
+    family: Dong
+  - given:
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: YY
+    family: Tang
+  - given:
+    given_initial: W
+    family: Wang
+  - given:
+    given_initial: YB
+    family: Jiang
+  - given:
+    given_initial: JW
+    family: Wen
+  - given:
+    given_initial: JQ
+    family: He
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: LM
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Chem. Eng. Sci.
+  URL: https://doi.org/10.1016/j.cej.2022.134865
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'In-silico Screening the Nitrogen Reduction Reaction on Single-Atom Electrocatalysts Anchored on MoS2'
+  volume: 65
+  issue: 
+  page: "234–241"
+  year: 2022
+  author:
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: Top. Catal.
+  URL: https://doi.org/10.1007/s11244-021-01546-6
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Facet-selective deposition of ultrathin Al2O3 on copper nanocrystals for highly stable CO2 electroreduction to ethylene'
+  volume: 60
+  issue: 47
+  page: "24838-24843"
+  year: 2021
+  author:
+  - given:
+    given_initial: H
+    family: Li
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: RB
+    family: Lei
+  - given:
+    given_initial: P
+    family: Wen
+  - given:
+    given_initial: X
+    family: Ma
+  - given:
+    given_initial: GS
+    family: Zeng
+  - given:
+    given_initial: FM
+    family: Toma
+  - given:
+    given_initial: YJ
+    family: Qiu
+  - given:
+    given_initial: SM
+    family: Geyer
+  - given:
+    given_initial: XW
+    family: Wang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: W
+    family: Drisdell
+    role: corr
+  journal:
+    abbreviation: Angew. Chem. Int. Ed.
+  URL: https://doi.org/10.1002/anie.202109600
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Anomalous Size Effect of Pt Ultrathin Nanowires on Oxygen Reduction Reaction'
+  volume: 21
+  issue: 21
+  page: "9354–9360"
+  year: 2021
+  author:
+  - given:
+    given_initial: ZY
+    family: Yao
+  - given:
+    given_initial: YL
+    family: Yuan
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: TL
+    family: Sun
+  - given:
+    given_initial: YF
+    family: Lu
+  - given:
+    given_initial: P
+    family: Galindo
+  - given:
+    given_initial: ZL
+    family: Yang
+  - given:
+    given_initial: L
+    family: Gao
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: HW
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Nano Lett.
+  URL: https://doi.org/10.1021/acs.nanolett.1c03805
+  type: article
+  DOI: 
+  fulltext: 
+  language: english
+  
+- title: 'Specific Site Modulation in the 2D Hofmann Type Metal Organic Frameworks Efficient for Oxygen Evolution Reaction'
+  volume: 
+  issue: 
+  page: ""
+  year: 2021
+  author:
+  - given:
+    given_initial: TT
+    family: Wang
+  - given:
+    given_initial: Yu
+    family: Wu
+  - given:
+    given_initial: Y
+    family: Han
+  - given:
+    given_initial: PW
+    family: Xu
+  - given:
+    given_initial: XZ
+    family: Feng
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given:
+    given_initial: WJ
+    family: Ji
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Submitted
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Assembling covalent organic framework membranes with superhigh ion exchange capacity'
+  volume: 13
+  issue: 
+  page: "1020"
+  year: 2021
+  author:
+  - given:
+    given_initial: XY
+    family: Wang
+  - given:
+    given_initial: BB
+    family: Shi
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: JY
+    family: Guan
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: CY
+    family: Fan
+  - given:
+    given_initial: XD
+    family: You
+  - given:
+    given_initial: YN
+    family: Wang
+  - given:
+    given_initial: Z
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: RN
+    family: Zhang
+    role: corr
+  - given:
+    given_initial: ZY
+    family: Jiang
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-022-28643-8
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Multi-scale Simulation Reveals the Decomposition Mechanism of Electrolyte on Lithium Metal Electrode'
+  volume: 28
+  issue: 4
+  page: "2105181"
+  year: 2021
+  author:
+  - given:
+    given_initial: YY
+    family: Zhang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: WX
+    family: Du
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Electrochem.
+  URL: http://electrochem.xmu.edu.cn/CN/10.13208/j.electrochem.210518
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Reaction Mechanism on Sulphur Doped Ni Single-Atom Catalysis for CO2 Reduction Reaction'
+  volume: 16
+  issue: 1
+  page: "256-265"
+  year: 2021
+  author:
+  - given:
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: YY
+    family: Li
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given:
+    given_initial: M
+    family: Xie
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Exp. Nanosci.
+  URL: https://doi.org/10.1080/17458080.2021.1959032
+  type: article
+  DOI: 10.1080/17458080.2021.1959032
+  fulltext: 
+  language: english
+  
+- title: 'Predicted operando Polymerization at Lithium Anode via Boron Insertion'
+  volume: 6
+  issue: 
+  page: "2320"
+  year: 2021
+  author:
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: WA
+    family: Goddard
+  journal:
+    abbreviation: ACS Energy Lett.
+  URL: https://doi.org/10.1021/acsenergylett.1c00907
+  type: article
+  DOI: 10.1021/acsenergylett.1c00907
+  fulltext:
+  language: english
+  
+- title: 'Atomistic Mechanisms for catalytic transformations of NO to NH3, N2O, and N2 by Pd'
+  volume: 94 
+  issue: 
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: Chin. J. Chem. Phys
+  URL: https://doi.org/10.1063/1674-0068/cjcp2109153 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Core-Shell Nanoparticle with Tensile Strain Enables Highly Efficient Electrochemical Ethanol Oxidation'
+  volume: 9
+  issue: 
+  page: "15373"
+  year: 2021
+  author:
+  - given:
+    given_initial: MX
+    family: Liu
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: YL
+    family: Jiang
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: YM
+    family: Lu
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: ZX
+    family: Zhang
+  - given:
+    given_initial: K
+    family: Liu
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D1TA03365D
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Boosting Hydrogen Production with Ultralow Working Voltage by Selenium Vacancy Enhanced Ultrafine Platinum-Nickel Nanowires'
+  volume: 3 
+  issue: 
+  page: "130-141"
+  year: 2022
+  author:
+  - given:
+    given_initial: Y
+    family: Jin
+  - given:
+    given_initial: Z
+    family: Zhang
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given:
+    given_initial: PT
+    family: Wang
+  - given:
+    given_initial: CQ
+    family: Shen
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  - given:
+    given_initial: Q
+    family: Shao
+    role: corr
+  journal:
+    abbreviation: SmartMat
+  URL: https://doi.org/10.1002/smm2.1083
+  type: article
+  DOI: 10.1002/smm2.1083
+  fulltext:
+  language: english
+  
+- title: 'Graphitization of low-density amorphous carbon for electrocatalysis electrodes from ReaxFF reactive dynamics'
+  volume: 183
+  issue: 15
+  page: "940-947"
+  year: 2021
+  author:
+  - given:
+    given_initial: D
+    family: Hossain
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: ZT
+    family: Luo
+    role: corr
+  journal:
+    abbreviation: Carbon
+  URL: https://doi.org/10.1016/j.carbon.2021.07.080
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Bimetallic PdAu Nanoframes for Electrochemical H2O2 Production in Acids'
+  volume: 3
+  issue: 
+  page: "996"
+  year: 2021
+  author:
+  - given:
+    given_initial: X
+    family: Zhao
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: J
+    family: Xu
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: YG
+    family: Li
+    role: corr
+  journal:
+    abbreviation: ACS Mater. Lett.
+  URL: https://doi.org/10.1021/acsmaterialslett.1c00263
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
+- title: 'Exceptionally active and stable RuO2 with interstitial carbon for water oxidation in acid'
+  volume: 8
+  issue: 6
+  page: "1673-1687"
+  year: 2021
+  author:
+  - given:
+    given_initial: J
+    family: Wang
+  - given:
+    given_initial: C
+    family: Cheng
+  - given:
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: FP
+    family: Meng
+  - given:
+    given_initial: QH
+    family: Zhang
+  - given:
+    given_initial: L
+    family: G
+  - given:
+    given_initial: JL
+    family: Cao
+  - given:
+    given_initial: LG
+    family: Li
+  - given:
+    given_initial: SC
+    family: Haw
+  - given:
+    given_initial: Q
+    family: Shao
+  - given:
+    given_initial: L
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: F
+    family: Jiao
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: Chem
+  URL: https://doi.org/10.1016/j.chempr.2022.02.003
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
+- title: 'Inorganic cation-tailored “trapdoor” effect of the silicoaluminophosphate zeolite for highly selective CO2 separation'
+  volume: 12
+  issue: 
+  page: "8803"
+  year: 2021
+  author:
+  - given:
+    given_initial: XH
+    family: Wang
+  - given:
+    given_initial: NN
+    family: Yan
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: PX
+    family: Liu
+  - given:
+    given_initial: P
+    family: Bai
+  - given:
+    given_initial: HP
+    family: Su
+  - given:
+    given_initial: BY
+    family: Wang
+  - given:
+    given_initial: YZ
+    family: Wang
+  - given:
+    given_initial: LB
+    family: Li
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: P
+    family: Guo
+    role: corr
+  - given:
+    given_initial: WF
+    family: Yan
+    role: corr
+  - given:
+    given_initial: JH
+    family: Yu
+    role: corr
+  journal:
+    abbreviation: Chem. Sci.
+  URL: https://doi.org/10.1039/D1SC00619C
+  type: article
+  DOI: 10.1039/D1SC00619C
+  fulltext:
+  language: english
+  
+- title: 'Ultrathin Pt-Cu-Ni Ternary Alloy Nanowires with Multimetallic Interplay for Boosted Methanol Oxidation Activity'
+  volume: 4
+  issue: 7
+  page: "6824"
+  year: 2021
+  author:
+  - given:
+    given_initial: ZX
+    family: Zhang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: YM
+    family: Lu
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: MX
+    family: Liu
+  - given:
+    given_initial: Kai
+    family: Liu
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: ACS Appl. Energy Mater. 
+  URL: https://pubs.acs.org/doi/full/10.1021/acsaem.1c00952
+  type: article
+  DOI: 10.1021/acsaem.1c00952
+  fulltext: 
+  language: english
+  
+- title: 'Insight of the pH-dependent Behavior of N Doped Carbon for Oxygen Reduction Reaction by First-principles Calculations'
+  volume: 125
+  issue: 48
+  page: "26429–26436"
+  year: 2021
+  author:
+  - given:
+    given_initial: MP
+    family: Chen
+  - given:
+    given_initial: Y
+    family: Ping
+    role: corr
+  - given:
+    given_initial: Y
+    family: Li
+    role: corr  
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Phys. Chem. C
+  URL: https://doi.org/10.1021/acs.jpcc.1c07362
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Approaching 100% Selectivity for Electrochemical CO2 Reduction to CO at Low Potential on Ag Using a Surface Additive'
+  volume: 11
+  issue: 
+  page: "9034"
+  year: 2021
+  author:
+  - given:
+    given_initial: A
+    family: Buckley
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: MH
+    family: Oh
+  - given:
+    given_initial: G
+    family: Su
+  - given:
+    given_initial: J
+    family: Garrison
+  - given:
+    given_initial: S
+    family: Utan
+  - given:
+    given_initial: CH
+    family: Zhu
+  - given:
+    given_initial: DF
+    family: Toste
+  - given:
+    given_initial: WA
+    family: Goddard III
+    role: corr
+  - given:
+    given_initial: FM
+    family: Toma
+    role: corr
+  journal:
+    abbreviation: ACS Catal.
+  URL: https://doi.org/10.1021/acscatal.1c00830
+  type: article
+  DOI: 10.1021/acscatal.1c00830
+  fulltext:
+  language: english
+  
+- title: 'Sulfur-doped Graphene Anchoring of Ultrafine Au25 Nanoclusters for Electrocatalysis'
+  volume: 14
+  issue: 
+  page: "3509–3513"
+  year: 2021
+  author:
+  - given:
+    given_initial: MF
+    family: Li
+  - given:
+    given_initial: B
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: SM
+    family: Yu
+  - given:
+    given_initial: S
+    family: Louisia
+  - given:
+    given_initial: CB
+    family: Chen
+  - given:
+    given_initial: SP
+    family: Chen
+  - given:
+    given_initial: S
+    family: Cestellos-Blanco
+  - given:
+    given_initial: WA
+    family: Goddard III
+  - given:
+    given_initial: PD
+    family: Yang
+    role: corr
+  journal:
+    abbreviation: Nano Res.
+  URL: https://doi.org/10.1007/s12274-021-3561-2 
+  type: article
+  DOI: 10.1007/s12274-021-3561-2 
+  fulltext:
+  language: english
+
+- title: 'Pathway of in situ Polymerization of 1,3-dioxolane in LiPF6 Electrolyte on Li Metal Anode'
+  volume: 21
+  issue: 
+  page: "100730"
+  year: 2021
+  author:
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: R
+    family: Jia
+  - given:
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: WA
+    family: Goddard III
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Mater. Today Energy
+  URL: https://doi.org/10.1016/j.mtener.2021.100730
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Predictions of Chemical Shifts for Reactive Intermediates in CO2 Reduction under operando Conditions'
+  volume: 13
+  issue: 27
+  page: "31554"
+  year: 2021
+  author:
+  - given:
+    given_initial: Hao
+    family: Yang
+  - given:
+    given_initial: F
+    family: Negreiros
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: L
+    family: Sementa
+  - given:
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: A
+    family: Fortunelli
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard III
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: ACS Appl. Mater. Interfaces
+  URL: https://pubs.acs.org/doi/10.1021/acsami.1c02909
+  type: article
+  DOI: 10.1021/acsami.1c02909
+  fulltext:
+  language: english
+  
+- title: 'Effects of High and Low Salt Concentration in Electrolytes at Lithium−Metal Anode Surfaces using DFT-ReaxFF Hybrid Molecular Dynamics Method '
+  volume: 12
+  issue: 
+  page: "2922–2929"
+  year: 2021
+  author:
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: WA
+    family: Goddard III
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: https://doi.org/10.1021/acs.jpclett.1c00279
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'The DFT-ReaxFF Hybrid Molecular Dynamics Method with Application to the Reductive Decomposition Reaction of the TFSI and DOL Electrolyte at the Lithium-Metal Anode Surfaces'
+  volume: 12
+  issue: 
+  page: "1300"
+  year: 2021
+  author:
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: X
+    family: Miao
+  - given:
+    given_initial: LY
+    family: Huai
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: https://doi.org/10.1021/acs.jpclett.0c03720
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+  
+- title: 'Auto-bifunctional Mechanism of Jagged Pt Nanowire for Hydrogen Evolution Kinetics via End-to-End In Situ Simulation'
+  volume: 143
+  issue: 
+  page: "5355–5363"
+  year: 2021
+  author:
+  - given:
+    given_initial: GH
+    family: Gu
+  - given:
+    given_initial: JH
+    family: Lim
+  - given:
+    given_initial: CZ
+    family: Wan
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: HT
+    family: Pu
+  - given:
+    given_initial: S
+    family: Kim
+  - given:
+    given_initial: J
+    family: Noh
+  - given:
+    given_initial: C
+    family: Choi
+  - given:
+    given_initial: J
+    family: Kim
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: XF
+    family: Duan
+    role: corr
+  - given:
+    given_initial: YS
+    family: Jung
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: https://doi.org/10.1021/jacs.0c11261
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
+- title: 'Selective CO2 Electrochemical Reduction Enabled by a Tri-component Copolymer Modifier on a Copper Surface'
+  volume: 143
+  issue: 
+  page: "2857–2865"
+  year: 2021
+  author:
+  - given:
+    given_initial: JC
+    family: Wang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: AQ
+    family: Fenwick
+  - given:
+    given_initial: A
+    family: Rosas-Hernández
+  - given:
+    given_initial: JH
+    family: Ko
+  - given:
+    given_initial: Q
+    family: Gan
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: RH
+    family: Grubbs
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: https://doi.org/10.1021/jacs.0c12478
+  type: article
+  DOI: 
+  fulltext:
+  language: english

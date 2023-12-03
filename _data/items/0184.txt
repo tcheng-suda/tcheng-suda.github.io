@@ -1,0 +1,55 @@
+- title: 'Programmable Synthesis of High-Entropy Nanoalloys for Efficient Ethanol Oxidation Reaction'
+  volume: 17
+  issue: 14
+  page: "13659–13671"
+  year: 2023
+  author:
+  - given:
+    given_initial: MF
+    family: Li
+  - given:
+    given_initial: CM
+    family: Huang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Y
+    family: Wang
+  - given:
+    given_initial: XC
+    family: Song
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: JT
+    family: Jiang
+  - given:
+    given_initial: YF
+    family: Lu
+  - given:
+    given_initial: MC
+    family: Liu
+  - given:
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: ZZ
+    family: Ye
+  - given:
+    given_initial: Z
+    family: Hu
+    role: corr
+  - given:
+    given_initial: HW
+    family: Huang
+    role: corr
+  journal:
+    abbreviation: ACS Nano
+  URL: https://doi.org/10.1021/acsnano.3c02762
+  type: article
+  DOI:
+  fulltext:
+  language: english

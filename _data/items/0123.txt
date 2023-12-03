@@ -1,0 +1,45 @@
+- title: 'Sulfur-doped Graphene Anchoring of Ultrafine Au25 Nanoclusters for Electrocatalysis'
+  volume: 14
+  issue: 
+  page: "3509–3513"
+  year: 2021
+  author:
+  - given:
+    given_initial: MF
+    family: Li
+  - given:
+    given_initial: B
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: SM
+    family: Yu
+  - given:
+    given_initial: S
+    family: Louisia
+  - given:
+    given_initial: CB
+    family: Chen
+  - given:
+    given_initial: SP
+    family: Chen
+  - given:
+    given_initial: S
+    family: Cestellos-Blanco
+  - given:
+    given_initial: WA
+    family: Goddard III
+  - given:
+    given_initial: PD
+    family: Yang
+    role: corr
+  journal:
+    abbreviation: Nano Res.
+  URL: https://doi.org/10.1007/s12274-021-3561-2 
+  type: article
+  DOI: 10.1007/s12274-021-3561-2 
+  fulltext:
+  language: english

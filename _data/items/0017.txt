@@ -1,0 +1,36 @@
+- title: 'Initial Decomposition Reaction of Di-tetrazine-tetroxide (Dtto) from Quantum Molecular Dynamics: Implications for a Promising Energetic Material'
+  volume: '3'
+  issue: '5'
+  page: '1972-1978'
+  year: 2015
+  author:
+  - given:
+    given_initial: CC
+    family: Ye
+  - given:
+    given_initial: Q
+    family: An
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WG
+    family: Liu
+  - given:
+    given_initial: ZV
+    family: Zybin
+  - given:
+    given_initial: XH
+    family: Ju
+  journal:
+    abbreviation: J. Mater. Chem. A
+  URL: http://dx.doi.org/10.1039/C4TA05676K
+  type: article
+  DOI: 10.1039/C4TA05676K
+  fulltext:
+  language: english

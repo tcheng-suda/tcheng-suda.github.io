@@ -1,0 +1,41 @@
+- title: 'Boosting Hydrogen Production with Ultralow Working Voltage by Selenium Vacancy Enhanced Ultrafine Platinum-Nickel Nanowires'
+  volume: 3 
+  issue: 
+  page: "130-141"
+  year: 2022
+  author:
+  - given:
+    given_initial: Y
+    family: Jin
+  - given:
+    given_initial: Z
+    family: Zhang
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given:
+    given_initial: PT
+    family: Wang
+  - given:
+    given_initial: CQ
+    family: Shen
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  - given:
+    given_initial: Q
+    family: Shao
+    role: corr
+  journal:
+    abbreviation: SmartMat
+  URL: https://doi.org/10.1002/smm2.1083
+  type: article
+  DOI: 10.1002/smm2.1083
+  fulltext:
+  language: english

@@ -1,0 +1,27 @@
+- title: 'Predicted Structures of the Active Sites Responsible for the Improved Reduction of Carbon Dioxide by Gold Nanoparticles'
+  volume: 8
+  issue:
+  page: "3317-3320"
+  year: 2017
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: YF
+    family: Huang
+  - given:
+    given_initial: H
+    family: Xiao
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: http://dx.doi.org/10.1021/acs.jpclett.7b01335
+  type: article
+  DOI: 10.1021/acs.jpclett.7b01335
+  fulltext:
+  language: english

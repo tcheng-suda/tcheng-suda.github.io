@@ -1,0 +1,51 @@
+- title: 'Pre-activation of CO2 at Cobalt Phthalocyanine-Mg(OH)2 Interface for Enhanced Turnover Rate'
+  volume: 33
+  issue: 26
+  page: "2214609"
+  year: 2023
+  author:
+  - given:
+    given_initial: Lyu
+    family: FL
+  - given:
+    given_initial: Ma
+    family: BY
+  - given:
+    given_initial: Xie
+    family: XL
+  - given:
+    given_initial: Song
+    family: DQ
+  - given:
+    given_initial: Lian
+    family: YB
+  - given:
+    given_initial: Yang
+    family: H
+  - given:
+    given_initial: Hua
+    family: W
+  - given:
+    given_initial: Sun
+    family: Sun
+  - given:
+    given_initial: Zhong
+    family: J
+  - given:
+    given_initial: Deng
+    family: Z
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: Peng
+    family: Y
+    role: corr
+  journal:
+    abbreviation: Adv. Funct. Mater.
+  URL: https://doi.org/10.1002/adfm.202214609
+  type: article
+  DOI: 10.1002/adfm.202214609
+  fulltext:
+  language: english

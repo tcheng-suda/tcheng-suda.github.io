@@ -1,0 +1,21 @@
+- title: 'Adsorption of Ethanol Vapor on Mica Surface under Different Relative Humidities: A Molecular Simulation Study'
+  volume: '116'
+  issue: '31'
+  page: '16436-16446'
+  year: 2012
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. C
+  URL: http://dx.doi.org/10.1021/jp3020595
+  type: article
+  DOI: 10.1021/jp3020595
+  fulltext:
+  language: english

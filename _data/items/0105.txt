@@ -1,0 +1,36 @@
+- title: 'In-silico Screening the Nitrogen Reduction Reaction on Single-Atom Electrocatalysts Anchored on MoS2'
+  volume: 65
+  issue: 
+  page: "234–241"
+  year: 2022
+  author:
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: Top. Catal.
+  URL: https://doi.org/10.1007/s11244-021-01546-6
+  type: article
+  DOI: 
+  fulltext:
+  language: english

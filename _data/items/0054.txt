@@ -1,0 +1,40 @@
+- title: 'Efficient Orange–Red Delayed Fluorescence Organic Light‐Emitting Diodes with External Quantum Efficiency over 26%'
+  volume: 6
+  issue: 1
+  page: "1900843"
+  year: 2020
+  author:
+  - given:
+    given_initial: FM
+    family: Xie
+  - given:
+    given_initial: P
+    family: Wu
+  - given:
+    given_initial: SJ
+    family: Zou
+  - given:
+    given_initial: YQ
+    family: Li
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: JX
+    family: Tang
+    role: corr
+  - given:
+    given_initial: X
+    family: Zhao
+    role: corr
+  journal:
+    abbreviation: Adv. Electron. Mater.
+  URL: https://doi.org/10.1002/aelm.201900843
+  type: article
+  DOI: 10.1002/aelm.201900843
+  fulltext:
+  language: english

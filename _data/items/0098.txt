@@ -1,0 +1,38 @@
+- title: 'Reduction Mechanism of Solid Electrolyte Interphase Formation on Lithium Metal Anode: Fluorine-rich Electrolyte'
+  volume: 169
+  issue:
+  page: "010503"
+  year: 2022
+  author:
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Electrochem. Soc.
+  URL: https://doi.org/10.1149/1945-7111/ac44bc
+  type: article
+  DOI:
+  fulltext:
+  language: english

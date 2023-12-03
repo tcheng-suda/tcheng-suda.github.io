@@ -1,0 +1,48 @@
+- title: 'Core-Shell Nanoparticle with Tensile Strain Enables Highly Efficient Electrochemical Ethanol Oxidation'
+  volume: 9
+  issue: 
+  page: "15373"
+  year: 2021
+  author:
+  - given:
+    given_initial: MX
+    family: Liu
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: YL
+    family: Jiang
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: YM
+    family: Lu
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: ZX
+    family: Zhang
+  - given:
+    given_initial: K
+    family: Liu
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D1TA03365D
+  type: article
+  DOI: 
+  fulltext:
+  language: english

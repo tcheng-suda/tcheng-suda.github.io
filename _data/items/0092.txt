@@ -1,0 +1,71 @@
+- title: 'Exclusive CO-to-acetate electroconversion via hydroxide-paired CO–CO coupling reaction'
+  volume:
+  issue:
+  page: ""
+  year: 2022
+  author:
+  - given:
+    given_initial: CY
+    family: Cui
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: YZ
+    family: Wen
+  - given:
+    given_initial: WZ
+    family: Niu
+  - given:
+    given_initial: FL
+    family: Ni
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: TW
+    family: Jiang
+  - given:
+    given_initial: N
+    family: Wang
+  - given:
+    given_initial: JY
+    family: Ye
+  - given:
+    given_initial: YZ
+    family: Finfrock
+  - given:
+    given_initial: XD
+    family: Zhang
+  - given:
+    given_initial: PN
+    family: Chen
+  - given:
+    given_initial: WB
+    family: Cai
+  - given:
+    given_initial: YY
+    family: Xia
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: J
+    family: Li
+    role: corr
+  - given:
+    given_initial: HS
+    family: Peng
+    role: corr
+  - given:
+    given_initial: B
+    family: Zhang
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english

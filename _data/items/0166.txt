@@ -1,0 +1,49 @@
+- title: 'Understanding steric hindrance effect of solvent molecule in localized high-concentration electrolyte for lithium metal batteries'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2023
+  author:
+  - given:
+    given_initial: XP
+    family: Li
+  - given:
+    given_initial: YX
+    family: Pan
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: YL
+    family: Jie
+  - given:
+    given_initial: SQ
+    family: Chen
+  - given:
+    given_initial: SY
+    family: Wang
+  - given:
+    given_initial: ZX
+    family: He
+  - given:
+    given_initial: XD
+    family: Ren
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: RG
+    family: Cao
+    role: corr
+  - given:
+    given_initial: SH
+    family: Jiao
+    role: corr
+  journal:
+    abbreviation: Carbon Neutrality
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english

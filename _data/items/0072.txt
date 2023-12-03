@@ -1,0 +1,26 @@
+- title: 'Theoretical Research on the Electroreduction of Carbon Dioxide'
+  volume: 37
+  issue: 
+  page: "2010040"
+  year: 2021
+  author:
+  - given:
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Acta Phys. -Chim. Sin.
+  URL: https://doi.org/10.3866/PKU.WHXB202010040
+  type: article
+  DOI: 10.3866/PKU.WHXB202010040
+  fulltext:
+  language: english

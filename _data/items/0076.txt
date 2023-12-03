@@ -1,0 +1,54 @@
+- title: 'N-modulated Cu+ for efficient electrochemical carbon monoxide reduction to acetate'
+  volume: 63
+  issue: 
+  page: "2606–2612"
+  year: 2020
+  author:
+  - given:
+    given_initial: FL
+    family: Ni
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: YZ
+    family: Wen
+  - given:
+    given_initial: ZH
+    family: Jiang
+  - given:
+    given_initial: HP
+    family: Bai
+  - given:
+    given_initial: LS
+    family: Zhang
+  - given:
+    given_initial: CY
+    family: Cui
+  - given:
+    given_initial: LN
+    family: Wu
+  - given:
+    given_initial: SY
+    family: Li
+  - given:
+    given_initial: SS
+    family: He
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: B
+    family: Zhang
+    role: corr 
+  - given:
+    given_initial: HS
+    family: Peng
+  journal:
+    abbreviation: Sci. China Mater.
+  URL: https://doi.org/10.1007/s40843-020-1440-6
+  type: article
+  DOI: 
+  fulltext:
+  language: english

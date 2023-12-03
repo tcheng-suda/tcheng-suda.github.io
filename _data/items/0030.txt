@@ -1,0 +1,35 @@
+- title: 'Subsurface Oxide Plays a Critical Role in CO2 Activation by Copper (111) Surfaces to Form  Chemisorbed CO2, the First Step in Reduction of CO2'
+  volume: 114
+  issue: 226
+  page: "6706-6711"
+  year: 2017
+  author:
+  - given:
+    given_initial: M
+    family: Favaro
+  - given:
+    given_initial: H
+    family: Xiao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: J
+    family: Yano
+    role: corr
+  - given:
+    given_initial: EJ
+    family: Crumlin
+    role: corr
+  journal:
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: http://dx.doi.org/10.1073/pnas.1701405114
+  type: article
+  DOI:
+  fulltext:
+  language: english

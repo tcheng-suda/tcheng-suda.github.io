@@ -1,0 +1,35 @@
+- title: 'Initial Decomposition Reactions of Bicyclo-HMX
+          [BCHMX or cis-1,3,4,6 Tetranitrooctahydroimidazo-[4,5-d]imidazole]
+          from Quantum Molecular Dynamics Simulations'
+  volume: '119'
+  issue: '5'
+  page: '2290-2296'
+  year: 2015
+  author:
+  - given:
+    given_initial: CC
+    family: Ye
+  - given:
+    given_initial: Q
+    family: An
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: ZV
+    family: Zybin
+  - given:
+    given_initial: XH
+    family: Ju
+  journal:
+    abbreviation: J. Phys. Chem. C
+  URL: http://dx.doi.org/10.1021/jp510328d
+  type: article
+  DOI: 10.1021/jp510328d
+  fulltext:
+  language: english

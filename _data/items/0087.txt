@@ -1,0 +1,50 @@
+- title: 'Coherent Hexagonal Platinum Skin on Nickel Nanocrystals for Enhanced Hydrogen Evolution Activity'
+  volume: 14
+  issue:
+  page: "2424"
+  year: 2023
+  author:
+  - given:
+    given_initial: K
+    family: Liu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: YL
+    family: Jiang
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: ZX
+    family: Zhang
+  - given:
+    given_initial: YM
+    family: Lu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: O
+    family: Terasaki
+    role: corr
+  - given:
+    given_initial: Q
+    family: Zhang
+    role: corr
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-023-38018-2
+  type: article
+  DOI:
+  fulltext:
+  language: english

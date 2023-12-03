@@ -1,0 +1,64 @@
+- title: 'Au-activated N motifs in Non-coherent Cupric Porphyrin Metal Organic Frameworks for Promoting and Stabilizing Ethylene Production'
+  volume: 13
+  issue: 
+  page: "63"
+  year: 2022
+  author:
+  - given:
+    given_initial: X
+    family: Zhang
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: XL
+    family: Xie
+  - given:
+    given_initial: LK
+    family: Xiong
+  - given:
+    given_initial: H
+    family: Sun
+  - given:
+    given_initial: YT
+    family: Lu
+  - given:
+    given_initial: QQ
+    family: Mu
+  - given:
+    given_initial: MH
+    family: Rummeli
+  - given:
+    given_initial: JB
+    family: Xu
+  - given:
+    given_initial: S
+    family: Li
+  - given:
+    given_initial: J
+    family: Zhong
+  - given:
+    given_initial: Z
+    family: Deng
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: Y
+    family: Peng
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-021-27768-6
+  type: article
+  DOI: 
+  fulltext:
+  language: english

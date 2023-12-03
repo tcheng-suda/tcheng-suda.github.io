@@ -1,0 +1,40 @@
+- title: 'Electrocatalysis at Organic-Metal Interfaces: Identification of Structure-Reactivity Relationships for CO2 Reduction at Modified Cu Surfaces'
+  volume: 141
+  issue: 18
+  page: "7355–7364"
+  year: 2019
+  author:
+  - given:
+    given_initial: AK
+    family: Buckley
+  - given:
+    given_initial: M
+    family: Lee
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: RV
+    family: Kazantsev
+  - given:
+    given_initial: DM
+    family: Larson
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: FD
+    family: Tostel
+    role: corr
+  - given:
+    given_initial: FM
+    family: Toma
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc
+  URL: https://doi.org/10.1021/jacs.8b13655
+  type: article
+  DOI: 10.1021/jacs.8b13655
+  fulltext: 
+  language: english

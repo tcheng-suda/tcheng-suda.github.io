@@ -1,0 +1,50 @@
+- title: 'Synergy between Silver-Copper Surface Alloy Composition and Carbon Dioxide Adsorption and Activation'
+  volume: 12
+  issue: 
+  page: "25374–25382"
+  year: 2020
+  author:
+  - given:
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: J
+    family: Qian
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: HY
+    family: Su
+  - given:
+    given_initial: KJ
+    family: Lee
+  - given:
+    given_initial: A
+    family: Etxebarria
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Xiao
+  - given:
+    given_initial: J
+    family: Yano
+    role: corr  
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr  
+  - given:
+    given_initial: EJ
+    family: Crumlin
+    role: corr  
+  journal:
+    abbreviation: ACS Appl. Mater. Interfaces
+  URL: https://doi.org/10.1021/acsami.0c02057
+  type: article
+  DOI: 
+  fulltext:
+  language: english

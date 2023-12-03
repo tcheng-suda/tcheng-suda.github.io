@@ -1,0 +1,28 @@
+- title: 'Insight of the pH-dependent Behavior of N Doped Carbon for Oxygen Reduction Reaction by First-principles Calculations'
+  volume: 125
+  issue: 48
+  page: "26429–26436"
+  year: 2021
+  author:
+  - given:
+    given_initial: MP
+    family: Chen
+  - given:
+    given_initial: Y
+    family: Ping
+    role: corr
+  - given:
+    given_initial: Y
+    family: Li
+    role: corr  
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Phys. Chem. C
+  URL: https://doi.org/10.1021/acs.jpcc.1c07362
+  type: article
+  DOI: 
+  fulltext:
+  language: english

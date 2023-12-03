@@ -1,0 +1,42 @@
+- title: 'Hofmann-Type Metal–Organic Framework Nanosheets for Oxygen Evolution'
+  volume: 4
+  issue: 
+  page: "14161–14168"
+  year: 2021
+  author:
+  - given:
+    given_initial: TT
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: Y
+    family: Han
+  - given:
+    given_initial: PW
+    family: Xu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: YB
+    family: Jiang
+  - given:
+    given_initial: JW
+    family: Wen
+  - given:
+    given_initial: WJ
+    family: J
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: ACS Appl. Nano Mater.
+  URL: https://doi.org/10.1021/acsanm.1c03619
+  type: article
+  DOI: 
+  fulltext:
+  language: english

@@ -1,0 +1,28 @@
+- title: 'Classic Force Field for Predicting Surface Tension
+          and Interfacial Properties of Sodium Dodecyl Sulfate'
+  volume: '114'
+  issue: '43'
+  page: '13736-13744'
+  year: 2010
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Q
+    family: Chen
+  - given:
+    given_initial: F
+    family: Li
+  - given:
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. B
+  URL: http://dx.doi.org/10.1021/jp107002x
+  type: article
+  DOI: 10.1021/jp107002x
+  fulltext:
+  language: english

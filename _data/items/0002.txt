@@ -1,0 +1,27 @@
+- title: 'Prediction of the Mutual Solubility of Water and Dipropylene Glycol Dimethyl Ether Using Molecular Dynamics Simulation'
+  volume: '314'
+  issue: '25'
+  page: '1-6'
+  year: 2012
+  author:
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: F
+    family: Li
+  - given:
+    given_initial: JX
+    family: Dai
+  - given:
+    given_initial: H
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: Fluid Phase Equilibria.
+  URL: http://dx.doi.org/10.1016/j.fluid.2011.10.013
+  type: article
+  DOI: 10.1016/j.fluid.2011.10.013
+  fulltext:
+  language: english

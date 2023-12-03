@@ -1,0 +1,28 @@
+- title: 'Design of a One-Dimensional Stacked Spin Peierls System with Room Temperature Switching from QM Predictions'
+  volume: 10
+  issue: 21
+  page: "6432"
+  year: 2019
+  author:
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: XM
+    family: Ren
+    role: corr
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: https://doi.org/10.1021/acs.jpclett.9b02219
+  type: article
+  DOI: 10.1021/acs.jpclett.9b02219
+  fulltext:
+  language: english

@@ -1,0 +1,27 @@
+- title: 'Identifying Active Sites for CO2 Reduction on Dealloyed Gold Surfaces by Combining Machine Learning with Multiscale Simulations'
+  volume: 141
+  issue: 29
+  page: "11651-11657"
+  year: 2019
+  author:
+  - given:
+    given_initial: YL
+    family: Chen    
+  - given:
+    given_initial: YF
+    family: Huang
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  journal:
+    abbreviation: J. Am. Chem. Soc.
+  URL: https://doi.org/10.1021/jacs.9b04956
+  type: article
+  DOI: 10.1021/jacs.9b04956
+  fulltext: 
+  language: english

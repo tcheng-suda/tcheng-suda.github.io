@@ -1,0 +1,32 @@
+- title: 'Annealing Kinetics of Electrodeposited Lithium Dendrites'
+  volume: '143'
+  issue: '10'
+  page: '134701'
+  year: 2015
+  author:
+  - given:
+    given_initial: A
+    family: Aryanfar
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: AJ
+    family: Colussi
+  - given: William A
+    given_initial: WA
+    family: Goddard
+  - given:
+    given_initial: MR
+    family: Hoffmann
+  journal:
+    abbreviation: J. Chem. Phys.
+  URL: http://dx.doi.org/10.1063/1.4930014
+  type: article
+  DOI: 10.1063/1.4930014
+  fulltext:
+  language: english
+  media1: (reported by AIP publishing "Extending a Battery's Lifetime with Heat")
+  media1_url: https://phys.org/news/2015-10-battery-lifetime.html

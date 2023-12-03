@@ -1,0 +1,54 @@
+- title: 'Harmonizing Graphene Laminate Spacing and Zn-ion Solvated Structure toward Efficient Compact Capacitive Charge Storage'
+  volume: 32
+  issue: 20
+  page: "2112151"
+  year: 2022
+  author:
+  - given:
+    given_initial: JR
+    family: Luo
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: Q
+    family: Wang
+  - given:
+    given_initial: HM
+    family: Liu
+  - given:
+    given_initial: YS
+    family: Wang
+  - given:
+    given_initial: YY
+    family: Shao
+  - given:
+    given_initial: ML
+    family: Wang
+  - given:
+    given_initial: DZ
+    family: Yang
+  - given:
+    given_initial: S
+    family: Li
+  - given:
+    given_initial: L
+    family: Zhang
+  - given:
+    given_initial: Z
+    family: Xia
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: YL
+    family: Shao
+    role: corr
+  journal:
+    abbreviation: Adv. Funct. Mater
+  URL: https://doi.org/10.1002/adfm.202112151
+  type: article
+  DOI: 10.1002/adfm.202112151
+  fulltext:
+  language: english

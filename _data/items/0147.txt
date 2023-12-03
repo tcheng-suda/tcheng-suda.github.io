@@ -1,0 +1,51 @@
+- title: 'Enhanced electroreduction of CO2 to C2+ products on heterostructured Cu/oxide electrodes'
+  volume: 8
+  issue:
+  page: "2148-2162"
+  year: 2022
+  author:
+  - given:
+    given_initial: XT
+    family: Li
+  - given:
+    given_initial: Q
+    family: Liu
+  - given:
+    given_initial: JH
+    family: Wang
+  - given:
+    given_initial: DC
+    family: Meng
+  - given:
+    given_initial: YJ
+    family: Shu
+  - given:
+    given_initial: XZ
+    family: Lv
+  - given:
+    given_initial: B
+    family: Zhao
+  - given:
+    given_initial: H
+    family: Yang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: QS
+    family: Gao
+  - given:
+    given_initial: LS
+    family: Li
+  - given:
+    given_initial: HB
+    family: Wu
+    role: corr
+  journal:
+    abbreviation: Chem
+  URL: https://doi.org/10.1016/j.chempr.2022.04.004
+  type: article
+  DOI: 10.1016/j.chempr.2022.04.004
+  fulltext:
+  language: english
