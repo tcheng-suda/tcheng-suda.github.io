@@ -1,35 +1,45 @@
-- title: 'Tri-fluorinated Keto-Enol Tautomeric Switch in Probing Domain Rotation of a G Protein-Coupled Receptor'
-  volume: 32
-  issue: 
-  page: "99"
-  year: 2021
+- title: 'tert-Butyl substituted hetero-donor TADF compounds for efficient solution-processed non-doped blue OLEDs'
+  volume: 8
+  issue: 17
+  page: "5769"
+  year: 2020
   author:
   - given:
-    given_initial: XD
-    family: Wang
+    given_initial: FM
+    family: Xie
   - given:
-    given_initial: WJ
-    family: Zhao
+    given_initial: ZD
+    family: An
   - given:
-    given_initial: AM
-    family: Sameer
+    given_initial: M
+    family: Xie
   - given:
-    given_initial: YM
-    family: Lu
+    given_initial: YQ
+    family: Li
+    role: corr
+  - given:
+    given_initial: GH
+    family: Zhang
+  - given:
+    given_initial: SJ
+    family: Zou
+  - given:
+    given_initial: Li
+    family: Chen
+  - given:
+    given_initial: JD
+    family: Chen
   - given:
     given_initial: T
     family: Cheng
-    role: main
+    role: corr, main
   - given:
-    given_initial: M
-    family: Jesper
-  - given:
-    given_initial: LB
-    family: Ye
+    given_initial: JX
+    family: Tang
     role: corr
   journal:
-    abbreviation: Bioconjugate Chem.
-  URL: https://doi.org/10.1021/acs.bioconjchem.0c00670
+    abbreviation: J. Mater. Chem. C,
+  URL: https://doi.org/10.1039/D0TC00718H
   type: article
   DOI: 
   fulltext:

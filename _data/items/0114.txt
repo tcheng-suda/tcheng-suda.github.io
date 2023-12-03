@@ -1,37 +1,37 @@
-- title: 'Core-Shell Nanoparticle with Tensile Strain Enables Highly Efficient Electrochemical Ethanol Oxidation'
-  volume: 9
-  issue: 
-  page: "15373"
-  year: 2021
+- title: 'Promoting Oxidation State Transition of Nickel in Single-Layer NiFeB Hydroxide Nanosheets for Efficient Oxygen Evolution'
+  volume: 13
+  issue:
+  page: "6094"
+  year: 2022
   author:
   - given:
-    given_initial: MX
-    family: Liu
+    given_initial: YK
+    family: Bai
+  - given:
+    given_initial: Y
+    family: Wu
+  - given:
+    given_initial: XC
+    family: Zhou
+  - given:
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: KQ
+    family: Nie
+  - given:
+    given_initial: JO
+    family: Wang
   - given:
     given_initial: M
     family: Xie
   - given:
-    given_initial: YL
-    family: Jiang
-  - given:
-    given_initial: ZJ
-    family: Liu
-  - given:
-    given_initial: YM
-    family: Lu
-  - given:
-    given_initial: SM
-    family: Zhang
-  - given:
     given_initial: ZX
     family: Zhang
   - given:
-    given_initial: K
+    given_initial: ZJ
     family: Liu
-  - given:
-    given_initial: Q
-    family: Zhang
-  - given:
+  - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
@@ -40,9 +40,9 @@
     family: Gao
     role: corr
   journal:
-    abbreviation: J. Mater. Chem. A
-  URL: https://doi.org/10.1039/D1TA03365D
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-022-33846-0
   type: article
-  DOI: 
+  DOI:
   fulltext:
   language: english

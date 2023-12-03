@@ -1,24 +1,45 @@
-- title: 'Reaction Intermediates During Operando Electrocatalysis Identiﬁed from Full Solvent Quantum Mechanics Molecular Dynamics'
-  volume:  116 
-  issue: 16
-  page: "7718-7722"
-  year: 2019
+- title: 'Customizable Ligand Exchange for Tailored Surface Property of Noble Metal Nanocrystals'
+  volume: 
+  issue: 
+  page: "2131806"
+  year: 2020
   author:
-  - given: Tao
+  - given:
+    given_initial: QK
+    family: Fan
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: J
+    family: Ge
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: B
+    family: Lei
+  - given:
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: A
-    family: Fortunelli
+    given_initial: YY
+    family: Li
   - given:
-    given_initial: WA
-    family: Goddard
+    given_initial: YD
+    family: Yin
+  - given:
+    given_initial: CB
+    family: Gao
     role: corr
   journal:
-    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
-  URL: https://doi.org/10.1073/pnas.1821709116  
+    abbreviation: Research
+  URL: https://doi.org/10.34133/2020/2131806
   type: article
-  DOI: 10.1073/pnas.1821709116 
-  fulltext: 
+  DOI: 
+  fulltext:
   language: english

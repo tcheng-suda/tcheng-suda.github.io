@@ -1,48 +1,42 @@
-- title: 'Understanding steric hindrance effect of solvent molecule in localized high-concentration electrolyte for lithium metal batteries'
+- title: 'Impact of Lithium Nitrate Additives on the Solid Electrolyte Interphase in Lithium Metal Batteries'
   volume:
   issue:
   page: "ASAP"
   year: 2023
   author:
   - given:
-    given_initial: XP
-    family: Li
+    given_initial: MW
+    family: Wang
   - given:
-    given_initial: YX
-    family: Pan
+    given_initial: QT
+    family: Sun
   - given:
     given_initial: Y
     family: Liu
+    role: corr
   - given:
-    given_initial: YL
-    family: Jie
+    given_initial: ZA
+    family: Yan
   - given:
-    given_initial: SQ
-    family: Chen
+    given_initial: QY
+    family: Xu
   - given:
-    given_initial: SY
+    given_initial: B
     family: Wang
   - given:
-    given_initial: ZX
-    family: He
+    given_initial: YH
+    family: Li
+    role: corr
   - given:
-    given_initial: XD
-    family: Ren
+    given_initial: XF
+    family: Wang
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
-    given_initial: RG
-    family: Cao
-    role: corr
-  - given:
-    given_initial: SH
-    family: Jiao
-    role: corr
   journal:
-    abbreviation: Carbon Neutrality
-  URL:
+    abbreviation: Chinese J. Struc. Chem.
+  URL: https://doi.org/10.1016/j.cjsc.2023.100203
   type: article
   DOI:
   fulltext:

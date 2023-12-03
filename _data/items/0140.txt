@@ -1,55 +1,42 @@
-- title: 'Correlating Electrolyte Solvation, Interphasial Structure and Deposition Morphology of Lithium Metal Anode in Ether-based Electrolytes'
-  volume:
-  issue:
-  page: ""
+- title: 'Machine Learning Predicts the X-ray Photoelectron Spectroscopy of the Solid Electrolyte Interface of Lithium Metal Battery'
+  volume: 13
+  issue: 34
+  page: "8047–8054"
   year: 2022
   author:
   - given:
-    given_initial: YW
-    family: Chen
+    given_initial: QT
+    family: Sun
   - given:
-    given_initial: MH
-    family: Li
+    given_initial: Y
+    family: Xiang
   - given:
     given_initial: Y
     family: Liu
   - given:
-    given_initial: YL
-    family: Jie
+    given_initial: L
+    family: Xu
   - given:
-    given_initial: WX
-    family: Li
+    given_initial: TL
+    family: Leng
   - given:
-    given_initial: FY
-    family: Huang
+    given_initial: YF
+    family: Ye
   - given:
-    given_initial: XP
-    family: Li
+    given_initial: A
+    family: Fortunelli
+    role: corr
   - given:
-    given_initial: ZX
-    family: He
-  - given:
-    given_initial: XD
-    family: Ren
-  - given:
-    given_initial: RG
-    family: Cao
+    given_initial: WA
+    family: Goddard
     role: corr
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
-    given_initial: M
-    family: Gu
-    role: corr
-  - given:
-    given_initial: SH
-    family: Jiao
-    role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: J. Phys. Chem. Lett.
+  URL: https://doi.org/10.1021/acs.jpclett.2c02222
   type: article
   DOI:
   fulltext:

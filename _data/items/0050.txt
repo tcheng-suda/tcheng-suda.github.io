@@ -1,34 +1,36 @@
-- title: 'Pb-activated Amine-assisted Photocatalytic Hydrogen Evolution Reaction on Organic-Inorganic Perovskites'
-  volume: 140
-  issue: 6
-  page: '1994–1997'
-  year: 2018
+- title: 'Highly Active Star Decahedron Cu Nanocatalyst for Hydrocarbon Production at Low Overpotentials'
+  volume: 31   
+  issue:
+  page: "1805405"
+  year: 2019
   author:
   - given:
-    given_initial: L
-    family: Wang
-    role: corr
-  - given:
-    given_initial: H
-    family: Xiao
+    given_initial: C
+    family: Choi
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: YY
-    family: Li
-    role: corr
+    given_initial: MF
+    family: Expinosa
+  - given:
+    given_initial: HL
+    family: Fei
+  - given:
+    given_initial: XF
+    family: Duan
   - given:
     given_initial: WA
     family: Goddard
+  - given:
+    given_initial: Y
+    family: Huang
     role: corr
   journal:
-    abbreviation: J. Am. Chem. Soc.
-  URL: http://dx.doi.org/10.1021/jacs.7b12028
+    abbreviation: Adv. Mater.
+  URL: https://doi.org/10.1002/adma.201805405
   type: article
-  DOI: 10.1021/jacs.7b12028
-  fulltext:
+  DOI: 10.1002/adma.201805405
+  fulltext: 
   language: english
-  media1: (J. Am. Chem. Soc. Cover Publication)
-  media1_url: https://pubs.acs.org/toc/jacsat/140/6

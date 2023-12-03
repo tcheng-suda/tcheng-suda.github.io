@@ -1,51 +1,52 @@
-- title: 'Pre-activation of CO2 at Cobalt Phthalocyanine-Mg(OH)2 Interface for Enhanced Turnover Rate'
-  volume: 33
-  issue: 26
-  page: "2214609"
+- title: 'The lattice strain dominated catalytic activity in single-metal nanosheets'
+  volume: 11
+  issue:
+  page: "4037-4044"
   year: 2023
   author:
   - given:
-    given_initial: Lyu
-    family: FL
+    given_initial: M
+    family: Wang
   - given:
-    given_initial: Ma
-    family: BY
-  - given:
-    given_initial: Xie
-    family: XL
-  - given:
-    given_initial: Song
-    family: DQ
-  - given:
-    given_initial: Lian
-    family: YB
-  - given:
-    given_initial: Yang
-    family: H
-  - given:
-    given_initial: Hua
-    family: W
-  - given:
-    given_initial: Sun
+    given_initial: QT
     family: Sun
   - given:
-    given_initial: Zhong
-    family: J
+    given_initial: ZL
+    family: Fan
   - given:
-    given_initial: Deng
-    family: Z
+    given_initial: WX
+    family: Zhu
   - given:
+    given_initial: J
+    family: Wu
+  - given:
+    given_initial: YJ
+    family: Zhou
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: MJ
+    family: Ma
+  - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
   - given:
-    given_initial: Peng
-    family: Y
+    given_initial: MW
+    family: Shao
+    role: corr
+  - given:
+    given_initial: ZH
+    family: kang
     role: corr
   journal:
-    abbreviation: Adv. Funct. Mater.
-  URL: https://doi.org/10.1002/adfm.202214609
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D2TA08454F
   type: article
-  DOI: 10.1002/adfm.202214609
+  DOI:
   fulltext:
   language: english

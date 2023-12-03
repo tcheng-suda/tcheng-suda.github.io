@@ -1,42 +1,43 @@
-- title: 'Hofmann-Type Metal–Organic Framework Nanosheets for Oxygen Evolution'
-  volume: 4
-  issue: 
-  page: "14161–14168"
+- title: 'Reaction Mechanism on Sulphur Doped Ni Single-Atom Catalysis for CO2 Reduction Reaction'
+  volume: 16
+  issue: 1
+  page: "256-265"
   year: 2021
   author:
   - given:
-    given_initial: TT
-    family: Wang
+    given_initial: Q
+    family: Yuan
   - given:
-    given_initial: Y
-    family: Wu
+    given_initial: YY
+    family: Li
   - given:
-    given_initial: Y
-    family: Han
+    given_initial: PP
+    family: Yu
   - given:
-    given_initial: PW
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: L
     family: Xu
+  - given:
+    given_initial: QT
+    family: Sun
   - given:
     given_initial: H
     family: Yang
+    role: corr
   - given:
-    given_initial: YB
-    family: Jiang
-  - given:
-    given_initial: JW
-    family: Wen
-  - given:
-    given_initial: WJ
-    family: J
+    given_initial: M
+    family: Xie
     role: corr
   - given:
     given_initial: T
     family: Cheng
-    role: main
+    role: corr, main
   journal:
-    abbreviation: ACS Appl. Nano Mater.
-  URL: https://doi.org/10.1021/acsanm.1c03619
+    abbreviation: J. Exp. Nanosci.
+  URL: https://doi.org/10.1080/17458080.2021.1959032
   type: article
-  DOI: 
-  fulltext:
+  DOI: 10.1080/17458080.2021.1959032
+  fulltext: 
   language: english

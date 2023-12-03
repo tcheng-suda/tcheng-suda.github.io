@@ -1,29 +1,21 @@
-- title: 'One Force Field for Predicting Multiple Thermodynamic Properties of Liquid and Vapor Ethylene Oxide'
-  volume: '274'
-  issue: '1-2'
-  page: '36-43'
-  year: 2008
+- title: 'Adsorption of Ethanol Vapor on Mica Surface under Different Relative Humidities: A Molecular Simulation Study'
+  volume: '116'
+  issue: '31'
+  page: '16436-16446'
+  year: 2012
   author:
-  - given:
-    given_initial: XF
-    family: Li
-  - given:
-    given_initial: LF
-    family: Zhao
   - given: Tao
     given_initial: T
     family: Cheng
-  - given:
-    given_initial: LC
-    family: Liu
+    role: main
   - given:
     given_initial: H
     family: Sun
     role: corr
   journal:
-    abbreviation: Fluid Phase Equilib.
-  URL: http://dx.doi.org/10.1016/j.fluid.2008.06.021
+    abbreviation: J. Phys. Chem. C
+  URL: http://dx.doi.org/10.1021/jp3020595
   type: article
-  DOI: 10.1016/j.fluid.2008.06.021
-  fulltext: 
+  DOI: 10.1021/jp3020595
+  fulltext:
   language: english

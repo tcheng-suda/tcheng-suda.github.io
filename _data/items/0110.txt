@@ -1,37 +1,44 @@
-- title: 'Multi-scale Simulation Reveals the Decomposition Mechanism of Electrolyte on Lithium Metal Electrode'
-  volume: 28
-  issue: 4
-  page: "2105181"
-  year: 2021
+- title: 'Self-supported hierarchical crystalline carbon nitride arrays with triazine-heptazine heterojunctions for highly efficient photoredox catalysis'
+  volume: 435
+  issue: 
+  page: "134865"
+  year: 2022
   author:
   - given:
+    given_initial: ZZ
+    family: Sun
+  - given:
+    given_initial: HZ
+    family: Dong
+  - given:
+    given_initial: Q
+    family: Yuan
+  - given:
     given_initial: YY
-    family: Zhang
+    family: Tang
   - given:
-    given_initial: Y
-    family: Liu
+    given_initial: W
+    family: Wang
   - given:
-    given_initial: PP
-    family: Yu
+    given_initial: YB
+    family: Jiang
   - given:
-    given_initial: WX
-    family: Du
+    given_initial: JW
+    family: Wen
   - given:
-    given_initial: BY
-    family: Ma
-  - given:
-    given_initial: M
-    family: Xie
-  - given:
-    given_initial: H
-    family: Yang
+    given_initial: JQ
+    family: He
   - given:
     given_initial: T
     family: Cheng
-    role: corr, main
+    role: main
+  - given:
+    given_initial: LM
+    family: Huang
+    role: corr
   journal:
-    abbreviation: J. Electrochem.
-  URL: http://electrochem.xmu.edu.cn/CN/10.13208/j.electrochem.210518
+    abbreviation: Chem. Eng. Sci.
+  URL: https://doi.org/10.1016/j.cej.2022.134865
   type: article
   DOI: 
   fulltext:

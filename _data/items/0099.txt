@@ -1,38 +1,41 @@
-- title: 'In Situ Formation of Circular and Branched Oligomers in Localized High Concentration Electrolyte at Lithium−metal Solid Electrolyte Interphase: A Hybrid ab initio and Reactive Molecular Dynamics'
-  volume: 10
-  issue:
-  page: "632-639"
+- title: 'Boosting Hydrogen Production with Ultralow Working Voltage by Selenium Vacancy Enhanced Ultrafine Platinum-Nickel Nanowires'
+  volume: 3 
+  issue: 
+  page: "130-141"
   year: 2022
   author:
   - given:
     given_initial: Y
-    family: Liu
+    family: Jin
   - given:
-    given_initial: QT
-    family: Sun
-  - given:
-    given_initial: PP
-    family: Yu
-  - given:
-    given_initial: BY
-    family: Ma
+    given_initial: Z
+    family: Zhang
   - given:
     given_initial: H
     family: Yang
+    role: corr
   - given:
-    given_initial: JY
-    family: Zhang
+    given_initial: PT
+    family: Wang
   - given:
-    given_initial: M
-    family: Xie
-  - given: Tao
+    given_initial: CQ
+    family: Shen
+  - given:
     given_initial: T
     family: Cheng
-    role: corr, main
+    role: main
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  - given:
+    given_initial: Q
+    family: Shao
+    role: corr
   journal:
-    abbreviation: J. Mater. Chem. A
-  URL: https://doi.org/10.1039/D1TA08182A
+    abbreviation: SmartMat
+  URL: https://doi.org/10.1002/smm2.1083
   type: article
-  DOI: 10.1039/D1TA08182A
+  DOI: 10.1002/smm2.1083
   fulltext:
   language: english

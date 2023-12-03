@@ -1,46 +1,71 @@
-- title: 'Approaching 100% Selectivity for Electrochemical CO2 Reduction to CO at Low Potential on Ag Using a Surface Additive'
-  volume: 11
-  issue: 
-  page: "9034"
-  year: 2021
+- title: 'Exclusive CO-to-acetate electroconversion via hydroxide-paired CO–CO coupling reaction'
+  volume:
+  issue:
+  page: ""
+  year: 2022
   author:
   - given:
-    given_initial: A
-    family: Buckley
+    given_initial: CY
+    family: Cui
   - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: YZ
+    family: Wen
+  - given:
+    given_initial: WZ
+    family: Niu
+  - given:
+    given_initial: FL
+    family: Ni
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: TW
+    family: Jiang
+  - given:
+    given_initial: N
+    family: Wang
+  - given:
+    given_initial: JY
+    family: Ye
+  - given:
+    given_initial: YZ
+    family: Finfrock
+  - given:
+    given_initial: XD
+    family: Zhang
+  - given:
+    given_initial: PN
+    family: Chen
+  - given:
+    given_initial: WB
+    family: Cai
+  - given:
+    given_initial: YY
+    family: Xia
+  - given: Tao
     given_initial: T
     family: Cheng
-    role: main
-  - given:
-    given_initial: MH
-    family: Oh
-  - given:
-    given_initial: G
-    family: Su
+    role: corr, main
   - given:
     given_initial: J
-    family: Garrison
-  - given:
-    given_initial: S
-    family: Utan
-  - given:
-    given_initial: CH
-    family: Zhu
-  - given:
-    given_initial: DF
-    family: Toste
-  - given:
-    given_initial: WA
-    family: Goddard III
+    family: Li
     role: corr
   - given:
-    given_initial: FM
-    family: Toma
+    given_initial: HS
+    family: Peng
+    role: corr
+  - given:
+    given_initial: B
+    family: Zhang
     role: corr
   journal:
-    abbreviation: ACS Catal.
-  URL: https://doi.org/10.1021/acscatal.1c00830
+    abbreviation: Submitted
+  URL:
   type: article
-  DOI: 10.1021/acscatal.1c00830
+  DOI:
   fulltext:
   language: english

@@ -1,39 +1,43 @@
-- title: 'Pathway of in situ Polymerization of 1,3-dioxolane in LiPF6 Electrolyte on Li Metal Anode'
-  volume: 21
+- title: 'TiH2 quantum dots exfoliated via facile sonication as bifunctional electrocatalysts for Li-S batteries'
+  volume: 14
   issue: 
-  page: "100730"
-  year: 2021
+  page: "6937–6944"
+  year: 2022
   author:
   - given:
-    given_initial: M
-    family: Xie
+    given_initial: TR
+    family: Yan
   - given:
     given_initial: Y
     family: Wu
   - given:
-    given_initial: Y
-    family: Liu
+    given_initial: F
+    family: Gong
   - given:
-    given_initial: PP
-    family: Yu
+    given_initial: C
+    family: Cheng
   - given:
-    given_initial: R
-    family: Jia
+    given_initial: J
+    family: Mao
   - given:
-    given_initial: YF
-    family: Ye
+    given_initial: KH
+    family: Dai
   - given:
-    given_initial: WA
-    family: Goddard III
+    given_initial: L
+    family: Cheng
     role: corr
-  - given:
+  - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  journal:
-    abbreviation: Mater. Today Energy
-  URL: https://doi.org/10.1016/j.mtener.2021.100730
+  - given:
+    given_initial: L
+    family: Zhang
+    role: corr
+  journal: 
+    abbreviation: ACS Appl. Mater. Interfaces
+  URL: https://doi.org/10.1021/acsami.1c23815
   type: article
-  DOI: 
+  DOI:
   fulltext:
   language: english

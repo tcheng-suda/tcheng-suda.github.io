@@ -1,28 +1,43 @@
-- title: 'Classic Force Field for Predicting Surface Tension
-          and Interfacial Properties of Sodium Dodecyl Sulfate'
-  volume: '114'
-  issue: '43'
-  page: '13736-13744'
-  year: 2010
+- title: 'Molecular Engineering of Microporous Crystals: (Iv) Crystallization Process of Microporous Aluminophosphate Alpo4-11'
+  volume: '152'
+  issue:
+  page: '190-207'
+  year: 2012
   author:
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: Q
-    family: Chen
+    given_initial: J
+    family: Xu
   - given:
-    given_initial: F
+    given_initial: X
     family: Li
+  - given:
+    given_initial: B
+    family: Zhang
+  - given:
+    given_initial: WF
+    family: Yan
+    role: corr
+  - given:
+    given_initial: JH
+    family: Yu
   - given:
     given_initial: H
     family: Sun
+  - given:
+    given_initial: F
+    family: Deng
+  - given:
+    given_initial: RR
+    family: Xu
     role: corr
   journal:
-    abbreviation: J. Phys. Chem. B
-  URL: http://dx.doi.org/10.1021/jp107002x
+    abbreviation: Micropor. Mesopor. Mater.
+  URL: http://dx.doi.org/10.1016/j.micromeso.2011.11.034
   type: article
-  DOI: 10.1021/jp107002x
+  DOI: 10.1016/j.micromeso.2011.11.034
   fulltext:
   language: english

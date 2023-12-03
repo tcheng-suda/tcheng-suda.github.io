@@ -1,42 +1,52 @@
-- title: 'DFT-ReaxFF Hybrid Molecular Dynamics Investigation of the Decomposition Effects of Localized High-Concentration Electrolyte in Lithium Metal Batteries: LiFSI/DME/TFEO'
-  volume: 24
+- title: 'Temperature-dependent interphase formation and Li+ transport in lithium metal batteries'
+  volume: 14
   issue:
-  page: "18684-18690"
-  year: 2022
+  page: "4474"
+  year: 2023
   author:
   - given:
-    given_initial: YM
-    family: Lu
+    given_initial: ST
+    family: Weng
   - given:
-    given_initial: QT
-    family: Sun
+    given_initial: X
+    family: Zhang
+  - given:
+    given_initial: GJ
+    family: Yang
+  - given:
+    given_initial: SM
+    family: Zhang
+  - given:
+    given_initial: QY
+    family: Liu
   - given:
     given_initial: Y
     family: Liu
-    role: corr
-  - given:
-    given_initial: PP
-    family: Yu
-  - given:
-    given_initial: YY
-    family: Zhang
-  - given:
-    given_initial: JC
-    family: Lu
-  - given:
-    given_initial: HC
-    family: Huang
-  - given:
-    given_initial: H
-    family: Yang
-    role: corr
   - given: Tao
     given_initial: T
     family: Cheng
-    role: corr, main
+    role: main
+  - given:
+    given_initial: CX
+    family: Peng
+  - given:
+    given_initial: HX
+    family: Chen
+  - given:
+    given_initial: YJ
+    family: Li
+  - given:
+    given_initial: LQ
+    family: Chen
+  - given:
+    given_initial: ZX
+    family: Wang
+  - given:
+    given_initial: XF
+    family: Wang
   journal:
-    abbreviation: Phys. Chem. Chem. Phys.
-  URL: https://doi.org/10.1039/D2CP02130G
+    abbreviation: Nat. Commun.
+  URL: https://www.nature.com/articles/s41467-023-40221-0
   type: article
   DOI:
   fulltext:

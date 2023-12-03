@@ -1,64 +1,27 @@
-- title: 'Intramolecular Energy and Electron Transfer Within a Diazaperopyrenium-Based Cyclophane'
-  volume: '139'
-  issue: '11'
-  page: '4107-4116'
+- title: 'Reactive Molecular Dynamics Simulations to Understand Mechanical Response of Thaumasite under Temperature and Strain Rate Effects'
+  volume: 121
+  issue: 24
+  page: "4688-4697"
   year: 2017
   author:
   - given:
-    given_initial: XR
-    family: Gong
+    given_initial: S
+    family: Hajilar
   - given:
-    given_initial: RM
-    family: Young
-  - given:
-    given_initial: KJ
-    family: Hartlieb
-  - given:
-    given_initial: C
-    family: Miller
-  - given:
-    given_initial: YL
-    family: Wu
-  - given:
-    given_initial: H
-    family: Xiao
-  - given:
-    given_initial: P
-    family: Li
-  - given:
-    given_initial: N
-    family: Hafezi
-  - given:
-    given_initial: JW
-    family: Zhou
-  - given:
-    given_initial: L
-    family: Ma
+    given_initial: B
+    family: Shafei
+    role: corr
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given: William A
-    given_initial: WA
-    family: Goddard
   - given:
-    given_initial: OK
-    family: Farha
-  - given:
-    given_initial: JT
-    family: Hupp
-  - given:
-    given_initial: MR
-    family: Wasielewski
-    role: corr
-  - given:
-    given_initial: JF
-    family: Stoddart
-    role: corr
+    given_initial: A
+    family: Jaramillo-Botero
   journal:
-    abbreviation: J. Am. Chem. Soc.
-  URL: http://dx.doi.org/10.1021/jacs.6b13223
+    abbreviation: J. Phys. Chem. A
+  URL: http://dx.doi.org/10.1021/acs.jpca.7b02824
   type: article
-  DOI: 10.1021/jacs.6b13223
+  DOI: 10.1021/acs.jpca.7b02824
   fulltext:
   language: english

@@ -1,39 +1,27 @@
-- title: 'Size-Matched Radical Multivalency'
-  volume: '139'
-  issue: '11'
-  page: '3986-3998'
+- title: 'Quantum Mechanics Reactive Dynamics Study of Solid Li-Electrode/Li6PS5Cl-Electrolyte Interface'
+  volume: 2
+  issue:
+  page: "1454-1459"
   year: 2017
   author:
-  - given:
-    given_initial: MC
-    family: Lipke
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: YL
-    family: Wu
+    given_initial: BV
+    family: Merinov
+    role: corr
   - given:
-    given_initial: H
-    family: Arslan
+    given_initial: S
+    family: Morozov
   - given:
-    given_initial: H
-    family: Xiao
-  - given:
-    given_initial: MR
-    family: Wasielewski
-  - given: William A
     given_initial: WA
     family: Goddard
-  - given:
-    given_initial: JF
-    family: Stoddart
-    role: corr
   journal:
-    abbreviation: J. Am. Chem. Soc.
-  URL: http://dx.doi.org/10.1021/jacs.6b09892
+    abbreviation: ACS Energy Lett.
+  URL: http://dx.doi.org/10.1021/acsenergylett.7b00319
   type: article
-  DOI: 10.1021/jacs.6b09892
+  DOI: 10.1021/acsenergylett.7b00319
   fulltext:
   language: english

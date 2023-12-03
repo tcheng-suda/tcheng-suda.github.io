@@ -1,50 +1,41 @@
-- title: 'Metastable Hexagonal Phase SnO2Nanoribbons with Active Edge Sites for Efficient Hydrogen Peroxide Electrosynthesis in Neutral Media'
-  volume: 135
+- title: 'Origin of the exceptional selectivity of NaA zeolite for the radioactive isotope of 90Sr2+'
+  volume: 9
   issue:
-  page: "e202218924"
-  year: 2023
+  page: "6258"
+  year: 2022
   author:
   - given:
-    given_initial: Y
-    family: Zhang
+    given_initial: WF
+    family: Hao
   - given:
-    given_initial: MW
-    family: Wang
+    given_initial: NN
+    family: Yan
   - given:
-    given_initial: WX
-    family: Zhu
+    given_initial: M
+    family: Xie
   - given:
-    given_initial: MM
-    family: Fang
+    given_initial: XJ
+    family: Yan
   - given:
-    given_initial: MJ
-    family: Ma
+    given_initial: XL
+    family: Guo
   - given:
-    given_initial: F
-    family: Liao
-    role: corr
-  - given:
-    given_initial: Q
-    family: Shao
-  - given:
-    given_initial: H
-    family: Yang
-    role: corr
+    given_initial: P
+    family: Bai
   - given: Tao
     given_initial: T
     family: Cheng
-    role: main
+    role: corr, main
   - given:
-    given_initial: MW
-    family: Shao
-    role: corr
+    given_initial: P
+    family: Guo
   - given:
-    given_initial: ZH
-    family: Kang
+    given_initial: WF
+    family: Yan
     role: corr
   journal:
-    abbreviation: Angew. Chem., Int. Ed.
-  URL: https://doi.org/10.1002/ange.202218924
+    abbreviation: Inorg. Chem. Front.
+  URL: https://doi.org/10.1039/D2QI01958B
   type: article
   DOI:
   fulltext:

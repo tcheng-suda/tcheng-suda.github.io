@@ -1,38 +1,40 @@
-- title: 'Formation of Carbon-Nitrogen Bonds in Carbon Monoxide Electrolysis'
-  volume: 11 
+- title: 'Rational Molecular Design of Dibenzo[a,c]phenazine-based Thermally Activated Delayed Fluorescence Emitters for Orange-Red OLEDs with EQE up to 22.0%'
+  volume:  11
   issue: 
-  page: "846-851"
+  page: "26144-26151"
   year: 2019
   author:
   - given:
-    given_initial: M
-    family: Jouny
+    given_initial: FM
+    family: Xie
   - given:
-    given_initial: JJ
-    family: Lv
+    given_initial: HZ
+    family: Li
+  - given:
+    given_initial: GL
+    family: Dai
+  - given:
+    given_initial: YQ
+    family: Li
   - given:
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: BH
-    family: Ko
+    given_initial: M
+    family: Xie
   - given:
-    given_initial: JJ
-    family: Zhu
-  - given:
-    given_initial: WA
-    family: Goddard
+    given_initial: JX
+    family: Tang
     role: corr
   - given:
-    given_initial: F
-    family: Jiao
+    given_initial: X
+    family: Zhao
     role: corr
   journal:
-    abbreviation: Nat. Chem.
-  URL: https://doi.org/10.1038/s41557-019-0312-z
+    abbreviation: ACS Appl. Mater. Interfaces
+  URL: https://doi.org/10.1021/acsami.9b06401
   type: article
-  DOI: 10.1038/s41557-019-0312-z
+  DOI: 10.1021/acsami.9b06401
   fulltext:
   language: english
-  note: (Jouny M, Lv JJ, and Cheng T contributed equally)

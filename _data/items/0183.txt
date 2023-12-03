@@ -1,30 +1,9 @@
-- title: 'Kinetic hindrance and LiF-rich interphase stabilize branched weakly solvating electrolytes on high-voltage cathodes'
+- title: 'Stable Cycling of Lithium Metal Batteries Enabled by Lean-Oxygen Ether- Based Electrolyte'
   volume:
   issue:
   page: ""
-  year: 2022
+  year: 2023
   author:
-  - given:
-    given_initial: YW
-    family: Chen
-  - given:
-    given_initial: YL
-    family: Jie
-  - given:
-    given_initial: Y
-    family: Liu
-  - given:
-    given_initial: MH
-    family: Li
-  - given:
-    given_initial: ZF
-    family: Zhang
-  - given:
-    given_initial: C
-    family: Tang
-  - given:
-    given_initial: WX
-    family: Li
   - given:
     given_initial: XP
     family: Li
@@ -32,16 +11,23 @@
     given_initial: Y
     family: Liu
   - given:
-    given_initial: YH
-    family: Yi
+    given_initial: YZ
+    family: Guo
   - given:
-    given_initial: PF
-    family: Yan
-    role: corr
+    given_initial: ZX
+    family: He
   - given:
-    given_initial: M
-    family: Gu
-    role: corr
+    given_initial: YW
+    family: Chen
+  - given:
+    given_initial: YC
+    family: Zhang
+  - given:
+    given_initial: YL
+    family: Jie
+  - given:
+    given_initial: WX
+    family: Li
   - given: Tao
     given_initial: T
     family: Cheng

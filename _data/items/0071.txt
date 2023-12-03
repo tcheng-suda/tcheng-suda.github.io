@@ -1,23 +1,48 @@
-- title: 'London Dispersion Corrections to Density Functional Theory for Transition Metals Based on Fitting to Experimental Temperature-Programmed Desorption of Benzene Monolayers'
-  volume: 12
+- title: 'Highly Active and Stable Stepped Cu Surface for Enhanced Electrochemical CO2 Reduction to C2H4'
+  volume: 3
   issue: 
-  page: "73–79"
-  year: 2021
+  page: "804–812"
+  year: 2020
   author:
   - given:
-    given_initial: H
-    family: Yang
+    given_initial: C
+    family: Choi
+  - given:
+    given_initial: S
+    family: Kwon
   - given:
     given_initial: T
     family: Cheng
-    role: corr, main
+    role: main
+  - given:
+    given_initial: MJ
+    family: Xu
+  - given:
+    given_initial: P
+    family: Tieu
+  - given:
+    given_initial: J
+    family: Cai
+  - given:
+    given_initial: HM
+    family: Lee
+  - given:
+    given_initial: XQ
+    family: Pan
+  - given:
+    given_initial: XF
+    family: Duan
   - given:
     given_initial: WA
     family: Goddard
-    role: corr
+    role: corr 
+  - given:
+    given_initial: Y
+    family: Huang
+    role: corr 
   journal:
-    abbreviation: J. Phys. Chem. Lett
-  URL: https://doi.org/10.1021/acs.jpclett.0c03126
+    abbreviation: Nat. Catal.
+  URL: https://doi.org/10.1038/s41929-020-00504-x
   type: article
   DOI: 
   fulltext:

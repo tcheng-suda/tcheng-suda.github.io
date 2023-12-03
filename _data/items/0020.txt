@@ -1,13 +1,11 @@
-- title: 'Influence of Constitution and Charge on Radical Pairing Interactions in
-          Trisradical Tricationic Complexes'
+- title: 'Reaction Mechanisms for the Electrochemical Reduction of CO2 to CO
+          and Formate on the Cu(100) Surface at 298 K from Quantum Mechanics
+          Free Energy Calculations with Explicit Water'
   volume: '138'
-  issue: '26'
-  page: '8288-8300'
+  issue: '42'
+  page: '13802-13805'
   year: 2016
   author:
-  - given:
-    given_initial: CY
-    family: Cheng
   - given: Tao
     given_initial: T
     family: Cheng
@@ -15,38 +13,16 @@
   - given: Hai
     given_initial: H
     family: Xiao
-  - given:
-    given_initial: MD
-    family: Krzyaniak
-  - given:
-    given_initial: YP
-    family: Wang
-  - given:
-    given_initial: PR
-    family: McGonigal
-  - given:
-    given_initial: M
-    family: Frasconi
-  - given:
-    given_initial: JC
-    family: Barnes
-  - given:
-    given_initial: AC
-    family: Fahrenbach
-  - given:
-    given_initial: MR
-    family: Wasielewski
   - given: William A
     given_initial: WA
     family: Goddard
-  - given:
-    given_initial: JF
-    family: Stoddart
     role: corr
   journal:
     abbreviation: J. Am. Chem. Soc.
-  URL: http://dx.doi.org/10.1021/jacs.6b04343
+  URL: http://dx.doi.org/10.1021/jacs.6b08534
   type: article
-  DOI: 10.1021/jacs.6b04343
+  DOI: 10.1021/jacs.6b08534
   fulltext:
   language: english
+  media1: (Reported by "JCAP highlight" with linkage below)
+  media1_url: https://solarfuelshub.org/102016-rh-qm-with-explicit-water

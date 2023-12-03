@@ -1,24 +1,34 @@
-- title: 'Nature of the Active Sites for CO Reduction on Copper Nanoparticles; Suggestions for Optimizing Performance'
-  volume: 139
-  issue:
-  page: "11642-11645"
+- title: 'Mechanism and Kinetics of the Electrocatalytic Reaction Responsible for the High Cost of Hydrogen Fuel Cells'
+  volume: '19'
+  issue: ''
+  page: '2666-2673'
   year: 2017
   author:
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given:
-    given_initial: H
-    family: Xiao
-  - given:
+  - given: William A
     given_initial: WA
     family: Goddard
     role: corr
+  - given: Qi
+    given_initial: Q
+    family: An
+  - given: Hai
+    given_initial: H
+    family: Xiao
+  - given: Boris
+    given_initial: B
+    family: Merinov
+  - given: Sergey
+    given_initial: S
+    family: Morozov
   journal:
-    abbreviation: J. Am. Chem. Soc.
-  URL: http://dx.doi.org/10.1021/jacs.7b03300
+    abbreviation: Phys. Chem. Chem. Phys.
+  URL: http://dx.doi.org/10.1039/C6CP08055C
   type: article
-  DOI: 10.1021/jacs.7b03300
+  DOI: 10.1039/C6CP08055C
   fulltext:
   language: english
+  note: (2017 PCCP HOT Articles)

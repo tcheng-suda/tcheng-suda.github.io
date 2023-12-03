@@ -1,39 +1,49 @@
-- title: 'Preferential Decomposition of the Major Anion in a Dual-Salt Electrolyte Facilitates the Formation of Organic-Inorganic Composite Solid Electrolyte Interphase'
-  volume: 158
+- title: 'Unveiling the Local Structure and Electronic Properties of PdBi Surface Alloy for Selective Hydrogenation of Propyne'
+  volume: 16
   issue:
-  page: "104704"
-  year: 2023
+  page: "16869"
+  year: 2022
   author:
   - given:
-    given_initial: F
-    family: Qi
+    given_initial: XC
+    family: Wang
   - given:
-    given_initial: PP
-    family: Yu
+    given_initial: MY
+    family: Chu
   - given:
-    given_initial: QW
-    family: Zhou
+    given_initial: MW
+    family: Wang
   - given:
-    given_initial: Y
-    family: Liu
-    role: corr
+    given_initial: QX
+    family: Zhong
   - given:
-    given_initial: QT
-    family: Sun
+    given_initial: JT
+    family: Chen
   - given:
-    given_initial: BY
-    family: Ma
+    given_initial: ZQ
+    family: Wang
   - given:
-    given_initial: XG
-    family: Ren
-    role: corr
+    given_initial: MH
+    family: Cao
+  - given:
+    given_initial: H
+    family: Yang
   - given: Tao
     given_initial: T
     family: Cheng
-    role: corr, main
+    role: main
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: JX
+    family: Chen
+  - given:
+    given_initial: TK
+    family: Sham
   journal:
-    abbreviation: J. Chem. Phys.
-  URL: https://doi.org/10.1063/5.0130686
+    abbreviation: ACS Nano
+  URL: https://doi.org/10.1021/acsnano.2c06834
   type: article
   DOI:
   fulltext:

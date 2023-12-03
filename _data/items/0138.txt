@@ -1,48 +1,59 @@
-- title: 'Lattice and Surface Engineering of Ruthenium Nanostructures for Enhanced Hydrogen Oxidation Catalysis'
-  volume: 33
+- title: 'The lattice strain dominated catalytic activity in single-metal nanosheet'
+  volume: 11
   issue:
-  page: "2210328"
+  page: "4037-4044"
   year: 2023
   author:
   - given:
-    given_initial: YT
-    family: Dong
+    given_initial: M
+    family: Wang
   - given:
     given_initial: QT
     family: Sun
   - given:
-    given_initial: CH
-    family: Zhan
+    given_initial: ZL
+    family: Fan
+    role: corr
   - given:
-    given_initial: JT
-    family: Zhang
+    given_initial: WX
+    family: Zhu
+  - given:
+    given_initial: F
+    family: Liao
+  - given:
+    given_initial: J
+    family: Wu
+  - given:
+    given_initial: YJ
+    family: Zhou
   - given:
     given_initial: H
     family: Yang
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: MJ
+    family: Ma
   - given: Tao
     given_initial: T
     family: Cheng
-    role: main
+    role: corr, main
   - given:
-    given_initial: Y
-    family: Xu
+    given_initial: Q
+    family: Shao
     role: corr
   - given:
-    given_initial: ZW
-    family: Hu
+    given_initial: MW
+    family: Shao
+    role: corr
   - given:
-    given_initial: CW
-    family: Pao
-  - given:
-    given_initial: HB
-    family: Geng
-  - given:
-    given_initial: XQ
-    family: Huang
+    given_initial: ZH
+    family: Kang
     role: corr
   journal:
-    abbreviation: Adv. Funct. Mater.  
-  URL: https://doi.org/10.1002/adfm.202210328
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D2TA08454F
   type: article
   DOI:
   fulltext:

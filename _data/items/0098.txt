@@ -1,38 +1,31 @@
-- title: 'Reduction Mechanism of Solid Electrolyte Interphase Formation on Lithium Metal Anode: Fluorine-rich Electrolyte'
-  volume: 169
-  issue:
-  page: "010503"
-  year: 2022
+- title: 'Graphitization of low-density amorphous carbon for electrocatalysis electrodes from ReaxFF reactive dynamics'
+  volume: 183
+  issue: 15
+  page: "940-947"
+  year: 2021
   author:
   - given:
-    given_initial: Y
-    family: Wu
+    given_initial: D
+    family: Hossain
   - given:
-    given_initial: QT
-    family: Sun
+    given_initial: Q
+    family: Zhang
   - given:
-    given_initial: Y
-    family: Liu
-  - given:
-    given_initial: PP
-    family: Yu
-  - given:
-    given_initial: BY
-    family: Ma
-  - given:
-    given_initial: H
-    family: Yang
-  - given:
-    given_initial: M
-    family: Xie
-  - given: Tao
     given_initial: T
     family: Cheng
-    role: corr, main
+    role: main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: ZT
+    family: Luo
+    role: corr
   journal:
-    abbreviation: J. Electrochem. Soc.
-  URL: https://doi.org/10.1149/1945-7111/ac44bc
+    abbreviation: Carbon
+  URL: https://doi.org/10.1016/j.carbon.2021.07.080
   type: article
-  DOI:
+  DOI: 
   fulltext:
   language: english

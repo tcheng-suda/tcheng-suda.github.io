@@ -1,53 +1,51 @@
-- title: 'Benzo-Fused Periacenes or Double Helicenes? Different Cy-clodehydrogenation Pathways on Surface and in Solution'
-  volume: 141
-  issue: 18
-  page: "7399-7406"
+- title: 'Weakening Hydrogen Adsorption on Nickel via Interstitial Nitrogen Doping Promotes Bifunctional Hydrogen Electrocatalysis in Alkaline Solution'
+  volume: 12
+  issue: 
+  page: "3522"
   year: 2019
   author:
   - given:
-    given_initial: QG
+    given_initial: TT
+    family: Wang
+  - given:
+    given_initial: M
+    family: Wang
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: MQ
+    family: Xu
+  - given:
+    given_initial: GD
+    family: Zuo
+  - given:
+    given_initial: K
+    family: Feng
+  - given:
+    given_initial: M
+    family: Xie
+  - given:
+    given_initial: J
+    family: Deng
+  - given:
+    given_initial: J
     family: Zhong
   - given:
-    given_initial: YB
-    family: Hu
-  - given:
-    given_initial: KF
-    family: Niu
-  - given:
-    given_initial: HM
-    family: Zhang
-  - given:
-    given_initial: Y
-    family: Biao
-  - given:
-    given_initial: E
-    family: Daniel
-  - given:
-    given_initial: T
-    family: Jalmar
+    given_initial: W
+    family: Zhou
   - given:
     given_initial: T
     family: Cheng
-    role: main
+    role: corr, main
   - given:
-    given_initial: S
-    family: Andre
-  - given:
-    given_initial: N
-    family: Akimitsu
-    role: corr
-  - given:
-    given_initial: M
-    family: Klaus
-    role: corr
-  - given:
-    given_initial: LF
-    family: Chi
+    given_initial: YG
+    family: Li
     role: corr
   journal:
-    abbreviation: J. Am. Chem. Soc.
-  URL: https://doi.org/10.1021/jacs.9b01267
+    abbreviation: Energy Environ. Sci.
+  URL: https://doi.org/10.1039/C9EE01743G
   type: article
-  DOI:
+  DOI: 10.1039/C9EE01743G
   fulltext:
   language: english

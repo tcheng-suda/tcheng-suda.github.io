@@ -1,25 +1,36 @@
-- title: 'Free-Energy Barriers and Reaction Mechanisms for the Electrochemical Reduction
-          of CO on the Cu(100) Surface, Including Multiple Layers of Explicit Solvent at pH 0'
-  volume: '6'
-  issue: '23'
-  page: '4767-4773'
+- title: 'Initial Decomposition Reaction of Di-tetrazine-tetroxide (Dtto) from Quantum Molecular Dynamics: Implications for a Promising Energetic Material'
+  volume: '3'
+  issue: '5'
+  page: '1972-1978'
   year: 2015
   author:
-  - given: Tao
-    given_initial: T
-    family: Cheng
-    role: main
-  - given: Hai
-    given_initial: H
-    family: Xiao
+  - given:
+    given_initial: CC
+    family: Ye
+  - given:
+    given_initial: Q
+    family: An
   - given: William A
     given_initial: WA
     family: Goddard
     role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: WG
+    family: Liu
+  - given:
+    given_initial: ZV
+    family: Zybin
+  - given:
+    given_initial: XH
+    family: Ju
   journal:
-    abbreviation: J. Phys. Chem. Lett.
-  URL: http://dx.doi.org/10.1021/acs.jpclett.5b02247
+    abbreviation: J. Mater. Chem. A
+  URL: http://dx.doi.org/10.1039/C4TA05676K
   type: article
-  DOI: 10.1021/acs.jpclett.5b02247
+  DOI: 10.1039/C4TA05676K
   fulltext:
   language: english

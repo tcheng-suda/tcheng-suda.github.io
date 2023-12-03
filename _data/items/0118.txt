@@ -1,60 +1,36 @@
-- title: 'Exceptionally active and stable RuO2 with interstitial carbon for water oxidation in acid'
-  volume: 8
-  issue: 6
-  page: "1673-1687"
-  year: 2021
+- title: 'Ligand-Mediated Self-Terminating Growth of Single-Atom Pt on Au Nanocrystals for Improved Formic Acid Oxidation Activity'
+  volume: 12
+  issue:
+  page: "2103195"
+  year: 2022
   author:
   - given:
-    given_initial: J
-    family: Wang
+    given_initial: MX
+    family: Liu
   - given:
-    given_initial: C
-    family: Cheng
+    given_initial: ZJ
+    family: Liu
   - given:
-    given_initial: Q
-    family: Yuan
+    given_initial: M
+    family: Xie
   - given:
-    given_initial: H
-    family: Yang
-  - given:
-    given_initial: FP
-    family: Meng
-  - given:
-    given_initial: QH
+    given_initial: ZX
     family: Zhang
   - given:
-    given_initial: L
-    family: G
-  - given:
-    given_initial: JL
-    family: Cao
-  - given:
-    given_initial: LG
-    family: Li
-  - given:
-    given_initial: SC
-    family: Haw
-  - given:
-    given_initial: Q
-    family: Shao
-  - given:
-    given_initial: L
+    given_initial: SM
     family: Zhang
   - given:
     given_initial: T
     family: Cheng
-    role: main
+    role: corr, main
   - given:
-    given_initial: F
-    family: Jiao
-  - given:
-    given_initial: XQ
-    family: Huang
+    given_initial: CB
+    family: Gao
     role: corr
   journal:
-    abbreviation: Chem
-  URL: https://doi.org/10.1016/j.chempr.2022.02.003
+    abbreviation: Adv. Energy Mater.
+  URL: https://doi.org/10.1002/aenm.202103195
   type: article
-  DOI: 
+  DOI:
   fulltext:
   language: english

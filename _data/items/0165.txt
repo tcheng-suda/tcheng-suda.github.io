@@ -1,53 +1,36 @@
-- title: 'Layered Quasi-Nevskite Metastable-Phase Cobalt Oxide: A New Structure Accelerating Alkaline Oxygen Evolution Reaction'
+- title: 'Enhancing Solid Electrolyte Interphase Formation on Lithium Metal Anodes with Fluorinated Aromatic Diluents'
   volume:
   issue:
   page: ""
   year: 2023
   author:
   - given:
-    given_initial: ZL
-    family: Fan
-  - given:
-    given_initial: QT
-    family: Sun
-  - given:
-    given_initial: H
-    family: Yang
-  - given:
-    given_initial: WX
-    family: Zhu
-  - given:
-    given_initial: F
-    family: Liao
-  - given:
-    given_initial: Q
-    family: Shao
-  - given:
-    given_initial: TY
+    given_initial: Z
     family: Zhang
-  - given:
-    given_initial: H
-    family: Huang
-  - given: Tao
-    given_initial: T
-    family: Cheng
-    role: main
-  - given:
-    given_initial: MH
-    family: Shao
-    role: corr
   - given:
     given_initial: Y
     family: Liu
     role: corr
   - given:
-    given_initial: MW
-    family: Shao
-    role: corr
+    given_initial: QT
+    family: Sun
   - given:
-    given_initial: ZH
-    family: Kang
+    given_initial: ZG
+    family: Yan
+  - given:
+    given_initial: QY
+    family: Xu
+  - given:
+    given_initial: B
+    family: Wang
+  - given:
+    given_initial: YH
+    family: Li
     role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
   journal:
     abbreviation: Submitted
   URL:

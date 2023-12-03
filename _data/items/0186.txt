@@ -1,35 +1,63 @@
-- title: 'Far-from-equilibrium electrosynthesis ramifies high-entropy alloy for alkaline hydrogen evolution'
-  volume: 166
+- title: 'Air-stable Na3.5C6O6 as a sodium compensation additive in cathode of Na-ion batteries'
+  volume:
   issue:
-  page: "234-240"
+  page: ""
   year: 2023
   author:
   - given:
-    given_initial: YN
-    family: Wang
+    given_initial: MY
+    family: Cao
   - given:
-    given_initial: H
-    family: Yang
+    given_initial: L
+    family: Xu
   - given:
-    given_initial: Z
-    family: Zhang
+    given_initial: YJ
+    family: Guo
+  - given:
+    given_initial: YX
+    family: Li
+  - given:
+    given_initial: Q
+    family: Fang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: R
+    family: Bai
+  - given:
+    given_initial: JC
+    family: Zhu
   - given:
     given_initial: XY
-    family: Meng
-  - given: Tao
+    family: Li
+  - given:
+    given_initial: YR
+    family: Gao
+    role: corr
+  - given:
     given_initial: T
     family: Cheng
-    role: main
   - given:
-    given_initial: GW
-    family: Qin
+    given_initial: YS
+    family: Hu
   - given:
-    given_initial: S
-    family: Li
+    given_initial: XF
+    family: Wang
     role: corr
+  - given:
+    given_initial: YG
+    family: Guo
+  - given:
+    given_initial: ZX
+    family: Wang
+    role: corr
+  - given:
+    given_initial: LQ
+    family: Chen
   journal:
-    abbreviation: J. Mater. Sci. Technol.
-  URL: https://doi.org/10.1016/j.jmst.2023.05.040
+    abbreviation: Submitted
+  URL:
   type: article
   DOI:
   fulltext:

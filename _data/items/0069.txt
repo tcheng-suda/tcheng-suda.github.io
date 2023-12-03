@@ -1,38 +1,57 @@
-- title: 'Fastening Brˉ ions at Copper-Molecule Interface Enables Highly Efficient Electroreduction of CO2 to Ethanol'
-  volume: 6
+- title: 'Controllable CO adsorption determines ethylene and methane productions from CO2 electroreduction'
+  volume: 78
   issue: 
-  page: "437–444"
-  year: 2021
+  page: "105224"
+  year: 2020
   author:
   - given:
-    given_initial: JH
-    family: Wang
+    given_initial: HP
+    family: Bai
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: SY
+    family: Li
+  - given:
+    given_initial: ZY
+    family: Zhou
   - given:
     given_initial: H
     family: Yang
   - given:
-    given_initial: QQ
-    family: Liu
-  - given:
-    given_initial: Q
-    family: Liu
-  - given:
-    given_initial: XT
+    given_initial: J
     family: Li
   - given:
-    given_initial: XZ
-    family: Lv
+    given_initial: M
+    family: Xie
   - given:
-    given_initial: T
-    family: Cheng
-    role: corr, main
+    given_initial: JY
+    family: Ye
   - given:
-    given_initial: HB
-    family: Wu
-    role: corr
+    given_initial: YJ
+    family: Ji
+  - given:
+    given_initial: YY
+    family: Li
+  - given:
+    given_initial: ZY
+    family: Zhou
+  - given:
+    given_initial: SG
+    family: Sun
+  - given:
+    given_initial: Bo
+    family: Zhang
+    role: corr  
+  - given:
+    given_initial: HS
+    family: Peng
+    role: corr  
   journal:
-    abbreviation: ACS Energy Lett.
-  URL: https://doi.org/10.1021/acsenergylett.0c02364
+    abbreviation: Sci. Bull
+  URL: https://doi.org/10.1016/j.scib.2020.06.023
   type: article
   DOI: 
   fulltext:

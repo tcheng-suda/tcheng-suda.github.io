@@ -1,37 +1,36 @@
-- title: 'Surface Ligand Promotion of Carbon Dioxide Reduction through Stabilizing Chemisorbed Reactive Intermediates'
-  volume: 9 
-  issue:
-  page: '3057-3061'
+- title: 'The Neighboring Component Effect in a Tristable [2]Rotaxane'
+  volume: 140
+  issue: 42
+  page: "13827–13834"
   year: 2018
   author:
   - given:
-    given_initial: ZJ
+    given_initial: YP
     family: Wang
-    role: corr
-  - given:
-    given_initial: LN
-    family: Wu
-  - given:
-    given_initial: K
-    family: Sun 
-  - given:
-    given_initial: T
-    family: Chen
-  - given:
-    given_initial: ZH
-    family: Jiang
   - given: Tao
-    given_initial: T*
+    given_initial: T
     family: Cheng
     role: main
   - given:
+    given_initial: JL
+    family: Sun
+  - given:
+    given_initial: ZC
+    family: Liu
+  - given:
+    given_initial: M
+    family: Frasconi
+  - given:
     given_initial: WA
     family: Goddard
+  - given: 
+    given_initial: JF 
+    family: Stoddart
     role: corr
   journal:
-    abbreviation: J. Phys. Chem. Lett.
-  URL: http://dx.doi.org/10.1021/acs.jpclett.8b00959
+    abbreviation: J. Am. Chem. Soc. 
+  URL: https://doi.org/10.1021/jacs.8b08519
   type: article
-  DOI: 10.1021/acs.jpclett.8b00959
+  DOI: 10.1021/jacs.8b08519
   fulltext: 
   language: english

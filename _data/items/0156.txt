@@ -1,74 +1,54 @@
-- title: 'Boosting the acidic water oxidation activity by an interfacial oxygen migration in rutile-1T-heterophase IrO2 catalysts'
-  volume:
-  issue:
-  page: ""
+- title: 'Programmable Synthesis of High-Entropy Nanoalloys for Efficient Ethanol Oxidation Reaction'
+  volume: 17
+  issue: 14
+  page: "13659–13671"
   year: 2023
   author:
   - given:
-    given_initial: WX
-    family: Zhu
+    given_initial: MF
+    family: Li
   - given:
-    given_initial: QT
-    family: Sun
-  - given:
-    given_initial: MJ
-    family: Ma
-  - given:
-    given_initial: F
-    family: Liao
-    role: corr
-  - given:
-    given_initial: Q
-    family: Shao
-  - given:
-    given_initial: H
+    given_initial: CM
     family: Huang
-  - given:
-    given_initial: K
-    family: Feng
-  - given:
-    given_initial: KY
-    family: Qin
-  - given:
-    given_initial: J
-    family: Shi
-  - given:
-    given_initial: H
-    family: Yu
-  - given:
-    given_initial: DD
-    family: Gao
-  - given:
-    given_initial: JX
-    family: Chen
   - given:
     given_initial: H
     family: Yang
   - given:
-    given_initial: PP
-    family: Yu
+    given_initial: Y
+    family: Wang
   - given:
-    given_initial: J
-    family: Zhong
+    given_initial: XC
+    family: Song
   - given: Tao
     given_initial: T
     family: Cheng
-    role: corr, main
+    role: main
   - given:
-    given_initial: MW
-    family: Shao
-    role: corr
+    given_initial: JT
+    family: Jiang
   - given:
-    given_initial: Y
+    given_initial: YF
+    family: Lu
+  - given:
+    given_initial: MC
     family: Liu
+  - given:
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: ZZ
+    family: Ye
+  - given:
+    given_initial: Z
+    family: Hu
     role: corr
   - given:
-    given_initial: ZH
-    family: Kang
+    given_initial: HW
+    family: Huang
     role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: ACS Nano
+  URL: https://doi.org/10.1021/acsnano.3c02762
   type: article
   DOI:
   fulltext:

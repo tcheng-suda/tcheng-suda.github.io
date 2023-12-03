@@ -1,49 +1,36 @@
-- title: 'Discrete Dimers of Redox-Active and Fluorescent Perylene Diimide-Based Rigid Isosceles Triangles in the Solid State'
-  volume: 141   
-  issue:
-  page: "1290–1303"
+- title: 'Predicted Detonation Properties at the Chapman-Jouguet State for Proposed Energetic Materials (MTO and MTO3N) from Combined ReaxFF and Quantum Mechanics Reactive Dynamics'
+  volume: 20
+  issue: 6
+  page: '3953-3969'
   year: 2018
   author:
   - given:
-    given_initial: SKM
-    family: Nalluri
-  - given:
-    given_initial: JW
+    given_initial: T
     family: Zhou
+  - given:
+    given_initial: SV
+    family: Zybin
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: ZC
-    family: Liu
+    given_initial: S
+    family: Naserifar
   - given:
-    given_initial: MT
-    family: Nguyen
+    given_initial: A
+    family: Jaramillo-Botero
   - given:
-    given_initial: TY
-    family: Chen
-  - given:
-    given_initial: HA
-    family: Patel
-  - given:
-    given_initial: MD
-    family: Krzyaniak
-  - given:
-    given_initial: WA
-    family: Goddard
-  - given:
-    given_initial: MR
-    family: Wasielewski
-    role: corr
-  - given:
-    given_initial: JF
-    family: Stoddart
-    role: corr
+    given_initial: FL
+    family: Huang
   journal:
-    abbreviation: J. Am. Chem. Soc.
-  URL: https://doi.org/10.1021/jacs.8b11201
+    abbreviation: Phys. Chem. Chem. Phys.
+  URL: http://dx.doi.org/10.1039/C7CP07321F
   type: article
-  DOI: 10.1021/jacs.8b11201 
-  fulltext: 
+  DOI: 10.1039/C7CP07321F
+  fulltext:
   language: english

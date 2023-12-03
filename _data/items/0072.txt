@@ -1,26 +1,52 @@
-- title: 'Theoretical Research on the Electroreduction of Carbon Dioxide'
-  volume: 37
+- title: 'Highly Selective Electrocatalytic Reduction of CO2 into Methane on Cu–Bi Nanoalloys'
+  volume: 11
   issue: 
-  page: "2010040"
-  year: 2021
+  page: "7261–7266"
+  year: 2020
   author:
+  - given:
+    given_initial: ZJ
+    family: Wang
+    role: corr
   - given:
     given_initial: Q
     family: Yuan
   - given:
-    given_initial: H
-    family: Yang
+    given_initial: JJ
+    family: Shan
   - given:
-    given_initial: M
-    family: Xie
+    given_initial: ZH
+    family: Jiang
+  - given:
+    given_initial: P
+    family: Xu
+  - given:
+    given_initial: YF
+    family: Hu
+  - given:
+    given_initial: JG
+    family: Zhou
+  - given:
+    given_initial: LN
+    family: Wu
+  - given:
+    given_initial: ZZ
+    family: Niu
+  - given:
+    given_initial: JM
+    family: Sun
   - given:
     given_initial: T
     family: Cheng
     role: corr, main
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr 
   journal:
-    abbreviation: Acta Phys. -Chim. Sin.
-  URL: https://doi.org/10.3866/PKU.WHXB202010040
+    abbreviation: J. Phys. Chem. Lett.
+  URL: https://doi.org/10.1021/acs.jpclett.0c01261
   type: article
-  DOI: 10.3866/PKU.WHXB202010040
+  DOI: 
   fulltext:
   language: english

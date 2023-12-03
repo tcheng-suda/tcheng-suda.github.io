@@ -1,41 +1,47 @@
-- title: 'High-Performance Nondoped Blue Delayed Fluorescence Organic Light-Emitting Diodes Featuring Low Driving Voltage and High Brightness'
-  volume: 7
-  issue: 13
-  page: "1902508"
-  year: 2020
+- title: 'Dramatic Differences in Carbon Dioxide Adsorption and Initial Steps of Reduction Between Silver and Copper'
+  volume: 10
+  issue:
+  page: "1875"
+  year: 2019
   author:
   - given:
-    given_initial: SJ
-    family: Zou
+    given_initial: YF
+    family: Ye
   - given:
-    given_initial: FM
-    family: Xie
+    given_initial: H
+    family: Yang
   - given:
-    given_initial: M
-    family: Xie
+    given_initial: J
+    family: Qian
   - given:
-    given_initial: YQ
-    family: Li
-    role: corr
+    given_initial: HY
+    family: Su
+  - given:
+    given_initial: KJ
+    family: Lee
   - given:
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: XH
-    family: Zhang
+    given_initial: H
+    family: Xiao
   - given:
-    given_initial: CS
-    family: Lee
+    given_initial: J
+    family: Yano
     role: corr
   - given:
-    given_initial: JX
-    family: Tang
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: EJ
+    family: Crumlin
     role: corr
   journal:
-    abbreviation: Adv. Sci.
-  URL: https://doi.org/10.1002/advs.201902508
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-019-09846-y
   type: article
-  DOI: 10.1002/advs.201902508
-  fulltext:
+  DOI: 10.1038/s41467-019-09846-y
+  fulltext: 
   language: english

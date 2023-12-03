@@ -1,64 +1,39 @@
-- title: 'Stable and oxidative charged Ru enhance the oxygen evolution reaction activity in two-dimensional ruthenium-iridium oxide'
-  volume: 14
+- title: 'Acetonitrile-based Local High-Concentration Electrolytes for Advanced Lithium Metal Batteries'
+  volume:
   issue:
-  page: "5365"
+  page: ""
   year: 2023
   author:
   - given:
-    given_initial: WX
-    family: Zhu
+    given_initial: MH
+    family: Li
   - given:
-    given_initial: XC
-    family: Song
+    given_initial: Y
+    family: Liu
   - given:
-    given_initial: F
-    family: Liao
-  - given:
-    given_initial: H
-    family: Huang
+    given_initial: XM
+    family: Yang
+    role: corr
   - given:
     given_initial: Q
-    family: Shao
+    family: Zhang
   - given:
-    given_initial: YJ
+    given_initial: YF
+    family: Cheng
+  - given:
+    given_initial: QW
     family: Zhou
-  - given:
-    given_initial: MJ
-    family: Ma
-  - given:
-    given_initial: J
-    family: Wu
-  - given:
-    given_initial: H
-    family: Yang
-  - given:
-    given_initial: HW
-    family: Yang
-  - given:
-    given_initial: M
-    family: Wang
-  - given:
-    given_initial: J
-    family: Shi
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
   - given:
-    given_initial: MW
-    family: Shao
-    role: corr
-  - given:
-    given_initial: Y
-    family: Liu
-    role: corr
-  - given:
-    given_initial: ZH
-    family: Kang
+    given_initial: M
+    family: Gu
     role: corr
   journal:
-    abbreviation: Nat. Commun.
-  URL: https://doi.org/10.1038/s41467-023-41036-9
+    abbreviation: Submitted
+  URL:
   type: article
   DOI:
   fulltext:

@@ -1,58 +1,36 @@
-- title: 'Bismuth Oxyhydroxide-Pt Inverse Interface for Enhanced Methanol Electrooxidation Performance'
+- title: 'Te-Doped Pd Nanocrystal for Electrochemical Urea Production by Efficiently Coupling Carbon Dioxide Reduction with Nitrite Reduction'
   volume: 20
   issue: 
-  page: "7751–7759"
+  page: "8282–8289"
   year: 2020
   author:
   - given:
-    given_initial: XC
-    family: Wang
-  - given:
-    given_initial: M
-    family: Xie
-  - given:
-    given_initial: FL
-    family: Lyu
-    role: corr 
-  - given:
-    given_initial: YM
-    family: Y
-  - given:
-    given_initial: ZQ
-    family: W
-  - given:
-    given_initial: JT
-    family: Chen
-  - given:
-    given_initial: LY
-    family: Chang
-  - given:
-    given_initial: YJ
-    family: Xia
-  - given:
-    given_initial: QX
-    family: Zhong
-  - given:
-    given_initial: MY
-    family: Chu
+    given_initial: YG
+    family: Feng
   - given:
     given_initial: H
     family: Yang
   - given:
+    given_initial: Y
+    family: Zhang
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
+  - given:
+    given_initial: LG
+    family: Li
+  - given:
     given_initial: T
     family: Cheng
-    role: corr, main
-  - given:
-    given_initial: TK
-    family: Sham
-    role: corr 
+    role: main
   - given:
     given_initial: Q
-    family: Zhang
-    role: corr
+    family: Shao
+    role: corr 
   journal:
     abbreviation: Nano Lett.
-  URL: https://doi.org/10.1021/acs.nanolett.0c03340
+  URL: https://doi.org/10.1021/acs.nanolett.0c03400
   type: article
   DOI: 
   fulltext:

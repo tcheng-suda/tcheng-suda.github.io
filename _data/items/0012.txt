@@ -1,32 +1,33 @@
-- title: 'Annealing Kinetics of Electrodeposited Lithium Dendrites'
-  volume: '143'
-  issue: '10'
-  page: '134701'
+- title: 'Reaction Mechanism from Quantum Molecular Dynamics for the Initial Thermal Decomposition of 2, 4, 6-triamino-1, 3, 5-triazine-1, 3, 5-trioxide (MTO) and 2, 4, 6-trinitro-1, 3, 5-triazine-1, 3, 5-trioxide (MTO3N), Promising Green Energetic Materials'
+  volume: '3'
+  issue: '22'
+  page: '12044-12050'
   year: 2015
   author:
   - given:
-    given_initial: A
-    family: Aryanfar
-    role: corr
+    given_initial: CC
+    family: Ye
+  - given:
+    given_initial: Q
+    family: An
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: AJ
-    family: Colussi
+    given_initial: ZV
+    family: Zybin
+  - given:
+    given_initial: S
+    family: Naserifar
   - given: William A
     given_initial: WA
     family: Goddard
-  - given:
-    given_initial: MR
-    family: Hoffmann
+    role: corr
   journal:
-    abbreviation: J. Chem. Phys.
-  URL: http://dx.doi.org/10.1063/1.4930014
+    abbreviation: J. Mater. Chem. A
+  URL: http://dx.doi.org/10.1039/C5TA02486B
   type: article
-  DOI: 10.1063/1.4930014
+  DOI: 10.1039/C5TA02486B
   fulltext:
   language: english
-  media1: (reported by AIP publishing "Extending a Battery's Lifetime with Heat")
-  media1_url: https://phys.org/news/2015-10-battery-lifetime.html

@@ -1,33 +1,33 @@
-- title: 'Initial Steps of Thermal Decomposition of Dihydroxylammonium 5,5 -bistetrazole-1,1 -diolate Crystals from Quantum Mechanics'
-  volume: '118'
-  issue: '46'
-  page: '27175-27181'
+- title: 'Adaptive Accelerated ReaxFF Reactive Dynamics with Validation from Simulating Hydrogen Combustion'
+  volume: '136'
+  issue: '26'
+  page: '9434-9442'
   year: 2014
   author:
-  - given:
-    given_initial: Q
-    family: An
-  - given:
-    given_initial: WG
-    family: Liu
-  - given: William A
-    given_initial: WA
-    family: Goddard
-    role: corr
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: William A
+    given_initial: WA
+    family: Goddard
+    role: corr
   - given:
-    given_initial: ZV
-    family: Zybin
+    given_initial: A
+    family: Jaramillo-Botero
+    role: corr
   - given:
     given_initial: H
-    family: Xiao
+    family: Sun
+    role: corr
   journal:
-    abbreviation: J Phys. Chem. C
-  URL: http://dx.doi.org/10.1021/jp509582x
+    abbreviation: J. Am. Chem. Soc.
+  URL: http://dx.doi.org/10.1021/ja5037258
   type: article
-  DOI: 10.1021/jp509582x
+  DOI: 10.1021/ja5037258
   fulltext:
   language: english

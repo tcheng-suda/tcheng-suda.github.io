@@ -1,33 +1,57 @@
-- title: 'Surface engineering of RhOOH nanosheets promotes hydrogen evolution in alkaline'
-  volume: 78
+- title: 'Bioinspired Activation of N2 on Asymmetrical Coordinated Fe grafted 1T MoS2 at Room Temperature'
+  volume: 39
   issue: 
-  page: "105224"
-  year: 2020
+  page: "1898-1904"
+  year: 2021
   author:
   - given:
-    given_initial: SX
-    family: Bai
+    given_initial: JJ
+    family: Guo
   - given:
-    given_initial: Miao
+    given_initial: MY
+    family: Wang
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: XM
+    family: Li
+  - given:
+    given_initial: I
+    family: Asma
+  - given:
+    given_initial: S
+    family: George
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
     family: Xie
+  - given:
+    given_initial: JJ
+    family: Guo
+  - given:
+    given_initial: JT
+    family: Zai
+    role: corr
+  - given:
+    given_initial: ZX
+    family: Feng
+  - given:
+    given_initial: JJ
+    family: Guo
   - given:
     given_initial: T
     family: Cheng
     role: corr, main
   - given:
-    given_initial: KL
-    family: Cao
-  - given:
-    given_initial: Y
-    family: Xu
+    given_initial: XF
+    family: Qian
     role: corr
-  - given:
-    given_initial: XQ
-    family: Huang
-    role: corr  
   journal:
-    abbreviation: Nano Energy
-  URL: https://doi.org/10.1016/j.nanoen.2020.105224
+    abbreviation: Chin. J. Chem.
+  URL: https://doi.org/10.1002/cjoc.202000675
   type: article
   DOI: 
   fulltext:

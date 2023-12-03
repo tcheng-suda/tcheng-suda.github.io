@@ -1,51 +1,42 @@
-- title: 'From n-alkane to polyacetylene on Cu (110): Linkage modulation in Chain Growth'
-  volume: 8
-  issue: 
-  page: "733–739"
-  year: 2022
+- title: 'Ultrathin Pt-Cu-Ni Ternary Alloy Nanowires with Multimetallic Interplay for Boosted Methanol Oxidation Activity'
+  volume: 4
+  issue: 7
+  page: "6824"
+  year: 2021
   author:
   - given:
-    given_initial: ZM
-    family: Hao
-  - given:
-    given_initial: JJ
+    given_initial: ZX
     family: Zhang
   - given:
     given_initial: M
     family: Xie
   - given:
-    given_initial: XC
-    family: Li
-  - given:
-    given_initial: LN
-    family: Wang
-  - given:
-    given_initial: Y
+    given_initial: ZJ
     family: Liu
   - given:
-    given_initial: KF
-    family: Niu
+    given_initial: YM
+    family: Lu
   - given:
-    given_initial: JB
-    family: Wang
+    given_initial: SM
+    family: Zhang
   - given:
-    given_initial: LY
-    family: Song
+    given_initial: MX
+    family: Liu
+  - given:
+    given_initial: Kai
+    family: Liu
   - given:
     given_initial: T
     family: Cheng
-    role: main
+    role: corr, main
   - given:
-    given_initial: HM
-    family: Zhang
-  - given:
-    given_initial: LF
-    family: Chi
+    given_initial: CB
+    family: Gao
     role: corr
-  journal: 
-    abbreviation: Sci. China Chem.
-  URL: https://doi.org/10.1007/s11426-021-1213-2
+  journal:
+    abbreviation: ACS Appl. Energy Mater. 
+  URL: https://pubs.acs.org/doi/full/10.1021/acsaem.1c00952
   type: article
-  DOI:
-  fulltext:
+  DOI: 10.1021/acsaem.1c00952
+  fulltext: 
   language: english

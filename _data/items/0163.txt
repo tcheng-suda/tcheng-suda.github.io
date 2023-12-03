@@ -1,50 +1,28 @@
-- title: 'A Holistic Additive Protocol Steers Dendrite-Free Zn(101) Orientational Electrodeposition'
-  volume:
+- title: 'Elucidating Solid Electrolyte Interphase Formation in Sodium-Based Batteries: Key Reductive Reactions and Inorganic Composition'
+  volume: 11
   issue:
-  page: "ASAP"
+  page: "14640-14645"
   year: 2023
   author:
   - given:
-    given_initial: YW
-    family: Su
+    given_initial: Y
+    family: Liu
   - given:
-    given_initial: L
-    family: Xu
-  - given:
-    given_initial: YJ
+    given_initial: QT
     family: Sun
   - given:
-    given_initial: WY
-    family: Guo
+    given_initial: BT
+    family: Yue
   - given:
-    given_initial: XZ
-    family: Yang
-  - given:
-    given_initial: YH
-    family: Zou
-  - given:
-    given_initial: M
-    family: Ding
-  - given:
-    given_initial: QH
+    given_initial: YY
     family: Zhang
-  - given:
-    given_initial: CP
-    family: Qiao
-  - given:
-    given_initial: SX
-    family: Dou
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
-    given_initial: JY
-    family: Sun
-    role: corr
   journal:
-    abbreviation: Small
-  URL:
+    abbreviation: J. Mater. Chem. A
+  URL: https://doi.org/10.1039/D3TA01878D
   type: article
   DOI:
   fulltext:

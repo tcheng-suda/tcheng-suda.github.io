@@ -1,43 +1,46 @@
-- title: 'Predictions of Chemical Shifts for Reactive Intermediates in CO2 Reduction under operando Conditions'
-  volume: 13
-  issue: 27
-  page: "31554"
-  year: 2021
+- title: 'Single-site Pt doped RuO2 hollow nanospheres with interstitial C for high-performance acidic overall water splitting'
+  volume: 8
+  issue: 9
+  page: "eabl9271"
+  year: 2022
   author:
   - given:
-    given_initial: Hao
+    given_initial: J
+    family: Wang
+  - given:
+    given_initial: H
     family: Yang
   - given:
     given_initial: F
-    family: Negreiros
+    family: Li
   - given:
-    given_initial: QT
-    family: Sun
+    given_initial: LG
+    family: Li
   - given:
-    given_initial: M
-    family: Xie
+    given_initial: JB
+    family: Wu
   - given:
-    given_initial: L
-    family: Sementa
-  - given:
-    given_initial: YF
-    family: Ye
-  - given:
-    given_initial: A
-    family: Fortunelli
-    role: corr
-  - given:
-    given_initial: WA
-    family: Goddard III
-    role: corr
-  - given:
+    given_initial: SH
+    family: Liu
+  - given: Tao
     given_initial: T
     family: Cheng
-    role: corr, main
+    role: main
+  - given:
+    given_initial: Y
+    family: Xu
+    role: corr
+  - given:
+    given_initial: Q
+    family: Shao
+  - given:
+    given_initial: XQ
+    family: Huang
+    role: corr
   journal:
-    abbreviation: ACS Appl. Mater. Interfaces
-  URL: https://pubs.acs.org/doi/10.1021/acsami.1c02909
+    abbreviation: Sci. Adv.
+  URL: https://doi.org/10.1126/sciadv.abl9271
   type: article
-  DOI: 10.1021/acsami.1c02909
+  DOI: 10.1126/sciadv.abl9271
   fulltext:
   language: english

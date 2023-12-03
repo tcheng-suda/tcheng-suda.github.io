@@ -1,35 +1,51 @@
-- title: 'In-silico Screening the Nitrogen Reduction Reaction on Single-Atom Electrocatalysts Anchored on MoS2'
-  volume: 65
+- title: 'Assembling covalent organic framework membranes with superhigh ion exchange capacity'
+  volume: 13
   issue: 
-  page: "234–241"
-  year: 2022
+  page: "1020"
+  year: 2021
   author:
   - given:
-    given_initial: L
-    family: Xu
+    given_initial: XY
+    family: Wang
   - given:
-    given_initial: M
-    family: Xie
+    given_initial: BB
+    family: Shi
   - given:
     given_initial: H
     family: Yang
   - given:
-    given_initial: PP
-    family: Yu
+    given_initial: JY
+    family: Guan
   - given:
-    given_initial: BY
-    family: Ma
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: CY
+    family: Fan
+  - given:
+    given_initial: XD
+    family: You
+  - given:
+    given_initial: YN
+    family: Wang
+  - given:
+    given_initial: Z
+    family: Zhang
   - given:
     given_initial: T
     family: Cheng
-    role: corr, main
+    role: main
   - given:
-    given_initial: WA
-    family: Goddard
+    given_initial: RN
+    family: Zhang
+    role: corr
+  - given:
+    given_initial: ZY
+    family: Jiang
     role: corr
   journal:
-    abbreviation: Top. Catal.
-  URL: https://doi.org/10.1007/s11244-021-01546-6
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-022-28643-8
   type: article
   DOI: 
   fulltext:

@@ -1,50 +1,49 @@
-- title: 'Alloying Nickel with Molybdenum Significantly Accelerates Alkaline Hydrogen Electrocatalysis'
-  volume: 60
+- title: 'Synergy between Silver-Copper Surface Alloy Composition and Carbon Dioxide Adsorption and Activation'
+  volume: 12
   issue: 
-  page: "5771-5777"
-  year: 2021
+  page: "25374–25382"
+  year: 2020
   author:
   - given:
-    given_initial: M
-    family: Wang
+    given_initial: YF
+    family: Ye
+  - given:
+    given_initial: J
+    family: Qian
   - given:
     given_initial: H
     family: Yang
   - given:
-    given_initial: JN
-    family: Shi
+    given_initial: HY
+    family: Su
   - given:
-    given_initial: YF
-    family: Chen
+    given_initial: KJ
+    family: Lee
   - given:
-    given_initial: Y
-    family: Zhou
-  - given:
-    given_initial: LG
-    family: Wang
-  - given:
-    given_initial: SJ
-    family: Di
-  - given:
-    given_initial: X
-    family: Zhao
-  - given:
-    given_initial: J
-    family: Zhong
+    given_initial: A
+    family: Etxebarria
   - given:
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: W
-    family: Zhou
+    given_initial: H
+    family: Xiao
   - given:
-    given_initial: YG
-    family: Li
-    role: corr
+    given_initial: J
+    family: Yano
+    role: corr  
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr  
+  - given:
+    given_initial: EJ
+    family: Crumlin
+    role: corr  
   journal:
-    abbreviation: Angew. Chem. Int. Ed.
-  URL: https://doi.org/10.1002/anie.202013047
+    abbreviation: ACS Appl. Mater. Interfaces
+  URL: https://doi.org/10.1021/acsami.0c02057
   type: article
   DOI: 
   fulltext:

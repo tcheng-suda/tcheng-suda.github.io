@@ -1,41 +1,34 @@
-- title: 'In situ Imaging of the Atomic Phase Transition Dynamics in Metal Halide Perovskites'
+- title: 'Hydrogen Evolution and Suppression in Lithium Metal Battery'
   volume:
   issue:
-  page: "ASAP"
+  page: ""
   year: 2023
   author:
   - given:
-    given_initial: MM
-    family: Ma
+    given_initial: Y
+    family: Liu
   - given:
-    given_initial: XL
+    given_initial: JY
     family: Zhang
   - given:
-    given_initial: X
-    family: Chen
+    given_initial: XF
+    family: Wang
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: YY
+    family: Zhang
   - given:
     given_initial: H
-    family: Xiong
-  - given:
-    given_initial: L
-    family: Xu
+    family: Li
   - given: Tao
     given_initial: T
     family: Cheng
-    role: main
-  - given:
-    given_initial: JY
-    family: Yuan
-  - given:
-    given_initial: F
-    family: Wei
-  - given:
-    given_initial: BY
-    family: Shen
-    role: corr
+    role: corr, main
   journal:
-    abbreviation: Nat. Commun.
-  URL: https://doi.org/10.1038/s41467-023-42999-5
+    abbreviation: Submitted
+  URL:
   type: article
   DOI:
   fulltext:

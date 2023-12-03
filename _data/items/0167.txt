@@ -1,46 +1,35 @@
-- title: 'Superiority of real-space imaging for discovering an unexpected asymmetric structure in metal organic framework'
-  volume:
+- title: 'Efficient CO Electroreduction to Methanol by CuRh Alloys with Isolated Rh Sites'
+  volume: 13
   issue:
-  page: ""
+  page: "7170–7177"
   year: 2023
   author:
   - given:
-    given_initial: Jl
-    family: Feng
+    given_initial: JB
+    family: Zhang
   - given:
-    given_initial: ZP
-    family: Feng
+    given_initial: PP
+    family: Yu
   - given:
-    given_initial: L
-    family: Xu
+    given_initial: C
+    family: Peng
   - given:
-    given_initial: HB
-    family: Meng
+    given_initial: XM
+    family: Lv
   - given:
-    given_initial: X
-    family: Chen
-    role: corr
-  - given:
-    given_initial: MM
-    family: Ma
-  - given:
-    given_initial: L
-    family: Wang
-  - given:
-    given_initial: F
-    family: Wei
-    role: corr
+    given_initial: ZZ
+    family: Liu
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
   - given:
-    given_initial: BY
-    family: Shen
+    given_initial: GF
+    family: Zheng
     role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: ACS Catal.
+  URL: https://doi.org/10.1021/acscatal.3c00972
   type: article
   DOI:
   fulltext:

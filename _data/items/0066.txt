@@ -1,39 +1,51 @@
-- title: 'Synergized Cu/Pb Core/Shell Electrocatalyst for High-Efficiency CO2 Reduction to C2+ Liquids'
-  volume: 15
-  issue: 
-  page: "1039–1047"
-  year: 2021
+- title: 'A yolk–shell structured metal–organic framework with encapsulated iron-porphyrin and its derived bimetallic nitrogen-doped porous carbon for an efficient oxygen reduction reaction'
+  volume: 8
+  issue: 19
+  page: "9536"
+  year: 2020
   author:
   - given:
-    given_initial: PT
-    family: Wang
+    given_initial: CC
+    family: Zhang
   - given:
     given_initial: H
     family: Yang
   - given:
+    given_initial: D
+    family: Zhong
+  - given:
     given_initial: Y
     family: Xu
   - given:
-    given_initial: XQ
-    family: Huang
-    role: corr
-  - given:
-    given_initial: J
+    given_initial: YZ
     family: Wang
   - given:
-    given_initial: M
-    family: Zhong
+    given_initial: Q
+    family: Yuan
+  - given:
+    given_initial: ZZ
+    family: Liang
+  - given:
+    given_initial: B
+    family: Wang
+  - given:
+    given_initial: Wei
+    family: Zhang
+  - given:
+    given_initial: HQ
+    family: Zheng
+    role: corr
   - given:
     given_initial: T
     family: Cheng
-    role: main
+    role: corr, main
   - given:
-    given_initial: Q
-    family: Shao
-    role: corr
+    given_initial: R
+    family: Cao
+    role: corr  
   journal:
-    abbreviation: ACS Nano
-  URL: https://doi.org/10.1021/acsnano.0c07869
+    abbreviation: J. Mater. Chem. A,
+  URL: https://doi.org/10.1039/D0TA00962H
   type: article
   DOI: 
   fulltext:

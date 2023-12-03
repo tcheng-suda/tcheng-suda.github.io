@@ -1,29 +1,27 @@
-- title: 'Explanation of Dramatic pH-Dependence of Hydrogen Binding on Noble Metal Electrode: Greatly Weakened Water Adsorption at High pH.'
-  volume: 140  
-  issue: 25
-  page: '7787-7790'
-  year: 2018
+- title: 'First Principles Based Reaction Kinetics from Reactive Molecular Dynamics Simulations: Application to Hydrogen Peroxide Decomposition'
+  volume: 116 
+  issue:
+  page: "18202-18208"
+  year: 2019
   author:
-  - given: Tao
-    given_initial: T
-    family: Cheng
-    role: main
   - given: 
-    given_initial: L
-    family: Wang
-  - given: 
-    given_initial: MV
-    family: Boris
+    given_initial: DV
+    family: Ilyin
   - given:
     given_initial: WA
     family: Goddard
     role: corr
+  - given:
+    given_initial: JJ
+    family: Oppenheim
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
   journal:
-    abbreviation: J. Am. Chem. Soc.
-  URL: http://dx.doi.org/10.1021/jacs.8b04006
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: https://doi.org/10.1073/pnas.1701383115 
   type: article
-  DOI: 10.1021/jacs.8b04006
+  DOI: 10.1073/pnas.1701383115 
   fulltext: 
   language: english
-  media1: (J. Am. Chem. Soc. Spotlights)
-  media1_url: https://pubs.acs.org/doi/pdfplus/10.1021/jacs.8b05954

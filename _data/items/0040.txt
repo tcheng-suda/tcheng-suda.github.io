@@ -1,60 +1,41 @@
-- title: 'Molecular Russian Dolls'
-  volume: 9  
+- title: 'Ordered Three-fold Symmetric Graphene Oxide/Buckled Graphene/Graphene Heterostructures on MgO (111) by Carbon Molecular Beam Epitaxy'
+  volume: 6
   issue:
-  page: "5275"
+  page: '4225-4233'
   year: 2018
   author:
   - given:
-    given_initial: K
-    family: Cai
-  - given:
-    given_initial: MC
-    family: Lipke
-  - given:
-    given_initial: ZC
-    family: Liu
-  - given:
-    given_initial: J
-    family: Nelson
-  - given:
-    given_initial: Y
-    family: Shi
+    given_initial: C
+    family: Ladewig
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: CY
-    family: Cheng
+    given_initial: MD
+    family: Randle
   - given:
-    given_initial: DK
-    family: Shen
+    given_initial: J
+    family: Bird
   - given:
-    given_initial: JM
-    family: Han
+    given_initial: O
+    family: Olanipekun
   - given:
-    given_initial: S
-    family: Vemuri
+    given_initial: PA
+    family: Dowben
   - given:
-    given_initial: YN
-    family: Feng
-  - given:
-    given_initial: CL
-    family: Stern
+    given_initial: J
+    family: Kelber
+    role: corr
   - given:
     given_initial: WA
     family: Goddard
-  - given:
-    given_initial: MR
-    family: Wasielewski
-  - given: 
-    given_initial: JF 
-    family: Stoddart
     role: corr
   journal:
-    abbreviation: Nat. Commun.
-  URL: https://doi.org/10.1038/s41467-018-07673-1
+    abbreviation: J. Mater. Chem. C
+  URL: http://dx.doi.org/10.1039/C8TC00178B
   type: article
-  DOI: 10.1038/s41467-018-07673-1
-  fulltext: 
+  DOI: 10.1039/C8TC00178B
+  fulltext:
   language: english
+  note: (Ladewig C and Cheng T contributed equally)

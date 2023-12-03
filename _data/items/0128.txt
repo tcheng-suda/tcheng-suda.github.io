@@ -1,53 +1,45 @@
-- title: 'Auto-bifunctional Mechanism of Jagged Pt Nanowire for Hydrogen Evolution Kinetics via End-to-End In Situ Simulation'
-  volume: 143
-  issue: 
-  page: "5355–5363"
-  year: 2021
+- title: 'Determining Hydronium pKa on Platinum Surface and Impact on Hydrogen Evolution Reaction'
+  volume: 119
+  issue: 39
+  page: "e2208187119"
+  year: 2022
   author:
   - given:
-    given_initial: GH
-    family: Gu
-  - given:
-    given_initial: JH
-    family: Lim
-  - given:
-    given_initial: CZ
-    family: Wan
+    given_initial: GY
+    family: Zhong
   - given:
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: HT
-    family: Pu
+    given_initial: ZH
+    family: Huang
   - given:
-    given_initial: S
-    family: Kim
+    given_initial: CZ
+    family: Wan
   - given:
-    given_initial: J
-    family: Noh
+    given_initial: AH
+    family: Shah
   - given:
-    given_initial: C
-    family: Choi
+    given_initial: SB
+    family: Wang
   - given:
-    given_initial: J
-    family: Kim
+    given_initial: Y
+    family: Huang
+    role: corr
   - given:
     given_initial: WA
     family: Goddard
     role: corr
   - given:
-    given_initial: XF
+    given_initial: Xiangfeng
     family: Duan
     role: corr
-  - given:
-    given_initial: YS
-    family: Jung
-    role: corr
   journal:
-    abbreviation: J. Am. Chem. Soc.
-  URL: https://doi.org/10.1021/jacs.0c11261
+    abbreviation: Proc. Natl. Acad. Sci. U.S.A.
+  URL: https://doi.org/10.1073/pnas.2208187119
   type: article
-  DOI: 
+  DOI:
   fulltext:
   language: english
+  note: (Zhong GY and Cheng T contributed equally)

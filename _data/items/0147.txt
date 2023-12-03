@@ -1,51 +1,65 @@
-- title: 'Enhanced electroreduction of CO2 to C2+ products on heterostructured Cu/oxide electrodes'
-  volume: 8
+- title: 'The Hydrogen Evolution Reaction on Platinum (100) and (111) Surfaces is dominated by the Edges'
+  volume:
   issue:
-  page: "2148-2162"
+  page: ""
   year: 2022
   author:
   - given:
-    given_initial: XT
-    family: Li
-  - given:
-    given_initial: Q
-    family: Liu
-  - given:
-    given_initial: JH
-    family: Wang
-  - given:
-    given_initial: DC
-    family: Meng
-  - given:
-    given_initial: YJ
-    family: Shu
-  - given:
-    given_initial: XZ
-    family: Lv
-  - given:
-    given_initial: B
-    family: Zhao
-  - given:
-    given_initial: H
-    family: Yang
+    given_initial: ZH
+    family: Huang
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
   - given:
-    given_initial: QS
-    family: Gao
+    given_initial: AH
+    family: Shah
   - given:
-    given_initial: LS
-    family: Li
+    given_initial: GY
+    family: Zhong
   - given:
-    given_initial: HB
-    family: Wu
+    given_initial: CZ
+    family: Wan
+  - given:
+    given_initial: PQ
+    family: Wang
+  - given:
+    given_initial: MN
+    family: Ding
+  - given:
+    given_initial: J
+    family: Huang
+  - given:
+    given_initial: Z
+    family: Wan
+  - given:
+    given_initial: SB
+    family: Wang
+  - given:
+    given_initial: J
+    family: Cai
+  - given:
+    given_initial: BS
+    family: Peng
+  - given:
+    given_initial: HT
+    family: Liu
+  - given:
+    given_initial: Y
+    family: Huang
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: XF
+    family: Duan
     role: corr
   journal:
-    abbreviation: Chem
-  URL: https://doi.org/10.1016/j.chempr.2022.04.004
+    abbreviation: Submitted
+  URL:
   type: article
-  DOI: 10.1016/j.chempr.2022.04.004
+  DOI:
   fulltext:
   language: english
