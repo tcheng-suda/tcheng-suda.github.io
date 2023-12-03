@@ -17,7 +17,7 @@ permalink: /publications/
 |[**2019**](#2019)|[**2018**](#2018)|[**2017**](#2017)|[**2016**](#2016)
 |[**2015**](#2015)|[**2014**](#2014)|[**before 2014**](#2014-b)|  
 
-## <a name="Selected"></a>Representative
+## <a name="Selected"></a>Selected
 <div class='panel-pub'>
 <ol start='5' reversed>
 {% for article in site.data.representative %}
