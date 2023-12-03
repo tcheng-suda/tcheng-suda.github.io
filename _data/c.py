@@ -1,3 +1,7 @@
+'''
+combine the items to a file
+'''
+
 import sys
 
 flist = []

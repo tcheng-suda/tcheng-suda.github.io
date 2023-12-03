@@ -1,3 +1,51 @@
+- title: 'Conversion mechanism of sulfur in room-temperature sodium-sulfur battery with carbonate-based electrolyte'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: F
+    family: Jin
+  - given:
+    given_initial: B
+    family: Wang
+    role: corr
+  - given:
+    given_initial: RJ
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: N
+    family: Zhang
+  - given:
+    given_initial: CY
+    family: Bao
+  - given:
+    given_initial: DL
+    family: Wang
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: HK
+    family: Liu
+  - given:
+    given_initial: SX
+    family: Dou
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Air-stable Na3.5C6O6 as a sodium compensation additive in cathode of Na-ion batteries'
   volume:
   issue:
