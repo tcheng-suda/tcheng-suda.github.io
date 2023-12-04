@@ -1,8 +1,8 @@
 - title: 'Nitrogen contained Rhodium Nanosheet Catalysts for Efficient Hydrazine Oxidation Reaction'
-  volume:
+  volume: 343
   issue:
-  page: "ASAP"
-  year: 2023
+  page: "123561"
+  year: 2024
   author:
   - given:
     given_initial: J
@@ -44,7 +44,7 @@
     role: corr
   journal:
     abbreviation: Appl. Catal. B
-  URL:
+  URL: https://doi.org/10.1016/j.apcatb.2023.123561
   type: article
   DOI:
   fulltext:
