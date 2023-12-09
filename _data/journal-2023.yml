@@ -1,3 +1,58 @@
+- title: 'Efficient Circularly Polarized Luminescence and Bright White Emission from Hybrid Indium-based Perovskites via Achiral Building Blocks'
+  volume:
+  issue:
+  page: ""
+  year: 2023
+  author:
+  - given:
+    given_initial: LP
+    family: Du
+  - given:
+    given_initial: QW
+    family: Zhou
+  - given:
+    given_initial: QQ
+    family: He
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: HJ
+    family: Lv
+  - given:
+    given_initial: YQ
+    family: Shen
+  - given:
+    given_initial: LL
+    family: Sheng
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: Y
+    family: Fang
+    role: corr
+  - given:
+    given_initial: WH
+    family: Ning
+    role: corr
+  - given:
+    given_initial: LF
+    family: Chi
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Conversion mechanism of sulfur in room-temperature sodium-sulfur battery with carbonate-based electrolyte'
   volume:
   issue:
