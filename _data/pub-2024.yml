@@ -1,0 +1,111 @@
+- title: 'Nitrogen contained Rhodium Nanosheet Catalysts for Efficient Hydrazine Oxidation Reaction'
+  volume: 343
+  issue:
+  page: "123561"
+  year: 2024
+  author:
+  - given:
+    given_initial: J#
+    family: Shi
+  - given:
+    given_initial: QT#
+    family: Sun
+  - given:
+    given_initial: JX
+    family: Chen
+  - given:
+    given_initial: WX
+    family: Zhu
+  - given:
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: MJ
+    family: Ma
+  - given:
+    given_initial: ZL
+    family: Fan
+    role: corr
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given:
+    given_initial: F
+    family: Liao
+    role: corr
+  - given:
+    given_initial: MW
+    family: Shao
+    role: corr
+  - given:
+    given_initial: ZH
+    family: Kang
+    role: corr
+  journal:
+    abbreviation: Appl. Catal. B
+  URL: https://doi.org/10.1016/j.apcatb.2023.123561
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+- title: 'Layered Quasi-Nevskite Metastable-Phase Cobalt Oxide Accelerates Alkaline Oxygen Evolution Reaction Kinetics'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: ZL#
+    family: Fan
+  - given:
+    given_initial: QT#
+    family: Sun
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: WX
+    family: Zhu
+  - given:
+    given_initial: F
+    family: Liao
+  - given:
+    given_initial: Q
+    family: Shao
+  - given:
+    given_initial: TY
+    family: Zhang
+  - given:
+    given_initial: H
+    family: Huang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given:
+    given_initial: MW
+    family: Shao
+    role: corr
+  - given:
+    given_initial: MH
+    family: Shao
+    role: corr
+  - given:
+    given_initial: ZH
+    family: Kang
+    role: corr
+  journal:
+    abbreviation: ACS Nano
+  URL: https://doi.org/10.1021/acsnano.3c11199
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
