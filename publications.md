@@ -62,7 +62,7 @@ permalink: /publications/
 ## <a name="2024"></a>2024
 
 <div class='panel-pub'>
-<ol start='162' reversed>
+<ol start='161' reversed>
 {% for article in site.data.pub-2024 %}
     <li>
     <div class="title">
@@ -105,7 +105,7 @@ permalink: /publications/
 ## <a name="2023"></a>2023
 
 <div class='panel-pub'>
-<ol start='160' reversed>
+<ol start='159' reversed>
 {% for article in site.data.pub-2023 %}
     <li>
     <div class="title">
@@ -148,7 +148,7 @@ permalink: /publications/
 ## <a name="2022"></a>2022
 
 <div class='panel-pub'>
-<ol start='134' reversed>
+<ol start='133' reversed>
 {% for article in site.data.pub-2022 %}
     <li>
     <div class="title">
@@ -191,7 +191,7 @@ permalink: /publications/
 ## <a name="2021"></a>2021
 
 <div class='panel-pub'>
-<ol start='105' reversed>
+<ol start='104' reversed>
 {% for article in site.data.pub-2021 %}
     <li>
     <div class="title">
@@ -234,7 +234,7 @@ permalink: /publications/
 ## <a name="2020"></a>2020
 
 <div class='panel-pub'>
-<ol start='76' reversed>
+<ol start='75' reversed>
 {% for article in site.data.pub-2020 %}
     <li>
     <div class="title">
@@ -277,7 +277,7 @@ permalink: /publications/
 ## <a name="2019"></a>2019
 
 <div class='panel-pub'>
-<ol start='62' reversed>
+<ol start='61' reversed>
 {% for article in site.data.pub-2019 %}
     <li>
     <div class="title">
@@ -320,7 +320,7 @@ permalink: /publications/
 ## <a name="2018"></a>2018
 
 <div class='panel-pub'>
-<ol start='48' reversed>
+<ol start='47' reversed>
 {% for article in site.data.pub-2018 %}
     <li>
     <div class="title">
