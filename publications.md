@@ -63,7 +63,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='188' reversed>
-{% for article in site.data.journal-2023 %}
+{% for article in site.data.pub-2023 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
@@ -106,7 +106,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='153' reversed>
-{% for article in site.data.journal-2022 %}
+{% for article in site.data.pub-2022 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
@@ -149,7 +149,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='129' reversed>
-{% for article in site.data.journal-2021 %}
+{% for article in site.data.pub-2021 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
@@ -192,7 +192,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='84' reversed>
-{% for article in site.data.journal-2020 %}
+{% for article in site.data.pub-2020 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
@@ -235,7 +235,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='64' reversed>
-{% for article in site.data.journal-2019 %}
+{% for article in site.data.pub-2019 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
@@ -278,7 +278,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='51' reversed>
-{% for article in site.data.journal-2018 %}
+{% for article in site.data.pub-2018 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
@@ -321,7 +321,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='36' reversed>
-{% for article in site.data.journal-2017 %}
+{% for article in site.data.pub-2017 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
@@ -364,7 +364,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='21' reversed>
-{% for article in site.data.journal-2016 %}
+{% for article in site.data.pub-2016 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
@@ -407,7 +407,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='17' reversed>
-{% for article in site.data.journal-2015 %}
+{% for article in site.data.pub-2015 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
@@ -450,7 +450,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='10' reversed>
-{% for article in site.data.journal-2014 %}
+{% for article in site.data.pub-2014 %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
@@ -493,7 +493,7 @@ permalink: /publications/
 
 <div class='panel-pub'>
 <ol start='6' reversed>
-{% for article in site.data.journal-2014-b %}
+{% for article in site.data.pub-2014-b %}
     <li>
     <div class="title">
     <span class="title">{{ article.title }}</span>
