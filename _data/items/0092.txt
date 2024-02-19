@@ -1,34 +1,35 @@
-- title: 'Approaching 100% Selectivity for Electrochemical CO2 Reduction to CO at Low Potential on Ag Using a Surface Additive'
+- title: 'Approaching 100% Selectivity at Low Potential on Ag for Electrochemical CO2 Reduction to CO Using a Surface Additive'
   volume: 11
   issue: 
-  page: "9034"
+  page: "9034-9042"
   year: 2021
   author:
   - given:
-    given_initial: A
+    given_initial: A#
     family: Buckley
   - given:
-    given_initial: T
+    given_initial: T#
     family: Cheng
     role: main
   - given:
     given_initial: MH
     family: Oh
   - given:
-    given_initial: G
+    given_initial: GM
     family: Su
   - given:
     given_initial: J
     family: Garrison
   - given:
-    given_initial: S
+    given_initial: SW
     family: Utan
   - given:
     given_initial: CH
     family: Zhu
   - given:
-    given_initial: DF
+    given_initial: FD
     family: Toste
+    role: corr
   - given:
     given_initial: WA
     family: Goddard III

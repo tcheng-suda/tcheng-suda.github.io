@@ -35,6 +35,7 @@
   - given:
     given_initial: JM
     family: Sun
+    role: corr
   - given:
     given_initial: T
     family: Cheng

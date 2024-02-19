@@ -1,4 +1,4 @@
-- title: 'First Principles Based Multiscale Atomistic Methods for Input into First Principles Non-equilibrium Transport Across Interfaces'
+- title: 'First principles-based multiscale atomistic methods for input into first principles nonequilibrium transport across interfaces'
   volume: 116 
   issue:
   page: "18193-18201"

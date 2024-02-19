@@ -5,10 +5,10 @@
   year: 2020
   author:
   - given:
-    given_initial: YG
+    given_initial: YG#
     family: Feng
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
     given_initial: Y

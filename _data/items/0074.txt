@@ -5,10 +5,10 @@
   year: 2020
   author:
   - given:
-    given_initial: XC
+    given_initial: XC#
     family: Wang
   - given:
-    given_initial: M
+    given_initial: M#
     family: Xie
   - given:
     given_initial: FL
@@ -16,10 +16,10 @@
     role: corr 
   - given:
     given_initial: YM
-    family: Y
+    family: Yiu
   - given:
     given_initial: ZQ
-    family: W
+    family: Wang
   - given:
     given_initial: JT
     family: Chen

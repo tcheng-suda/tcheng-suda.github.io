@@ -5,13 +5,13 @@
   year: 2022
   author:
   - given:
-    given_initial: XT
+    given_initial: XT#
     family: Li
   - given:
-    given_initial: Q
+    given_initial: Q#
     family: Liu
   - given:
-    given_initial: JH
+    given_initial: JH#
     family: Wang
   - given:
     given_initial: DC

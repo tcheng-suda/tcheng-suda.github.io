@@ -5,16 +5,16 @@
   year: 2022
   author:
   - given:
-    given_initial: YL
+    given_initial: YL#
     family: Jie
   - given:
-    given_initial: YL
+    given_initial: YL#
     family: Xu
   - given:
-    given_initial: YW
+    given_initial: YW#
     family: Chen
   - given:
-    given_initial: M
+    given_initial: M#
     family: Xie
   - given:
     given_initial: Y
@@ -23,11 +23,11 @@
     given_initial: FY
     family: Huang
   - given:
-    given_initial: ZW
-    family: L
-  - given:
     given_initial: Z
     family: Kochovski
+  - given:
+    given_initial: ZW
+    family: Lei
   - given:
     given_initial: L
     family: Zheng
@@ -56,6 +56,12 @@
     given_initial: YZ
     family: You
   - given:
+    given_initial: XD
+    family: Ren
+  - given:
+    given_initial: WA
+    family: Goddard
+  - given:
     given_initial: RG
     family: Cao
   - given:
@@ -74,9 +80,6 @@
     given_initial: SH
     family: Jiao
     role: corr
-  - given:
-    given_initial: WA
-    family: Goddard
   journal:
     abbreviation: Cell Reports Physical Science 
   URL: https://doi.org/10.1016/j.xcrp.2022.101057 

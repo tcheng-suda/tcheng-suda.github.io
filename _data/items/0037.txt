@@ -5,7 +5,7 @@
   year: 2018
   author:
   - given:
-    given_initial: T
+    given_initial: TT
     family: Zhou
   - given:
     given_initial: SV

@@ -1,0 +1,45 @@
+- title: 'Recent Progress and Future Development Prospects toward Polymer-Based Solid-State Electrolytes in High-Energy-Density Lithium-Metal Batteries'
+  volume:
+  issue:
+  page: ""
+  year: 2024
+  author:
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: TX
+    family: Yina
+  - given:
+    given_initial: XW
+    family: Gu
+  - given:
+    given_initial: JR
+    family: Zhu
+  - given:
+    given_initial: JY
+    family: Li
+  - given:
+    given_initial: S
+    family: Feng
+  - given:
+    given_initial: YQ
+    family: Liao
+  - given:
+    given_initial: XX
+    family: Ma
+  - given:
+    given_initial: HJ
+    family: Qian
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+

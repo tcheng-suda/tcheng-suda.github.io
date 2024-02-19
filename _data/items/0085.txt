@@ -1,4 +1,4 @@
-- title: 'Selective CO2 Electrochemical Reduction Enabled by a Tri-component Copolymer Modifier on a Copper Surface'
+- title: 'Selective CO2 Electrochemical Reduction Enabled by a Tricomponent Copolymer Modifier on a Copper Surface'
   volume: 143
   issue: 
   page: "2857–2865"
@@ -14,6 +14,9 @@
   - given:
     given_initial: AQ
     family: Fenwick
+  - given:
+    given_initial: TN
+    family: Baroud
   - given:
     given_initial: A
     family: Rosas-Hernández

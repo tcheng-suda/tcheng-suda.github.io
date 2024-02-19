@@ -5,10 +5,10 @@
   year: 2024
   author:
   - given:
-    given_initial: J
+    given_initial: J#
     family: Shi
   - given:
-    given_initial: QT
+    given_initial: QT#
     family: Sun
   - given:
     given_initial: JX
@@ -19,6 +19,7 @@
   - given:
     given_initial: T
     family: Cheng
+    role: main
   - given:
     given_initial: MJ
     family: Ma

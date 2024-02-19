@@ -1,7 +1,7 @@
 - title: 'Atomistic Explanation of the Dramatically Improved Oxygen Reduction Reaction of Jagged Platinum Nanowires, 50 times better than Pt'
   volume: 142
   issue: 19
-  page: "8625"
+  page: "8625-8632"
   year: 2020
   author:
   - given:

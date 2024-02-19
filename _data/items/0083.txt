@@ -5,13 +5,13 @@
   year: 2021
   author:
   - given:
-    given_initial: PT
+    given_initial: PT#
     family: Wang
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
-    given_initial: Y
+    given_initial: Y#
     family: Xu
   - given:
     given_initial: XQ

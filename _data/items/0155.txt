@@ -1,14 +1,14 @@
-- title: 'Stable and oxidative charged Ru enhance the oxygen evolution reaction activity in two-dimensional ruthenium-iridium oxide'
+- title: 'Stable and oxidative charged Ru enhance the acidic oxygen evolution reaction activity in two-dimensional ruthenium-iridium oxide'
   volume: 14
   issue:
   page: "5365"
   year: 2023
   author:
   - given:
-    given_initial: WX
+    given_initial: WX#
     family: Zhu
   - given:
-    given_initial: XC
+    given_initial: XC#
     family: Song
   - given:
     given_initial: F
@@ -16,6 +16,9 @@
   - given:
     given_initial: H
     family: Huang
+  - given:
+    given_initial: K
+    family: Feng
   - given:
     given_initial: Q
     family: Shao
@@ -40,6 +43,9 @@
   - given:
     given_initial: J
     family: Shi
+  - given:
+    given_initial: J
+    family: Zhong
   - given: Tao
     given_initial: T
     family: Cheng

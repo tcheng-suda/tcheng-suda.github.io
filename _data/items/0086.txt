@@ -1,4 +1,4 @@
-- title: 'Auto-bifunctional Mechanism of Jagged Pt Nanowire for Hydrogen Evolution Kinetics via End-to-End In Situ Simulation'
+- title: 'Autobifunctional Mechanism of Jagged Pt Nanowires for Hydrogen Evolution Kinetics via End-to-End Simulation'
   volume: 143
   issue: 
   page: "5355–5363"
@@ -8,7 +8,7 @@
     given_initial: GH
     family: Gu
   - given:
-    given_initial: JH
+    given_initial: J
     family: Lim
   - given:
     given_initial: CZ

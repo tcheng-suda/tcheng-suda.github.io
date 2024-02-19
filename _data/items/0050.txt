@@ -1,4 +1,4 @@
-- title: 'Highly Active Star Decahedron Cu Nanocatalyst for Hydrocarbon Production at Low Overpotentials'
+- title: 'A Highly Active Star Decahedron Cu Nanocatalyst for Hydrocarbon Production at Low Overpotentials'
   volume: 31   
   issue:
   page: "1805405"

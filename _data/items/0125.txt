@@ -1,17 +1,17 @@
-- title: 'Single-site Pt doped RuO2 hollow nanospheres with interstitial C for high-performance acidic overall water splitting'
+- title: 'Single-site Pt-doped RuO2 hollow nanospheres with interstitial C for high-performance acidic overall water splitting'
   volume: 8
   issue: 9
   page: "eabl9271"
   year: 2022
   author:
   - given:
-    given_initial: J
+    given_initial: J#
     family: Wang
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
-    given_initial: F
+    given_initial: F#
     family: Li
   - given:
     given_initial: LG

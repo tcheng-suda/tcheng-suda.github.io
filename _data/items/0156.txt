@@ -5,13 +5,13 @@
   year: 2023
   author:
   - given:
-    given_initial: MF
+    given_initial: MF#
     family: Li
   - given:
-    given_initial: CM
+    given_initial: CM#
     family: Huang
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
     given_initial: Y

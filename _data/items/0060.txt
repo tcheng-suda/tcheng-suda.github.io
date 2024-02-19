@@ -1,17 +1,17 @@
 - title: 'Weakening Hydrogen Adsorption on Nickel via Interstitial Nitrogen Doping Promotes Bifunctional Hydrogen Electrocatalysis in Alkaline Solution'
   volume: 12
   issue: 
-  page: "3522"
+  page: "3522-3529"
   year: 2019
   author:
   - given:
-    given_initial: TT
+    given_initial: TT#
     family: Wang
   - given:
-    given_initial: M
+    given_initial: M#
     family: Wang
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
     given_initial: MQ

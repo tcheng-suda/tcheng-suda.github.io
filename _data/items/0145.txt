@@ -5,10 +5,10 @@
   year: 2023
   author:
   - given:
-    given_initial: YT
+    given_initial: YT#
     family: Dong
   - given:
-    given_initial: QT
+    given_initial: QT#
     family: Sun
   - given:
     given_initial: CH

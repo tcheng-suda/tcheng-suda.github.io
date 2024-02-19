@@ -13,6 +13,7 @@
   - given: Tao
     given_initial: T
     family: Cheng
+    role: main
   - given:
     given_initial: LC
     family: Liu

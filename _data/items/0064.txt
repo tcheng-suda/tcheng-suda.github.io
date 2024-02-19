@@ -1,14 +1,14 @@
 - title: 'Customizable Ligand Exchange for Tailored Surface Property of Noble Metal Nanocrystals'
-  volume: 
+  volume: 2020 
   issue: 
   page: "2131806"
   year: 2020
   author:
   - given:
-    given_initial: QK
+    given_initial: QK#
     family: Fan
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
     given_initial: J

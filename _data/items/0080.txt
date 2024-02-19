@@ -5,10 +5,10 @@
   year: 2021
   author:
   - given:
-    given_initial: JH
+    given_initial: JH#
     family: Wang
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
     given_initial: QQ

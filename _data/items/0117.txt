@@ -5,10 +5,10 @@
   year: 2022
   author:
   - given:
-    given_initial: JJ
+    given_initial: JJ#
     family: Yang
   - given:
-    given_initial: L
+    given_initial: L#
     family: Xu
   - given:
     given_initial: WX

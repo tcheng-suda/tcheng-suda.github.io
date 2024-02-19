@@ -1,17 +1,17 @@
 - title: 'Unveiling the Local Structure and Electronic Properties of PdBi Surface Alloy for Selective Hydrogenation of Propyne'
   volume: 16
   issue:
-  page: "16869"
+  page: "16869-16879"
   year: 2022
   author:
   - given:
-    given_initial: XC
+    given_initial: XC#
     family: Wang
   - given:
-    given_initial: MY
+    given_initial: MY#
     family: Chu
   - given:
-    given_initial: MW
+    given_initial: MW#
     family: Wang
   - given:
     given_initial: QX
@@ -33,14 +33,17 @@
     family: Cheng
     role: main
   - given:
-    given_initial: Q
-    family: Zhang
-  - given:
     given_initial: JX
     family: Chen
+    role: corr
   - given:
     given_initial: TK
     family: Sham
+    role: corr
+  - given:
+    given_initial: Q
+    family: Zhang
+    role: corr
   journal:
     abbreviation: ACS Nano
   URL: https://doi.org/10.1021/acsnano.2c06834

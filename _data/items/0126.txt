@@ -5,28 +5,28 @@
   year: 2022
   author:
   - given:
-    given_initial: Yue
+    given_initial: Y
     family: Liu
   - given:
-    given_initial: Yu
+    given_initial: Y
     family: Wu
   - given:
-    given_initial: Qintao
+    given_initial: QT
     family: Sun
   - given:
-    given_initial: Bingyun
+    given_initial: BY
     family: Ma
   - given:
-    given_initial: Peiping
+    given_initial: PP
     family: Yu
   - given:
-    given_initial: Liang
+    given_initial: L
     family: Xu
   - given:
-    given_initial: Miao
+    given_initial: M
     family: Xie
   - given:
-    given_initial: Hao
+    given_initial: H
     family: Yang
   - given: Tao
     given_initial: T

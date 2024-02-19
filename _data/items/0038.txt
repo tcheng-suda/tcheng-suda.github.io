@@ -1,4 +1,5 @@
-- title: 'Pb-activated Amine-assisted Photocatalytic Hydrogen Evolution Reaction on Organic-Inorganic Perovskites'
+- title: 'Pb-Activated Amine-Assisted Photocatalytic Hydrogen Evolution
+Reaction on Organic–Inorganic Perovskites'
   volume: 140
   issue: 6
   page: '1994–1997'

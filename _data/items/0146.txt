@@ -17,15 +17,14 @@
     given_initial: SM
     family: Zhang
   - given:
+    given_initial: BY
+    family: Ma
+  - given:
     given_initial: QY
     family: Liu
   - given:
     given_initial: Y
     family: Liu
-  - given: Tao
-    given_initial: T
-    family: Cheng
-    role: main
   - given:
     given_initial: CX
     family: Peng
@@ -33,17 +32,30 @@
     given_initial: HX
     family: Chen
   - given:
-    given_initial: YJ
-    family: Li
+    given_initial: HL
+    family: Yu
+  - given:
+    given_initial: XL
+    family: Fan
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
   - given:
     given_initial: LQ
     family: Chen
   - given:
+    given_initial: YJ
+    family: Li
+    role: corr
+  - given:
     given_initial: ZX
     family: Wang
+    role: corr
   - given:
     given_initial: XF
     family: Wang
+    role: corr
   journal:
     abbreviation: Nat. Commun.
   URL: https://www.nature.com/articles/s41467-023-40221-0

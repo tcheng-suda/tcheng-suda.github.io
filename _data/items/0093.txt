@@ -1,4 +1,4 @@
-- title: 'Insight of the pH-dependent Behavior of N Doped Carbon for Oxygen Reduction Reaction by First-principles Calculations'
+- title: 'Insights into the pH-dependent Behavior of N-Doped Carbons for the Oxygen Reduction Reaction by First-Principles Calculations'
   volume: 125
   issue: 48
   page: "26429–26436"

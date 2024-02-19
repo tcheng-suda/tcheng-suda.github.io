@@ -5,10 +5,10 @@
   year: 2022
   author:
   - given:
-    given_initial: KC
+    given_initial: KC#
     family: Wang
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
     given_initial: JT

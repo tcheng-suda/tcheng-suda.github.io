@@ -5,17 +5,20 @@
   year: 2020
   author:
   - given:
-    given_initial: M
-    family: Espinosa
+    given_initial: MM
+    family: Flores Espinosa
   - given:
     given_initial: T
     family: Cheng
     role: main
   - given:
+    given_initial: MJ
+    family: Xu
+  - given:
     given_initial: L
     family: Abatemarco
   - given:
-    given_initial: CS
+    given_initial: C
     family: Choi
   - given:
     given_initial: XQ

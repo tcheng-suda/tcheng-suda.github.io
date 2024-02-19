@@ -26,9 +26,6 @@
   - given:
     given_initial: DJ
     family: Milliron
-  - given:
-    given_initial: AJ
-    family: Colussi
   - given: William A
     given_initial: WA
     family: Goddard

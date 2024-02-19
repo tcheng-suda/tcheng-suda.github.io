@@ -1,7 +1,7 @@
-- title: 'Design of a One-Dimensional Stacked Spin Peierls System with Room Temperature Switching from QM Predictions'
+- title: 'Design of a One-Dimensional Stacked Spin Peierls System with Room-Temperature Switching from Quantum Mechanical Predictions'
   volume: 10
   issue: 21
-  page: "6432"
+  page: "6432-6437"
   year: 2019
   author:
   - given:

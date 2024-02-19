@@ -1,14 +1,14 @@
-- title: 'Multiscale Simulation of Solid Electrolyte Interface Formation in Fluorinated Diluted Electrolyte with Lithium Anode'
+- title: 'Multiscale Simulation of Solid Electrolyte Interface Formation in Fluorinated Diluted Electrolytes with Lithium Anodes'
   volume: 14
   issue: 
   page: "7972–7979"
   year: 2022
   author:
   - given:
-    given_initial: PP
+    given_initial: PP#
     family: Yu
   - given:
-    given_initial: QT
+    given_initial: QT#
     family: Sun
   - given:
     given_initial: Y

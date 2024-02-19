@@ -11,8 +11,9 @@
     given_initial: PP
     family: Yu
   - given:
-    given_initial: Tao
-    family: cheng
+    given_initial: T
+    family: Cheng
+    role: main
   - given:
     given_initial: BJ
     family: Xu

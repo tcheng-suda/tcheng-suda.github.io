@@ -8,17 +8,13 @@
     given_initial: T
     family: Cheng
     role: main
-  - given: William A
-    given_initial: WA
-    family: Goddard
-    role: corr
-  - given: William A
-    given_initial: WA
-    family: Goddard
-    role: corr
   - given:
     given_initial: A
     family: Jaramillo-Botero
+    role: corr
+  - given: William A
+    given_initial: WA
+    family: Goddard
     role: corr
   - given:
     given_initial: H

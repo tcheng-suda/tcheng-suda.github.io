@@ -24,7 +24,7 @@
     family: Ye
   - given:
     given_initial: WA
-    family: Goddard III
+    family: Goddard
     role: corr
   - given:
     given_initial: T

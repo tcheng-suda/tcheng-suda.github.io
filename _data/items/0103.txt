@@ -1,4 +1,4 @@
-- title: 'Reaction Mechanism on Sulphur Doped Ni Single-Atom Catalysis for CO2 Reduction Reaction'
+- title: 'Reaction mechanism on Ni-C2-NS single-atom catalysis for the efficient CO2 reduction reaction'
   volume: 16
   issue: 1
   page: "256-265"
@@ -10,6 +10,7 @@
   - given:
     given_initial: YY
     family: Li
+    role: corr
   - given:
     given_initial: PP
     family: Yu

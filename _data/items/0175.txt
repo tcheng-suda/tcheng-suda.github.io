@@ -1,14 +1,14 @@
-- title: 'Layered Quasi-Nevskite Metastable-Phase Cobalt Oxide: A New Structure Accelerating Alkaline Oxygen Evolution Reaction'
+- title: 'Layered Quasi-Nevskite Metastable-Phase Cobalt Oxide Accelerates Alkaline Oxygen Evolution Reaction Kinetics'
   volume:
   issue:
-  page: ""
-  year: 2023
+  page: "ASAP"
+  year: 2024
   author:
   - given:
-    given_initial: ZL
+    given_initial: ZL#
     family: Fan
   - given:
-    given_initial: QT
+    given_initial: QT#
     family: Sun
   - given:
     given_initial: H
@@ -33,10 +33,6 @@
     family: Cheng
     role: main
   - given:
-    given_initial: MH
-    family: Shao
-    role: corr
-  - given:
     given_initial: Y
     family: Liu
     role: corr
@@ -45,13 +41,17 @@
     family: Shao
     role: corr
   - given:
+    given_initial: MH
+    family: Shao
+    role: corr
+  - given:
     given_initial: ZH
     family: Kang
     role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: ACS Nano
+  URL: https://doi.org/10.1021/acsnano.3c11199
   type: article
-  DOI:
+  DOI: 
   fulltext:
   language: english

@@ -14,6 +14,9 @@
     given_initial: T
     family: Cheng
     role: main
+  - given: 
+    given_initial: LW
+    family: Wang
   - given:
     given_initial: WA
     family: Goddard

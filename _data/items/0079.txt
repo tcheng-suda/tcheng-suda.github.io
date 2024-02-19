@@ -17,11 +17,11 @@
     given_initial: XM
     family: Li
   - given:
-    given_initial: I
-    family: Asma
+    given_initial: A
+    family: Iqbal
   - given:
-    given_initial: S
-    family: George
+    given_initial: GE
+    family: Sterbinsky
   - given:
     given_initial: H
     family: Yang
@@ -29,18 +29,13 @@
     given_initial: M
     family: Xie
   - given:
-    given_initial: JJ
-    family: Guo
-  - given:
     given_initial: JT
     family: Zai
     role: corr
   - given:
     given_initial: ZX
     family: Feng
-  - given:
-    given_initial: JJ
-    family: Guo
+    role: corr
   - given:
     given_initial: T
     family: Cheng
@@ -48,7 +43,6 @@
   - given:
     given_initial: XF
     family: Qian
-    role: corr
   journal:
     abbreviation: Chin. J. Chem.
   URL: https://doi.org/10.1002/cjoc.202000675

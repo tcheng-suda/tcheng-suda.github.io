@@ -15,6 +15,9 @@
   - given:
     given_initial: AJ
     family: Colussi
+  - given:
+    given_initial: BV
+    family: Merinov 
   - given: William A
     given_initial: WA
     family: Goddard

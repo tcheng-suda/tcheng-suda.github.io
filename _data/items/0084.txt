@@ -1,7 +1,7 @@
-- title: 'Tri-fluorinated Keto-Enol Tautomeric Switch in Probing Domain Rotation of a G Protein-Coupled Receptor'
+- title: 'Trifluorinated Keto–Enol Tautomeric Switch in Probing Domain Rotation of a G Protein-Coupled Receptor'
   volume: 32
   issue: 
-  page: "99"
+  page: "99-105"
   year: 2021
   author:
   - given:
@@ -11,8 +11,8 @@
     given_initial: WJ
     family: Zhao
   - given:
-    given_initial: AM
-    family: Sameer
+    given_initial: S
+    family: Al-Abdul-Wahid
   - given:
     given_initial: YM
     family: Lu
@@ -21,8 +21,8 @@
     family: Cheng
     role: main
   - given:
-    given_initial: M
-    family: Jesper
+    given_initial: JJ
+    family: Madsen
   - given:
     given_initial: LB
     family: Ye

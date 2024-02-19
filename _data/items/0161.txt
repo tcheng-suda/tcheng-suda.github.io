@@ -1,4 +1,4 @@
-- title: 'Regulating Inner Helmholtz Plane with A Small Addition of High Donor Additive for Efficient Zn Anode Reversibility'
+- title: 'Regulating the Inner Helmholtz Plane with a High Donor Additive for Efficient Anode Reversibility in Aqueous Zn-Ion Batteries'
   volume: 62
   issue: 21
   page: "e202302302"

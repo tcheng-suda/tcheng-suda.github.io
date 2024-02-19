@@ -5,7 +5,7 @@
   year: 2021
   author:
   - given:
-    given_initial: D
+    given_initial: MD
     family: Hossain
   - given:
     given_initial: Q

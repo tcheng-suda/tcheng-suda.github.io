@@ -1,23 +1,23 @@
-- title: 'Harmonizing Graphene Laminate Spacing and Zn-ion Solvated Structure toward Efficient Compact Capacitive Charge Storage'
+- title: 'Harmonizing Graphene Laminate Spacing and Zinc-Ion Solvated Structure toward Efficient Compact Capacitive Charge Storage'
   volume: 32
   issue: 20
   page: "2112151"
   year: 2022
   author:
   - given:
-    given_initial: JR
+    given_initial: JR#
     family: Luo
   - given:
-    given_initial: L
+    given_initial: L#
     family: Xu
-  - given:
-    given_initial: Q
-    family: Wang
   - given:
     given_initial: HM
     family: Liu
   - given:
     given_initial: YS
+    family: Wang
+  - given:
+    given_initial: Q
     family: Wang
   - given:
     given_initial: YY

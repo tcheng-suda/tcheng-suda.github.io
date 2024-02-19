@@ -5,10 +5,10 @@
   year: 2017
   author:
   - given:
-    given_initial: M
+    given_initial: M#
     family: Favaro
   - given:
-    given_initial: H
+    given_initial: H#
     family: Xiao
   - given: Tao
     given_initial: T

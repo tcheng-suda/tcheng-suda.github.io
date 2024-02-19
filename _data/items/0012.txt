@@ -15,11 +15,14 @@
     family: Cheng
     role: main
   - given:
-    given_initial: ZV
+    given_initial: SV
     family: Zybin
   - given:
     given_initial: S
     family: Naserifar
+  - given:
+    given_initial: XH
+    family: Ju
   - given: William A
     given_initial: WA
     family: Goddard

@@ -21,6 +21,9 @@
     given_initial: P
     family: Tieu
   - given:
+    given_initial: C
+    family: Lee
+  - given:
     given_initial: J
     family: Cai
   - given:

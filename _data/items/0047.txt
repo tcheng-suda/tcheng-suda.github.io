@@ -1,4 +1,4 @@
-- title: 'The Neighboring Component Effect in a Tristable [2]Rotaxane'
+- title: 'Neighboring Component Effect in a Tri-stable [2]Rotaxane'
   volume: 140
   issue: 42
   page: "13827–13834"

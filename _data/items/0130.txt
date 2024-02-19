@@ -1,4 +1,4 @@
-- title: 'Stimulating the pre-catalyst redox reaction and proton-electron transfer process of cobalt phthalocyanine for CO2 electroreduction'
+- title: 'Stimulating the Pre-Catalyst Redox Reaction and the Proton–Electron Transfer Process of Cobalt Phthalocyanine for CO2 Electroreduction'
   volume: 126
   issue: 23
   page: "9665–9672"
@@ -10,7 +10,9 @@
   - given:
     given_initial: J
     family: Wei
-    role: corr
+  - given:
+    given_initial: XY
+    family: Zhu
   - given:
     given_initial: L
     family: Gan

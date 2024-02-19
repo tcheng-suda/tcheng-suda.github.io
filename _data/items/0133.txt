@@ -1,17 +1,17 @@
 - title: 'Origin of the exceptional selectivity of NaA zeolite for the radioactive isotope of 90Sr2+'
   volume: 9
   issue:
-  page: "6258"
+  page: "6258-6270"
   year: 2022
   author:
   - given:
-    given_initial: WF
+    given_initial: WF#
     family: Hao
   - given:
-    given_initial: NN
+    given_initial: NN#
     family: Yan
   - given:
-    given_initial: M
+    given_initial: M#
     family: Xie
   - given:
     given_initial: XJ
@@ -22,13 +22,13 @@
   - given:
     given_initial: P
     family: Bai
+  - given:
+    given_initial: P
+    family: Guo
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
-    given_initial: P
-    family: Guo
   - given:
     given_initial: WF
     family: Yan

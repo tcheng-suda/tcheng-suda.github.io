@@ -1,17 +1,17 @@
-- title: 'Synergy between Silver-Copper Surface Alloy Composition and Carbon Dioxide Adsorption and Activation'
+- title: 'Synergy between a Silver–Copper Surface Alloy Composition and Carbon Dioxide Adsorption and Activation'
   volume: 12
   issue: 
   page: "25374–25382"
   year: 2020
   author:
   - given:
-    given_initial: YF
+    given_initial: YF#
     family: Ye
   - given:
-    given_initial: J
+    given_initial: J#
     family: Qian
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
     given_initial: HY

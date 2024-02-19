@@ -5,13 +5,13 @@
   year: 2022
   author:
   - given:
-    given_initial: X
-    family: Zhang
-  - given:
-    given_initial: M
+    given_initial: XL#
     family: Xie
   - given:
-    given_initial: XL
+    given_initial: X#
+    family: Zhang
+  - given:
+    given_initial: M#
     family: Xie
   - given:
     given_initial: LK

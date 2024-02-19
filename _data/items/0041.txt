@@ -21,9 +21,9 @@
     given_initial: ZH
     family: Jiang
   - given: Tao
-    given_initial: T*
+    given_initial: T
     family: Cheng
-    role: main
+    role: main, corr
   - given:
     given_initial: WA
     family: Goddard

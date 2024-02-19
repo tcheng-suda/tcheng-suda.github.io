@@ -5,14 +5,11 @@
   year: 2022
   author:
   - given:
-    given_initial: PT
+    given_initial: PT#
     family: Wang
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
-  - given:
-    given_initial: Y
-    family: Cheng
   - given:
     given_initial: C
     family: Tang

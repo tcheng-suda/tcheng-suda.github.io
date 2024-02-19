@@ -1,4 +1,4 @@
-- title: 'First Principles Based Reaction Kinetics from Reactive Molecular Dynamics Simulations: Application to Hydrogen Peroxide Decomposition'
+- title: 'First-principles–based reaction kinetics from reactive molecular dynamics simulations: Application to hydrogen peroxide decomposition'
   volume: 116 
   issue:
   page: "18202-18208"

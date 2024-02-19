@@ -5,13 +5,13 @@
   year: 2023
   author:
   - given:
-    given_initial: YW
+    given_initial: YW#
     family: Chen
   - given:
-    given_initial: MH
+    given_initial: MH#
     family: Li
   - given:
-    given_initial: Y
+    given_initial: Y#
     family: Liu
   - given:
     given_initial: YL
@@ -37,10 +37,6 @@
   - given:
     given_initial: XH
     family: Meng
-  - given:
-    given_initial: RG
-    family: Cao
-    role: corr
   - given: Tao
     given_initial: T
     family: Cheng
@@ -52,6 +48,10 @@
   - given:
     given_initial: SH
     family: Jiao
+    role: corr
+  - given:
+    given_initial: RG
+    family: Cao
     role: corr
   journal:
     abbreviation: Nat. Commun.

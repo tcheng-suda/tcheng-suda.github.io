@@ -5,13 +5,13 @@
   year: 2019
   author:
   - given:
-    given_initial: M
+    given_initial: M#
     family: Jouny
   - given:
-    given_initial: JJ
+    given_initial: JJ#
     family: Lv
   - given:
-    given_initial: T
+    given_initial: T#
     family: Cheng
     role: main
   - given:

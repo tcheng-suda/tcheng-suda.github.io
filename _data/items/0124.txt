@@ -1,4 +1,4 @@
-- title: 'TiH2 quantum dots exfoliated via facile sonication as bifunctional electrocatalysts for Li-S batteries'
+- title: 'TiH2 Nanodots Exfoliated via Facile Sonication as Bifunctional Electrocatalysts for Li–S Batteries'
   volume: 14
   issue: 
   page: "6937–6944"
@@ -16,6 +16,9 @@
   - given:
     given_initial: C
     family: Cheng
+  - given:
+    given_initial: H
+    family: Yang
   - given:
     given_initial: J
     family: Mao

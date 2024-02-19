@@ -1,0 +1,45 @@
+- title: 'Electrochemically activated Rh-O-Ni interfacial sites at Rh-Ni,P electrocatalyst for efficient alkaline hydrogen evolution reaction'
+  volume:
+  issue:
+  page: ""
+  year: 2024
+  author:
+  - given:
+    given_initial: C
+    family: Peng
+  - given:
+    given_initial: JY
+    family: Li
+  - given:
+    given_initial: LX
+    family: Shi
+  - given:
+    given_initial: MY
+    family: Wang
+  - given:
+    given_initial: WH
+    family: Wang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: PZ
+    family: Yang
+    role: corr
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given:
+    given_initial: KL
+    family: Wu
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+

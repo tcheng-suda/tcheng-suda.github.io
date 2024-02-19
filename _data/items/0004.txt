@@ -4,15 +4,18 @@
   page: '190-207'
   year: 2012
   author:
-  - given: Tao
-    given_initial: T
+  - given: 
+    given_initial: T#
     family: Cheng
     role: main
   - given:
-    given_initial: J
+    given_initial: J#
     family: Xu
   - given:
     given_initial: X
+    family: Li
+  - given:
+    given_initial: Y
     family: Li
   - given:
     given_initial: B

@@ -5,13 +5,13 @@
   year: 2020
   author:
   - given:
-    given_initial: SJ
+    given_initial: SJ#
     family: Zou
   - given:
-    given_initial: FM
+    given_initial: FM#
     family: Xie
   - given:
-    given_initial: M
+    given_initial: M#
     family: Xie
   - given:
     given_initial: YQ

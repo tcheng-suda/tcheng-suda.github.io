@@ -1,17 +1,17 @@
 - title: 'A yolk–shell structured metal–organic framework with encapsulated iron-porphyrin and its derived bimetallic nitrogen-doped porous carbon for an efficient oxygen reduction reaction'
   volume: 8
   issue: 19
-  page: "9536"
+  page: "9536-9544"
   year: 2020
   author:
   - given:
-    given_initial: CC
+    given_initial: CC#
     family: Zhang
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
-    given_initial: D
+    given_initial: D#
     family: Zhong
   - given:
     given_initial: Y

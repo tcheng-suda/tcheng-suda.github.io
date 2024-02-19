@@ -1,14 +1,14 @@
 - title: 'Predictions of Chemical Shifts for Reactive Intermediates in CO2 Reduction under operando Conditions'
   volume: 13
   issue: 27
-  page: "31554"
+  page: "31554-31560"
   year: 2021
   author:
   - given:
-    given_initial: Hao
+    given_initial: H#
     family: Yang
   - given:
-    given_initial: F
+    given_initial: FR#
     family: Negreiros
   - given:
     given_initial: QT
@@ -19,6 +19,9 @@
   - given:
     given_initial: L
     family: Sementa
+  - given:
+    given_initial: M
+    family: Stener
   - given:
     given_initial: YF
     family: Ye

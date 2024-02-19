@@ -5,10 +5,10 @@
   year: 2020
   author:
   - given:
-    given_initial: SX
+    given_initial: SX#
     family: Bai
   - given:
-    given_initial: Miao
+    given_initial: M#
     family: Xie
   - given:
     given_initial: T

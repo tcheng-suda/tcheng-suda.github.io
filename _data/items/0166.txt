@@ -21,15 +21,8 @@
     given_initial: QY
     family: Xu
   - given:
-    given_initial: B
-    family: Wang
-  - given:
-    given_initial: YH
-    family: Li
-    role: corr
-  - given:
-    given_initial: XF
-    family: Wang
+    given_initial: YC
+    family: Wu 
   - given: Tao
     given_initial: T
     family: Cheng

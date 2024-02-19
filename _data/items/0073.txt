@@ -14,9 +14,6 @@
     given_initial: YZ
     family: Wen
   - given:
-    given_initial: ZH
-    family: Jiang
-  - given:
     given_initial: HP
     family: Bai
   - given:
@@ -25,9 +22,6 @@
   - given:
     given_initial: CY
     family: Cui
-  - given:
-    given_initial: LN
-    family: Wu
   - given:
     given_initial: SY
     family: Li
@@ -45,6 +39,7 @@
   - given:
     given_initial: HS
     family: Peng
+    role: corr 
   journal:
     abbreviation: Sci. China Mater.
   URL: https://doi.org/10.1007/s40843-020-1440-6

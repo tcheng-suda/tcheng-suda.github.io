@@ -1,7 +1,7 @@
 - title: 'Atomistic Mechanisms for catalytic transformations of NO to NH3, N2O, and N2 by Pd'
-  volume: 94 
+  volume: 36 
   issue: 
-  page: ""
+  page: "94-102"
   year: 2023
   author:
   - given:
@@ -17,13 +17,13 @@
     given_initial: M
     family: Xie
   - given:
-    given_initial: T
-    family: Cheng
-    role: corr, main
-  - given:
     given_initial: WA
     family: Goddard
     role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+    role: corr, main
   journal:
     abbreviation: Chin. J. Chem. Phys
   URL: https://doi.org/10.1063/1674-0068/cjcp2109153 

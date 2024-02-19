@@ -1,4 +1,4 @@
-- title: 'The operation active site of O2 reduction to H2O2 over ZnO'
+- title: 'The operation active sites of O2 reduction to H2O2 over ZnO'
   volume: 16
   issue:
   page: "3526-3533"

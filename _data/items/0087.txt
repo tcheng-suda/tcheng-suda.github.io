@@ -1,7 +1,7 @@
-- title: 'The DFT-ReaxFF Hybrid Molecular Dynamics Method with Application to the Reductive Decomposition Reaction of the TFSI and DOL Electrolyte at the Lithium-Metal Anode Surfaces'
+- title: 'The DFT-ReaxFF Hybrid Reactive Dynamics Method with Application to the Reductive Decomposition Reaction of the TFSI and DOL Electrolyte at a Lithium–Metal Anode Surface'
   volume: 12
   issue: 
-  page: "1300"
+  page: "1300-1306"
   year: 2021
   author:
   - given:
@@ -17,8 +17,8 @@
     given_initial: H
     family: Yang
   - given:
-    given_initial: X
-    family: Miao
+    given_initial: M
+    family: Xie
   - given:
     given_initial: LY
     family: Huai

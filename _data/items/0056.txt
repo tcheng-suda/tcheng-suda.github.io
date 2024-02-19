@@ -5,10 +5,10 @@
   year: 2019
   author:
   - given:
-    given_initial: QG
+    given_initial: QG#
     family: Zhong
   - given:
-    given_initial: YB
+    given_initial: YB#
     family: Hu
   - given:
     given_initial: KF
@@ -17,8 +17,8 @@
     given_initial: HM
     family: Zhang
   - given:
-    given_initial: Y
-    family: Biao
+    given_initial: B
+    family: Yang
   - given:
     given_initial: E
     family: Daniel

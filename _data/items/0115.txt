@@ -1,4 +1,4 @@
-- title: 'In Situ Formation of Circular and Branched Oligomers in Localized High Concentration Electrolyte at Lithium−metal Solid Electrolyte Interphase: A Hybrid ab initio and Reactive Molecular Dynamics'
+- title: 'In situ formation of circular and branched oligomers in a localized high concentration electrolyte at the lithium-metal solid electrolyte interphase: a hybrid ab initio and reactive molecular dynamics study'
   volume: 10
   issue:
   page: "632-639"

@@ -1,14 +1,14 @@
 - title: 'Ultrathin Pt-Cu-Ni Ternary Alloy Nanowires with Multimetallic Interplay for Boosted Methanol Oxidation Activity'
   volume: 4
   issue: 7
-  page: "6824"
+  page: "6824-6832"
   year: 2021
   author:
   - given:
-    given_initial: ZX
+    given_initial: ZX#
     family: Zhang
   - given:
-    given_initial: M
+    given_initial: M#
     family: Xie
   - given:
     given_initial: ZJ

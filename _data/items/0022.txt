@@ -6,10 +6,10 @@
   year: 2017
   author:
   - given: John
-    given_initial: J
+    given_initial: J#
     family: Beatty
   - given: Tao
-    given_initial: T
+    given_initial: T#
     family: Cheng
     role: main
   - given: Yuan
@@ -23,7 +23,7 @@
     family: Goddard
     role: corr
   - given: Jeffry
-    given_initial: J
+    given_initial: JA
     family: Kelber
     role: corr
   journal:

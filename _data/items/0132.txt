@@ -1,20 +1,20 @@
-- title: 'Advanced Characterization and Simulation Methods for Promoting Mechanistic Understanding of Lithium Deposition and Solid-Electrolyte Interphase (SEI) Formation: Recent Progress, Limitations, and Future Perspectives'
+- title: 'Promoting Mechanistic Understanding of Lithium Deposition and Solid-Electrolyte Interphase (SEI) Formation Using Advanced Characterization and Simulation Methods: Recent Progress, Limitations, and Future Perspectives'
   volume: 12
   issue: 19
   page: "2200398"
   year: 2022
   author:
   - given:
-    given_initial: YL
-    family: X
+    given_initial: YL#
+    family: Xu
   - given:
-    given_initial: K
+    given_initial: K#
     family: Dong
   - given:
-    given_initial: YL
-    family: J
+    given_initial: YL#
+    family: Jie
   - given:
-    given_initial: PE
+    given_initial: P
     family: Adelhelm
   - given:
     given_initial: YW
@@ -49,6 +49,7 @@
   - given:
     given_initial: SH
     family: Jiao
+    role: corr
   - given: Tao
     given_initial: T
     family: Cheng

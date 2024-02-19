@@ -1,14 +1,14 @@
-- title: 'Assembling covalent organic framework membranes with superhigh ion exchange capacity'
+- title: 'Assembling covalent organic framework membranes with superior ion exchange capacity'
   volume: 13
   issue: 
   page: "1020"
-  year: 2021
+  year: 2022
   author:
   - given:
-    given_initial: XY
+    given_initial: XY#
     family: Wang
   - given:
-    given_initial: BB
+    given_initial: BB#
     family: Shi
   - given:
     given_initial: H
@@ -31,6 +31,9 @@
   - given:
     given_initial: Z
     family: Zhang
+  - given:
+    given_initial: H
+    family: Wu
   - given:
     given_initial: T
     family: Cheng

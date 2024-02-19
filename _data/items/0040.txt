@@ -5,10 +5,10 @@
   year: 2018
   author:
   - given:
-    given_initial: C
+    given_initial: C#
     family: Ladewig
   - given: Tao
-    given_initial: T
+    given_initial: T#
     family: Cheng
     role: main
   - given:

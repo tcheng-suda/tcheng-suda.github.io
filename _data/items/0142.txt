@@ -5,10 +5,10 @@
   year: 2023
   author:
   - given:
-    given_initial: Lyu
+    given_initial: Lyu#
     family: FL
   - given:
-    given_initial: Ma
+    given_initial: Ma#
     family: BY
   - given:
     given_initial: Xie
@@ -26,7 +26,7 @@
     given_initial: Hua
     family: W
   - given:
-    given_initial: Sun
+    given_initial: H
     family: Sun
   - given:
     given_initial: Zhong

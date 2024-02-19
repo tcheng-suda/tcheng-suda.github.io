@@ -11,7 +11,7 @@
     given_initial: C
     family: Ladewig
   - given:
-    given_initial: J
+    given_initial: JA
     family: Kelber
     role: corr
   - given:

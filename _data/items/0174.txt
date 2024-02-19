@@ -1,17 +1,17 @@
 - title: 'Understanding steric hindrance effect of solvent molecule in localized high-concentration electrolyte for lithium metal batteries'
-  volume:
+  volume: 2
   issue:
-  page: "ASAP"
+  page: "34"
   year: 2023
   author:
   - given:
-    given_initial: XP
+    given_initial: XP#
     family: Li
   - given:
-    given_initial: YX
+    given_initial: YX#
     family: Pan
   - given:
-    given_initial: Y
+    given_initial: Y#
     family: Liu
   - given:
     given_initial: YL

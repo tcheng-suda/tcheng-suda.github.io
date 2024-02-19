@@ -1,4 +1,4 @@
-- title: 'Deformation Induced Solid/Solid Phase Transitions in Gamma Boron'
+- title: 'Deformation Induced Solid–Solid Phase Transitions in Gamma Boron'
   volume: '26'
   issue: '14'
   page: '4289-4298'

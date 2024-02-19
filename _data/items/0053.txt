@@ -5,13 +5,13 @@
   year: 2019
   author:
   - given:
-    given_initial: YF
+    given_initial: YF#
     family: Ye
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
-    given_initial: J
+    given_initial: J#
     family: Qian
   - given:
     given_initial: HY

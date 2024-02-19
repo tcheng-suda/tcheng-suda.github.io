@@ -16,13 +16,13 @@
   - given:
     given_initial: J
     family: Nelson
-  - given:
-    given_initial: Y
-    family: Shi
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
+  - given:
+    given_initial: Y
+    family: Shi
   - given:
     given_initial: CY
     family: Cheng

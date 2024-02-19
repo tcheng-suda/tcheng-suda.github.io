@@ -17,11 +17,14 @@
     given_initial: JH
     family: Wang
   - given:
+    given_initial: XJ
+    family: Wu
+  - given:
     given_initial: XT
     family: Li
   - given:
-    given_initial: SQ
-    family: Zhu
+    given_initial: ZF
+    family: Qi
   - given:
     given_initial: JH
     family: Yan

@@ -15,7 +15,7 @@
     family: Yuan
   - given:
     given_initial: YY
-    family: Tang
+    family: Tan
   - given:
     given_initial: W
     family: Wang
@@ -23,8 +23,15 @@
     given_initial: YB
     family: Jiang
   - given:
+    given_initial: JY
+    family: Wan
+  - given:
     given_initial: JW
     family: Wen
+  - given:
+    given_initial: JJ
+    family: Yang
+    role: corr
   - given:
     given_initial: JQ
     family: He

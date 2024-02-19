@@ -1,14 +1,14 @@
-- title: 'Promoting Oxidation State Transition of Nickel in Single-Layer NiFeB Hydroxide Nanosheets for Efficient Oxygen Evolution'
+- title: 'Promoting nickel oxidation state transitions in single-layer NiFeB hydroxide nanosheets for efficient oxygen evolution'
   volume: 13
   issue:
   page: "6094"
   year: 2022
   author:
   - given:
-    given_initial: YK
+    given_initial: YK#
     family: Bai
   - given:
-    given_initial: Y
+    given_initial: Y#
     family: Wu
   - given:
     given_initial: XC

@@ -5,14 +5,17 @@
   year: 2021
   author:
   - given:
-    given_initial: H
+    given_initial: H#
     family: Li
   - given:
-    given_initial: PP
+    given_initial: PP#
     family: Yu
   - given:
-    given_initial: RB
+    given_initial: RB#
     family: Lei
+  - given:
+    given_initial: FP
+    family: Yang
   - given:
     given_initial: P
     family: Wen
@@ -22,6 +25,9 @@
   - given:
     given_initial: GS
     family: Zeng
+  - given:
+    given_initial: JH
+    family: Guo
   - given:
     given_initial: FM
     family: Toma

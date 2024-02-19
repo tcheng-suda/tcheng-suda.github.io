@@ -5,10 +5,10 @@
   year: 2017
   author:
   - given:
-    given_initial: XR
+    given_initial: XR#
     family: Gong
   - given:
-    given_initial: RM
+    given_initial: RM#
     family: Young
   - given:
     given_initial: KJ

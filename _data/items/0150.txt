@@ -1,4 +1,4 @@
-- title: 'Metastable Hexagonal Phase SnO2Nanoribbons with Active Edge Sites for Efficient Hydrogen Peroxide Electrosynthesis in Neutral Media'
+- title: 'Metastable Hexagonal Phase SnO2 Nanoribbons with Active Edge Sites for Efficient Hydrogen Peroxide Electrosynthesis in Neutral Media'
   volume: 135
   issue:
   page: "e202218924"
@@ -24,9 +24,6 @@
     family: Liao
     role: corr
   - given:
-    given_initial: Q
-    family: Shao
-  - given:
     given_initial: H
     family: Yang
     role: corr
@@ -34,6 +31,19 @@
     given_initial: T
     family: Cheng
     role: main
+  - given: 
+    given_initial: CW
+    family: Pao
+  - given: 
+    given_initial: YC
+    family: Chang
+  - given: 
+    given_initial: ZW
+    family: Hu
+  - given:
+    given_initial: Q
+    family: Shao
+    role: corr
   - given:
     given_initial: MW
     family: Shao

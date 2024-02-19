@@ -2,7 +2,7 @@
   volume:
   issue:
   page: ""
-  year: 2024
+  year: 2023
   author:
   - given:
     given_initial: BY
@@ -25,7 +25,7 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: J. Colloid Interface Sci.
+    abbreviation: Submitted
   URL:
   type: article
   DOI:

@@ -1,17 +1,17 @@
-- title: 'Inorganic cation-tailored “trapdoor” effect of the silicoaluminophosphate zeolite for highly selective CO2 separation'
+- title: 'The inorganic cation-tailored “trapdoor” effect of silicoaluminophosphate zeolite for highly selective CO2 separation'
   volume: 12
   issue: 
-  page: "8803"
+  page: "8803-8810"
   year: 2021
   author:
   - given:
-    given_initial: XH
+    given_initial: XH#
     family: Wang
   - given:
-    given_initial: NN
+    given_initial: NN#
     family: Yan
   - given:
-    given_initial: M
+    given_initial: M#
     family: Xie
   - given:
     given_initial: PX

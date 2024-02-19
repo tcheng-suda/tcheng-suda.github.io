@@ -5,10 +5,10 @@
   year: 2023
   author:
   - given:
-    given_initial: YN
+    given_initial: YN#
     family: Wang
   - given:
-    given_initial: H
+    given_initial: H#
     family: Yang
   - given:
     given_initial: Z

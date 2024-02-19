@@ -5,13 +5,13 @@
   year: 2023
   author:
   - given:
-    given_initial: YW
+    given_initial: YW#
     family: Su
   - given:
-    given_initial: L
+    given_initial: L#
     family: Xu
   - given:
-    given_initial: YJ
+    given_initial: YJ#
     family: Sun
   - given:
     given_initial: WY
@@ -44,7 +44,7 @@
     role: corr
   journal:
     abbreviation: Small
-  URL:
+  URL: https://doi.org/10.1002/smll.202308209
   type: article
   DOI:
   fulltext:

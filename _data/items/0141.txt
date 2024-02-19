@@ -5,17 +5,20 @@
   year: 2023
   author:
   - given:
-    given_initial: M
+    given_initial: M#
     family: Wang
   - given:
-    given_initial: QT
+    given_initial: QT#
     family: Sun
   - given:
-    given_initial: ZL
+    given_initial: ZL#
     family: Fan
   - given:
     given_initial: WX
     family: Zhu
+  - given:
+    given_initial: F
+    family: Liao
   - given:
     given_initial: J
     family: Wu
@@ -35,6 +38,10 @@
     given_initial: T
     family: Cheng
     role: corr, main
+  - given:
+    given_initial: Q
+    family: Shao
+    role: corr
   - given:
     given_initial: MW
     family: Shao

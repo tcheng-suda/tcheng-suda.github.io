@@ -2,16 +2,16 @@
   volume: 8
   issue: 6
   page: "1673-1687"
-  year: 2021
+  year: 2022
   author:
   - given:
-    given_initial: J
+    given_initial: J#
     family: Wang
   - given:
-    given_initial: C
+    given_initial: C#
     family: Cheng
   - given:
-    given_initial: Q
+    given_initial: Q#
     family: Yuan
   - given:
     given_initial: H
@@ -24,7 +24,7 @@
     family: Zhang
   - given:
     given_initial: L
-    family: G
+    family: Gu
   - given:
     given_initial: JL
     family: Cao
@@ -37,6 +37,7 @@
   - given:
     given_initial: Q
     family: Shao
+    role: corr
   - given:
     given_initial: L
     family: Zhang

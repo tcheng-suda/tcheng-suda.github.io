@@ -5,10 +5,10 @@
   year: 2022
   author:
   - given:
-    given_initial: MX
+    given_initial: MX#
     family: Liu
   - given:
-    given_initial: ZJ
+    given_initial: ZJ#
     family: Liu
   - given:
     given_initial: M

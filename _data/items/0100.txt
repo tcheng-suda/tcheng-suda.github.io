@@ -1,14 +1,14 @@
-- title: 'Core-Shell Nanoparticle with Tensile Strain Enables Highly Efficient Electrochemical Ethanol Oxidation'
+- title: 'Core-shell nanoparticles with tensile strain enable highly efficient electrochemical ethanol oxidation'
   volume: 9
   issue: 
-  page: "15373"
+  page: "15373-15380"
   year: 2021
   author:
   - given:
-    given_initial: MX
+    given_initial: MX#
     family: Liu
   - given:
-    given_initial: M
+    given_initial: M#
     family: Xie
   - given:
     given_initial: YL
@@ -25,6 +25,9 @@
   - given:
     given_initial: ZX
     family: Zhang
+  - given:
+    given_initial: XX
+    family: Wang
   - given:
     given_initial: K
     family: Liu

@@ -5,10 +5,10 @@
   year: 2017
   author:
   - given: Kun
-    given_initial: K
+    given_initial: K#
     family: Sun
   - given: Tao
-    given_initial: T
+    given_initial: T#
     family: Cheng
     role: main
   - given:

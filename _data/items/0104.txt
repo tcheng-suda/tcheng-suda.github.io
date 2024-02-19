@@ -1,4 +1,4 @@
-- title: 'Multi-scale Simulation Reveals the Decomposition Mechanism of Electrolyte on Lithium Metal Electrode'
+- title: 'Multi-Scale Simulation Revealing the Decomposition Mechanism of Electrolyte on Lithium Metal Electrode'
   volume: 28
   issue: 4
   page: "2105181"
@@ -10,6 +10,9 @@
   - given:
     given_initial: Y
     family: Liu
+  - given:
+    given_initial: YM
+    family: Lu
   - given:
     given_initial: PP
     family: Yu

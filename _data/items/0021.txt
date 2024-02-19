@@ -29,8 +29,8 @@
   - given: Lin
     given_initial: L
     family: Gu
-  - given: Boris
-    given_initial: B
+  - given: 
+    given_initial: BV
     family: Merinov
   - given: Zhaoyang
     given_initial: ZY

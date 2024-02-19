@@ -1,4 +1,4 @@
-- title: 'Multiscale Simulation of Solid Electrolyte Interphase'
+- title: 'Multiscale simulation of a solid electrolyte interphase'
   volume: 11
   issue: 3
   page: "921-928"
@@ -14,11 +14,15 @@
     given_initial: BY
     family: Ma
   - given:
+    given_initial: QT
+    family: Sun
+  - given:
     given_initial: H
     family: Yang
   - given:
     given_initial: Y
     family: Liu
+    role: corr
   - given: Tao
     given_initial: T
     family: Cheng

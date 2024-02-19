@@ -18,6 +18,7 @@
   - given:
     given_initial: A
     family: Jaramillo-Botero
+    role: corr
   journal:
     abbreviation: J. Phys. Chem. A
   URL: http://dx.doi.org/10.1021/acs.jpca.7b02824

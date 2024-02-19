@@ -10,6 +10,7 @@
   - given:
     given_initial: Y
     family: Liu
+    role: corr
   - given:
     given_initial: QT
     family: Sun

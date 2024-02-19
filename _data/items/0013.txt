@@ -1,16 +1,16 @@
-- title: 'Anisotropic Impact Sensitivity and Shock Induced Plasticity of TKX-50
-          (Dihydroxylammonium 5,5-bis(tetrazole)-1,1-diolate) Single Crystals:
-          From Large-Scale Molecular Dynamics Simulations'
+- title: 'Anisotropic Impact Sensitivity and Shock Induced Plasticity of
+TKX-50 (Dihydroxylammonium 5,5′-bis(tetrazole)-1,1′-diolate) Single Crystals:
+From Large-Scale Molecular Dynamics Simulations'
   volume: '119'
   issue: '4'
   page: '2196-2207'
   year: 2015
   author:
   - given:
-    given_initial: Q
+    given_initial: Q#
     family: An
   - given: Tao
-    given_initial: T
+    given_initial: T#
     family: Cheng
     role: main
   - given: William A
@@ -18,7 +18,7 @@
     family: Goddard
     role: corr
   - given:
-    given_initial: ZV
+    given_initial: SV
     family: Zybin
   journal:
     abbreviation: J. Phys. Chem. C

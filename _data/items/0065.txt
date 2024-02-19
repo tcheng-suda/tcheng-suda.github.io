@@ -1,14 +1,14 @@
 - title: 'tert-Butyl substituted hetero-donor TADF compounds for efficient solution-processed non-doped blue OLEDs'
   volume: 8
   issue: 17
-  page: "5769"
+  page: "5769-5776"
   year: 2020
   author:
   - given:
-    given_initial: FM
+    given_initial: FM#
     family: Xie
   - given:
-    given_initial: ZD
+    given_initial: ZD#
     family: An
   - given:
     given_initial: M

@@ -1,4 +1,4 @@
-- title: 'Molecular Crowding Effect Mimicking Cold Resistant Plant to Stabilize Zinc Anode with Wider Service Temperature Range'
+- title: 'Molecular-Crowding Effect Mimicking Cold-Resistant Plants to Stabilize the Zinc Anode with Wider Service Temperature Range'
   volume: 35
   issue: 1
   page: "2208237"
@@ -39,11 +39,11 @@
     given_initial: CY
     family: Bao
   - given:
-    given_initial: N
-    family: Zhang
-  - given:
     given_initial: PF
     family: Yan
+  - given:
+    given_initial: N
+    family: Zhang
   - given:
     given_initial: DL
     family: Wang
@@ -58,7 +58,6 @@
   - given:
     given_initial: SX
     family: Dou
-    role: corr
   journal:
     abbreviation: Adv. Mater.
   URL: https://doi.org/10.1002/adma.202208237

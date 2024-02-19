@@ -1,28 +1,31 @@
-- title: 'Determining Hydronium pKa on Platinum Surface and Impact on Hydrogen Evolution Reaction'
+- title: 'Determining the hydronium pKα at platinum surfaces and the effect on pH-dependent hydrogen evolution reaction kinetics'
   volume: 119
   issue: 39
   page: "e2208187119"
   year: 2022
   author:
   - given:
-    given_initial: GY
+    given_initial: GY#
     family: Zhong
   - given:
-    given_initial: T
+    given_initial: T#
     family: Cheng
     role: main
-  - given:
-    given_initial: ZH
-    family: Huang
-  - given:
-    given_initial: CZ
-    family: Wan
   - given:
     given_initial: AH
     family: Shah
   - given:
+    given_initial: CZ
+    family: Wan
+  - given:
+    given_initial: ZH
+    family: Huang
+  - given:
     given_initial: SB
     family: Wang
+  - given:
+    given_initial: TL
+    family: Leng
   - given:
     given_initial: Y
     family: Huang

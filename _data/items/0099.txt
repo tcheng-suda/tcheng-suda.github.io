@@ -1,14 +1,14 @@
-- title: 'Boosting Hydrogen Production with Ultralow Working Voltage by Selenium Vacancy Enhanced Ultrafine Platinum-Nickel Nanowires'
+- title: 'Boosting hydrogen production with ultralow working voltage by selenium vacancy-enhanced ultrafine platinum-nickel nanowires'
   volume: 3 
   issue: 
   page: "130-141"
   year: 2022
   author:
   - given:
-    given_initial: Y
+    given_initial: Y#
     family: Jin
   - given:
-    given_initial: Z
+    given_initial: Z#
     family: Zhang
   - given:
     given_initial: H

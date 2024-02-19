@@ -1,4 +1,5 @@
-- title: 'Reaction Mechanisms and Sensitivity for Silicon Nitrocarbamate and Related Systems from Quantum Mechanics Reaction Dynamics'
+- title: 'Reaction mechanisms and sensitivity of silicon nitrocarbamate and
+related systems from quantum mechanics reaction dynamics'
   volume: 6
   issue:
   page: '5082-5097'
@@ -12,7 +13,7 @@
     family: Cheng
     role: main
   - given:
-    given_initial: SZ
+    given_initial: SV
     family: Zybin
   - given:
     given_initial: WA

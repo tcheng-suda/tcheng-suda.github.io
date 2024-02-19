@@ -1,5 +1,5 @@
 - title: 'From n-alkane to polyacetylene on Cu (110): Linkage modulation in Chain Growth'
-  volume: 8
+  volume: 65
   issue: 
   page: "733–739"
   year: 2022

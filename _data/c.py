@@ -10,7 +10,8 @@ f = open(fname, 'r')
 for i in f:
     tokens = i.strip()
     if len(tokens) > 0:
-        flist.append(int(tokens))
+        nid = int(tokens.split('.')[0])
+        flist.append(nid)
 f.close()
 
 o = open('%s.yml'%fname.split('.')[0], 'w')
