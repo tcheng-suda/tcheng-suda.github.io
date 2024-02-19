@@ -105,7 +105,7 @@ permalink: /publications/
 ## <a name="2022"></a>2022
 
 <div class='panel-pub'>
-<ol start='153' reversed>
+<ol start='132' reversed>
 {% for article in site.data.pub-2022 %}
     <li>
     <div class="title">
