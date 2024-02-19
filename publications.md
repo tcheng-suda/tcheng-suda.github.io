@@ -234,7 +234,7 @@ permalink: /publications/
 ## <a name="2019"></a>2019
 
 <div class='panel-pub'>
-<ol start='64' reversed>
+<ol start='62' reversed>
 {% for article in site.data.pub-2019 %}
     <li>
     <div class="title">
@@ -277,7 +277,7 @@ permalink: /publications/
 ## <a name="2018"></a>2018
 
 <div class='panel-pub'>
-<ol start='47' reversed>
+<ol start='48' reversed>
 {% for article in site.data.pub-2018 %}
     <li>
     <div class="title">
