@@ -30,6 +30,7 @@ permalink: /about/
 |[**Jinglong Xiang(项景龙)**](#jlxiang)
 |[**Letao Bian(边乐陶)**](#ltbian)
 |[**Miao Zhang(张淼)**](#mzhang)
+|[**Hu Yanhao(张淼)**](#yhhu)
 |  
 **Alumni**  
 (**1 Postdoc, 6 M.S. student, 5 Undergraduates**)  
@@ -475,6 +476,15 @@ Email:
 # <a name="mzhang"></a>Miao Zhang(张淼)
 <span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
 personal web page:  [Miao Zhang](https://tcheng-suda.github.io/people/mzhang/)  
+Email:
+
+<a href="#top">back to top</a>
+
+---
+<br />
+# <a name="yhhu"></a>Yanhao Hu(胡炎浩)
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+personal web page:  [Yanhao Hu](https://tcheng-suda.github.io/people/yhhu/)  
 Email:
 
 <a href="#top">back to top</a>
