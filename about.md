@@ -30,7 +30,7 @@ permalink: /about/
 |[**Jinglong Xiang(项景龙)**](#jlxiang)
 |[**Letao Bian(边乐陶)**](#ltbian)
 |[**Miao Zhang(张淼)**](#mzhang)
-|[**Hu Yanhao(张淼)**](#yhhu)
+|[**Hu Yanhao(胡炎浩)**](#yhhu)
 |  
 **Alumni**  
 (**1 Postdoc, 6 M.S. student, 5 Undergraduates**)  
