@@ -1,8 +1,8 @@
 - title: 'Interfacial Polymerization Mechanisms Assisted Flame Retardancy Process of a Low-Flammable Electrolytes on Lithium Anode'
-  volume:
+  volume: 660
   issue:
-  page: ""
-  year: 2023
+  page: "545-554"
+  year: 2024
   author:
   - given:
     given_initial: BY
@@ -25,8 +25,8 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: J. Colloid Interface Sci.
+  URL: https://doi.org/10.1016/j.jcis.2024.01.122
   type: article
   DOI:
   fulltext:
