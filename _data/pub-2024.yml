@@ -1,3 +1,37 @@
+- title: 'Interfacial Polymerization Mechanisms Assisted Flame Retardancy Process of a Low-Flammable Electrolytes on Lithium Anode'
+  volume: 660
+  issue:
+  page: "545-554"
+  year: 2024
+  author:
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: M
+    family: Xie
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Colloid Interface Sci.
+  URL: https://doi.org/10.1016/j.jcis.2024.01.122
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Nitrogen contained Rhodium Nanosheet Catalysts for Efficient Hydrazine Oxidation Reaction'
   volume: 343
   issue:
