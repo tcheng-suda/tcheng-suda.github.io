@@ -1,3 +1,55 @@
+- title: 'Efficient Circularly Polarized Luminescence and Bright White Emission from Hybrid Indium-based Perovskites via Achiral Building Blocks'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: LP
+    family: Du
+  - given:
+    given_initial: QW
+    family: Zhou
+  - given:
+    given_initial: QQ
+    family: He
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: HJ
+    family: Lv
+  - given:
+    given_initial: YQ
+    family: Shen
+  - given:
+    given_initial: LL
+    family: Sheng
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given:
+    given_initial: Y
+    family: Fang
+    role: corr
+  - given:
+    given_initial: WH
+    family: Ning
+    role: corr
+  journal:
+    abbreviation: Adv. Funct. Mater.
+  URL: https://doi.org/10.1002/adfm.202315676
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Interfacial Polymerization Mechanisms Assisted Flame Retardancy Process of a Low-Flammable Electrolytes on Lithium Anode'
   volume: 660
   issue:
