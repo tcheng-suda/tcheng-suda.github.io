@@ -1,8 +1,8 @@
 - title: 'Efficient Circularly Polarized Luminescence and Bright White Emission from Hybrid Indium-based Perovskites via Achiral Building Blocks'
   volume:
   issue:
-  page: ""
-  year: 2023
+  page: "ASAP"
+  year: 2024
   author:
   - given:
     given_initial: LP
@@ -32,6 +32,7 @@
   - given:
     given_initial: H
     family: Yang
+    role: corr
   - given:
     given_initial: Y
     family: Fang
@@ -40,13 +41,9 @@
     given_initial: WH
     family: Ning
     role: corr
-  - given:
-    given_initial: LF
-    family: Chi
-    role: corr
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: Adv. Funct. Mater.
+  URL: https://doi.org/10.1002/adfm.202315676
   type: article
   DOI:
   fulltext:
