@@ -1,3 +1,49 @@
+- title: 'Tailoring Localized Electrolyte via a Dual-Functional Protein Membrane Toward Stable Zn Anodes'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: WY
+    family: Guo
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: YW
+    family: Su
+  - given:
+    given_initial: ZN
+    family: Tian
+  - given:
+    given_initial: CP
+    family: Qiao
+  - given:
+    given_initial: YH
+    family: Zou
+  - given:
+    given_initial: ZA
+    family: Chen
+  - given:
+    given_initial: XZ
+    family: Yang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: JY
+    family: Sun
+  journal:
+    abbreviation: ACS Nano
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Efficient Circularly Polarized Luminescence and Bright White Emission from Hybrid Indium-based Perovskites via Achiral Building Blocks'
   volume:
   issue:
