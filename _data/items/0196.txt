@@ -31,10 +31,11 @@
   - given: Tao
     given_initial: T
     family: Cheng
-    role: main
+    role: main, corr
   - given:
     given_initial: JY
     family: Sun
+    role: corr
   journal:
     abbreviation: ACS Nano
   URL:
