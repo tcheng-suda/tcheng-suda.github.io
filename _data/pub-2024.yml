@@ -31,7 +31,7 @@
   - given: Tao
     given_initial: T
     family: Cheng
-    role: main, corr
+    role: corr, main
   - given:
     given_initial: JY
     family: Sun
@@ -43,6 +43,7 @@
   DOI:
   fulltext:
   language: english
+
 
 - title: 'Efficient Circularly Polarized Luminescence and Bright White Emission from Hybrid Indium-based Perovskites via Achiral Building Blocks'
   volume:
