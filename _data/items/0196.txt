@@ -38,7 +38,7 @@
     role: corr
   journal:
     abbreviation: ACS Nano
-  URL:
+  URL: https://doi.org/10.1021/acsnano.4c02740
   type: article
   DOI:
   fulltext:
