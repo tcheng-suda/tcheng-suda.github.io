@@ -1,3 +1,51 @@
+- title: 'Conversion mechanism of sulfur in room-temperature sodium-sulfur battery with carbonate-based electrolyte'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: F
+    family: Jin
+  - given:
+    given_initial: B
+    family: Wang
+    role: corr
+  - given:
+    given_initial: RJ
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: N
+    family: Zhang
+  - given:
+    given_initial: CY
+    family: Bao
+  - given:
+    given_initial: DL
+    family: Wang
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: HK
+    family: Liu
+  - given:
+    given_initial: SX
+    family: Dou
+    role: corr
+  journal:
+    abbreviation: Energy Storage Mater. 
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Tailoring Localized Electrolyte via a Dual-Functional Protein Membrane Toward Stable Zn Anodes'
   volume:
   issue:

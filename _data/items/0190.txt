@@ -1,8 +1,8 @@
 - title: 'Conversion mechanism of sulfur in room-temperature sodium-sulfur battery with carbonate-based electrolyte'
   volume:
   issue:
-  page: ""
-  year: 2023
+  page: "ASAP"
+  year: 2024
   author:
   - given:
     given_initial: F
@@ -39,7 +39,7 @@
     family: Dou
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Energy Storage Mater. 
   URL:
   type: article
   DOI:
