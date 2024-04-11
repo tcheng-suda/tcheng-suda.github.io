@@ -1,3 +1,32 @@
+- title: 'Sulfur-tuned main-group Sb−N−C catalysts for selective 2-electron and 4-electron oxygen reduction'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: M
+    family: Mei
+  - given:
+    given_initial: H
+    family: Yang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: HL
+    family: Fei
+    role: corr
+  journal:
+    abbreviation: Adv. Mater.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Conversion mechanism of sulfur in room-temperature sodium-sulfur battery with carbonate-based electrolyte'
   volume:
   issue:
