@@ -1,3 +1,69 @@
+- title: 'Edge sites dominate the hydrogen evolution reaction on platinum nanocatalysts'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: ZH#
+    family: Huang
+  - given: Tao
+    given_initial: T#
+    family: Cheng
+    role: main
+  - given:
+    given_initial: AH
+    family: Shah
+  - given:
+    given_initial: GY
+    family: Zhong
+  - given:
+    given_initial: CZ
+    family: Wan
+  - given:
+    given_initial: PQ
+    family: Wang
+  - given:
+    given_initial: MN
+    family: Ding
+  - given:
+    given_initial: J
+    family: Huang
+  - given:
+    given_initial: Z
+    family: Wan
+  - given:
+    given_initial: SB
+    family: Wang
+  - given:
+    given_initial: J
+    family: Cai
+  - given:
+    given_initial: BS
+    family: Peng
+  - given:
+    given_initial: HT
+    family: Liu
+  - given:
+    given_initial: Y
+    family: Huang
+    role: corr
+  - given:
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given:
+    given_initial: XF
+    family: Duan
+    role: corr
+  journal:
+    abbreviation: Nat. Catal.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Sulfur-tuned main-group Sb−N−C catalysts for selective 2-electron and 4-electron oxygen reduction'
   volume:
   issue:

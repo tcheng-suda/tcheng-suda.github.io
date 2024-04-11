@@ -1,14 +1,14 @@
-- title: 'The Hydrogen Evolution Reaction on Platinum (100) and (111) Surfaces is dominated by the Edges'
+- title: 'Edge sites dominate the hydrogen evolution reaction on platinum nanocatalysts'
   volume:
   issue:
-  page: ""
-  year: 2022
+  page: "ASAP"
+  year: 2024
   author:
   - given:
-    given_initial: ZH
+    given_initial: ZH#
     family: Huang
   - given: Tao
-    given_initial: T
+    given_initial: T#
     family: Cheng
     role: main
   - given:
@@ -57,7 +57,7 @@
     family: Duan
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Nat. Catal.
   URL:
   type: article
   DOI:
