@@ -1,7 +1,7 @@
 - title: 'Electrochemically activated Rh-O-Ni interfacial sites at Rh-Ni,P electrocatalyst for efficient alkaline hydrogen evolution reaction'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2024
   author:
   - given:
@@ -36,7 +36,7 @@
     family: Wu
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Rare Metals
   URL:
   type: article
   DOI:
