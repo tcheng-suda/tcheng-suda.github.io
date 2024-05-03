@@ -1,3 +1,42 @@
+- title: 'Urea Synthesis via Electrocatalytic Oxidative Coupling of CO with NH3 on Pt'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: HC
+    family: Xiong#
+  - given:
+    given_initial: PP
+    family: Yu#
+  - given:
+    given_initial: KD
+    family: Chen
+  - given:
+    given_initial: SK
+    family: Lu
+  - given:
+    given_initial: QK
+    family: Hu
+  - given:
+    given_initial: T
+    family: Cheng*
+    role: main
+  - given:
+    given_initial: BJ
+    family: Xu*
+  - given:
+    given_initial: Q
+    family: Lu*
+  journal:
+    abbreviation: Nat. Catal.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Electrochemically activated Rh-O-Ni interfacial sites at Rh-Ni,P electrocatalyst for efficient alkaline hydrogen evolution reaction'
   volume:
   issue:
