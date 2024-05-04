@@ -1,8 +1,8 @@
 - title: 'Fast Interfacial Defluorination Kinetics Enables Stable Cycling of Low-Temperature Lithium Metal Batteries'
   volume:
   issue:
-  page: ""
-  year: 2023
+  page: "ASAP"
+  year: 2024
   author:
   - given:
     given_initial: XP
@@ -45,7 +45,7 @@
     family: Cao
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: J. Am. Chem. Soc.
   URL:
   type: article
   DOI:
