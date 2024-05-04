@@ -20,15 +20,15 @@
     given_initial: QK
     family: Hu
   - given:
-    given_initial: T*
+    given_initial: T
     family: Cheng
     role: corr, main
   - given:
-    given_initial: BJ*
+    given_initial: BJ
     family: Xu
     role: corr
   - given:
-    given_initial: Q*
+    given_initial: Q
     family: Lu
     role: corr
   journal:
