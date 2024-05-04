@@ -22,13 +22,15 @@
   - given:
     given_initial: T*
     family: Cheng
-    role: main
+    role: corr, main
   - given:
     given_initial: BJ*
     family: Xu
+    role: corr
   - given:
     given_initial: Q*
     family: Lu
+    role: corr
   journal:
     abbreviation: Nat. Catal.
   URL:
