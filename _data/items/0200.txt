@@ -1,0 +1,31 @@
+- title: 'Modulating the Interfacial Microenvironment via Zwitterionic Additive for Long-Cycling Aqueous Zn-ion Batteries'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: YW
+    family: Xie
+  - given:
+    given_initial: S
+    family: Feng
+  - given:
+    given_initial: JC
+    family: Gao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: L
+    family: Zhang
+    role: corr
+  journal:
+    abbreviation: Sci. China Mater.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
