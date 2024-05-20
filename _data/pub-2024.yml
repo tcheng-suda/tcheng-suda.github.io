@@ -1,3 +1,35 @@
+- title: 'Optimization of Lithium Metal Anode Performance: Investi-gating the Interfacial Dynamics and Reductive Mechanism of Asymmetric Sulfonylimide Salts'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: S
+    family: Feng
+  - given:
+    given_initial: TX
+    family: Yin
+  - given:
+    given_initial: LT
+    family: Bian
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Batteries
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Modulating the Interfacial Microenvironment via Zwitterionic Additive for Long-Cycling Aqueous Zn-ion Batteries'
   volume:
   issue:
