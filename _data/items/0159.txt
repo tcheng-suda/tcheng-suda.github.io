@@ -1,20 +1,20 @@
-- title: 'Enabling long-life 450 Wh kg-1 lithium metal battery with ultra-lean electrolyte'
+- title: 'Towards long-life 500 Wh kg−1 lithium metal pouch cells via compact ion-pair aggregate electrolyte'
   volume:
   issue:
-  page: ""
-  year: 2023
+  page: "ASAP"
+  year: 2024
   author:
   - given:
-    given_initial: YL
+    given_initial: YL#
     family: Jie
   - given:
-    given_initial: SY
+    given_initial: SY#
     family: Wang
   - given:
-    given_initial: ST
+    given_initial: ST#
     family: Weng
   - given:
-    given_initial: Y
+    given_initial: Y#
     family: Liu
   - given:
     given_initial: C
@@ -75,7 +75,7 @@
     family: Xu
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Nat. Energy
   URL:
   type: article
   DOI:
