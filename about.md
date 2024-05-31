@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ---
 **Members**  
-(**18+6: 2 Professor, 1 Postdoc, 4 Ph.D. Students, 11 M.S. students, 6 Undergraduate students**)  
+(**18+6: 2 Professor, 1 Postdoc, 4 Ph.D. Students, 9 M.S. students, 5 Undergraduate students**)  
 |[**Tao Cheng(程涛)**](#tcheng)
 |[**Hao Yang(杨昊)**](#hyang)
 |[**Yue Liu(刘越)**](#yliu)
@@ -15,8 +15,6 @@ permalink: /about/
 |[**Qintao Sun(孙钦涛)**](#qtsun)
 |[**Jiayi Zhang(张家奕)**](#jyzhang)
 |[**Hongchao Tang(唐宏超)**](#hctang)
-|[**Shuang Feng(冯爽)**](#sfeng)
-|[**Qiwei Zhou(周琦蔚)**](#qwzhou)
 |[**Jinying Wu(吴晋莹)**](#jywu)
 |[**Yingqi Liao(廖英琦)**](#yqliao)
 |[**Haochen Huang(黄浩宸)**](#hchuang)
@@ -46,6 +44,8 @@ permalink: /about/
 |[**Qiyu Xu(徐祺禹)**](#qyxu)
 |[**Letao Bian(边乐陶)**](#ltbian)
 |[**Hu Yanhao(胡炎浩)**](#yhhu)
+|[**Qiwei Zhou(周琦蔚)**](#qwzhou)
+|[**Shuang Feng(冯爽)**](#sfeng)
 |  
 
 <br />
@@ -308,7 +308,7 @@ Email:[1197853233@qq.com](1197853233@qq.com)
 ---
 <br />   
 # <a name="sfeng"></a>Shuang Feng(冯爽)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2021-2024)</span>  
 Personal web page:  [Shuang Feng](https://tcheng-suda.github.io/people/sfeng/)   
 Email:[fengshuanghi@qq.com](fengshuanghi@qq.com)   
 
@@ -319,7 +319,7 @@ Email:[fengshuanghi@qq.com](fengshuanghi@qq.com)
 ---
 <br />   
 # <a name="qwzhou"></a>Qiwei Zhou(周琦蔚)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2021-2024)</span>  
 Personal web page:  [Qiwei Zhou](https://tcheng-suda.github.io/people/qwzhou/)   
 Email:[1012024382@qq.com](1012024382@qq.com)   
 
