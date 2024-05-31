@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ---
 **Members**  
-(**18+6: 2 Professor, 1 Postdoc, 4 Ph.D. Students, 9 M.S. students, 5 Undergraduate students**)  
+(**18+6: 1 Professor, 1 Assistant Professor, 1 Postdoc, 4 Ph.D. Students, 9 M.S. students, 5 Undergraduate students**)  
 |[**Tao Cheng(程涛)**](#tcheng)
 |[**Hao Yang(杨昊)**](#hyang)
 |[**Yue Liu(刘越)**](#yliu)
@@ -25,9 +25,15 @@ permalink: /about/
 |[**Siyuan Fan(范思远)**](#syfan)
 |[**Jinglong Xiang(项景龙)**](#jlxiang)
 |[**Miao Zhang(张淼)**](#mzhang)
+|[**Zheng Zhang(张郑)**](#zhengzhang)
+|[**Xia Gui(桂霞)**](#xgui)
+|[**Shuaike Wang(王帅珂)**](#skwang)
+|[**Fei Li(李飞)**](#fli)
+|[**Baicheng Luo(罗柏成)**](#bcluo)
+|[**Shenzhen Guan(关深圳)**](#szguan)
 |  
 **Alumni**  
-(**1 Postdoc, 6 M.S. student, 9 Undergraduates**)  
+(**1 Postdoc, 8 M.S. student, 9 Undergraduates**)  
 |[**Miao Xie(谢淼)**](#mxie)
 |[**Qi Yuan(苑琦)**](#qyuan)
 |[**Wenxuan Du(杜文轩)**](#wxdu)
