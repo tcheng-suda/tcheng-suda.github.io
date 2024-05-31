@@ -497,9 +497,9 @@ Email:
 
 ---
 <br />
-# <a name="zhengzhang"></a>Zheng Zhang(张郑)  
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Zheng Zhang](https://tcheng-suda.github.io/people/zhengzhang/)
+# <a name="zhengzhang"></a>Zheng Zhang(张郑)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+personal web page:  [Zheng Zhang](https://tcheng-suda.github.io/people/zhengzhang/)  
 Email:
 
 <a href="#top">back to top</a>
@@ -507,26 +507,26 @@ Email:
 ---
 <br />
 # <a name="xgui"></a>Xia Gui(桂霞)  
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Xia Gui](https://tcheng-suda.github.io/people/xgui/)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+personal web page:  [Xia Gui](https://tcheng-suda.github.io/people/xgui/)  
 Email:
 
 <a href="#top">back to top</a>
 
 ---
 <br />
-# <a name="skwang"></a>Shuaike Wang(王帅珂)  
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Shuaike Wang](https://tcheng-suda.github.io/people/skwang/)
+# <a name="skwang"></a>Shuaike Wang(王帅珂)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+personal web page:  [Shuaike Wang](https://tcheng-suda.github.io/people/skwang/)  
 Email:
 
 <a href="#top">back to top</a>
 
 ---
 <br />
-# <a name="fli"></a>Fei Li(李飞)  
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Fei Li](https://tcheng-suda.github.io/people/fli/)
+# <a name="fli"></a>Fei Li(李飞)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+personal web page:  [Fei Li](https://tcheng-suda.github.io/people/fli/)  
 Email:
 
 <a href="#top">back to top</a>
