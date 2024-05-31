@@ -24,16 +24,12 @@ permalink: /about/
 |[**Tianxiu Yin(殷田秀)**](#txyin)
 |[**Jiayi Li(李佳怡)**](#jyli)
 |[**Jiarui Zhu(朱佳睿)**](#jrzhu)
-|[**Zhengan Yan(严正安)**](#zayan)
-|[**Qiyu Xu(徐祺禹)**](#qyxu)
 |[**Siyuan Fan(范思远)**](#syfan)
 |[**Jinglong Xiang(项景龙)**](#jlxiang)
-|[**Letao Bian(边乐陶)**](#ltbian)
 |[**Miao Zhang(张淼)**](#mzhang)
-|[**Hu Yanhao(胡炎浩)**](#yhhu)
 |  
 **Alumni**  
-(**1 Postdoc, 6 M.S. student, 5 Undergraduates**)  
+(**1 Postdoc, 6 M.S. student, 9 Undergraduates**)  
 |[**Miao Xie(谢淼)**](#mxie)
 |[**Qi Yuan(苑琦)**](#qyuan)
 |[**Wenxuan Du(杜文轩)**](#wxdu)
@@ -44,8 +40,12 @@ permalink: /about/
 |[**Mengwen Wang(王梦文)**](#mwwang)
 |[**Zhe Zhang(张哲)**](#zzhang)
 |[**Xiangcong Song(宋相聪)**](#xhsong)
-|[**Jianchen Lu(鲁珈辰)**](#jclu)
+|[**Jiachen Lu(鲁珈辰)**](#jclu)
 |[**Ruyue Yin(殷汝越)**](#ryyin)
+|[**Zhengan Yan(严正安)**](#zayan)
+|[**Qiyu Xu(徐祺禹)**](#qyxu)
+|[**Letao Bian(边乐陶)**](#ltbian)
+|[**Hu Yanhao(胡炎浩)**](#yhhu)
 |  
 
 <br />
@@ -341,7 +341,7 @@ Email:[woshiwjy@foxmail.com](woshiwjy@foxmail.com)
 ---
 <br />   
 # <a name="zayan"></a>Zhengan Yan(严正安)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2023-2024)</span>  
 Personal web page:  [Zhengan Yan](https://tcheng-suda.github.io/people/zayan/)   
 Email:   
 <a href="#top">Back to top</a>
@@ -349,7 +349,7 @@ Email:
 ---
 <br />   
 # <a name="qyxu"></a>Qiyu Xu(徐祺禹)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2023-2024)</span>  
 Personal web page:  [Qiyu Xu](https://tcheng-suda.github.io/people/qyxu/)   
 Email:   
 <a href="#top">Back to top</a>
@@ -465,7 +465,7 @@ Email:
 ---
 <br />
 # <a name="ltbian"></a>Letao Bian(边乐陶)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2024-2024)</span>  
 personal web page:  [Letao Bian](https://tcheng-suda.github.io/people/ltbian/)  
 Email:
 
@@ -483,7 +483,7 @@ Email:
 ---
 <br />
 # <a name="yhhu"></a>Yanhao Hu(胡炎浩)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2024-2024)</span>  
 personal web page:  [Yanhao Hu](https://tcheng-suda.github.io/people/yhhu/)  
 Email:
 
