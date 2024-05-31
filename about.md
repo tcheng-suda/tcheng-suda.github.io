@@ -530,3 +530,12 @@ personal web page:  [Fei Li](https://tcheng-suda.github.io/people/fli/)
 Email:
 
 <a href="#top">back to top</a>
+
+---
+<br />
+# <a name="bcluo"></a>Baicheng Luo(罗柏成)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+personal web page:  [Baicheng Luo](https://tcheng-suda.github.io/people/bcluo/)  
+Email:
+
+<a href="#top">back to top</a>
