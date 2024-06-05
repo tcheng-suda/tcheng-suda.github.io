@@ -1,0 +1,59 @@
+- title: 'Ultra Stable Zinc Anode Solid Electrolyte Interphase via Inner Helmholtz Plane Engineering'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: JR
+    family: Luo
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: YN
+    family: Yang
+  - given:
+    given_initial: S
+    family: Huang
+  - given:
+    given_initial: YJ
+    family: Zhou
+  - given:
+    given_initial: YY
+    family: Shao
+  - given:
+    given_initial: TH
+    family: Wang
+  - given:
+    given_initial: JQ
+    family: Zhao
+  - given:
+    given_initial: XX
+    family: Zhao
+  - given:
+    given_initial: JM
+    family: Tian
+  - given:
+    given_initial: SH
+    family: Guo
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: YL
+    family: Shao
+    role: corr
+  - given:
+    given_initial: J
+    family: Zhang
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
