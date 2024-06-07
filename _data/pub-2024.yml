@@ -5,13 +5,13 @@
   year: 2024
   author:
   - given:
-    given_initial: RQ
+    given_initial: RQ#
     family: Guo
   - given:
-    given_initial: JJ
+    given_initial: JJ#
     family: Wang
   - given:
-    given_initial: JY
+    given_initial: JY#
     family: Li
   - given:
     given_initial: HQ
@@ -32,9 +32,11 @@
   - given:
     given_initial: H
     family: Yang
+    role: corr
   - given:
     given_initial: MQ
     family: Sheng
+    role: corr
   journal:
     abbreviation: ACS Catal.
   URL:
