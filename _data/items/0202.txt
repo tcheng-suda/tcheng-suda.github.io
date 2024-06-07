@@ -1,0 +1,45 @@
+- title: 'Regulating Oxygen Vacancy of 3R Phase Iridium Oxide by Loading Platinum Nanoparticles for Efficient Hydrogen Evolution'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: RQ
+    family: Guo
+  - given:
+    given_initial: JJ
+    family: Wang
+  - given:
+    given_initial: JY
+    family: Li
+  - given:
+    given_initial: HQ
+    family: Li
+  - given:
+    given_initial: HH
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Cao
+  - given:
+    given_initial: JX
+    family: Chen
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: MQ
+    family: Sheng
+  journal:
+    abbreviation: ACS Catal.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
