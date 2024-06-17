@@ -1,0 +1,43 @@
+- title: 'Locally Varying Surface Binding Affinity on Pd-Au Nanocrystals Enhances Electrochemical Ethanol Oxidation Activity'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: XX#
+    family: Wang
+  - given:
+    given_initial: H#
+    family: Yang
+  - given:
+    given_initial: MX
+    family: Liu
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: K
+    family: Liu
+  - given:
+    given_initial: ZR
+    family: Mu
+  - given:
+    given_initial: Y
+    family: Zhang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: ACS Nano
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
