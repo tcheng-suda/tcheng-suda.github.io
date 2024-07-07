@@ -1,0 +1,60 @@
+- title: 'In-situ polymerized high-voltage solid-state lithium metal batteries with dual-reinforced stable interfaces'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: Q
+    family: Lv
+  - given:
+    given_initial: C
+    family: Li
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: YT
+    family: Jing
+  - given:
+    given_initial: B
+    family: Wang
+    role: corr
+  - given:
+    given_initial: JG
+    family: Sun
+  - given:
+    given_initial: HM
+    family: Wang
+  - given:
+    given_initial: L
+    family: Wang
+  - given:
+    given_initial: BC
+    family: Wu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: DL
+    family: Wang
+  - given:
+    given_initial: HK
+    family: Liu
+  - given:
+    given_initial: SX
+    family: Dou
+    role: corr
+  - given:
+    given_initial: J
+    family: Wang
+    role: corr
+  journal:
+    abbreviation: ACS Nano
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
