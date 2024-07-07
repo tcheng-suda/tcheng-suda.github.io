@@ -1,8 +1,8 @@
 - title: 'Acetonitrile-based Local High-Concentration Electrolytes for Advanced Lithium Metal Batteries'
   volume:
   issue:
-  page: ""
-  year: 2023
+  page: "ASAP"
+  year: 2024
   author:
   - given:
     given_initial: MH
@@ -32,7 +32,7 @@
     family: Gu
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Adv. Mater.
   URL:
   type: article
   DOI:
