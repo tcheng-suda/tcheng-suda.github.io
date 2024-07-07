@@ -1,3 +1,45 @@
+- title: 'Acetonitrile-based Local High-Concentration Electrolytes for Advanced Lithium Metal Batteries'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: MH
+    family: Li
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: XM
+    family: Yang
+    role: corr
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: YF
+    family: Cheng
+  - given:
+    given_initial: QW
+    family: Zhou
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: M
+    family: Gu
+    role: corr
+  journal:
+    abbreviation: Adv. Mater.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Locally Varying Surface Binding Affinity on Pd-Au Nanocrystals Enhances Electrochemical Ethanol Oxidation Activity'
   volume:
   issue:
