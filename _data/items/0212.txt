@@ -1,0 +1,57 @@
+- title: 'Real-space imaging for discovering a rotated node structure in metal-organic framework'
+  volume: 15
+  issue:
+  page: "6962"
+  year: 2024
+  author:
+  - given:
+    given_initial: JL
+    family: Feng
+  - given:
+    given_initial: ZP
+    family: Feng
+  - given:
+    given_initial: L
+    family: Xu6
+  - given:
+    given_initial: HB
+    family: Meng
+  - given:
+    given_initial: X
+    family: Chen
+    role: corr
+  - given:
+    given_initial: MM
+    family: Ma
+  - given:
+    given_initial: L
+    family: Wang
+  - given:
+    given_initial: B
+    family: Song
+  - given:
+    given_initial: X
+    family: Tang
+  - given:
+    given_initial: S
+    family: Dai
+  - given:
+    given_initial: F
+    family: Wei
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: BY
+    family: Shen
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
