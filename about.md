@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ---
 **Members**  
-(**22+5: 1 Professor, 1 Assistant Professor, 1 Postdoc, 5 Ph.D. Students, 13 M.S. students, 5 Undergraduate students**)  
+(**23+5: 1 Professor, 1 Assistant Professor, 1 Postdoc, 5 Ph.D. Students, 14 M.S. students, 5 Undergraduate students**)  
 |[**Tao Cheng(程涛)**](#tcheng)
 |[**Hao Yang(杨昊)**](#hyang)
 |[**Yue Liu(刘越)**](#yliu)
@@ -31,6 +31,7 @@ permalink: /about/
 |[**Fei Li(李飞)**](#fli)
 |[**Baicheng Luo(罗柏成)**](#bcluo)
 |[**Shenzhen Guan(关深圳)**](#szguan)
+|[**Zonghao Zhang(张宗浩)**](#zhzhang)
 |  
 **Alumni**  
 (**1 Postdoc, 8 M.S. student, 9 Undergraduates**)  
@@ -548,3 +549,13 @@ personal web page:  [Shenzhen Guan](https://tcheng-suda.github.io/people/szguan/
 Email:
 
 <a href="#top">back to top</a>
+
+---
+<br />
+# <a name="zhzhang"></a>Zonghao Zhang(张宗浩)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+personal web page:  [Zonghao Zhang](https://tcheng-suda.github.io/people/zhzhang/)  
+Email:
+
+<a href="#top">back to top</a>
+
