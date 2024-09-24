@@ -22,9 +22,6 @@ permalink: /about/
 |[**Tianxiu Yin(殷田秀)**](#txyin)
 |[**Jiayi Li(李佳怡)**](#jyli)
 |[**Jiarui Zhu(朱佳睿)**](#jrzhu)
-|[**Siyuan Fan(范思远)**](#syfan)
-|[**Jinglong Xiang(项景龙)**](#jlxiang)
-|[**Miao Zhang(张淼)**](#mzhang)
 |[**Zheng Zhang(张郑)**](#zhengzhang)
 |[**Xia Gui(桂霞)**](#xgui)
 |[**Shuaike Wang(王帅珂)**](#skwang)
@@ -32,6 +29,12 @@ permalink: /about/
 |[**Baicheng Luo(罗柏成)**](#bcluo)
 |[**Shenzhen Guan(关深圳)**](#szguan)
 |[**Zonghao Zhang(张宗浩)**](#zhzhang)
+|  
+**Outreach**  
+(**1 Postdoc, 8 M.S. student, 9 Undergraduates**)  
+|[**Siyuan Fan(范思远)**](#syfan)
+|[**Jinglong Xiang(项景龙)**](#jlxiang)
+|[**Miao Zhang(张淼)**](#mzhang)
 |  
 **Alumni**  
 (**1 Postdoc, 8 M.S. student, 9 Undergraduates**)  
