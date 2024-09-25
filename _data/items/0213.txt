@@ -1,0 +1,50 @@
+- title: 'Unraveling the Potential Dependence of Active Structures and Reaction Mechanism of Ni‐based MOFs Electrocatalysts for Alkaline OER'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: WX
+    family: Xu
+  - given:
+    given_initial: Y
+    family: Tao
+  - given:
+    given_initial: H
+    family: Zhang
+    role: corr
+  - given:
+    given_initial: JR
+    family: Zhu
+  - given:
+    given_initial: WJ
+    family: Shao
+  - given:
+    given_initial: JS
+    family: Sun
+  - given:
+    given_initial: YJ
+    family: Xia
+  - given:
+    given_initial: Y
+    family: Ha
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given:
+    given_initial: T
+    family: Cheng
+  - given:
+    given_initial: XH
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: Small
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
