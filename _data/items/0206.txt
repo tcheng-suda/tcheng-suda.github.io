@@ -1,0 +1,50 @@
+- title: 'Degradation mechanism and enhanced stability of the organolithium for pre-lithiation'
+  volume: 
+  issue: 
+  page: "ASAP"
+  year: 2024
+  author: 
+  - given:
+    given_initial: SW
+    family: Xu
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: MY
+    family: Cao
+  - given:
+    given_initial: QL
+    family: Wu
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: Q
+    family: Fang
+  - given:
+    given_initial: LQ
+    family: Chen
+  - given:
+    given_initial: YJ
+    family: Li
+  - given: Tao
+    given_initial: T
+    family: Cheng 
+    role: corr, main
+  - given: 
+    given_initial: ZX 
+    family: Wang
+    role: corr
+  - given: 
+    given_initial: XF 
+    family: Wang
+    role: corr
+  journal:
+    abbreviation: Adv. Energy Mater.
+  URL: 
+  type: article
+  DOI: 
+  fulltext:
+  language: english
+
