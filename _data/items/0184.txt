@@ -1,7 +1,7 @@
 - title: 'Boosting the acidic water oxidation activity by an interfacial oxygen migration in rutile-1T-heterophase IrO2 catalysts'
   volume:
   issue:
-  page: ""
+  page: "ASAP"
   year: 2023
   author:
   - given:
@@ -67,7 +67,7 @@
     family: Kang
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Nano Energy
   URL:
   type: article
   DOI:
