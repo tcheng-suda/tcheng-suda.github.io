@@ -1,3 +1,62 @@
+- title: 'Crystalline Texture Reengineering of Zinc Powder-Based Fibrous Anode for Remarkable Mechano-Electrochemical Stability'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2024
+  author:
+  - given:
+    given_initial: YY
+    family: Shao#
+  - given:
+    given_initial: Z
+    family: Xia#
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: XY
+    family: Zhang
+  - given:
+    given_initial: DZ
+    family: Yang
+  - given:
+    given_initial: ZC
+    family: Yang
+  - given:
+    given_initial: JR
+    family: Luo
+  - given:
+    given_initial: G
+    family: Xiao
+  - given:
+    given_initial: YN
+    family: Yang
+  - given:
+    given_initial: YW
+    family: Su
+  - given:
+    given_initial: GQ
+    family: Lu
+  - given:
+    given_initial: JY
+    family: Sun
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: YL
+    family: Shao
+    role: corr
+  journal:
+    abbreviation: Adv. Mater.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Cation Enrichment Promotes High-rate CO Electroreduction to C2+ Liquid Products'
   volume:
   issue:
