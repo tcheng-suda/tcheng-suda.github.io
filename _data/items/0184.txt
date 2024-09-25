@@ -2,7 +2,7 @@
   volume:
   issue:
   page: "ASAP"
-  year: 2023
+  year: 2024
   author:
   - given:
     given_initial: WX
