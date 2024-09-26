@@ -19,6 +19,12 @@
   - given:
     given_initial: FL
     family: Ni
+  - given:
+    given_initial: W
+    family: Guo
+  - given:
+    given_initial: H
+    family: Yang
   - given: Tao
     given_initial: T
     family: Cheng
