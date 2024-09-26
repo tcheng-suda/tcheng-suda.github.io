@@ -36,6 +36,7 @@
   - given:
     given_initial: T
     family: Cheng
+    role: main
   - given:
     given_initial: XH
     family: Sun
