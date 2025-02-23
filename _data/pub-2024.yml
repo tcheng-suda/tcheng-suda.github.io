@@ -154,9 +154,9 @@
 
 
 - title: 'Unraveling the Potential Dependence of Active Structures and Reaction Mechanism of Ni‐based MOFs Electrocatalysts for Alkaline OER'
-  volume:
+  volume: 20
   issue:
-  page: "ASAP"
+  page: "2407328"
   year: 2024
   author:
   - given:
@@ -198,7 +198,7 @@
     role: corr
   journal:
     abbreviation: Small
-  URL:
+  URL: https://doi.org/10.1002/smll.202407328
   type: article
   DOI:
   fulltext:
