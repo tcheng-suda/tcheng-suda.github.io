@@ -1,3 +1,56 @@
+- title: 'Air-Stable Li2C6O6 and Li4C6O6 as High-Efficiency Lithium Compensation Additives in Cathode'
+  volume: 5
+  issue:
+  page: "0135"
+  year: 2024
+  author:
+  - given:
+    given_initial: MY
+    family: Cao
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: SM
+    family: Zhang
+    role: corr
+  - given:
+    given_initial: HJ
+    family: Li
+  - given:
+    given_initial: H
+    family: Chu
+  - given:
+    given_initial: YR
+    family: Gao
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: XF
+    family: Wang
+    role: corr
+  - given:
+    given_initial: XL
+    family: Sun
+  - given:
+    given_initial: ZX
+    family: Wang
+    role: corr
+  - given:
+    given_initial: LQ
+    family: Chen
+  journal:
+    abbreviation: Submitted
+  URL: https://doi.org/10.34133/energymatadv.0135
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Cation Enrichment Promotes High-rate CO Electroreduction to C2+ Liquid Products'
   volume: 18
   issue: 2
