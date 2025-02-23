@@ -499,9 +499,9 @@
 
 
 - title: 'Acetonitrile-based Local High-Concentration Electrolytes for Advanced Lithium Metal Batteries'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 36
+  issue: 36
+  page: "2404271"
   year: 2024
   author:
   - given:
@@ -533,7 +533,7 @@
     role: corr
   journal:
     abbreviation: Adv. Mater.
-  URL:
+  URL: https://doi.org/10.1002/adma.202404271
   type: article
   DOI:
   fulltext:
