@@ -895,9 +895,9 @@
   language: english
 
 - title: 'Urea Synthesis via Electrocatalytic Oxidative Coupling of CO with NH3 on Pt'
-  volume:
+  volume: 7
   issue:
-  page: "ASAP"
+  page: "785–795"
   year: 2024
   author:
   - given:
