@@ -693,9 +693,9 @@
 
 
 - title: 'Towards long-life 500 Wh kg−1 lithium metal pouch cells via compact ion-pair aggregate electrolyte'
-  volume:
+  volume: 9
   issue:
-  page: "ASAP"
+  page: "987–998"
   year: 2024
   author:
   - given:
@@ -770,9 +770,9 @@
     role: corr
   journal:
     abbreviation: Nat. Energy
-  URL:
+  URL: https://doi.org/10.1038/s41560-024-01565-z
   type: article
-  DOI:
+  DOI: 
   fulltext:
   language: english
 
