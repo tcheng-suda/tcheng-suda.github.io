@@ -438,9 +438,9 @@
 
 
 - title: 'In-situ polymerized high-voltage solid-state lithium metal batteries with dual-reinforced stable interfaces'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 18
+  issue: 34
+  page: "23253–23264"
   year: 2024
   author:
   - given:
@@ -491,7 +491,7 @@
     role: corr
   journal:
     abbreviation: ACS Nano
-  URL:
+  URL: https://doi.org/10.1021/acsnano.4c06057
   type: article
   DOI:
   fulltext:
