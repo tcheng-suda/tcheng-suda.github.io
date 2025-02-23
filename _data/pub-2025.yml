@@ -1,3 +1,54 @@
+- title: 'Popularizing Holistic High-Index Crystal Plane via Nonepitaxial Electrodeposition Toward Hydrogen-Embrittlement-Relieved Zn Anode'
+  volume: 37
+  issue: 6
+  page: "2413080"
+  year: 2025
+  author:
+  - given:
+    given_initial: YH
+    family: Zou
+  - given:
+    given_initial: YB
+    family: Mu
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: CP
+    family: Qiao
+  - given:
+    given_initial: ZA
+    family: Chen
+  - given:
+    given_initial: WY
+    family: Guo
+  - given:
+    given_initial: JX
+    family: Gu
+  - given:
+    given_initial: YW
+    family: Su
+  - given:
+    given_initial: L
+    family: Zeng
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: JY
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: Adv. Mater.
+  URL: https://doi.org/10.1002/adma.202413080
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Carbon-dots-facilitated oxygen migration in heterophase iridium oxide for enhanced acidic water oxidation'
   volume:
   issue:
