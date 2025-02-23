@@ -632,10 +632,10 @@
   language: english
 
 
-- title: 'Ultra Stable Zinc Anode Solid Electrolyte Interphase via Inner Helmholtz Plane Engineering'
-  volume:
+- title: 'Stable Zinc Anode Solid Electrolyte Interphase via Inner Helmholtz Plane Engineering'
+  volume: 15
   issue:
-  page: "ASAP"
+  page: "6471"
   year: 2024
   author:
   - given:
@@ -685,7 +685,7 @@
     role: corr
   journal:
     abbreviation: Nat. Commun.
-  URL:
+  URL: https://doi.org/10.1038/s41467-024-50890-0
   type: article
   DOI:
   fulltext:
