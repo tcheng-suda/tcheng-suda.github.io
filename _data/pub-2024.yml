@@ -777,9 +777,9 @@
   language: english
 
 - title: 'Optimization of Lithium Metal Anode Performance: Investi-gating the Interfacial Dynamics and Reductive Mechanism of Asymmetric Sulfonylimide Salts'
-  volume:
+  volume: 10
   issue:
-  page: "ASAP"
+  page: "180"
   year: 2024
   author:
   - given:
@@ -801,7 +801,7 @@
     role: corr, main
   journal:
     abbreviation: Batteries
-  URL:
+  URL: https://doi.org/10.3390/batteries10060180
   type: article
   DOI:
   fulltext:
@@ -809,9 +809,9 @@
 
 
 - title: 'Modulating the Interfacial Microenvironment via Zwitterionic Additive for Long-Cycling Aqueous Zn-ion Batteries'
-  volume:
+  volume: 67
   issue:
-  page: "ASAP"
+  page: "2898–2907"
   year: 2024
   author:
   - given:
@@ -833,7 +833,7 @@
     role: corr
   journal:
     abbreviation: Sci. China Mater.
-  URL:
+  URL: https://doi.org/10.1007/s40843-024-2972-7
   type: article
   DOI:
   fulltext:
