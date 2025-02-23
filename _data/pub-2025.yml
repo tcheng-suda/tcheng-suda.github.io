@@ -1,3 +1,70 @@
+- title: 'Microenvironment engineering by targeted delivery of Ag nanoparticles for boosting electrocatalytic CO2 reduction reaction'
+  volume: 16
+  issue:
+  page: "977"
+  year: 2025
+  author:
+  - given:
+    given_initial: T
+    family: Xu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: TR
+    family: Lu
+  - given:
+    given_initial: R
+    family: Zhong
+  - given:
+    given_initial: JJ
+    family: Lv
+    role: corr
+  - given:
+    given_initial: SJ
+    family: Zhu
+  - given:
+    given_initial: MM
+    family: Zhang
+  - given:
+    given_initial: ZJ
+    family: Wang
+  - given:
+    given_initial: YF
+    family: Yuan
+  - given:
+    given_initial: J
+    family: Li
+  - given:
+    given_initial: JC
+    family: Wang
+  - given:
+    given_initial: HL
+    family: Jin
+  - given:
+    given_initial: S
+    family: Pan
+  - given:
+    given_initial: X
+    family: Wang
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: S
+    family: Wang
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-025-56039-x
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'A Thermally Robust Biopolymeric Separator Conveys K+ Transport and Interfacial Chemistry for Longevous Potassium Metal Batteries'
   volume: 19
   issue: 3
