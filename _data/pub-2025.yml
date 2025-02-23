@@ -1,3 +1,85 @@
+- title: 'Tailoring Water-in-DMSO Electrolyte for Ultra-stable Rechargeable Zinc Batteries'
+  volume:
+  issue:
+  page: "e202423302"
+  year: 2025
+  author:
+  - given:
+    given_initial: HZ
+    family: Ren
+  - given:
+    given_initial: S
+    family: Li
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: L
+    family: Wang
+  - given:
+    given_initial: XX
+    family: Liu
+  - given:
+    given_initial: L
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: L
+    family: Zhang
+  - given:
+    given_initial: H
+    family: Zhang
+  - given:
+    given_initial: YX
+    family: Gong
+  - given:
+    given_initial: CD
+    family: Lv
+  - given:
+    given_initial: DP
+    family: Chen
+  - given:
+    given_initial: JX
+    family: Wang
+  - given:
+    given_initial: Q
+    family: Lv
+  - given:
+    given_initial: YQ
+    family: Li
+  - given:
+    given_initial: HK
+    family: Liu
+  - given:
+    given_initial: DL
+    family: Wang
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: B
+    family: Wang
+    role: corr
+  - given:
+    given_initial: DL
+    family: Chao
+    role: corr
+  - given:
+    given_initial: SX
+    family: Dou
+  journal:
+    abbreviation: Angew. Chem. Int. Ed.
+  URL: https://doi.org/10.1002/anie.202423302
+  type: article
+  DOI:
+  fulltext:
+  language: english
+  
+
 - title: 'An electric double layer regulator empowers a robust solid–electrolyte interphase for potassium metal batteries'
   volume: 18
   issue:
