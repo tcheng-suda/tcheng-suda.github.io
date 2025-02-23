@@ -929,16 +929,16 @@
     role: corr
   journal:
     abbreviation: Nat. Catal.
-  URL:
+  URL: https://doi.org/10.1007/s12598-024-02903-6
   type: article
   DOI:
   fulltext:
   language: english
 
-- title: 'Electrochemically activated Rh-O-Ni interfacial sites at Rh-Ni,P electrocatalyst for efficient alkaline hydrogen evolution reaction'
-  volume:
+- title: 'Electrochemically activated metal oxide sites at Rh–Ni2P electrocatalyst for efficient alkaline hydrogen evolution reaction'
+  volume: 43
   issue:
-  page: "ASAP"
+  page: "6416–6425"
   year: 2024
   author:
   - given:
