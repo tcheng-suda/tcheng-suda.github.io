@@ -1,3 +1,64 @@
+- title: 'Constructing Ru-Co2P Lewis Acid–Base Pairs to Prompt Hydrogen Evolution Reaction in Alkaline Seawater Electrolyte'
+  volume: 21
+  issue: 1
+  page: "2406900"
+  year: 2025
+  author:
+  - given:
+    given_initial: BB
+    family: Jiang
+  - given:
+    given_initial: H
+    family: Xiao
+  - given:
+    given_initial: JY
+    family: Li
+  - given:
+    given_initial: HL
+    family: Tang
+  - given:
+    given_initial: H
+    family: Chen
+  - given:
+    given_initial: SJ
+    family: Deng
+  - given:
+    given_initial: YW
+    family: Tan
+  - given:
+    given_initial: C
+    family: Yu
+  - given:
+    given_initial: JW
+    family: Wang
+  - given:
+    given_initial: AJ
+    family: Huang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given:
+    given_initial: K
+    family: Yin
+    role: corr
+  - given:
+    given_initial: KL
+    family: Wu
+    role: corr
+  journal:
+    abbreviation: Small
+  URL: https://doi.org/10.1002/smll.202406900
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Riveting Nucleation Enabled Long Cycling Life Calcium Metal Anodes'
   volume:
   issue:
