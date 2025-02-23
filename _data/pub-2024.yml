@@ -982,9 +982,9 @@
 
 
 - title: 'Edge sites dominate the hydrogen evolution reaction on platinum nanocatalysts'
-  volume:
+  volume: 7
   issue:
-  page: "ASAP"
+  page: "678–688"
   year: 2024
   author:
   - given:
@@ -1041,7 +1041,7 @@
     role: corr
   journal:
     abbreviation: Nat. Catal.
-  URL:
+  URL: https://doi.org/10.1038/s41929-024-01156-x
   type: article
   DOI:
   fulltext:
