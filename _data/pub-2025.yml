@@ -1,3 +1,65 @@
+- title: 'Carbon-dots-facilitated oxygen migration in heterophase iridium oxide for enhanced acidic water oxidation'
+  volume:
+  issue:
+  page: "110749"
+  year: 2025
+  author:
+  - given:
+    given_initial: WX
+    family: Zhu
+  - given:
+    given_initial: K
+    family: Yin
+  - given:
+    given_initial: Mengjie
+    family: Ma
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: F
+    family: Liao
+    role: corr
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: JX
+    family: Chen
+  - given:
+    given_initial: K
+    family: Feng
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: J
+    family: Zhong
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: MW
+    family: Shao
+    role: corr
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given:
+    given_initial: ZH
+    family: Kang
+    role: corr
+  journal:
+    abbreviation: Chin. J. Chem.
+  URL: https://doi.org/10.1016/j.cclet.2024.110749
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Microenvironment engineering by targeted delivery of Ag nanoparticles for boosting electrocatalytic CO2 reduction reaction'
   volume: 16
   issue:
