@@ -1,3 +1,54 @@
+- title: 'An electric double layer regulator empowers a robust solid–electrolyte interphase for potassium metal batteries'
+  volume: 18
+  issue:
+  page: "322-333"
+  year: 2025
+  author:
+  - given:
+    given_initial: XY
+    family: Lian
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: ZJ
+    family: Ju
+  - given:
+    given_initial: ZA
+    family: Chen
+  - given:
+    given_initial: XP
+    family: Chen
+  - given:
+    given_initial: YY
+    family: Yi
+  - given:
+    given_initial: ZN
+    family: Tian
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: SX
+    family: Dou
+  - given:
+    given_initial: XY
+    family: Tao
+    role: corr
+  - given:
+    given_initial: JY
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: Energy Environ. Sci.
+  URL: https://doi.org/10.1039/D4EE03978E
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Constructing Ru-Co2P Lewis Acid–Base Pairs to Prompt Hydrogen Evolution Reaction in Alkaline Seawater Electrolyte'
   volume: 21
   issue: 1
