@@ -6,6 +6,7 @@
   author:
   - given:
     given_initial: CY
+    
     family: Cui
   - given:
     given_initial: L
@@ -256,9 +257,9 @@
 
 
 - title: 'Boosting the acidic water oxidation activity by an interfacial oxygen migration in rutile-1T-heterophase IrO2 catalysts'
-  volume:
+  volume: 131
   issue:
-  page: "ASAP"
+  page: "110280"
   year: 2024
   author:
   - given:
@@ -325,7 +326,7 @@
     role: corr
   journal:
     abbreviation: Nano Energy
-  URL:
+  URL: https://doi.org/10.1016/j.nanoen.2024.110280
   type: article
   DOI:
   fulltext:
