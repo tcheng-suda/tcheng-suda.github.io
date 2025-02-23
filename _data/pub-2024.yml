@@ -95,7 +95,7 @@
     role: corr
   journal:
     abbreviation: Adv. Mater.
-  URL:
+  URL: 
   type: article
   DOI:
   fulltext:
@@ -103,9 +103,9 @@
 
 
 - title: 'A metal-free cascaded process for efficient H2O2 photoproduction using conjugated carbonyl sites'
-  volume:
+  volume: 15
   issue:
-  page: "ASAP"
+  page: "7833"
   year: 2024
   author:
   - given:
@@ -146,7 +146,7 @@
     role: corr
   journal:
     abbreviation: Nat. Commun.
-  URL:
+  URL: https://doi.org/10.1038/s41467-024-52162-3
   type: article
   DOI:
   fulltext:
