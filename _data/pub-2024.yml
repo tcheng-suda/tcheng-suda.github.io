@@ -1048,9 +1048,9 @@
   language: english
 
 - title: 'Sulfur-tuned main-group Sb−N−C catalysts for selective 2-electron and 4-electron oxygen reduction'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 36
+  issue: 27
+  page: "2402963"
   year: 2024
   author:
   - given:
@@ -1069,7 +1069,7 @@
     role: corr
   journal:
     abbreviation: Adv. Mater.
-  URL:
+  URL: https://doi.org/10.1002/adma.202402963
   type: article
   DOI:
   fulltext:
