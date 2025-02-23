@@ -1,7 +1,7 @@
 - title: 'Air-Stable Na3.5C6O6 as a Sodium Compensation Additive in Cathode of Na-Ion Batteries'
-  volume:
+  volume: 20
   issue:
-  page: ""
+  page: "2400498"
   year: 2024
   author:
   - given:
@@ -54,8 +54,8 @@
     given_initial: LQ
     family: Chen
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: Small
+  URL: https://doi.org/10.1002/smll.202400498
   type: article
   DOI:
   fulltext:
@@ -107,7 +107,7 @@
     given_initial: LQ
     family: Chen
   journal:
-    abbreviation: Submitted
+    abbreviation: Energy Mater. Adv
   URL: https://doi.org/10.34133/energymatadv.0135
   type: article
   DOI:
