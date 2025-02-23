@@ -1,3 +1,71 @@
+- title: 'Riveting Nucleation Enabled Long Cycling Life Calcium Metal Anodes'
+  volume:
+  issue:
+  page: ""
+  year: 2024
+  author:
+  - given:
+    given_initial: YH
+    family: Han
+  - given:
+    given_initial: YZ
+    family: Guo
+  - given:
+    given_initial: JB
+    family: Zhou
+  - given:
+    given_initial: X
+    family: Ding
+  - given:
+    given_initial: YC
+    family: Zhang
+  - given:
+    given_initial: WX
+    family: Li
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: YW
+    family: Chen
+  - given:
+    given_initial: YL
+    family: Jie
+  - given:
+    given_initial: ZW
+    family: Lei
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: Y
+    family: Guan
+  - given:
+    given_initial: YC
+    family: Tian
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: MQ
+    family: Chen
+  - given:
+    given_initial: SH
+    family: Jiao
+  - given:
+    given_initial: *
+    family: R
+    role: corr
+  journal:
+    abbreviation: Adv. Mater.
+  URL: https://doi.org/10.1002/adma.202415657
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Synchronous Modulation of H-bond Interaction and Steric Hindrance via Bio-molecular Additive Screening in Zn Batteries'
   volume: 64
   issue: 5
