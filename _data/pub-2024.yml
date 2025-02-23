@@ -1,12 +1,11 @@
 - title: 'Cation Enrichment Promotes High-rate CO Electroreduction to C2+ Liquid Products'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 18
+  issue: 2
+  page: "e202400940"
   year: 2024
   author:
   - given:
     given_initial: CY
-    
     family: Cui
   - given:
     given_initial: L
@@ -36,7 +35,7 @@
     role: corr
   journal:
     abbreviation: ChemSusChem
-  URL:
+  URL: https://doi.org/10.1002/cssc.202400940
   type: article
   DOI:
   fulltext:
