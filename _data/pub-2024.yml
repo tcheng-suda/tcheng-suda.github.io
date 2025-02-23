@@ -577,7 +577,7 @@
     role: corr
   journal:
     abbreviation: ACS Nano
-  URL:
+  URL: https://doi.org/10.1021/acscatal.4c02062
   type: article
   DOI:
   fulltext:
@@ -585,9 +585,9 @@
 
 
 - title: 'Regulating Oxygen Vacancy of 3R Phase Iridium Oxide by Loading Platinum Nanoparticles for Efficient Hydrogen Evolution'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 14
+  issue: 15
+  page: "11164–11171"
   year: 2024
   author:
   - given:
