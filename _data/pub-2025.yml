@@ -1,3 +1,48 @@
+- title: 'A Thermally Robust Biopolymeric Separator Conveys K+ Transport and Interfacial Chemistry for Longevous Potassium Metal Batteries'
+  volume: 19
+  issue: 3
+  page: "3920–3930"
+  year: 2025
+  author:
+  - given:
+    given_initial: YY
+    family: Wang
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: XP
+    family: Chen
+  - given:
+    given_initial: ZA
+    family: Chen
+  - given:
+    given_initial: XH
+    family: Li
+  - given:
+    given_initial: WY
+    family: Guo
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: YY
+    family: Yi
+    role: corr
+  - given:
+    given_initial: JY
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: ACS Nano
+  URL: https://doi.org/10.1021/acsnano.4c16664
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Tailoring Water-in-DMSO Electrolyte for Ultra-stable Rechargeable Zinc Batteries'
   volume:
   issue:
