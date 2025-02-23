@@ -390,9 +390,9 @@
 
 
 - title: 'Aluminum Corrosion Chemistry in High-voltage Lithium Metal Batteries with LiFSI-based Ether Electrolytes'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 16
+  issue: 36
+  page: "47581–47589"
   year: 2024
   author:
   - given:
@@ -430,7 +430,7 @@
     role: corr
   journal:
     abbreviation: ACS Appl. Mater. Interfaces.
-  URL:
+  URL: https://doi.org/10.1021/acsami.4c09083
   type: article
   DOI:
   fulltext:
