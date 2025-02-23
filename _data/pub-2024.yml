@@ -44,9 +44,9 @@
 
 
 - title: 'Crystalline Texture Reengineering of Zinc Powder-Based Fibrous Anode for Remarkable Mechano-Electrochemical Stability'
-  volume:
-  issue:
-  page: "ASAP"
+  volume: 36
+  issue: 40
+  page: "2407143"
   year: 2024
   author:
   - given:
@@ -95,7 +95,7 @@
     role: corr
   journal:
     abbreviation: Adv. Mater.
-  URL: 
+  URL: https://doi.org/10.1002/adma.202407143
   type: article
   DOI:
   fulltext:
