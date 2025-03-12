@@ -1,3 +1,68 @@
+- title: 'Imaging molecular structures and interactions by enhanced confinement effect in electron microscopy'
+  volume:
+  issue:
+  page: "ASAP"
+  year: 2025
+  author:
+  - given:
+    given_initial: MM
+    family: Ma
+  - given:
+    given_initial: QN
+    family: Yu
+  - given:
+    given_initial: JY
+    family: Zhang
+  - given:
+    given_initial: X
+    family: Chen
+    role: corr
+  - given:
+    given_initial: WB
+    family: Li
+  - given:
+    given_initial: XL
+    family: Qu
+  - given:
+    given_initial: XL
+    family: Zhang
+  - given:
+    given_initial: JL
+    family: Feng
+  - given:
+    given_initial: F
+    family: Wei
+  - given:
+    given_initial: JY
+    family: Yuan
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: S
+    family: Dai
+  - given:
+    given_initial: Y
+    family: Wang
+    role: corr
+  - given:
+    given_initial: B
+    family: Song
+    role: corr
+  - given:
+    given_initial: BY
+    family: Shen
+    role: corr
+  journal:
+    abbreviation: Nat. Commun.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
+
 - title: 'Off-Equilibrium Hydrothermal Synthesis of High-Entropy Alloy Nanoparticles'
   volume:
   issue:
