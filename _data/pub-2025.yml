@@ -181,57 +181,6 @@
   language: english
 
 
-- title: 'Off-Equilibrium Hydrothermal Synthesis of High-Entropy Alloy Nanoparticles'
-  volume:
-  issue:
-  page: ""
-  year: 2025
-  author:
-  - given:
-    given_initial: ZX
-    family: Zhang#
-  - given:
-    given_initial: PP
-    family: Yu#
-  - given:
-    given_initial: ZJ
-    family: Liu#
-  - given:
-    given_initial: K
-    family: Liu
-  - given:
-    given_initial: ZR
-    family: Mu
-  - given:
-    given_initial: ZB
-    family: Wen
-  - given:
-    given_initial: JL
-    family: She
-  - given:
-    given_initial: YK
-    family: Bai
-  - given:
-    given_initial: Q
-    family: Zhang
-    role: corr
-  - given: Tao
-    given_initial: T
-    family: Cheng
-    role: corr, main
-  - given:
-    given_initial: CB
-    family: Gao
-    role: corr
-  journal:
-    abbreviation: J. Am. Chem. Soc.
-  URL:
-  type: article
-  DOI:
-  fulltext:
-  language: english
-
-
 - title: 'Popularizing Holistic High-Index Crystal Plane via Nonepitaxial Electrodeposition Toward Hydrogen-Embrittlement-Relieved Zn Anode'
   volume: 37
   issue: 6
