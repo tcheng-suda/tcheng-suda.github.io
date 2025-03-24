@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ---
 **Members**  
-(**23 Members (2024.9): 1 Professor, 1 Assistant Professor, 1 Postdoc, 5 Ph.D. Students, 15 M.S. students**)  
+(**23 Members (2024.9): 1 Professor, 2 Assistant Professor, 5 Ph.D. Students, 15 M.S. students**)  
 |[**Tao Cheng(程涛)**](#tcheng)
 |[**Hao Yang(杨昊)**](#hyang)
 |[**Yue Liu(刘越)**](#yliu)
@@ -132,7 +132,7 @@ Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
 ---
 <br />   
 # <a name="yliu"></a>Yue Liu(刘越)
-<span style="color:black;font-size:18pt;font-weight:bold">Senior Postdoctoral Researcher</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Assistant Professor</span>  
 Personal web page: [Yue Liu](https://tcheng-suda.github.io/people/yliu/)  
 Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)  
 
