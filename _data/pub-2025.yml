@@ -1,3 +1,43 @@
+- title: 'Oxidative etching and regrowth route to icosahedral gold nanocrystals with strain-enhanced electrocatalytic properties'
+  volume:
+  issue:
+  page: ""
+  year: 2025
+  author:
+  - given:
+    given_initial: XX
+    family: Wang
+  - given:
+    given_initial: ZS
+    family: Xu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: ZR
+    family: Mu
+  - given:
+    given_initial: ZJ
+    family: Liu
+  - given:
+    given_initial: QK
+    family: Fan
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: CB
+    family: Gao
+    role: corr
+  journal:
+    abbreviation: Nano Res.
+  URL: https://doi.org/10.26599/NR.2025.94907662
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Metastable palladium oxide for highly efficient and selective chlorine evolution reaction'
   volume:
   issue:
