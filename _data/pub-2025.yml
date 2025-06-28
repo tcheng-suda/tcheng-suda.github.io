@@ -1,3 +1,69 @@
+- title: 'Engineering catalyst–support interactions in cobalt phthalocyanine for enhanced electrocatalytic CO2 reduction: the role of graphene-skinned Al2O3'
+  volume:
+  issue:
+  page: ""
+  year: 2025
+  author:
+  - given:
+    given_initial: QQ
+    family: Bai
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: L
+    family: Wei
+  - given:
+    given_initial: MT
+    family: Ma
+  - given:
+    given_initial: ZY
+    family: Zheng
+  - given:
+    given_initial: W
+    family: Hua
+  - given:
+    given_initial: ZY
+    family: Jiao
+  - given:
+    given_initial: M
+    family: Wang
+  - given:
+    given_initial: HH
+    family: Yuan
+  - given:
+    given_initial: ZH
+    family: Wei
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: XX
+    family: Ke
+  - given:
+    given_initial: J
+    family: Zhong
+  - given:
+    given_initial: FL
+    family: Lyu
+    role: corr
+  - given:
+    given_initial: Z
+    family: Deng
+    role: corr
+  - given:
+    given_initial: Y
+    family: Peng
+    role: corr
+  journal:
+    abbreviation: Chem. Sci.
+  URL: https://doi.org/10.1039/D5SC02616D
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Electrostatic Catalysis‐Driven Asymmetric SEI for Dendrite‐Free Lithium Metal Anodes'
   volume:
   issue:
