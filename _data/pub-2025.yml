@@ -1,3 +1,71 @@
+- title: 'Metastable palladium oxide for highly efficient and selective chlorine evolution reaction'
+  volume:
+  issue:
+  page: ""
+  year: 2025
+  author:
+  - given:
+    given_initial: MJ
+    family: Ma
+  - given:
+    given_initial: L
+    family: Xu
+  - given:
+    given_initial: WX
+    family: Zhu
+  - given:
+    given_initial: F
+    family: Liao
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: Q
+    family: Shao
+    role: corr
+  - given:
+    given_initial: ZL
+    family: Chen
+  - given:
+    given_initial: JX
+    family: Chen
+  - given:
+    given_initial: K
+    family: Feng
+  - given:
+    given_initial: J
+    family: Zhong
+  - given:
+    given_initial: H
+    family: Yang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given:
+    given_initial: PW
+    family: Menezes
+    role: corr
+  - given:
+    given_initial: MW
+    family: Shao
+    role: corr
+  - given:
+    given_initial: ZH
+    family: Kang
+    role: corr
+  journal:
+    abbreviation: Chem. Eng. J.
+  URL: https://doi.org/10.1016/j.cej.2025.162396
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: 'Imaging molecular structures and interactions by enhanced confinement effect in electron microscopy'
   volume:
   issue:
