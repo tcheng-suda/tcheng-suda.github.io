@@ -26,6 +26,11 @@ permalink: /about/
 |[**Baicheng Luo(罗柏成)**](#bcluo)
 |[**Shenzhen Guan(关深圳)**](#szguan)
 |[**Zonghao Zhang(张宗浩)**](#zhzhang)
+|[**Chenyang Pan(潘晨阳)**](#cypan)
+|[**Kun Wang(王坤)**](#kwang)
+|[**Tianqi Zhao(赵天奇)**](#tqzhao)
+|[**Yidan Sheng(盛宜丹)**](#ydsheng)
+|[**Binbin Ruan(阮彬彬)**](#bbruan)
 |  
 **Outreach**  
 (**0 Undergraduates**)  
