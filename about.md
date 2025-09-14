@@ -425,8 +425,6 @@ Next: Master Student at Southeast University
 personal web page:  [Tianxiu Yin](https://tcheng-suda.github.io/people/txyin/)  
 Email:
 
-{% include image.html url="/images/txyin.jpeg" caption="" width=300 align="center" %}
-
 <a href="#top">back to top</a>
 
 ---
