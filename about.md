@@ -13,13 +13,10 @@ permalink: /about/
 |[**Peiping Yu(于沛平)**](#ppyu)
 |[**Liang Xu(许亮)**](#lxu)
 |[**Qintao Sun(孙钦涛)**](#qtsun)
-|[**Jiayi Zhang(张家奕)**](#jyzhang)
 |[**Hongchao Tang(唐宏超)**](#hctang)
-|[**Jinying Wu(吴晋莹)**](#jywu)
 |[**Yingqi Liao(廖英琦)**](#yqliao)
 |[**Haochen Huang(黄浩宸)**](#hchuang)
 |[**Xuewei Gu(顾雪薇)**](#xwgu)
-|[**Tianxiu Yin(殷田秀)**](#txyin)
 |[**Jiayi Li(李佳怡)**](#jyli)
 |[**Jiarui Zhu(朱佳睿)**](#jrzhu)
 |[**Zheng Zhang(张郑)**](#zhengzhang)
@@ -31,13 +28,10 @@ permalink: /about/
 |[**Zonghao Zhang(张宗浩)**](#zhzhang)
 |  
 **Outreach**  
-(**3 Undergraduates**)  
-|[**Siyuan Fan(范思远)**](#syfan)
-|[**Jinglong Xiang(项景龙)**](#jlxiang)
-|[**Miao Zhang(张淼)**](#mzhang)
+(**0 Undergraduates**)  
 |  
 **Alumni**  
-(**1 Postdoc, 8 M.S. student, 9 Undergraduates**)  
+(**1 Postdoc, 11 M.S. student, 12 Undergraduates**)  
 |[**Miao Xie(谢淼)**](#mxie)
 |[**Qi Yuan(苑琦)**](#qyuan)
 |[**Wenxuan Du(杜文轩)**](#wxdu)
@@ -56,6 +50,12 @@ permalink: /about/
 |[**Hu Yanhao(胡炎浩)**](#yhhu)
 |[**Qiwei Zhou(周琦蔚)**](#qwzhou)
 |[**Shuang Feng(冯爽)**](#sfeng)
+|[**Jiayi Zhang(张家奕)**](#jyzhang)
+|[**Jinying Wu(吴晋莹)**](#jywu)
+|[**Tianxiu Yin(殷田秀)**](#txyin)
+|[**Siyuan Fan(范思远)**](#syfan)
+|[**Jinglong Xiang(项景龙)**](#jlxiang)
+|[**Miao Zhang(张淼)**](#mzhang)
 |  
 
 <br />
