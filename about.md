@@ -585,6 +585,29 @@ Email:
 
 <a href="#top">back to top</a>
 
+---
+<br />
+# <a name="tqzhao"></a>Tianqi Zhao(赵天奇)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+personal web page:  [Tianqi Zhao](https://tcheng-suda.github.io/people/tqzhao/)  
+Email:
 
+<a href="#top">back to top</a>
 
+---
+<br />
+# <a name="ydsheng"></a>Yidan Sheng(盛宜丹)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+personal web page:  [Yidan Sheng](https://tcheng-suda.github.io/people/ydsheng/)  
+Email:
 
+<a href="#top">back to top</a>
+
+---
+<br />
+# <a name="bbruan"></a>Binbin Ruan(阮彬彬)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+personal web page:  [Binbin Ruan](https://tcheng-suda.github.io/people/bbruan/)  
+Email:
+
+<a href="#top">back to top</a>
