@@ -301,11 +301,9 @@ Next: Master Student in Peking University
 ---
 <br />   
 # <a name="jyzhang"></a>Jiayi Zhang(张家奕)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2019-2025)</span>  
 Personal web page:  [Jiayi Zhang](https://tcheng-suda.github.io/people/jyzhang/)   
 Email:[1219646977@qq.com](1219646977@qq.com)   
-
-{% include image.html url="/images/jyzhang.jpeg" caption="" width=300 align="center" %}
 
 <a href="#top">Back to top</a>
 
@@ -608,6 +606,9 @@ Email:
 # <a name="bbruan"></a>Binbin Ruan(阮彬彬)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Binbin Ruan](https://tcheng-suda.github.io/people/bbruan/)  
+
+{% include image.html url="/images/jyzhang.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
