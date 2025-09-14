@@ -325,8 +325,6 @@ Email:[1197853233@qq.com](1197853233@qq.com)
 Personal web page:  [Shuang Feng](https://tcheng-suda.github.io/people/sfeng/)   
 Email:[fengshuanghi@qq.com](fengshuanghi@qq.com)   
 
-{% include image.html url="/images/sfeng.jpeg" caption="" width=300 align="center" %}
-
 <a href="#top">Back to top</a>
 
 ---
@@ -335,8 +333,6 @@ Email:[fengshuanghi@qq.com](fengshuanghi@qq.com)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2021-2024)</span>  
 Personal web page:  [Qiwei Zhou](https://tcheng-suda.github.io/people/qwzhou/)   
 Email:[1012024382@qq.com](1012024382@qq.com)   
-
-{% include image.html url="/images/qwzhou.jpeg" caption="" width=300 align="center" %}
 
 <a href="#top">Back to top</a>
 
