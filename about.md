@@ -347,8 +347,6 @@ Email:[1012024382@qq.com](1012024382@qq.com)
 Personal web page:  [Jinying Wu](https://tcheng-suda.github.io/people/jywu/)   
 Email:[woshiwjy@foxmail.com](woshiwjy@foxmail.com)   
 
-{% include image.html url="/images/jywu.jpeg" caption="" width=300 align="center" %}
-
 <a href="#top">Back to top</a>
 
 ---
@@ -597,6 +595,9 @@ Email:
 # <a name="ydsheng"></a>Yidan Sheng(盛宜丹)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Yidan Sheng](https://tcheng-suda.github.io/people/ydsheng/)  
+
+{% include image.html url="/images/ydsheng.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
@@ -607,7 +608,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Binbin Ruan](https://tcheng-suda.github.io/people/bbruan/)  
 
-{% include image.html url="/images/jyzhang.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/bbruan.jpeg" caption="" width=300 align="center" %}
 
 Email:
 
