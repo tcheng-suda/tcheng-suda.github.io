@@ -500,8 +500,6 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Zheng Zhang](https://tcheng-suda.github.io/people/zhengzhang/)  
 
-{% include image.html url="/images/zzhang.jpeg" caption="" width=300 align="center" %}
-
 Email:
 
 <a href="#top">back to top</a>
