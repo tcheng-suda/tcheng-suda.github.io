@@ -546,6 +546,9 @@ Email:
 # <a name="szguan"></a>Shenzhen Guan(关深圳)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Shenzhen Guan](https://tcheng-suda.github.io/people/szguan/)  
+
+{% include image.html url="/images/szguan.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
@@ -555,6 +558,9 @@ Email:
 # <a name="zhzhang"></a>Zonghao Zhang(张宗浩)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Zonghao Zhang](https://tcheng-suda.github.io/people/zhzhang/)  
+
+{% include image.html url="/images/zhzhang.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
@@ -564,6 +570,9 @@ Email:
 # <a name="cypan"></a>Chenyang Pan(潘晨阳)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Chenyang Pan](https://tcheng-suda.github.io/people/cypan/)  
+
+{% include image.html url="/images/cypan.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
@@ -573,6 +582,9 @@ Email:
 # <a name="kwang"></a>Kun Wang(王坤)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Kun Wang](https://tcheng-suda.github.io/people/kwang/)  
+
+{% include image.html url="/images/kwang.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
@@ -582,6 +594,9 @@ Email:
 # <a name="tqzhao"></a>Tianqi Zhao(赵天奇)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Tianqi Zhao](https://tcheng-suda.github.io/people/tqzhao/)  
+
+{% include image.html url="/images/tqzhao.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
