@@ -339,7 +339,7 @@ Email:[1012024382@qq.com](1012024382@qq.com)
 ---
 <br />   
 # <a name="jywu"></a>Jinying Wu(吴晋莹)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2021-2025)</span>  
 Personal web page:  [Jinying Wu](https://tcheng-suda.github.io/people/jywu/)   
 Email:[woshiwjy@foxmail.com](woshiwjy@foxmail.com)   
 
@@ -421,7 +421,7 @@ Next: Master Student at Southeast University
 ---
 <br />
 # <a name="txyin"></a>Tianxiu Yin(殷田秀)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2022-2025)</span>  
 personal web page:  [Tianxiu Yin](https://tcheng-suda.github.io/people/txyin/)  
 Email:
 
@@ -432,7 +432,7 @@ Email:
 ---
 <br />
 # <a name="syfan"></a>Siyuan Fan(范思远)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2023-2024)</span>  
 personal web page:  [Siyuan Fan](https://tcheng-suda.github.io/people/syfan/)  
 Email:
 
@@ -463,7 +463,7 @@ Email:
 ---
 <br />
 # <a name="jlxiang"></a>Jinglong Xiang(项景龙)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2023-2024)</span>  
 personal web page:  [Jinglong Xiang](https://tcheng-suda.github.io/people/jlxiang/)  
 Email:
 
@@ -481,7 +481,7 @@ Email:
 ---
 <br />
 # <a name="mzhang"></a>Miao Zhang(张淼)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2025-2025)</span>  
 personal web page:  [Miao Zhang](https://tcheng-suda.github.io/people/mzhang/)  
 Email:
 
@@ -501,6 +501,9 @@ Email:
 # <a name="zhengzhang"></a>Zheng Zhang(张郑)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Zheng Zhang](https://tcheng-suda.github.io/people/zhengzhang/)  
+
+{% include image.html url="/images/zzhang.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
@@ -510,6 +513,9 @@ Email:
 # <a name="xgui"></a>Xia Gui(桂霞)  
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Xia Gui](https://tcheng-suda.github.io/people/xgui/)  
+
+{% include image.html url="/images/xgui.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
@@ -519,6 +525,9 @@ Email:
 # <a name="skwang"></a>Shuaike Wang(王帅珂)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Shuaike Wang](https://tcheng-suda.github.io/people/skwang/)  
+
+{% include image.html url="/images/skwang.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
@@ -528,6 +537,9 @@ Email:
 # <a name="fli"></a>Fei Li(李飞)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Fei Li](https://tcheng-suda.github.io/people/fli/)  
+
+{% include image.html url="/images/fli.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
@@ -537,6 +549,9 @@ Email:
 # <a name="bcluo"></a>Baicheng Luo(罗柏成)
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Baicheng Luo](https://tcheng-suda.github.io/people/bcluo/)  
+
+{% include image.html url="/images/bcluo.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
