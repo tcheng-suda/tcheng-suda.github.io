@@ -500,6 +500,8 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Zheng Zhang](https://tcheng-suda.github.io/people/zhengzhang/)  
 
+{% include image.html url="/images/zzhang-2.jpeg" caption="" width=300 align="center" %}
+
 Email:
 
 <a href="#top">back to top</a>
@@ -510,7 +512,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Xia Gui](https://tcheng-suda.github.io/people/xgui/)  
 
-{% include image.html url="/images/xgui.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/xgui-2.jpeg" caption="" width=300 align="center" %}
 
 Email:
 
@@ -522,7 +524,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Shuaike Wang](https://tcheng-suda.github.io/people/skwang/)  
 
-{% include image.html url="/images/skwang.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/skwang-2.jpeg" caption="" width=300 align="center" %}
 
 Email:
 
@@ -534,7 +536,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Fei Li](https://tcheng-suda.github.io/people/fli/)  
 
-{% include image.html url="/images/fli.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/fli-2.jpeg" caption="" width=300 align="center" %}
 
 Email:
 
@@ -546,7 +548,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Baicheng Luo](https://tcheng-suda.github.io/people/bcluo/)  
 
-{% include image.html url="/images/bcluo.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/bcluo-2.jpeg" caption="" width=300 align="center" %}
 
 Email:
 
@@ -558,7 +560,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Shenzhen Guan](https://tcheng-suda.github.io/people/szguan/)  
 
-{% include image.html url="/images/szguan.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/szguan-2.jpeg" caption="" width=300 align="center" %}
 
 Email:
 
@@ -570,7 +572,7 @@ Email:
 <span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
 personal web page:  [Zonghao Zhang](https://tcheng-suda.github.io/people/zhzhang/)  
 
-{% include image.html url="/images/zhzhang.jpeg" caption="" width=300 align="center" %}
+{% include image.html url="/images/zhzhang-2.jpeg" caption="" width=300 align="center" %}
 
 Email:
 
