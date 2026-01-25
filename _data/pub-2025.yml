@@ -19,12 +19,15 @@
   - given:
     given_initial: YR
     family: Gao
+    role: corr
   - given: Tao
     given_initial: T
     family: Cheng
+    role: corr, main
   - given:
     given_initial: XF
     family: Wang
+    role: corr
   - given:
     given_initial: XL
     family: Sun
@@ -34,6 +37,7 @@
   - given:
     given_initial: ZX
     family: Wang
+    role: corr
   - given:
     given_initial: LQ
     family: Chen
