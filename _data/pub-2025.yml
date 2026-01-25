@@ -71,15 +71,19 @@
     family: He
   - given_initial: T
     family: Cheng
+    role: main
   - given:
     given_initial: S
     family: Dai
+    role: corr
   - given:
     given_initial: B
     family: Song
+    role: corr
   - given:
     given_initial: BY
     family: Shen
+    role: corr
   journal:
     abbreviation: J. Am. Chem. Soc.
   URL: https://doi.org/10.1021/jacs.5c08253
@@ -104,15 +108,19 @@
   - given:
     given_initial: H
     family: Huang
+    role: corr
   - given: Tao
     given_initial: T
     family: Cheng
+    role: corr, main
   - given:
     given_initial: Y
     family: Liu
+    role: corr
   - given:
     given_initial: ZH
     family: Kang
+    role: corr
   journal:
     abbreviation: Small
   URL: https://doi.org/10.1002/smll.202510841
@@ -161,15 +169,19 @@
   - given: Tao
     given_initial: T
     family: Cheng
+    role: corr, main
   - given:
     given_initial: Y
     family: Zhang
+    role: corr
   - given:
     given_initial: YL
     family: Shao
+    role: corr
   - given:
     given_initial: J
     family: Zhang
+    role: corr
   journal:
     abbreviation: ACS Nano
   URL: https://doi.org/10.1021/acsnano.5c11221
