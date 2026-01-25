@@ -39,7 +39,7 @@
     family: Chen
   journal:
     abbreviation: Angew. Chem.
-    URL: https://doi.org/10.1002/ange.202515463
+  URL: https://doi.org/10.1002/ange.202515463
   type: article
   DOI: 10.1002/ange.202515463
   language: english
@@ -78,7 +78,7 @@
     family: Shen
   journal:
     abbreviation: J. Am. Chem. Soc.
-    URL: https://doi.org/10.1021/jacs.5c08253
+  URL: https://doi.org/10.1021/jacs.5c08253
   type: article
   DOI: 10.1021/jacs.5c08253
   language: english
@@ -110,7 +110,7 @@
     family: Kang
   journal:
     abbreviation: Small
-    URL: https://doi.org/10.1002/smll.202510841
+  URL: https://doi.org/10.1002/smll.202510841
   type: article
   DOI: 10.1002/smll.202510841
   language: english
@@ -166,7 +166,7 @@
     family: Zhang
   journal:
     abbreviation: ACS Nano
-    URL: https://doi.org/10.1021/acsnano.5c11221
+  URL: https://doi.org/10.1021/acsnano.5c11221
   type: article
   DOI: 10.1021/acsnano.5c11221
   language: english
@@ -212,7 +212,7 @@
     family: Huang
   journal:
     abbreviation: Angew. Chem.
-    URL: https://doi.org/10.1002/ange.202525130
+  URL: https://doi.org/10.1002/ange.202525130
   type: article
   DOI: 10.1002/ange.202525130
   language: english
@@ -254,7 +254,7 @@
     family: Shen
   journal:
     abbreviation: Phys. Rev. Lett.
-    URL: https://doi.org/10.1103/sd72-g4t8
+  URL: https://doi.org/10.1103/sd72-g4t8
   type: article
   DOI: 10.1103/sd72-g4t8
   language: english
@@ -288,7 +288,7 @@
     family: Yu
   journal:
     abbreviation: ACS Nano
-    URL: https://doi.org/10.1021/acsnano.4c11759
+  URL: https://doi.org/10.1021/acsnano.4c11759
   type: article
   DOI: 10.1021/acsnano.4c11759
   language: english
@@ -327,7 +327,7 @@
     family: Shen
   journal:
     abbreviation: Nano Lett.
-    URL: https://doi.org/10.1021/acs.nanolett.5c04031
+  URL: https://doi.org/10.1021/acs.nanolett.5c04031
   type: article
   DOI: 10.1021/acs.nanolett.5c04031
   language: english
@@ -377,7 +377,7 @@
     family: Jiang
   journal:
     abbreviation: Nat. Commun.
-    URL: https://doi.org/10.1038/s41467-025-66920-4
+  URL: https://doi.org/10.1038/s41467-025-66920-4
   type: article
   DOI: 10.1038/s41467-025-66920-4
   language: english
@@ -414,7 +414,7 @@
     family: Kang
   journal:
     abbreviation: Nanoscale
-    URL: https://doi.org/10.1039/d5nr04472c
+  URL: https://doi.org/10.1039/d5nr04472c
   type: article
   DOI: 10.1039/d5nr04472c
   language: english
@@ -463,7 +463,7 @@
     family: Huang
   journal:
     abbreviation: Adv. Mater.
-    URL: https://doi.org/10.1002/adma.202519565
+  URL: https://doi.org/10.1002/adma.202519565
   type: article
   DOI: 10.1002/adma.202519565
   language: english
@@ -507,7 +507,7 @@
     family: Wang
   journal:
     abbreviation: Angew. Chem. Int. Ed.
-    URL: https://doi.org/10.1002/anie.202521171
+  URL: https://doi.org/10.1002/anie.202521171
   type: article
   DOI: 10.1002/anie.202521171
   language: english
@@ -562,7 +562,7 @@
     family: Kou
   journal:
     abbreviation: Sep. Purif. Technol.
-    URL: https://doi.org/10.1016/j.seppur.2025.132888
+  URL: https://doi.org/10.1016/j.seppur.2025.132888
   type: article
   DOI: 10.1016/j.seppur.2025.132888
   language: english
@@ -623,7 +623,7 @@
     family: Wang
   journal:
     abbreviation: Nat. Commun.
-    URL: https://doi.org/10.1038/s41467-025-56039-x
+  URL: https://doi.org/10.1038/s41467-025-56039-x
   type: article
   DOI: 10.1038/s41467-025-56039-x
   language: english
@@ -658,7 +658,7 @@
     family: Wang
   journal:
     abbreviation: Nat. Commun.
-    URL: https://doi.org/10.1038/s41467-025-66673-0
+  URL: https://doi.org/10.1038/s41467-025-66673-0
   type: article
   DOI: 10.1038/s41467-025-66673-0
   language: english
@@ -725,7 +725,7 @@
     family: Huang
   journal:
     abbreviation: J. Am. Chem. Soc.
-    URL: https://doi.org/10.1021/jacs.5c16009
+  URL: https://doi.org/10.1021/jacs.5c16009
   type: article
   DOI: 10.1021/jacs.5c16009
   language: english
@@ -782,7 +782,7 @@
     family: Blum
   journal:
     abbreviation: J. Catal.
-    URL: https://doi.org/10.1016/j.jcat.2025.116618
+  URL: https://doi.org/10.1016/j.jcat.2025.116618
   type: article
   DOI: 10.1016/j.jcat.2025.116618
   language: english
@@ -852,7 +852,7 @@
     family: Zhang
   journal:
     abbreviation: J. Am. Chem. Soc.
-    URL: https://doi.org/10.1021/jacs.5c06886
+  URL: https://doi.org/10.1021/jacs.5c06886
   type: article
   DOI: 10.1021/jacs.5c06886
   language: english
@@ -898,7 +898,7 @@
     family: Wang
   journal:
     abbreviation: Adv. Energy Mater.
-    URL: https://doi.org/10.1002/aenm.202504413
+  URL: https://doi.org/10.1002/aenm.202504413
   type: article
   DOI: 10.1002/aenm.202504413
   language: english
