@@ -22,6 +22,7 @@
   - given: Tao
     given_initial: T
     family: Cheng
+    role: main
   - given:
     given_initial: G
     family: Lu
@@ -31,12 +32,15 @@
   - given:
     given_initial: O
     family: Ivasenko
+    role: corr
   - given:
     given_initial: ZS
     family: Zhang
+    role: corr
   - given:
     given_initial: Y
     family: Fang
+    role: corr
   journal:
     abbreviation: J. Mater. Chem. A
   URL: http://dx.doi.org/10.1039/D5TA08950F
