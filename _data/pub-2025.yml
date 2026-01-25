@@ -254,6 +254,7 @@
     - given:
       given_initial: X
       family: Chen
+      role: corr
     - given:
       given_initial: N
       family: Huang
@@ -266,15 +267,19 @@
     - given:
       given_initial: B
       family: Song
+      role: corr
     - given:
       given_initial: T
       family: Cheng
+      role: corr, main
     - given:
       given_initial: F
       family: Wei
+      role: corr
     - given:
       given_initial: BY
       family: Shen
+      role: corr
   journal:
     abbreviation: "Phys. Rev. Lett."
   URL: "https://doi.org/10.1103/sd72-g4t8"
