@@ -199,6 +199,7 @@
     - given:
       given_initial: XQ
       family: Zhang
+      role: corr
     - given:
       given_initial: PP
       family: Yu
@@ -223,12 +224,14 @@
     - given:
       given_initial: XR
       family: Chen
+      role: corr
     - given: Tao
       given_initial: T
       family: Cheng
     - given:
       given_initial: JQ
       family: Huang
+      role: corr
   journal:
     abbreviation: "Angew. Chem."
   URL: "https://doi.org/10.1002/ange.202525130"
