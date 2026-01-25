@@ -311,15 +311,18 @@
     - given:
       given_initial: T
       family: Cheng
+      role: main
     - given:
       given_initial: JY
       family: Yuan
+      role: corr
     - given:
       given_initial: F
       family: Wei
     - given:
       given_initial: BY
       family: Shen
+      role: corr
   journal:
     abbreviation: "Nano Lett."
   URL: "https://doi.org/10.1021/acs.nanolett.5c04031"
