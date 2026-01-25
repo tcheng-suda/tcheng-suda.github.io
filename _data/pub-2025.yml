@@ -510,12 +510,15 @@
     - given:
       given_initial: YJ
       family: Li
+      role: corr, main
     - given: Tao
       given_initial: T
       family: Cheng
+      role: corr, main
     - given:
       given_initial: XF
       family: Wang
+      role: corr
   journal:
     abbreviation: "Angew. Chem. Int. Ed."
   URL: "https://doi.org/10.1002/anie.202521171"
