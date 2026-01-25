@@ -677,9 +677,11 @@
     - given: Tao
       given_initial: T
       family: Cheng
+      role: corr, main
     - given:
       given_initial: YH
       family: Wang
+      role: corr
   journal:
     abbreviation: "Nat. Commun."
   URL: "https://doi.org/10.1038/s41467-025-66673-0"
