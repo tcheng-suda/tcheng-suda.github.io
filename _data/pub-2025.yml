@@ -550,6 +550,7 @@
     - given:
       given_initial: JL
       family: Liu
+      role: corr
     - given:
       given_initial: D
       family: Fang
@@ -562,18 +563,22 @@
     - given: Tao
       given_initial: T
       family: Cheng
+      role: main
     - given:
       given_initial: H
       family: Yang
+      role: corr
     - given:
       given_initial: GD
       family: Xu
+      role: corr
     - given:
       given_initial: XM
       family: Ren
     - given:
       given_initial: JH
       family: Kou
+      role: corr
   journal:
     abbreviation: "Sep. Purif. Technol."
   URL: "https://doi.org/10.1016/j.seppur.2025.132888"
