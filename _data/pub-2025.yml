@@ -438,6 +438,7 @@
     - given:
       given_initial: XQ
       family: Zhang
+      role: corr
     - given:
       given_initial: S
       family: Sun
@@ -462,12 +463,14 @@
     - given: Tao
       given_initial: T
       family: Cheng
+      role: main
     - given:
       given_initial: R
       family: Wen
     - given:
       given_initial: JQ
       family: Huang
+      role: corr
   journal:
     abbreviation: "Adv. Mater."
   URL: "https://doi.org/10.1002/adma.202519565"
