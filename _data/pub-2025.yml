@@ -369,12 +369,15 @@
     - given: Tao
       given_initial: T
       family: Cheng
+      role: corr, main
     - given:
       given_initial: L
       family: Wang
+      role: corr
     - given:
       given_initial: K
       family: Jiang
+      role: corr
   journal:
     abbreviation: "Nat. Commun."
   URL: "https://doi.org/10.1038/s41467-025-66920-4"
