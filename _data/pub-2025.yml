@@ -406,15 +406,19 @@
     - given: Tao
       given_initial: T
       family: Cheng
+      role: corr, main
     - given:
       given_initial: H
       family: Huang
+      role: corr
     - given:
       given_initial: Y
       family: Liu
+      role: main
     - given:
       given_initial: ZH
       family: Kang
+      role: corr
   journal:
     abbreviation: Nanoscale
   URL: "https://doi.org/10.1039/d5nr04472c"
