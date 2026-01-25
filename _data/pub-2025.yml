@@ -768,6 +768,7 @@
     - given:
       given_initial: X
       family: Zhang
+      role: corr
     - given:
       given_initial: F
       family: Kraushofer
@@ -798,18 +799,23 @@
     - given:
       given_initial: X
       family: Tong
+      role: corr
     - given: Tao
       given_initial: T
       family: Cheng
+      role: corr, main
     - given:
       given_initial: JF
       family: Wu
+      role: corr
     - given:
       given_initial: BAJ
       family: Lechner
+      role: corr
     - given:
       given_initial: M
       family: Blum
+      role: corr
   journal:
     abbreviation: "J. Catal."
   URL: "https://doi.org/10.1016/j.jcat.2025.116618"
