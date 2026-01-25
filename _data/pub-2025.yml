@@ -842,12 +842,15 @@
     - given: Tao
       given_initial: T
       family: Cheng
+      role: corr, main
     - given:
       given_initial: YL
       family: Shao
+      role: corr
     - given:
       given_initial: J
       family: Zhang
+      role: corr
   journal:
     abbreviation: "J. Am. Chem. Soc."
   URL: "https://doi.org/10.1021/jacs.5c06886"
