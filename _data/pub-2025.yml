@@ -607,6 +607,7 @@
     - given:
       given_initial: JJ
       family: Lv
+      role: corr, main
     - given:
       given_initial: S
       family: Zhu
@@ -634,12 +635,15 @@
     - given:
       given_initial: X
       family: Wang
+      role: corr
     - given: Tao
       given_initial: T
       family: Cheng
+      role: corr, main
     - given:
       given_initial: S
       family: Wang
+      role: corr
   journal:
     abbreviation: "Nat. Commun."
   URL: "https://doi.org/10.1038/s41467-025-56039-x"
