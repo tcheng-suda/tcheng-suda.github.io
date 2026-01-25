@@ -337,6 +337,7 @@
 - title: 'Oxygen functionalization of carbon quantum dots enables efficient acidic hydrogen peroxide electrosynthesis'
   volume: 17
   year: 2025
+  page: "221"
   author:
   - given:
     given_initial: BX
@@ -473,6 +474,7 @@
 - title: 'Weakly-Solvated and Co-Intercalation-Free Ether-Based Electrolytes Enhance the Low-Temperature and Fast-Charging Performance of LiFePO4||Graphite Batteries'
   volume: 65
   year: 2025
+  page: "2521171"
   author:
   - given:
     given_initial: ZW
@@ -633,6 +635,7 @@
 - title: 'Polymer-tethered pyridine tunes activities of the two distinct CO2 electroreduction sites on Cu'
   volume: 16
   year: 2025
+  page: "11511"
   author:
   - given:
     given_initial: F
@@ -906,9 +909,9 @@
   language: english
 
 - title: 'Engineering catalyst–support interactions in cobalt phthalocyanine for enhanced electrocatalytic CO2 reduction: the role of graphene-skinned Al2O3'
-  volume:
+  volume: 16
   issue:
-  page: ""
+  page: "11587-11597"
   year: 2025
   author:
   - given:
@@ -972,9 +975,9 @@
   language: english
 
 - title: 'Electrostatic Catalysis‐Driven Asymmetric SEI for Dendrite‐Free Lithium Metal Anodes'
-  volume:
+  volume: 35
   issue:
-  page: ""
+  page: "2508326"
   year: 2025
   author:
   - given:
@@ -1012,9 +1015,9 @@
   language: english
 
 - title: 'Oxidative etching and regrowth route to icosahedral gold nanocrystals with strain-enhanced electrocatalytic properties'
-  volume:
+  volume:18
   issue:
-  page: ""
+  page: "94907662"
   year: 2025
   author:
   - given:
@@ -1052,9 +1055,9 @@
   language: english
 
 - title: 'Metastable palladium oxide for highly efficient and selective chlorine evolution reaction'
-  volume:
+  volume: 512
   issue:
-  page: ""
+  page: "162396"
   year: 2025
   author:
   - given:
