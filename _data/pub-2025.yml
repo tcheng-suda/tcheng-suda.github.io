@@ -1,3 +1,41 @@
+- title: 'Atomic-Level Mechanistic Insights into Carbonate Electrolyte Degradation on High-Voltage LiCoO2 Cathodes'
+  volume:
+  issue:
+  page: ""
+  year: 2025
+  author:
+  - given:
+    given_initial: TX
+    family: Yin
+  - given:
+    given_initial: JH
+    family: Jian
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given:
+    given_initial: XW
+    family: Gu
+  - given:
+    given_initial: JY
+    family: Wu
+  - given:
+    given_initial: C
+    family: Tang
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+
 - title: "Binding Energy-Assisted Oxidation Potential as a Measure of Prelithiation Capability"
   year: 2025
   author:
