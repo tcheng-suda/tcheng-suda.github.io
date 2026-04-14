@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ---
 **Members**  
-(**25 Members (2025.9): 1 Professor, 2 Assistant Professor, 6 Ph.D. Students, 16 M.S. students**)  
+(**26 Members (2025.9): 1 Professor, 2 Assistant Professor, 6 Ph.D. Students, 17 M.S. students**)  
 |[**Tao Cheng(程涛)**](#tcheng)
 |[**Hao Yang(杨昊)**](#hyang)
 |[**Yue Liu(刘越)**](#yliu)
@@ -31,6 +31,7 @@ permalink: /about/
 |[**Tianqi Zhao(赵天奇)**](#tqzhao)
 |[**Yidan Sheng(盛宜丹)**](#ydsheng)
 |[**Binbin Ruan(阮彬彬)**](#bbruan)
+|[**Hengyu Liu(刘恒钰)**](#hyliu)
 |  
 **Outreach**  
 (**0 Undergraduates**)  
@@ -629,10 +630,20 @@ Email:
 ---
 <br />
 # <a name="bbruan"></a>Binbin Ruan(阮彬彬)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>  
-personal web page:  [Binbin Ruan](https://tcheng-suda.github.io/people/bbruan/)  
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
+personal web page:  [Binbin Ruan](https://tcheng-suda.github.io/people/bbruan/)
 
 {% include image.html url="/images/bbruan.jpeg" caption="" width=300 align="center" %}
+
+Email:
+
+<a href="#top">back to top</a>
+
+---
+<br />
+# <a name="hyliu"></a>Hengyu Liu(刘恒钰)
+<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
+personal web page:  [Hengyu Liu](https://tcheng-suda.github.io/people/hyliu/)
 
 Email:
 
