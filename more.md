@@ -29,7 +29,7 @@ permalink: /more/
 |[**JMCA**](http://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-a/)
 |
 # **苏州大学**
-|[**校历(Academic Calendar)**](http://www.suda.edu.cn/commonity_service/univ_calander.jsp)
+|[**校历(Academic Calendar)**](https://www.suda.edu.cn/commonality_service/univ_calander.jsp)
 |[**地图(Map)**](http://map.suda.edu.cn/Projects/SZDX/WebSite/Index.aspx)
 |
 
@@ -58,6 +58,14 @@ permalink: /more/
 |[**阿里云**](http://47.103.5.36:8889)
 
 # **量子化学 2023**
+|[**c1-ppt**](https://tcheng-suda.github.io/downloads/qm-2023-01.pptx)
+|[**c1-pdf**](https://tcheng-suda.github.io/downloads/qm-2023-01.pdf)
+
+# **量子化学 2024**
+|[**c1-ppt**](https://tcheng-suda.github.io/downloads/qm-2023-01.pptx)
+|[**c1-pdf**](https://tcheng-suda.github.io/downloads/qm-2023-01.pdf)
+
+# **量子化学 2025**
 |[**c1-ppt**](https://tcheng-suda.github.io/downloads/qm-2023-01.pptx)
 |[**c1-pdf**](https://tcheng-suda.github.io/downloads/qm-2023-01.pdf)
 
