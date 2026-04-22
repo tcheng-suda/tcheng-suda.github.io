@@ -1,3 +1,216 @@
+- title: 'Towards long-life 500 Wh kg−1 lithium metal pouch cells via compact ion-pair aggregate electrolyte'
+  volume: 9
+  issue:
+  page: 987-998
+  year: 2024
+  author:
+  - given:
+    given_initial: YL
+    family: Jie
+  - given:
+    given_initial: SY
+    family: Wang
+  - given:
+    given_initial: ST
+    family: Weng
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: C
+    family: Tang
+  - given:
+    given_initial: XP
+    family: Li
+  - given:
+    given_initial: ZF
+    family: Zhang
+  - given:
+    given_initial: YC
+    family: Zhang
+  - given:
+    given_initial: YW
+    family: Chen
+  - given:
+    given_initial: FY
+    family: Huang
+  - given:
+    given_initial: YL
+    family: Xu
+  - given:
+    given_initial: WX
+    family: Li
+  - given:
+    given_initial: YZ
+    family: Guo
+  - given:
+    given_initial: ZX
+    family: He
+  - given:
+    given_initial: XD
+    family: Ren
+  - given:
+    given_initial: YH
+    family: Lu
+  - given:
+    given_initial: RG
+    family: Cao
+  - given:
+    given_initial: PF
+    family: Yan
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: XF
+    family: Wang
+    role: corr
+  - given:
+    given_initial: SH
+    family: Jiao
+    role: corr
+  - given:
+    given_initial: DS
+    family: Xu
+    role: corr
+  journal:
+    abbreviation: Nat. Energy
+  URL: https://doi.org/10.1038/s41560-024-01565-z
+  type: article
+  DOI: 10.1038/s41560-024-01565-z
+  fulltext:
+  language: english
+
+- title: 'Enhanced Li-ion diffusion improves N2-to-NH3 current efficiency at 100 mA cm−2'
+  volume: 391
+  issue:
+  page: 724-729
+  year: 2026
+  author:
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: HM
+    family: Li
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: PY
+    family: Liu
+  - given:
+    given_initial: N
+    family: Sun
+  - given:
+    given_initial: YY
+    family: Wang
+  - given:
+    given_initial: CL
+    family: Tu
+  - given:
+    given_initial: YP
+    family: Liu
+  - given:
+    given_initial: Y
+    family: Wang
+  - given:
+    given_initial: XY
+    family: Yue
+  - given:
+    given_initial: LL
+    family: Ma
+  - given:
+    given_initial: W
+    family: Wen
+  - given:
+    given_initial: JY
+    family: Xu
+  - given:
+    given_initial: ZF
+    family: Liang
+  - given:
+    given_initial: JY
+    family: Ma
+  - given:
+    given_initial: F
+    family: Song
+  - given:
+    given_initial: Z
+    family: Liang
+  - given:
+    given_initial: H
+    family: Sun
+  - given:
+    given_initial: DS
+    family: Ling
+  - given:
+    given_initial: HY
+    family: Liang
+  - given:
+    given_initial: F
+    family: Liu
+  - given:
+    given_initial: YF
+    family: Hu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: J
+    family: Li
+    role: corr
+  journal:
+    abbreviation: Science
+  URL: https://doi.org/10.1126/science.adw5462
+  type: article
+  DOI: 10.1126/science.adw5462
+  fulltext:
+  language: english
+
+- title: 'Urea Synthesis via Electrocatalytic Oxidative Coupling of CO with NH3 on Pt'
+  volume: 7
+  issue:
+  page: 785-795
+  year: 2024
+  author:
+  - given:
+    given_initial: HC
+    family: Xiong
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: KD
+    family: Chen
+  - given:
+    given_initial: SK
+    family: Lu
+  - given:
+    given_initial: QK
+    family: Hu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: BJ
+    family: Xu
+    role: corr
+  - given:
+    given_initial: Q
+    family: Lu
+    role: corr
+  journal:
+    abbreviation: Nat. Catal.
+  URL: https://doi.org/10.1007/s12598-024-02903-6
+  type: article
+  DOI: 10.1007/s12598-024-02903-6
+  fulltext:
+  language: english
+
 - title: 'Predicted operando Polymerization at Lithium Anode via Boron Insertion'
   volume: 6
   issue: 
