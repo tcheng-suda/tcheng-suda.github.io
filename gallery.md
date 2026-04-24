@@ -14,10 +14,10 @@ permalink: /gallery/
 ![group_2023_01](/images/group-2023-01.jpeg)
 
 # **Seminar 2022 2**
-![seminar_2022_02](/images/seminar-2022-02.png)
+![seminar_2022_02](/images/seminar-2022-02.jpg)
 
 # **Seminar 2022 1**
-![seminar_2022_01](/images/seminar-2022-01.png)
+![seminar_2022_01](/images/seminar-2022-01.jpg)
 
 # **Group 2022 2**
 ![group 2022_out_2](/images/group-2022-02.jpeg)
