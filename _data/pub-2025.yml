@@ -1,7 +1,7 @@
 - title: 'Atomic-Level Mechanistic Insights into Carbonate Electrolyte Degradation on High-Voltage LiCoO2 Cathodes'
-  volume:
+  volume: 38
   issue:
-  page: ""
+  page: "438-446"
   year: 2025
   author:
   - given:
@@ -29,15 +29,15 @@
     family: Cheng
     role: corr, main
   journal:
-    abbreviation: Submitted
-  URL:
+    abbreviation: "Chin. J. Chem. Phys."
+  URL: "https://doi.org/10.1063/1674-0068/cjcp2505068"
   type: article
-  DOI:
+  DOI: "10.1063/1674-0068/cjcp2505068"
   fulltext:
   language: english
 
 - title: "Binding Energy-Assisted Oxidation Potential as a Measure of Prelithiation Capability"
-  year: 2025
+  year: 2026
   author:
     - given:
       given_initial: MY
@@ -80,10 +80,13 @@
       given_initial: LQ
       family: Chen
   journal:
-    abbreviation: "Angew. Chem."
+    abbreviation: "Angew. Chem. Int. Ed."
   URL: "https://doi.org/10.1002/ange.202515463"
   type: article
   DOI: "10.1002/ange.202515463"
+  volume: 138
+  issue: 6
+  page: e15463
   language: english
 
 - title: "Real-Space Quantitative Molecular Analysis at Single-Molecule Resolution"
@@ -272,10 +275,13 @@
       family: Huang
       role: corr
   journal:
-    abbreviation: "Angew. Chem."
+    abbreviation: "Angew. Chem. Int. Ed."
   URL: "https://doi.org/10.1002/ange.202525130"
   type: article
   DOI: "10.1002/ange.202525130"
+  volume: 138
+  issue: 5
+  page: e25130
   language: english
 
 - title: "Atomic Real-Space Imaging of Molecular Statics and Dynamics at Confined States"
@@ -424,7 +430,7 @@
   language: english
 
 - title: "Metal-free carbon dots toward bio-green hydrogen evolution via photocatalysis"
-  year: 2025
+  year: 2026
   author:
     - given:
       given_initial: JX
@@ -459,12 +465,17 @@
       role: corr
   journal:
     abbreviation: Nanoscale
-  URL: "https://doi.org/10.1039/d5nr04472c"
+  URL: "https://doi.org/10.1039/D5NR04472C"
   type: article
-  DOI: "10.1039/d5nr04472c"
+  DOI: "10.1039/D5NR04472C"
+  volume: 18
+  page: 2131-2143
   language: english
 
 - title: "In Situ Polymerized Polysiloxane Enables Cohesive Solid-Electrolyte Interphase for Practical Lithium-Metal Batteries"
+  volume: 38
+  issue: 10
+  page: "e19565"
   year: 2025
   author:
     - given:
@@ -728,6 +739,9 @@
   language: english
 
 - title: "Accelerated Defluorination Kinetics for an Ultrathin Solid-Electrolyte Interphase in Durable Lithium Metal Batteries"
+  volume: 148
+  issue: 7
+  page: "6915-6925"
   year: 2025
   author:
     - given:
@@ -935,7 +949,7 @@
   language: english
 
 - title: "In Situ Electrochemical Polymerization Enabling High-Performance Quasi-Solid-State Batteries"
-  year: 2025
+  year: 2026
   author:
     - given:
       given_initial: JC
@@ -982,6 +996,9 @@
   URL: "https://doi.org/10.1002/aenm.202504413"
   type: article
   DOI: "10.1002/aenm.202504413"
+  volume: 16
+  issue: 7
+  page: e04413
   language: english
 
 - title: "Engineering catalyst–support interactions in cobalt phthalocyanine for enhanced electrocatalytic CO2 reduction: the role of graphene-skinned Al2O3"
@@ -1199,9 +1216,9 @@
   language: english
 
 - title: "Imaging molecular structures and interactions by enhanced confinement effect in electron microscopy"
-  volume:
+  volume: 16
   issue:
-  page: "ASAP"
+  page: "2447"
   year: 2025
   author:
     - given:
