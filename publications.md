@@ -22,7 +22,7 @@ permalink: /publications/
 
 ## <a name="Selected"></a>Selected
 <div class='panel-pub'>
-<ol start='5' reversed>
+<ol start='8' reversed>
 {% for article in site.data.representative %}
     <li>
     <div class="title">
@@ -65,7 +65,7 @@ permalink: /publications/
 ## <a name="2026"></a>2026
 
 <div class='panel-pub'>
-<ol start='224' reversed>
+<ol start='234' reversed>
 {% for article in site.data.pub-2026 %}
     <li>
     <div class="title">
