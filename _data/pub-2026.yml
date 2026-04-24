@@ -1,3 +1,52 @@
+- title: 'Amorphous MoOx Interfaces Activate Pt Nanoclusters for Ultralow-Overpotential Chlorine Evolution'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: LP
+    family: Tang
+  - given:
+    given_initial: TQ
+    family: Zhao
+  - given:
+    given_initial: JS
+    family: Xie
+  - given:
+    given_initial: LK
+    family: Fu
+  - given:
+    given_initial: YP
+    family: Li
+  - given:
+    given_initial: YF
+    family: Bu
+  - given:
+    given_initial: YF
+    family: Fu
+  - given:
+    given_initial: JH
+    family: Zhou
+  - given:
+    given_initial: BJ
+    family: Xu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: MF
+    family: Li
+    role: corr
+  journal:
+    abbreviation: Angew. Chem. Int. Ed.
+  URL: https://doi.org/10.1002/anie.7262304
+  type: article
+  DOI: 10.1002/anie.7262304
+  fulltext:
+  language: english
+
 - title: 'Oxidation-resistant AgRuIr alloy nanocages for efficient and enduring oxygen evolution in proton exchange membrane electrolysis'
   volume:
   issue:

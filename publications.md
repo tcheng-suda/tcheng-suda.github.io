@@ -40,7 +40,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -65,7 +65,7 @@ permalink: /publications/
 ## <a name="2026"></a>2026
 
 <div class='panel-pub'>
-<ol start='234' reversed>
+<ol start='235' reversed>
 {% for article in site.data.pub-2026 %}
     <li>
     <div class="title">
@@ -83,7 +83,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -126,7 +126,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -169,7 +169,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -212,7 +212,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -255,7 +255,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -298,7 +298,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -341,7 +341,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -384,7 +384,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -427,7 +427,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -470,7 +470,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -513,7 +513,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -556,7 +556,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -599,7 +599,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
@@ -642,7 +642,7 @@ permalink: /publications/
     <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
     </div>
     <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
+        <a href="{{ article.URL }}" target="_blank">{{ article.URL }}</a>
     </div>
     <div class="note">
         <span class="note">{{ article.note }}</span>
