@@ -427,6 +427,7 @@
   type: article
   DOI: 10.1038/s41467-025-66920-4
   language: english
+  fulltext: 215.pdf
 - title: Metal-free carbon dots toward bio-green hydrogen evolution via photocatalysis
   year: 2026
   author:
@@ -697,6 +698,7 @@
   type: article
   DOI: 10.1038/s41467-025-56039-x
   language: english
+  fulltext: 210.pdf
 - title: Polymer-tethered pyridine tunes activities of the two distinct CO2 electroreduction
     sites on Cu
   volume: 16
@@ -735,6 +737,7 @@
   type: article
   DOI: 10.1038/s41467-025-66673-0
   language: english
+  fulltext: 209.pdf
 - title: Accelerated Defluorination Kinetics for an Ultrathin Solid-Electrolyte Interphase
     in Durable Lithium Metal Batteries
   volume: 148
@@ -1061,7 +1064,7 @@
   URL: https://doi.org/10.1039/D5SC02616D
   type: article
   DOI: null
-  fulltext: null
+  fulltext: 204.pdf
   language: english
 - title: Electrostatic Catalysis-Driven Asymmetric SEI for Dendrite-Free Lithium Metal
     Anodes
@@ -1141,7 +1144,7 @@
   URL: https://doi.org/10.26599/NR.2025.94907662
   type: article
   DOI: null
-  fulltext: null
+  fulltext: 202.pdf
   language: english
 - title: Metastable palladium oxide for highly efficient and selective chlorine evolution
     reaction
@@ -1273,7 +1276,7 @@
   URL: https://doi.org/10.1038/s41467-025-57816-4
   type: article
   DOI: null
-  fulltext: null
+  fulltext: 200.pdf
   language: english
 - title: Off-Equilibrium Hydrothermal Synthesis of High-Entropy Alloy Nanoparticles
   volume: 147

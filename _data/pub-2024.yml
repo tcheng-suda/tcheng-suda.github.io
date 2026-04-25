@@ -311,7 +311,7 @@
   URL: https://doi.org/10.1038/s41467-024-52162-3
   type: article
   DOI: null
-  fulltext: null
+  fulltext: 184.pdf
   language: english
 - title: Unraveling the Potential Dependence of Active Structures and Reaction Mechanism
     of Ni‐based MOFs Electrocatalysts for Alkaline OER
@@ -544,7 +544,7 @@
   URL: https://doi.org/10.1038/s41467-024-51384-9
   type: article
   DOI: null
-  fulltext: null
+  fulltext: 180.pdf
   language: english
 - title: Aluminum Corrosion Chemistry in High-voltage Lithium Metal Batteries with
     LiFSI-based Ether Electrolytes
@@ -1079,10 +1079,10 @@
     role: corr
   journal:
     abbreviation: Nat. Catal.
-  URL: https://doi.org/10.1007/s12598-024-02903-6
+  URL: https://doi.org/10.1038/s41929-024-01173-w
   type: article
-  DOI: null
-  fulltext: null
+  DOI: 10.1038/s41929-024-01173-w
+  fulltext: 169.pdf
   language: english
 - title: Electrochemically activated metal oxide sites at Rh–Ni2P electrocatalyst
     for efficient alkaline hydrogen evolution reaction
@@ -1124,9 +1124,9 @@
     role: corr
   journal:
     abbreviation: Rare Metals
-  URL: null
+  URL: https://doi.org/10.1007/s12598-024-02903-6
   type: article
-  DOI: null
+  DOI: 10.1007/s12598-024-02903-6
   fulltext: null
   language: english
 - title: Edge sites dominate the hydrogen evolution reaction on platinum nanocatalysts
@@ -1192,7 +1192,7 @@
   URL: https://doi.org/10.1038/s41929-024-01156-x
   type: article
   DOI: null
-  fulltext: null
+  fulltext: 167.pdf
   language: english
 - title: Sulfur-tuned main-group Sb−N−C catalysts for selective 2-electron and 4-electron
     oxygen reduction
