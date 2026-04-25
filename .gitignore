@@ -10,6 +10,7 @@ Gemfile.lock
 
 # macOS
 .DS_Store
+__MACOSX/
 
 # Editor
 *.swp

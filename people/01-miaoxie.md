@@ -4,6 +4,8 @@ title: Miao Xie
 permalink: /people/mxie/
 ---
 
+<img src="/images/mxie.jpeg" alt="Miao Xie" style="max-width: 300px; border-radius: 6px;">
+
 # 谢淼
 
 <span style="color:black;font-size:18pt;font-weight:bold">Postdoctoral Researcher</span>  

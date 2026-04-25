@@ -6,14 +6,13 @@ permalink: /research/
 
 <div id="top" class="link-grid-section" style="margin-bottom: 18px;">
   <p><strong>We are working on:</strong></p>
-  <a href="#co2rr">Carbon Dioxide Reduction</a>
-  <a href="#orr">Oxygen Reduction Reaction</a>
-  <a href="#solid">Solid Electrolyte Interface</a>
-  <a href="#amd">Accelerated Molecular Dynamics</a>
+  <a href="#electrochemical-reaction">Electrochemical Reaction</a>
+  <a href="#battery-interface">Battery Interface/Interphase</a>
+  <a href="#advanced-methods">Advanced Methods</a>
 </div>
 
 <div class="link-grid-section" style="margin-bottom: 18px;">
-  <h2>1. Electrochemical Reaction</h2>
+  <h2 id="electrochemical-reaction">1. Electrochemical Reaction</h2>
   <p><a href="#co2rr">Carbon Dioxide Reduction</a> | <a href="#orr">Oxygen Reduction Reaction</a></p>
 </div>
 
@@ -49,7 +48,7 @@ permalink: /research/
 </div>
 
 <div class="link-grid-section" style="margin-bottom: 18px;">
-  <h2>2. Battery</h2>
+  <h2 id="battery-interface">2. Battery Interface/Interphase</h2>
   <a href="#solid">Solid Electrolyte Interface</a>
 </div>
 
@@ -59,7 +58,7 @@ permalink: /research/
 </div>
 
 <div class="link-grid-section" style="margin-bottom: 18px;">
-  <h2>3. Multiscale Simulation Methods</h2>
+  <h2 id="advanced-methods">3. Advanced Methods</h2>
   <a href="#amd">Accelerated Molecular Dynamics</a>
 </div>
 

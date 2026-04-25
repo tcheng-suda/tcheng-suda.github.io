@@ -5,3 +5,5 @@ permalink: /people/txyin/
 ---
 
 <img src="/images/txyin.jpeg" alt="Tianxiu Yin" style="max-width: 300px; border-radius: 6px;">
+
+<img src="/images/txyin.jpeg" alt="Tianxiu Yin" style="max-width: 300px; border-radius: 6px;">
