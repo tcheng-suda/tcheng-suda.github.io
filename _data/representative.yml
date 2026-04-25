@@ -86,6 +86,72 @@
   DOI: 10.1126/science.adw5462
   fulltext: 228.pdf
   language: english
+- title: Dynamic evolution of cathode-electrolyte interphase in lithium metal batteries
+    with ether electrolytes
+  volume: 9
+  issue: null
+  page: 9,101885
+  year: 2025
+  author:
+  - given: null
+    given_initial: YW
+    family: Chen
+  - given: null
+    given_initial: MH
+    family: Li
+  - given: null
+    given_initial: YL
+    family: Jie
+  - given: null
+    given_initial: Y
+    family: Liu
+  - given: null
+    given_initial: ZF
+    family: Zhang
+  - given: null
+    given_initial: PP
+    family: Yu
+  - given: null
+    given_initial: WX
+    family: Li
+  - given: null
+    given_initial: Y
+    family: Liu
+  - given: null
+    given_initial: XP
+    family: Li
+  - given: null
+    given_initial: FY
+    family: Huang
+  - given: null
+    given_initial: ZW
+    family: Lei
+  - given: null
+    given_initial: PF
+    family: Yan
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given: null
+    given_initial: MD
+    family: Gu
+    role: corr
+  - given: null
+    given_initial: SH
+    family: Jiao
+    role: corr
+  - given: null
+    given_initial: RG
+    family: Cao
+    role: corr
+  journal:
+    abbreviation: Joule
+  URL: https://doi.org/10.1016/j.joule.2025.101885
+  type: article
+  DOI: null
+  fulltext: 198.pdf
+  language: english
 - title: Towards long-life 500 Wh kg−1 lithium metal pouch cells via compact ion-pair
     aggregate electrolyte
   volume: 9
@@ -210,6 +276,71 @@
   type: article
   DOI: 10.1007/s12598-024-02903-6
   fulltext: 169.pdf
+  language: english
+- title: Edge sites dominate the hydrogen evolution reaction on platinum nanocatalysts
+  volume: 7
+  issue: null
+  page: 678–688
+  year: 2024
+  author:
+  - given: null
+    given_initial: ZH
+    family: Huang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given: null
+    given_initial: AH
+    family: Shah
+  - given: null
+    given_initial: GY
+    family: Zhong
+  - given: null
+    given_initial: CZ
+    family: Wan
+  - given: null
+    given_initial: PQ
+    family: Wang
+  - given: null
+    given_initial: MN
+    family: Ding
+  - given: null
+    given_initial: J
+    family: Huang
+  - given: null
+    given_initial: Z
+    family: Wan
+  - given: null
+    given_initial: SB
+    family: Wang
+  - given: null
+    given_initial: J
+    family: Cai
+  - given: null
+    given_initial: BS
+    family: Peng
+  - given: null
+    given_initial: HT
+    family: Liu
+  - given: null
+    given_initial: Y
+    family: Huang
+    role: corr
+  - given: null
+    given_initial: WA
+    family: Goddard
+    role: corr
+  - given: null
+    given_initial: XF
+    family: Duan
+    role: corr
+  journal:
+    abbreviation: Nat. Catal.
+  URL: https://doi.org/10.1038/s41929-024-01156-x
+  type: article
+  DOI: null
+  fulltext: 167.pdf
   language: english
 - title: Predicted operando Polymerization at Lithium Anode via Boron Insertion
   volume: 6

@@ -18,7 +18,7 @@ permalink: /about/
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-7.jpg" caption="" width=300 align="right" %}
 
-<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>
+<span class="role-label">Professor</span>
 [**Institute of Functional Nano & Soft Materials (FUNSOM)**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm), [**Soochow University**](http://www.suda.edu.cn/)
 **Office:** 912-413 (4th floor), Soochow University Dushu-Lake Campus, Box 33, 199 Ren'ai Rd, Suzhou Industrial Park, Suzhou, Jiangsu, 215123, P.R. China
 **Email:** [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn)

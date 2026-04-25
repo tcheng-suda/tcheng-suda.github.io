@@ -3,12 +3,12 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you need the full text.
-## Journal Articles
 |[**Google Scholar**](https://goo.gl/AgbNaK)
 |[**ResearchGate**](https://www.researchgate.net/profile/Tao_Cheng13)
 |[**ORCID**](http://orcid.org/0000-0003-4830-177X)
 |[**Web of Science**](https://www.webofscience.com/wos/author/record/1444044)
+|  
+|(citation:22,713; h-index:76; i10-index: 201 updated by April 4 2026)
 |  
 |[**2026**](#2026)
 |[**2025**](#2025)
@@ -19,10 +19,11 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 |[**2020**](#2020)
 |[**2019**](#2019)|[**2018**](#2018)|[**2017**](#2017)|[**2016**](#2016)
 |[**2015**](#2015)|[**2014**](#2014)|[**before 2014**](#2014-b)|  
+Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you need the full text.  
 
 ## <a name="Selected"></a>Selected
 <div class='panel-pub'>
-<ol start='8' reversed>
+<ol start='10' reversed>
 {% for article in site.data.representative %}
     <li>
     <div class="title">
