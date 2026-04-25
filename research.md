@@ -3,54 +3,71 @@ layout: page
 title: Research
 permalink: /research/
 ---
-**We are working on:**
-1. **Electrochemical Reactions**: [**Carbon Dioxide Reduction**](#co2rr); [**Oxygen Reduction Reaction**](#orr);
-2. **Battery**: [**Solid Electrolyte Interface**](#solid);
-3. **Methods for Multiscale Simulations**: [**Accelerated Molecular Dynamics**](#amd);
 
-# <a name="reaction"></a>**1. Electrochemical Reaction**
-|<a name="top"></a>[**Carbon Dioxide Reduction**](#co2rr)|[**Oxygen Reduction Reaction**](#orr)|   
+<div id="top" class="link-grid-section" style="margin-bottom: 18px;">
+  <p><strong>We are working on:</strong></p>
+  <a href="#co2rr">Carbon Dioxide Reduction</a>
+  <a href="#orr">Oxygen Reduction Reaction</a>
+  <a href="#solid">Solid Electrolyte Interface</a>
+  <a href="#amd">Accelerated Molecular Dynamics</a>
+</div>
 
-## <a name="co2rr"></a>**1.1 Carbon Dioxide Reduction** 
-![co2](/images/co2.png#left)
+<div class="link-grid-section" style="margin-bottom: 18px;">
+  <h2>1. Electrochemical Reaction</h2>
+  <p><a href="#co2rr">Carbon Dioxide Reduction</a> | <a href="#orr">Oxygen Reduction Reaction</a></p>
+</div>
 
-**A critical step towards rational design of new catalysts that achieve selective and efficient reduction of carbon dioxide to specific hydrocarbons and oxygenates is to determine the detailed reaction mechanism including kinetics and product selectivity as a function of pH and applied potential for known systems. To accomplish this we apply ab initio molecular dynamics free energy calculation for the water/Cu system with explicit solvent to determine the kinetics and pathways for major products (ethylene and methane) and minor products (ethanol, glyoxal, glycoladehyde, ethylene glycol, acetaldehyde, ethane and methanol).**
+<div class="link-grid-section" style="margin-bottom: 18px;">
+  <h3 id="co2rr">1.1 Carbon Dioxide Reduction</h3>
+  <img src="/images/co2.png" alt="co2" style="max-width: 100%; border-radius: 6px;">
 
-Related publications:  
-* [**Surface Ligand Promotion of Carbon Dioxide Reduction through Stabilizing Chemisorbed Reactive Intermediates**](http://dx.doi.org/doi/10.1021/acs.jpclett.8b00959)
-* [**"Ultrahigh Mass Activity for Carbon Dioxide Reduction Enabled by Gold-iron Core-shell Nanoparticles"**](http://dx.doi.org/10.1021/jacs.7b09251)  
-*  [**"Nature of the Active Sites for CO Reduction on Copper Nanoparticles; Suggestions for Optimizing Performance"**](http://dx.doi.org/10.1021/jacs.7b03300)  
-* [**"Predicted Structures of the Active Sites Responsible for the Improved Reduction of Carbon Dioxide by Gold Nanoparticles"**](http://dx.doi.org/10.1021/acs.jpclett.7b01335)
-* [**"The Full Atomistic Reaction Mechanism with Kinetics for CO Reduction on Cu(100) from Aimd Free Energy Calculations at 298k"**](http://dx.doi.org/10.1073/pnas.1612106114)  
-* [**"Reaction Mechanisms for the Electrochemical Reduction of CO2 to CO and Formate on the Cu(100) Surface at 298 K from Quantum Mechanics Free Energy Calculations with Explicit Water"**](http://dx.doi.org/10.1021/jacs.6b08534)  
-* [**"Free-Energy Barriers and Reaction Mechanisms for the Electrochemical Reduction of CO on the Cu(100) Surface, Including Multiple Layers of Explicit Solvent at pH 0"**](http://dx.doi.org/10.1021/acs.jpclett.5b02247)  
+  <p><strong>A critical step towards rational design of new catalysts that achieve selective and efficient reduction of carbon dioxide to specific hydrocarbons and oxygenates is to determine the detailed reaction mechanism including kinetics and product selectivity as a function of pH and applied potential for known systems. To accomplish this we apply ab initio molecular dynamics free energy calculation for the water/Cu system with explicit solvent to determine the kinetics and pathways for major products (ethylene and methane) and minor products (ethanol, glyoxal, glycoladehyde, ethylene glycol, acetaldehyde, ethane and methanol).</strong></p>
 
-[**back to top**](#top)
+  <p><strong>Related publications:</strong></p>
+  <a href="http://dx.doi.org/doi/10.1021/acs.jpclett.8b00959">Surface Ligand Promotion of CO2 Reduction</a>
+  <a href="http://dx.doi.org/10.1021/jacs.7b09251">Ultrahigh Mass Activity for CO2 Reduction</a>
+  <a href="http://dx.doi.org/10.1021/jacs.7b03300">Nature of Active Sites for CO Reduction on Cu Nanoparticles</a>
+  <a href="http://dx.doi.org/10.1021/acs.jpclett.7b01335">Predicted Structures of Active Sites for CO Reduction</a>
+  <a href="http://dx.doi.org/10.1073/pnas.1612106114">Full Atomistic Reaction Mechanism for CO Reduction on Cu(100)</a>
+  <a href="http://dx.doi.org/10.1021/jacs.6b08534">Reaction Mechanisms for Electrochemical Reduction of CO2</a>
+  <a href="http://dx.doi.org/10.1021/acs.jpclett.5b02247">Free-Energy Barriers for CO Reduction on Cu(100)</a>
+  <p style="text-align: right; margin-top: 8px;"><a href="#top" style="font-size: 0.85em; border: none; padding: 0;">↑ back to top</a></p>
+</div>
 
-## <a name="orr"></a>**1.2 Oxygen Reduction Reaction**
-![orr](/images/orr.png#left)
+<div class="link-grid-section" style="margin-bottom: 18px;">
+  <h3 id="orr">1.2 Oxygen Reduction Reaction</h3>
+  <img src="/images/orr.png" alt="orr" style="max-width: 100%; border-radius: 6px;">
 
-**The sluggish Oxygen Reduction Reaction (ORR) is a major impediment to economical use of fuel cells in transportation.**
-**However, the reaction mechanism of ORR is still far from clear.**
-**Here, we explored the full ORR reaction mechanism for Pt(111) based on ab initio molecular dynamics free energy calculations including explicit water.**  
-Related Publications:  
-* [**"Mechanism and Kinetics of the Electrocatalytic Reaction Responsible for the High Cost of Hydrogen Fuel Cells"**](http://dx.doi.org/10.1039/C6CP08055C)  
-* [**"Ultrafine Jagged Platinum Nanowires Enable Ultrahigh Mass Activity for the Oxygen Reduction Reaction"**](
-http://dx.doi.org/10.1126/science.aaf9050)  
+  <p><strong>The sluggish Oxygen Reduction Reaction (ORR) is a major impediment to economical use of fuel cells in transportation.</strong>
+  <strong>However, the reaction mechanism of ORR is still far from clear.</strong>
+  <strong>Here, we explored the full ORR reaction mechanism for Pt(111) based on ab initio molecular dynamics free energy calculations including explicit water.</strong></p>
 
-[**back to top**](#top)
+  <p><strong>Related publications:</strong></p>
+  <a href="http://dx.doi.org/10.1039/C6CP08055C">Mechanism and Kinetics of Electrocatalytic ORR</a>
+  <a href="http://dx.doi.org/10.1126/science.aaf9050">Ultrafine Jagged Pt Nanowires for ORR</a>
+  <p style="text-align: right; margin-top: 8px;"><a href="#top" style="font-size: 0.85em; border: none; padding: 0;">↑ back to top</a></p>
+</div>
 
-# <a name="battery"></a>**2. Battery** 
-|[**Solid Electrolyte Interface**](#solid)|  
-## <a name="solid"></a> **Solid Electrolyte Interface**
-[**back to top**](#top)
+<div class="link-grid-section" style="margin-bottom: 18px;">
+  <h2>2. Battery</h2>
+  <a href="#solid">Solid Electrolyte Interface</a>
+</div>
 
-# <a name="method"></a>**3. Multiscale Simulation Methods** 
-|[**Accelerated Molecular Dynamics**](#amd)|  
+<div class="link-grid-section" style="margin-bottom: 18px;">
+  <h3 id="solid">2.1 Solid Electrolyte Interface</h3>
+  <p style="text-align: right; margin-top: 8px;"><a href="#top" style="font-size: 0.85em; border: none; padding: 0;">↑ back to top</a></p>
+</div>
 
-## <a name="amd"></a> **Accelerated Molecular Dynamics**
-**We develop the methodology for dramatically accelerating the ReaxFF reactive force field based reactive molecular dynamics simulations through use of the bond boost concept, which we validate for describing hydrogen combustion.**  
-Related Publications:  
-* [**"Adaptive Accelerated ReaxFF Reactive Dynamics with Validation from Simulating Hydrogen Combustion"**](http://dx.doi.org/10.1021/ja5037258)  
+<div class="link-grid-section" style="margin-bottom: 18px;">
+  <h2>3. Multiscale Simulation Methods</h2>
+  <a href="#amd">Accelerated Molecular Dynamics</a>
+</div>
 
-[**back to top**](#top)
+<div class="link-grid-section" style="margin-bottom: 18px;">
+  <h3 id="amd">3.1 Accelerated Molecular Dynamics</h3>
+  <p><strong>We develop the methodology for dramatically accelerating the ReaxFF reactive force field based reactive molecular dynamics simulations through use of the bond boost concept, which we validate for describing hydrogen combustion.</strong></p>
+
+  <p><strong>Related publications:</strong></p>
+  <a href="http://dx.doi.org/10.1021/ja5037258">Adaptive Accelerated ReaxFF Reactive Dynamics</a>
+  <p style="text-align: right; margin-top: 8px;"><a href="#top" style="font-size: 0.85em; border: none; padding: 0;">↑ back to top</a></p>
+</div>

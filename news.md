@@ -4,16 +4,22 @@ title: Blog
 permalink: /news/
 ---
 
-<ul class="listing">
+<div class="link-grid">
+
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
+    {% if year != nil %}
+</div>
+    {% endif %}
     {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
+<div class="link-grid-section">
+  <h2>{{ y }}</h2>
   {% endif %}
-  <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </li>
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.date | date:"%b %-d" }} — {{ post.title }}</a>
 {% endfor %}
-</ul>
+{% if year != nil %}
+</div>
+{% endif %}
+
+</div>
