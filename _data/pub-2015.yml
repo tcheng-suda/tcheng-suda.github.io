@@ -1,8 +1,9 @@
-- title: 'Free-Energy Barriers and Reaction Mechanisms for the Electrochemical Reduction
-          of CO on the Cu(100) Surface, Including Multiple Layers of Explicit Solvent at pH 0'
+- title: Free-Energy Barriers and Reaction Mechanisms for the Electrochemical Reduction
+    of CO on the Cu(100) Surface, Including Multiple Layers of Explicit Solvent at
+    pH 0
   volume: '6'
   issue: '23'
-  page: '4767-4773'
+  page: 4767-4773
   year: 2015
   author:
   - given: Tao
@@ -21,16 +22,15 @@
   URL: http://dx.doi.org/10.1021/acs.jpclett.5b02247
   type: article
   DOI: 10.1021/acs.jpclett.5b02247
-  fulltext:
+  fulltext: 017.pdf
   language: english
-
-- title: 'Annealing Kinetics of Electrodeposited Lithium Dendrites'
+- title: Annealing Kinetics of Electrodeposited Lithium Dendrites
   volume: '143'
   issue: '10'
   page: '134701'
   year: 2015
   author:
-  - given:
+  - given: null
     given_initial: A
     family: Aryanfar
     role: corr
@@ -38,16 +38,16 @@
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: AJ
     family: Colussi
-  - given:
+  - given: null
     given_initial: BV
-    family: Merinov 
+    family: Merinov
   - given: William A
     given_initial: WA
     family: Goddard
-  - given:
+  - given: null
     given_initial: MR
     family: Hoffmann
   journal:
@@ -55,44 +55,44 @@
   URL: http://dx.doi.org/10.1063/1.4930014
   type: article
   DOI: 10.1063/1.4930014
-  fulltext:
+  fulltext: 016.pdf
   language: english
   media1: (reported by AIP publishing "Extending a Battery's Lifetime with Heat")
   media1_url: https://phys.org/news/2015-10-battery-lifetime.html
-
-- title: 'Rescaling of Metal Oxide Nanocrystals for Energy Storage Having High Capacitance and Energy Density with Robust Cycle Life'
+- title: Rescaling of Metal Oxide Nanocrystals for Energy Storage Having High Capacitance
+    and Energy Density with Robust Cycle Life
   volume: '112'
   issue: '26'
-  page: '7914-7919'
+  page: 7914-7919
   year: 2015
   author:
-  - given:
+  - given: null
     given_initial: HM
     family: Jeong
-  - given:
+  - given: null
     given_initial: KM
     family: Choi
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: DK
     family: Lee
-  - given:
+  - given: null
     given_initial: RJ
     family: Zhou
-  - given:
+  - given: null
     given_initial: IW
     family: Ock
-  - given:
+  - given: null
     given_initial: DJ
     family: Milliron
   - given: William A
     given_initial: WA
     family: Goddard
     role: corr
-  - given:
+  - given: null
     given_initial: JK
     family: Kang
     role: corr
@@ -101,21 +101,19 @@
   URL: http://dx.doi.org/10.1073/pnas.1503546112
   type: article
   DOI: 10.1073/pnas.1503546112
-  fulltext:
+  fulltext: 015.pdf
   language: english
-
-- title: 'Initial Decomposition Reactions of Bicyclo-HMX
-          [BCHMX or cis-1,3,4,6 Tetranitrooctahydroimidazo-[4,5-d]imidazole]
-          from Quantum Molecular Dynamics Simulations'
+- title: Initial Decomposition Reactions of Bicyclo-HMX [BCHMX or cis-1,3,4,6 Tetranitrooctahydroimidazo-[4,5-d]imidazole]
+    from Quantum Molecular Dynamics Simulations
   volume: '119'
   issue: '5'
-  page: '2290-2296'
+  page: 2290-2296
   year: 2015
   author:
-  - given:
+  - given: null
     given_initial: CC
     family: Ye
-  - given:
+  - given: null
     given_initial: Q
     family: An
   - given: William A
@@ -126,10 +124,10 @@
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: SV
     family: Zybin
-  - given:
+  - given: null
     given_initial: XH
     family: Ju
   journal:
@@ -137,18 +135,17 @@
   URL: http://dx.doi.org/10.1021/jp510328d
   type: article
   DOI: 10.1021/jp510328d
-  fulltext:
+  fulltext: 014.pdf
   language: english
-
-- title: 'Anisotropic Impact Sensitivity and Shock Induced Plasticity of
-TKX-50 (Dihydroxylammonium 5,5′-bis(tetrazole)-1,1′-diolate) Single Crystals:
-From Large-Scale Molecular Dynamics Simulations'
+- title: 'Anisotropic Impact Sensitivity and Shock Induced Plasticity of TKX-50 (Dihydroxylammonium
+    5,5′-bis(tetrazole)-1,1′-diolate) Single Crystals: From Large-Scale Molecular
+    Dynamics Simulations'
   volume: '119'
   issue: '4'
-  page: '2196-2207'
+  page: 2196-2207
   year: 2015
   author:
-  - given:
+  - given: null
     given_initial: Q#
     family: An
   - given: Tao
@@ -159,7 +156,7 @@ From Large-Scale Molecular Dynamics Simulations'
     given_initial: WA
     family: Goddard
     role: corr
-  - given:
+  - given: null
     given_initial: SV
     family: Zybin
   journal:
@@ -167,33 +164,35 @@ From Large-Scale Molecular Dynamics Simulations'
   URL: http://dx.doi.org/10.1021/jp510951s
   type: article
   DOI: 10.1021/jp510951s
-  fulltext:
+  fulltext: 013.pdf
   language: english
   note: (An Q and Cheng T contributed equally)
-
-- title: 'Reaction Mechanism from Quantum Molecular Dynamics for the Initial Thermal Decomposition of 2, 4, 6-triamino-1, 3, 5-triazine-1, 3, 5-trioxide (MTO) and 2, 4, 6-trinitro-1, 3, 5-triazine-1, 3, 5-trioxide (MTO3N), Promising Green Energetic Materials'
+- title: Reaction Mechanism from Quantum Molecular Dynamics for the Initial Thermal
+    Decomposition of 2, 4, 6-triamino-1, 3, 5-triazine-1, 3, 5-trioxide (MTO) and
+    2, 4, 6-trinitro-1, 3, 5-triazine-1, 3, 5-trioxide (MTO3N), Promising Green Energetic
+    Materials
   volume: '3'
   issue: '22'
-  page: '12044-12050'
+  page: 12044-12050
   year: 2015
   author:
-  - given:
+  - given: null
     given_initial: CC
     family: Ye
-  - given:
+  - given: null
     given_initial: Q
     family: An
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: SV
     family: Zybin
-  - given:
+  - given: null
     given_initial: S
     family: Naserifar
-  - given:
+  - given: null
     given_initial: XH
     family: Ju
   - given: William A
@@ -205,19 +204,19 @@ From Large-Scale Molecular Dynamics Simulations'
   URL: http://dx.doi.org/10.1039/C5TA02486B
   type: article
   DOI: 10.1039/C5TA02486B
-  fulltext:
+  fulltext: 012.pdf
   language: english
-
-- title: 'Initial Decomposition Reaction of Di-tetrazine-tetroxide (Dtto) from Quantum Molecular Dynamics: Implications for a Promising Energetic Material'
+- title: 'Initial Decomposition Reaction of Di-tetrazine-tetroxide (Dtto) from Quantum
+    Molecular Dynamics: Implications for a Promising Energetic Material'
   volume: '3'
   issue: '5'
-  page: '1972-1978'
+  page: 1972-1978
   year: 2015
   author:
-  - given:
+  - given: null
     given_initial: CC
     family: Ye
-  - given:
+  - given: null
     given_initial: Q
     family: An
   - given: William A
@@ -228,13 +227,13 @@ From Large-Scale Molecular Dynamics Simulations'
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: WG
     family: Liu
-  - given:
+  - given: null
     given_initial: SV
     family: Zybin
-  - given:
+  - given: null
     given_initial: XH
     family: Ju
   journal:
@@ -242,6 +241,5 @@ From Large-Scale Molecular Dynamics Simulations'
   URL: http://dx.doi.org/10.1039/C4TA05676K
   type: article
   DOI: 10.1039/C4TA05676K
-  fulltext:
+  fulltext: 011.pdf
   language: english
-

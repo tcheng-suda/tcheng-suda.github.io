@@ -1,23 +1,25 @@
-- title: 'Identification of the Selective Sites for Electrochemical Reduction of CO to C2+ Products on Copper Nanoparticles by Combining Reactive Force Fields, Density Functional Theory, and Machine Learning'
-  volume: 3  
-  issue:
-  page: "2983–2988"
+- title: Identification of the Selective Sites for Electrochemical Reduction of CO
+    to C2+ Products on Copper Nanoparticles by Combining Reactive Force Fields, Density
+    Functional Theory, and Machine Learning
+  volume: 3
+  issue: null
+  page: 2983–2988
   year: 2018
   author:
-  - given:
+  - given: null
     given_initial: YF
     family: Huang
-  - given:
+  - given: null
     given_initial: YL
     family: Chen
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given: 
+  - given: null
     given_initial: LW
     family: Wang
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
     role: corr
@@ -25,61 +27,60 @@
     abbreviation: ACS Energy Lett.
   URL: https://doi.org/10.1021/acsenergylett.8b01933
   type: article
-  DOI: 
-  fulltext: 
+  DOI: null
+  fulltext: 047.pdf
   language: english
-
-- title: 'Molecular Russian Dolls'
-  volume: 9  
-  issue:
-  page: "5275"
+- title: Molecular Russian Dolls
+  volume: 9
+  issue: null
+  page: '5275'
   year: 2018
   author:
-  - given:
+  - given: null
     given_initial: K
     family: Cai
-  - given:
+  - given: null
     given_initial: MC
     family: Lipke
-  - given:
+  - given: null
     given_initial: ZC
     family: Liu
-  - given:
+  - given: null
     given_initial: J
     family: Nelson
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: Y
     family: Shi
-  - given:
+  - given: null
     given_initial: CY
     family: Cheng
-  - given:
+  - given: null
     given_initial: DK
     family: Shen
-  - given:
+  - given: null
     given_initial: JM
     family: Han
-  - given:
+  - given: null
     given_initial: S
     family: Vemuri
-  - given:
+  - given: null
     given_initial: YN
     family: Feng
-  - given:
+  - given: null
     given_initial: CL
     family: Stern
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
-  - given:
+  - given: null
     given_initial: MR
     family: Wasielewski
-  - given: 
-    given_initial: JF 
+  - given: null
+    given_initial: JF
     family: Stoddart
     role: corr
   journal:
@@ -87,67 +88,66 @@
   URL: https://doi.org/10.1038/s41467-018-07673-1
   type: article
   DOI: 10.1038/s41467-018-07673-1
-  fulltext: 
+  fulltext: 046.pdf
   language: english
-
-- title: 'Neighboring Component Effect in a Tri-stable [2]Rotaxane'
+- title: Neighboring Component Effect in a Tri-stable [2]Rotaxane
   volume: 140
   issue: 42
-  page: "13827–13834"
+  page: 13827–13834
   year: 2018
   author:
-  - given:
+  - given: null
     given_initial: YP
     family: Wang
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: JL
     family: Sun
-  - given:
+  - given: null
     given_initial: ZC
     family: Liu
-  - given:
+  - given: null
     given_initial: M
     family: Frasconi
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
-  - given: 
-    given_initial: JF 
+  - given: null
+    given_initial: JF
     family: Stoddart
     role: corr
   journal:
-    abbreviation: J. Am. Chem. Soc. 
+    abbreviation: J. Am. Chem. Soc.
   URL: https://doi.org/10.1021/jacs.8b08519
   type: article
   DOI: 10.1021/jacs.8b08519
-  fulltext: 
+  fulltext: 045.pdf
   language: english
-
-- title: 'In silico Optimization of Organic-inorganic Hybrid Perovskites for Photocatalytic Hydrogen Evolution Reaction in Acidic Solution '
-  volume: 122 
+- title: 'In silico Optimization of Organic-inorganic Hybrid Perovskites for Photocatalytic
+    Hydrogen Evolution Reaction in Acidic Solution '
+  volume: 122
   issue: 36
-  page: "20918-20922"
+  page: 20918-20922
   year: 2018
   author:
-  - given: 
+  - given: null
     given_initial: L
     family: Wang
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
     role: corr
-  - given: Tao 
+  - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: H
     family: Xiao
-  - given:
+  - given: null
     given_initial: YY
     family: Li
     role: corr
@@ -155,57 +155,56 @@
     abbreviation: J. Phys. Chem. C
   URL: https://doi.org/10.1021/acs.jpcc.8b07380
   type: article
-  DOI: 10.1021/acs.jpcc.8b07380 
-  fulltext: 
+  DOI: 10.1021/acs.jpcc.8b07380
+  fulltext: 044.pdf
   language: english
-
-- title: 'Electrochemical CO Reduction Builds Solvent Water into Oxygenate Products'
-  volume: 140 
+- title: Electrochemical CO Reduction Builds Solvent Water into Oxygenate Products
+  volume: 140
   issue: 30
-  page: "9337-9340"
+  page: 9337-9340
   year: 2018
   author:
-  - given: 
+  - given: null
     given_initial: YW#
     family: Lum
-  - given: Tao 
+  - given: Tao
     given_initial: T#
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
     role: corr
-  - given:
+  - given: null
     given_initial: JW
     family: Ager
     role: corr
   journal:
     abbreviation: J. Am. Chem. Soc.
-  URL: https://doi.org/10.1021/jacs.8b03986 
+  URL: https://doi.org/10.1021/jacs.8b03986
   type: article
   DOI: 10.1021/jacs.8b03986
-  fulltext: 
+  fulltext: 043.pdf
   language: english
   note: (Lum YW and Cheng T contributed equally)
-
-- title: 'Explanation of Dramatic pH-Dependence of Hydrogen Binding on Noble Metal Electrode: Greatly Weakened Water Adsorption at High pH.'
-  volume: 140  
+- title: 'Explanation of Dramatic pH-Dependence of Hydrogen Binding on Noble Metal
+    Electrode: Greatly Weakened Water Adsorption at High pH.'
+  volume: 140
   issue: 25
-  page: '7787-7790'
+  page: 7787-7790
   year: 2018
   author:
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given: 
+  - given: null
     given_initial: L
     family: Wang
-  - given: 
+  - given: null
     given_initial: BV
-    family: Merinov 
-  - given:
+    family: Merinov
+  - given: null
     given_initial: WA
     family: Goddard
     role: corr
@@ -214,38 +213,38 @@
   URL: http://dx.doi.org/10.1021/jacs.8b04006
   type: article
   DOI: 10.1021/jacs.8b04006
-  fulltext: 
+  fulltext: 042.pdf
   language: english
   media1: (J. Am. Chem. Soc. Spotlights)
   media1_url: https://pubs.acs.org/doi/pdfplus/10.1021/jacs.8b05954
-
-- title: 'Surface Ligand Promotion of Carbon Dioxide Reduction through Stabilizing Chemisorbed Reactive Intermediates'
-  volume: 9 
-  issue:
-  page: '3057-3061'
+- title: Surface Ligand Promotion of Carbon Dioxide Reduction through Stabilizing
+    Chemisorbed Reactive Intermediates
+  volume: 9
+  issue: null
+  page: 3057-3061
   year: 2018
   author:
-  - given:
+  - given: null
     given_initial: ZJ
     family: Wang
     role: corr
-  - given:
+  - given: null
     given_initial: LN
     family: Wu
-  - given:
+  - given: null
     given_initial: K
-    family: Sun 
-  - given:
+    family: Sun
+  - given: null
     given_initial: T
     family: Chen
-  - given:
+  - given: null
     given_initial: ZH
     family: Jiang
   - given: Tao
     given_initial: T
     family: Cheng
     role: main, corr
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
     role: corr
@@ -254,39 +253,39 @@
   URL: http://dx.doi.org/10.1021/acs.jpclett.8b00959
   type: article
   DOI: 10.1021/acs.jpclett.8b00959
-  fulltext: 
+  fulltext: 041.pdf
   language: english
-
-- title: 'Ordered Three-fold Symmetric Graphene Oxide/Buckled Graphene/Graphene Heterostructures on MgO (111) by Carbon Molecular Beam Epitaxy'
+- title: Ordered Three-fold Symmetric Graphene Oxide/Buckled Graphene/Graphene Heterostructures
+    on MgO (111) by Carbon Molecular Beam Epitaxy
   volume: 6
-  issue:
-  page: '4225-4233'
+  issue: null
+  page: 4225-4233
   year: 2018
   author:
-  - given:
+  - given: null
     given_initial: C#
     family: Ladewig
   - given: Tao
     given_initial: T#
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: MD
     family: Randle
-  - given:
+  - given: null
     given_initial: J
     family: Bird
-  - given:
+  - given: null
     given_initial: O
     family: Olanipekun
-  - given:
+  - given: null
     given_initial: PA
     family: Dowben
-  - given:
+  - given: null
     given_initial: J
     family: Kelber
     role: corr
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
     role: corr
@@ -295,32 +294,31 @@
   URL: http://dx.doi.org/10.1039/C8TC00178B
   type: article
   DOI: 10.1039/C8TC00178B
-  fulltext:
+  fulltext: 040.pdf
   language: english
   note: (Ladewig C and Cheng T contributed equally)
-
-- title: 'Reaction mechanisms and sensitivity of silicon nitrocarbamate and
-related systems from quantum mechanics reaction dynamics'
+- title: Reaction mechanisms and sensitivity of silicon nitrocarbamate and related
+    systems from quantum mechanics reaction dynamics
   volume: 6
-  issue:
-  page: '5082-5097'
+  issue: null
+  page: 5082-5097
   year: 2018
   author:
-  - given:
+  - given: null
     given_initial: TT
     family: Zhou
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: SV
     family: Zybin
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
     role: corr
-  - given:
+  - given: null
     given_initial: FL
     family: Huang
   journal:
@@ -328,33 +326,32 @@ related systems from quantum mechanics reaction dynamics'
   URL: http://dx.doi.org/10.1039/C7TA10998A
   type: article
   DOI: 10.1039/C7TA10998A
-  fulltext:
+  fulltext: 039.pdf
   language: english
   note: (2018 Journal of Materials Chemistry A HOT Papers)
-
-- title: 'Pb-Activated Amine-Assisted Photocatalytic Hydrogen Evolution
-Reaction on Organic–Inorganic Perovskites'
+- title: Pb-Activated Amine-Assisted Photocatalytic Hydrogen Evolution Reaction on
+    Organic–Inorganic Perovskites
   volume: 140
   issue: 6
-  page: '1994–1997'
+  page: 1994–1997
   year: 2018
   author:
-  - given:
+  - given: null
     given_initial: L
     family: Wang
     role: corr
-  - given:
+  - given: null
     given_initial: H
     family: Xiao
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: YY
     family: Li
     role: corr
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
     role: corr
@@ -363,24 +360,25 @@ Reaction on Organic–Inorganic Perovskites'
   URL: http://dx.doi.org/10.1021/jacs.7b12028
   type: article
   DOI: 10.1021/jacs.7b12028
-  fulltext:
+  fulltext: 038.pdf
   language: english
   media1: (J. Am. Chem. Soc. Cover Publication)
   media1_url: https://pubs.acs.org/toc/jacsat/140/6
-
-- title: 'Predicted Detonation Properties at the Chapman-Jouguet State for Proposed Energetic Materials (MTO and MTO3N) from Combined ReaxFF and Quantum Mechanics Reactive Dynamics'
+- title: Predicted Detonation Properties at the Chapman-Jouguet State for Proposed
+    Energetic Materials (MTO and MTO3N) from Combined ReaxFF and Quantum Mechanics
+    Reactive Dynamics
   volume: 20
   issue: 6
-  page: '3953-3969'
+  page: 3953-3969
   year: 2018
   author:
-  - given:
+  - given: null
     given_initial: TT
     family: Zhou
-  - given:
+  - given: null
     given_initial: SV
     family: Zybin
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
     role: corr
@@ -388,13 +386,13 @@ Reaction on Organic–Inorganic Perovskites'
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: S
     family: Naserifar
-  - given:
+  - given: null
     given_initial: A
     family: Jaramillo-Botero
-  - given:
+  - given: null
     given_initial: FL
     family: Huang
   journal:
@@ -402,6 +400,5 @@ Reaction on Organic–Inorganic Perovskites'
   URL: http://dx.doi.org/10.1039/C7CP07321F
   type: article
   DOI: 10.1039/C7CP07321F
-  fulltext:
+  fulltext: 037.pdf
   language: english
-

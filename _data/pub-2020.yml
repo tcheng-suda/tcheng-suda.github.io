@@ -1,134 +1,134 @@
-- title: 'Compressed Intermetallic PdCu for Enhanced Electrocatalysis'
+- title: Compressed Intermetallic PdCu for Enhanced Electrocatalysis
   volume: 5
-  issue: 
-  page: "3672–3680"
+  issue: null
+  page: 3672–3680
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: MM
     family: Flores Espinosa
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: MJ
     family: Xu
-  - given:
+  - given: null
     given_initial: L
     family: Abatemarco
-  - given:
+  - given: null
     given_initial: C
     family: Choi
-  - given:
+  - given: null
     given_initial: XQ
     family: Pan
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
-  - given:
+  - given: null
     given_initial: ZP
     family: Zhao
     role: corr
-  - given:
+  - given: null
     given_initial: Y
     family: Huang
-    role: corr 
+    role: corr
   journal:
     abbreviation: ACS Energy Lett.
   URL: https://doi.org/10.1021/acsenergylett.0c01959
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: 075.pdf
   language: english
-
-- title: 'Te-Doped Pd Nanocrystal for Electrochemical Urea Production by Efficiently Coupling Carbon Dioxide Reduction with Nitrite Reduction'
+- title: Te-Doped Pd Nanocrystal for Electrochemical Urea Production by Efficiently
+    Coupling Carbon Dioxide Reduction with Nitrite Reduction
   volume: 20
-  issue: 
-  page: "8282–8289"
+  issue: null
+  page: 8282–8289
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: YG#
     family: Feng
-  - given:
+  - given: null
     given_initial: H#
     family: Yang
-  - given:
+  - given: null
     given_initial: Y
     family: Zhang
-  - given:
+  - given: null
     given_initial: XQ
     family: Huang
     role: corr
-  - given:
+  - given: null
     given_initial: LG
     family: Li
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: Q
     family: Shao
-    role: corr 
+    role: corr
   journal:
     abbreviation: Nano Lett.
   URL: https://doi.org/10.1021/acs.nanolett.0c03400
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: 074.pdf
   language: english
-
-- title: 'Bismuth Oxyhydroxide-Pt Inverse Interface for Enhanced Methanol Electrooxidation Performance'
+- title: Bismuth Oxyhydroxide-Pt Inverse Interface for Enhanced Methanol Electrooxidation
+    Performance
   volume: 20
-  issue: 
-  page: "7751–7759"
+  issue: null
+  page: 7751–7759
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: XC#
     family: Wang
-  - given:
+  - given: null
     given_initial: M#
     family: Xie
-  - given:
+  - given: null
     given_initial: FL
     family: Lyu
-    role: corr 
-  - given:
+    role: corr
+  - given: null
     given_initial: YM
     family: Yiu
-  - given:
+  - given: null
     given_initial: ZQ
     family: Wang
-  - given:
+  - given: null
     given_initial: JT
     family: Chen
-  - given:
+  - given: null
     given_initial: LY
     family: Chang
-  - given:
+  - given: null
     given_initial: YJ
     family: Xia
-  - given:
+  - given: null
     given_initial: QX
     family: Zhong
-  - given:
+  - given: null
     given_initial: MY
     family: Chu
-  - given:
+  - given: null
     given_initial: H
     family: Yang
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: TK
     family: Sham
-    role: corr 
-  - given:
+    role: corr
+  - given: null
     given_initial: Q
     family: Zhang
     role: corr
@@ -136,367 +136,367 @@
     abbreviation: Nano Lett.
   URL: https://doi.org/10.1021/acs.nanolett.0c03340
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: 073.pdf
   language: english
-
-- title: 'N-modulated Cu+ for efficient electrochemical carbon monoxide reduction to acetate'
+- title: N-modulated Cu+ for efficient electrochemical carbon monoxide reduction to
+    acetate
   volume: 63
-  issue: 
-  page: "2606–2612"
+  issue: null
+  page: 2606–2612
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: FL
     family: Ni
-  - given:
+  - given: null
     given_initial: H
     family: Yang
-  - given:
+  - given: null
     given_initial: YZ
     family: Wen
-  - given:
+  - given: null
     given_initial: HP
     family: Bai
-  - given:
+  - given: null
     given_initial: LS
     family: Zhang
-  - given:
+  - given: null
     given_initial: CY
     family: Cui
-  - given:
+  - given: null
     given_initial: SY
     family: Li
-  - given:
+  - given: null
     given_initial: SS
     family: He
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: B
     family: Zhang
-    role: corr 
-  - given:
+    role: corr
+  - given: null
     given_initial: HS
     family: Peng
-    role: corr 
+    role: corr
   journal:
     abbreviation: Sci. China Mater.
   URL: https://doi.org/10.1007/s40843-020-1440-6
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: 072.pdf
   language: english
-
-- title: 'Highly Selective Electrocatalytic Reduction of CO2 into Methane on Cu–Bi Nanoalloys'
+- title: Highly Selective Electrocatalytic Reduction of CO2 into Methane on Cu–Bi
+    Nanoalloys
   volume: 11
-  issue: 
-  page: "7261–7266"
+  issue: null
+  page: 7261–7266
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: ZJ
     family: Wang
     role: corr
-  - given:
+  - given: null
     given_initial: Q
     family: Yuan
-  - given:
+  - given: null
     given_initial: JJ
     family: Shan
-  - given:
+  - given: null
     given_initial: ZH
     family: Jiang
-  - given:
+  - given: null
     given_initial: P
     family: Xu
-  - given:
+  - given: null
     given_initial: YF
     family: Hu
-  - given:
+  - given: null
     given_initial: JG
     family: Zhou
-  - given:
+  - given: null
     given_initial: LN
     family: Wu
-  - given:
+  - given: null
     given_initial: ZZ
     family: Niu
-  - given:
+  - given: null
     given_initial: JM
     family: Sun
     role: corr
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
-    role: corr 
+    role: corr
   journal:
     abbreviation: J. Phys. Chem. Lett.
   URL: https://doi.org/10.1021/acs.jpclett.0c01261
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: 071.pdf
   language: english
-
-- title: 'Highly Active and Stable Stepped Cu Surface for Enhanced Electrochemical CO2 Reduction to C2H4'
+- title: Highly Active and Stable Stepped Cu Surface for Enhanced Electrochemical
+    CO2 Reduction to C2H4
   volume: 3
-  issue: 
-  page: "804–812"
+  issue: null
+  page: 804–812
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: C
     family: Choi
-  - given:
+  - given: null
     given_initial: S
     family: Kwon
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: MJ
     family: Xu
-  - given:
+  - given: null
     given_initial: P
     family: Tieu
-  - given:
+  - given: null
     given_initial: C
     family: Lee
-  - given:
+  - given: null
     given_initial: J
     family: Cai
-  - given:
+  - given: null
     given_initial: HM
     family: Lee
-  - given:
+  - given: null
     given_initial: XQ
     family: Pan
-  - given:
+  - given: null
     given_initial: XF
     family: Duan
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
-    role: corr 
-  - given:
+    role: corr
+  - given: null
     given_initial: Y
     family: Huang
-    role: corr 
+    role: corr
   journal:
     abbreviation: Nat. Catal.
   URL: https://doi.org/10.1038/s41929-020-00504-x
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: null
   language: english
-
-- title: 'Surface engineering of RhOOH nanosheets promotes hydrogen evolution in alkaline'
+- title: Surface engineering of RhOOH nanosheets promotes hydrogen evolution in alkaline
   volume: 78
-  issue: 
-  page: "105224"
+  issue: null
+  page: '105224'
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: SX#
     family: Bai
-  - given:
+  - given: null
     given_initial: M#
     family: Xie
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: KL
     family: Cao
-  - given:
+  - given: null
     given_initial: Y
     family: Xu
     role: corr
-  - given:
+  - given: null
     given_initial: XQ
     family: Huang
-    role: corr  
+    role: corr
   journal:
     abbreviation: Nano Energy
   URL: https://doi.org/10.1016/j.nanoen.2020.105224
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: null
   language: english
-
-- title: 'Synergy between a Silver–Copper Surface Alloy Composition and Carbon Dioxide Adsorption and Activation'
+- title: Synergy between a Silver–Copper Surface Alloy Composition and Carbon Dioxide
+    Adsorption and Activation
   volume: 12
-  issue: 
-  page: "25374–25382"
+  issue: null
+  page: 25374–25382
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: YF#
     family: Ye
-  - given:
+  - given: null
     given_initial: J#
     family: Qian
-  - given:
+  - given: null
     given_initial: H#
     family: Yang
-  - given:
+  - given: null
     given_initial: HY
     family: Su
-  - given:
+  - given: null
     given_initial: KJ
     family: Lee
-  - given:
+  - given: null
     given_initial: A
     family: Etxebarria
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: H
     family: Xiao
-  - given:
+  - given: null
     given_initial: J
     family: Yano
-    role: corr  
-  - given:
+    role: corr
+  - given: null
     given_initial: WA
     family: Goddard
-    role: corr  
-  - given:
+    role: corr
+  - given: null
     given_initial: EJ
     family: Crumlin
-    role: corr  
+    role: corr
   journal:
     abbreviation: ACS Appl. Mater. Interfaces
   URL: https://doi.org/10.1021/acsami.0c02057
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: 068.pdf
   language: english
-
-- title: 'Atomistic Explanation of the Dramatically Improved Oxygen Reduction Reaction of Jagged Platinum Nanowires, 50 times better than Pt'
+- title: Atomistic Explanation of the Dramatically Improved Oxygen Reduction Reaction
+    of Jagged Platinum Nanowires, 50 times better than Pt
   volume: 142
   issue: 19
-  page: "8625-8632"
+  page: 8625-8632
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: YL
     family: Chen
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: WA
     family: Goddard
-    role: corr  
+    role: corr
   journal:
     abbreviation: J. Am. Chem. Soc.
   URL: https://doi.org/10.1021/jacs.9b13218
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: 067.pdf
   language: english
-
-- title: 'A yolk–shell structured metal–organic framework with encapsulated iron-porphyrin and its derived bimetallic nitrogen-doped porous carbon for an efficient oxygen reduction reaction'
+- title: A yolk–shell structured metal–organic framework with encapsulated iron-porphyrin
+    and its derived bimetallic nitrogen-doped porous carbon for an efficient oxygen
+    reduction reaction
   volume: 8
   issue: 19
-  page: "9536-9544"
+  page: 9536-9544
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: CC#
     family: Zhang
-  - given:
+  - given: null
     given_initial: H#
     family: Yang
-  - given:
+  - given: null
     given_initial: D#
     family: Zhong
-  - given:
+  - given: null
     given_initial: Y
     family: Xu
-  - given:
+  - given: null
     given_initial: YZ
     family: Wang
-  - given:
+  - given: null
     given_initial: Q
     family: Yuan
-  - given:
+  - given: null
     given_initial: ZZ
     family: Liang
-  - given:
+  - given: null
     given_initial: B
     family: Wang
-  - given:
+  - given: null
     given_initial: Wei
     family: Zhang
-  - given:
+  - given: null
     given_initial: HQ
     family: Zheng
     role: corr
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: R
     family: Cao
-    role: corr  
+    role: corr
   journal:
     abbreviation: J. Mater. Chem. A,
   URL: https://doi.org/10.1039/D0TA00962H
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: 066.pdf
   language: english
-
-- title: 'tert-Butyl substituted hetero-donor TADF compounds for efficient solution-processed non-doped blue OLEDs'
+- title: tert-Butyl substituted hetero-donor TADF compounds for efficient solution-processed
+    non-doped blue OLEDs
   volume: 8
   issue: 17
-  page: "5769-5776"
+  page: 5769-5776
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: FM#
     family: Xie
-  - given:
+  - given: null
     given_initial: ZD#
     family: An
-  - given:
+  - given: null
     given_initial: M
     family: Xie
-  - given:
+  - given: null
     given_initial: YQ
     family: Li
     role: corr
-  - given:
+  - given: null
     given_initial: GH
     family: Zhang
-  - given:
+  - given: null
     given_initial: SJ
     family: Zou
-  - given:
+  - given: null
     given_initial: Li
     family: Chen
-  - given:
+  - given: null
     given_initial: JD
     family: Chen
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: JX
     family: Tang
     role: corr
@@ -504,45 +504,45 @@
     abbreviation: J. Mater. Chem. C,
   URL: https://doi.org/10.1039/D0TC00718H
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: 065.pdf
   language: english
-
-- title: 'Customizable Ligand Exchange for Tailored Surface Property of Noble Metal Nanocrystals'
-  volume: 2020 
-  issue: 
-  page: "2131806"
+- title: Customizable Ligand Exchange for Tailored Surface Property of Noble Metal
+    Nanocrystals
+  volume: 2020
+  issue: null
+  page: '2131806'
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: QK#
     family: Fan
-  - given:
+  - given: null
     given_initial: H#
     family: Yang
-  - given:
+  - given: null
     given_initial: J
     family: Ge
-  - given:
+  - given: null
     given_initial: SM
     family: Zhang
-  - given:
+  - given: null
     given_initial: ZJ
     family: Liu
-  - given:
+  - given: null
     given_initial: B
     family: Lei
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: YY
     family: Li
-  - given:
+  - given: null
     given_initial: YD
     family: Yin
-  - given:
+  - given: null
     given_initial: CB
     family: Gao
     role: corr
@@ -550,41 +550,41 @@
     abbreviation: Research
   URL: https://doi.org/10.34133/2020/2131806
   type: article
-  DOI: 
-  fulltext:
+  DOI: null
+  fulltext: 064.pdf
   language: english
-
-- title: 'High-Performance Nondoped Blue Delayed Fluorescence Organic Light-Emitting Diodes Featuring Low Driving Voltage and High Brightness'
+- title: High-Performance Nondoped Blue Delayed Fluorescence Organic Light-Emitting
+    Diodes Featuring Low Driving Voltage and High Brightness
   volume: 7
   issue: 13
-  page: "1902508"
+  page: '1902508'
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: SJ#
     family: Zou
-  - given:
+  - given: null
     given_initial: FM#
     family: Xie
-  - given:
+  - given: null
     given_initial: M#
     family: Xie
-  - given:
+  - given: null
     given_initial: YQ
     family: Li
     role: corr
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: XH
     family: Zhang
-  - given:
+  - given: null
     given_initial: CS
     family: Lee
     role: corr
-  - given:
+  - given: null
     given_initial: JX
     family: Tang
     role: corr
@@ -593,39 +593,39 @@
   URL: https://doi.org/10.1002/advs.201902508
   type: article
   DOI: 10.1002/advs.201902508
-  fulltext:
+  fulltext: 063.pdf
   language: english
-
-- title: 'Efficient Orange–Red Delayed Fluorescence Organic Light‐Emitting Diodes with External Quantum Efficiency over 26%'
+- title: Efficient Orange–Red Delayed Fluorescence Organic Light‐Emitting Diodes with
+    External Quantum Efficiency over 26%
   volume: 6
   issue: 1
-  page: "1900843"
+  page: '1900843'
   year: 2020
   author:
-  - given:
+  - given: null
     given_initial: FM
     family: Xie
-  - given:
+  - given: null
     given_initial: P
     family: Wu
-  - given:
+  - given: null
     given_initial: SJ
     family: Zou
-  - given:
+  - given: null
     given_initial: YQ
     family: Li
-  - given:
+  - given: null
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: M
     family: Xie
-  - given:
+  - given: null
     given_initial: JX
     family: Tang
     role: corr
-  - given:
+  - given: null
     given_initial: X
     family: Zhao
     role: corr
@@ -634,6 +634,5 @@
   URL: https://doi.org/10.1002/aelm.201900843
   type: article
   DOI: 10.1002/aelm.201900843
-  fulltext:
+  fulltext: 062.pdf
   language: english
-
