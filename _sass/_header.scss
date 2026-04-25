@@ -213,4 +213,21 @@ z-index:999;
     }
 }
 
+.theme-toggle {
+    cursor: pointer;
+    vertical-align: middle;
 
+    a {
+        font-size: 16px !important;
+        padding: 0 4px !important;
+        text-transform: none !important;
+        letter-spacing: 0 !important;
+        display: inline-block;
+        line-height: 23px;
+    }
+
+    &:hover a {
+        opacity: 0.7;
+        text-decoration: none !important;
+    }
+}
