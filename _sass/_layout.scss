@@ -74,7 +74,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid var(--border-color);
     padding: $spacing-unit 0;
 }
 
@@ -91,7 +91,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: var(--footer-text);
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -162,7 +162,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: var(--grey-color);
 }
 
 .post-link {
@@ -184,7 +184,7 @@ h1 /* .post-title */ {
     letter-spacing: -1px;
     line-height: 1;
 		font-family: 'Titillium Web', sans-serif;
-		color: #1e1a15;
+		color: var(--heading-color);
 
     @include media-query($on-laptop) {
 /*        font-size: 36px; */
@@ -223,7 +223,7 @@ h1 /* .post-title */ {
 }
 
 						.footnotes ol li {list-style-type:decimal;}
-						.footnotes ol {font-size:.85em; color:#666666;}	
+						.footnotes ol {font-size:.85em; color:var(--grey-color);}	
 	
 html {
   overflow-y: scroll;
@@ -243,7 +243,7 @@ ul.listing li.listing-seperator {
 
 ul.listing li.listing-item time {
 
-	color: #333;
+	color: var(--listing-time-color);
 	font-weight: 500;
 	text-transform: uppercase;
 	padding-right: 10px;
@@ -270,7 +270,7 @@ ul.listing li.listing-item a {
 }
 
 .link-grid-section {
-    background: rgba(22, 97, 188, 0.06);
+    background: var(--card-bg);
     border-radius: 6px;
     padding: 16px 20px;
 
@@ -279,8 +279,8 @@ ul.listing li.listing-item a {
         font-size: 1em;
         font-weight: 600;
         margin-bottom: 8px;
-        color: #1e1a15;
-        border-bottom: 1px solid #e0e0e0;
+        color: var(--heading-color);
+        border-bottom: 1px solid var(--border-color);
         padding-bottom: 6px;
     }
 
@@ -288,7 +288,7 @@ ul.listing li.listing-item a {
         font-size: 0.9em;
         font-weight: 500;
         margin: 8px 0 4px;
-        color: #555;
+        color: var(--talk-meta-color);
     }
 
     a {
@@ -296,7 +296,7 @@ ul.listing li.listing-item a {
         padding: 4px 10px;
         margin: 3px;
         border-radius: 4px;
-        border: 1px solid #ddd;
+        border: 1px solid var(--link-grid-border);
         font-size: 0.9em;
         background: #fff;
         color: $brand-color;
@@ -304,7 +304,7 @@ ul.listing li.listing-item a {
         transition: background 0.15s, border-color 0.15s;
 
         &:hover {
-            background: #eef5fc;
+            background: var(--link-grid-hover-bg);
             border-color: $brand-color;
             text-decoration: none;
         }
@@ -352,7 +352,7 @@ ul.listing li.listing-item a {
         bottom: 0;
         left: 0;
         right: 0;
-        background: linear-gradient(transparent, rgba(0,0,0,0.6));
+        background: linear-gradient(transparent, var(--photo-caption-gradient));
         color: #fff;
         font-size: 0.85em;
         padding: 20px 10px 8px;
@@ -384,7 +384,7 @@ ul.listing li.listing-item a {
 }
 
 .people-card {
-    background: rgba(22, 97, 188, 0.06);
+    background: var(--card-bg);
     border-radius: 6px;
     padding: 16px 12px;
     text-align: center;
@@ -404,7 +404,7 @@ ul.listing li.listing-item a {
         margin-bottom: 4px;
 
         a {
-            color: #1e1a15;
+            color: var(--heading-color);
             text-decoration: none;
             border: none;
             padding: 0;
@@ -419,20 +419,20 @@ ul.listing li.listing-item a {
 
     .role {
         font-size: 0.8em;
-        color: $grey-color;
+        color: var(--grey-color);
         margin-bottom: 4px;
     }
 
     .email {
         font-size: 0.75em;
-        color: $grey-color;
+        color: var(--grey-color);
         word-break: break-all;
     }
 
     .next {
         font-size: 0.75em;
         font-style: italic;
-        color: #555;
+        color: var(--talk-meta-color);
         margin-top: 4px;
     }
 }
@@ -457,25 +457,25 @@ ul.listing li.listing-item a {
 .talk-item {
     padding: 14px 18px;
     margin-bottom: 10px;
-    background: rgba(22, 97, 188, 0.04);
+    background: var(--card-bg);
     border-radius: 6px;
     border-left: 4px solid $clemson-orange;
     transition: background 0.2s;
 
     &:hover {
-        background: rgba(22, 97, 188, 0.08);
+        background: var(--link-grid-hover-bg);
     }
 
     .talk-title {
         font-size: 1.05em;
         font-weight: 600;
-        color: #1e1a15;
+        color: var(--heading-color);
         margin-bottom: 6px;
     }
 
     .talk-meta {
         font-size: 0.88em;
-        color: #555;
+        color: var(--talk-meta-color);
         line-height: 1.5;
     }
 
@@ -483,8 +483,8 @@ ul.listing li.listing-item a {
         display: inline-block;
         font-size: 0.78em;
         font-weight: 600;
-        color: #fff;
-        background: $clemson-orange;
+        color: var(--talk-type-text);
+        background: var(--talk-type-bg);
         padding: 2px 8px;
         border-radius: 3px;
         margin-right: 8px;
