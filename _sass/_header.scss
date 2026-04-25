@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 0px solid var(--grey-color);
-	border-bottom: 4px solid $clemson-purple;
+	border-bottom: 4px solid var(--header-border);
     min-height: 56px;
     background: var(--header-bg);
     // Positioning context for the mobile navigation icon
