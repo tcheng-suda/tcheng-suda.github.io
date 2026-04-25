@@ -314,6 +314,7 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <div class="people-card">
   <div class="name"><a target="_blank" href="/people/zzhang/">Zhe Zhang 张哲</a></div>
   <div class="role">M.S. (2020-2023)</div>
+  <div class="next">Gotion High-Tech Co.,Ltd.</div>
 </div>
 
 <div class="people-card">
@@ -357,31 +358,37 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <div class="people-card">
   <div class="name"><a target="_blank" href="/people/qwzhou/">Qiwei Zhou 周琦蔚</a></div>
   <div class="role">M.S. (2021-2024)</div>
+  <div class="next">Suzhou Dega Energy Technology Co., Ltd.</div>
 </div>
 
 <div class="people-card">
   <div class="name"><a target="_blank" href="/people/sfeng/">Shuang Feng 冯爽</a></div>
   <div class="role">M.S. (2021-2024)</div>
+  <div class="next">Amperex Technology Limited</div>
 </div>
 
 <div class="people-card">
   <div class="name"><a target="_blank" href="/people/jyzhang/">Jiayi Zhang 张家奕</a></div>
   <div class="role">M.S. (2019-2025)</div>
+  <div class="next">SCI-GO Company</div>
 </div>
 
 <div class="people-card">
   <div class="name"><a target="_blank" href="/people/jywu/">Jinying Wu 吴晋莹</a></div>
   <div class="role">M.S. (2021-2025)</div>
+  <div class="next">Ph.D. Student at Jilin University</div>
 </div>
 
 <div class="people-card">
   <div class="name"><a target="_blank" href="/people/txyin/">Tianxiu Yin 殷田秀</a></div>
   <div class="role">M.S. (2022-2025)</div>
+  <div class="next">Nanjing Hi-Tech Pharmaceutical Co., Ltd.</div>
 </div>
 
 <div class="people-card">
   <div class="name"><a target="_blank" href="/people/syfan/">Siyuan Fan 范思远</a></div>
   <div class="role">Undergrad (2023-2024)</div>
+  <div class="next">Ph.D. Student at National Center for Nanoscience and Technology</div>
 </div>
 
 <div class="people-card">
