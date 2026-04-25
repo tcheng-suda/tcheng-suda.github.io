@@ -2,10 +2,10 @@
  * Site header
  */
 .site-header {
-    border-top: 0px solid $grey-color-dark;
+    border-top: 0px solid var(--grey-color);
 	border-bottom: 4px solid $clemson-purple;
     min-height: 56px;
-    background: $clemson-orange;
+    background: var(--header-bg);
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -20,10 +20,10 @@
     float: left;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
-    color: #ffffff;
+    color: var(--header-text);
     &,
     &:visited {
-        color: #ffffff;
+        color: var(--header-text);
     }
     &,
     &:hover {
@@ -37,7 +37,7 @@
 }
 
 .site-nav ul li a {
-	color: #fff;
+	color: var(--header-text);
 }
 
 .site-nav ul {
@@ -70,7 +70,7 @@
 
 .site-nav a {
 	display: block;
-        color: #ffffff;
+        color: var(--header-text);
 }
 
 /* Sub Menu */
@@ -82,7 +82,7 @@
 	letter-spacing: 0;
 	line-height: 1.2em;
 	padding: 4px 10px;
-color: #1e1a15;
+color: var(--sub-menu-text);
 
 }
 
@@ -90,7 +90,7 @@ color: #1e1a15;
 	color: $clemson-orange;
 }
 .site-nav  .sub-menu {
-	background: #ffffff;
+	background: var(--sub-menu-bg);
 	border-color: $clemson-purple;
 	min-width: 265px;
 
@@ -156,8 +156,8 @@ z-index:999;
     }
 
     .page-link {
-        color: #ffffff;
-    background: $clemson-orange;
+        color: var(--header-text);
+    background: var(--header-bg);
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -172,8 +172,8 @@ z-index:999;
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        background-color: var(--bg-primary);
+        border: 1px solid var(--border-color);
         border-radius: 5px;
         text-align: right;
 
@@ -191,7 +191,7 @@ z-index:999;
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: var(--grey-color);
                 }
             }
         }
