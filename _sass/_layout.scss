@@ -365,3 +365,75 @@ ul.listing li.listing-item a {
     }
 }
 
+
+/**
+ * People card grid
+ */
+.people-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 12px;
+
+    @include media-query($on-laptop) {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+
+    @include media-query($on-palm) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.people-card {
+    background: rgba(180, 30, 30, 0.06);
+    border-radius: 6px;
+    padding: 16px 12px;
+    text-align: center;
+
+    img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin: 0 auto 10px;
+        display: block;
+    }
+
+    .name {
+        font-weight: 600;
+        font-size: 0.95em;
+        margin-bottom: 4px;
+
+        a {
+            color: #1e1a15;
+            text-decoration: none;
+            border: none;
+            padding: 0;
+            margin: 0;
+            background: none;
+
+            &:hover {
+                color: $brand-color;
+            }
+        }
+    }
+
+    .role {
+        font-size: 0.8em;
+        color: $grey-color;
+        margin-bottom: 4px;
+    }
+
+    .email {
+        font-size: 0.75em;
+        color: $grey-color;
+        word-break: break-all;
+    }
+
+    .next {
+        font-size: 0.75em;
+        font-style: italic;
+        color: #555;
+        margin-top: 4px;
+    }
+}
+

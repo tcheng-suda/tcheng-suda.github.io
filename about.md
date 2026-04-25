@@ -3,54 +3,26 @@ layout: page
 title: People
 permalink: /about/
 ---
----
-**Members**
-(**26 Members (2025.9): 1 Professor, 2 Assistant Professor, 8 Ph.D. Students, 15 M.S. students**)
-|[**Tao Cheng(程涛)**](#tcheng)
-|[**Hao Yang(杨昊)**](#hyang)
-|[**Yue Liu(刘越)**](#yliu)
-|[**Bingyun Ma(麻冰云)**](#byma)
-|[**Peiping Yu(于沛平)**](#ppyu)
-|[**Liang Xu(许亮)**](#lxu)
-|[**Qintao Sun(孙钦涛)**](#qtsun)
-|[**Hongchao Tang(唐宏超)**](#hctang)
-|[**Yingqi Liao(廖英琦)**](#yqliao)
-|[**Haochen Huang(黄浩宸)**](#hchuang)
-|[**Xuewei Gu(顾雪薇)**](#xwgu)
-|[**Jiayi Li(李佳怡)**](#jyli)
-|[**Jiarui Zhu(朱佳睿)**](#jrzhu)
-|[**Zheng Zhang(张郑)**](#zhengzhang)
-|[**Xia Gui(桂霞)**](#xgui)
-|[**Shuaike Wang(王帅珂)**](#skwang)
-|[**Fei Li(李飞)**](#fli)
-|[**Baicheng Luo(罗柏成)**](#bcluo)
-|[**Shenzhen Guan(关深圳)**](#szguan)
-|[**Zonghao Zhang(张宗浩)**](#zhzhang)
-|[**Chenyang Pan(潘晨阳)**](#cypan)
-|[**Kun Wang(王坤)**](#kwang)
-|[**Tianqi Zhao(赵天奇)**](#tqzhao)
-|[**Yidan Sheng(盛宜丹)**](#ydsheng)
-|[**Binbin Ruan(阮彬彬)**](#bbruan)
-|[**Hengyu Liu(刘恒钰)**](#hyliu)
-|
-**Outreach**
-(**4 Undergraduates**)
-|[**Ziyu Su(苏子彧)**](#szysu)
-|[**Yanliang Chen(陈彦良)**](#ylchen)
-|[**Miao Zhang(张淼)**](#mzhang2)
-|[**Pengfei Gao(高鹏飞)**](#pfgao)
-|
 
-<br />
+<div id="top" class="link-grid-section" style="margin-bottom: 18px;">
+  <h2>Members (26: 1 Professor, 2 Assistant Professors, 7 Ph.D. Students, 16 M.S. Students)</h2>
+  <a href="#professor">Professor</a>
+  <a href="#assistant-professor">Assistant Professor</a>
+  <a href="#phd">Ph.D. Students</a>
+  <a href="#ms">M.S. Students</a>
+  <a href="#outreach">Outreach</a>
+  <a href="#alumni">Alumni</a>
+</div>
+
 # <a name="tcheng"></a> Tao Cheng(程涛)
 <!-- {% include image.html url="/images/tao.jpg" caption="" width=300 align="right" %} -->
 {% include image.html url="/images/tao-7.jpg" caption="" width=300 align="right" %}
 
-<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>  
+<span style="color:black;font-size:18pt;font-weight:bold">Professor</span>
 [**Institute of Functional Nano & Soft Materials (FUNSOM)**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm), [**Soochow University**](http://www.suda.edu.cn/)
-**Office:** 912-413 (4th floor), Soochow University Dushu-Lake Campus, Box 33, 199 Ren'ai Rd, Suzhou Industrial Park, Suzhou, Jiangsu, 215123, P.R. China  
-**Email:** [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn)  
-**Websites:** [Soochow University](http://web.suda.edu.cn/tcheng/) | [FUNSOM](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)  
+**Office:** 912-413 (4th floor), Soochow University Dushu-Lake Campus, Box 33, 199 Ren'ai Rd, Suzhou Industrial Park, Suzhou, Jiangsu, 215123, P.R. China
+**Email:** [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn)
+**Websites:** [Soochow University](http://web.suda.edu.cn/tcheng/) | [FUNSOM](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm)
 **Early Career Advisory Board:**
 [Energy & Environmental Materials (EEM)](https://onlinelibrary.wiley.com/journal/25750356) | [SmartMat](https://onlinelibrary.wiley.com/journal/2688819x) | [Chinese Chemical Letters (CCL)](https://www.sciencedirect.com/journal/chinese-chemical-letters) | [Materials Today Energy](https://www.materialstoday.com/energy/journals/materials-today-energy/)
 
@@ -84,595 +56,337 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <a href="#top">Back to top</a>
 
 ---
-<br />
-# <a name="hyang"></a>Hao Yang(杨昊)
-<span style="color:black;font-size:18pt;font-weight:bold">Assistant Professor</span>
-Personal web page: [Hao Yang](https://tcheng-suda.github.io/people/hyang/)
-Email: [haoyang@suda.edu.cn](haoyang@suda.edu.cn)
 
-{% include image.html url="/images/hyang.jpeg" caption="" width=300 align="center" %}
+<h2 id="assistant-professor">Assistant Professor</h2>
 
-<a href="#top">Back to top</a>
+<div class="people-grid">
 
----
-<br />
-# <a name="yliu"></a>Yue Liu(刘越)
-<span style="color:black;font-size:18pt;font-weight:bold">Assistant Professor</span>
-Personal web page: [Yue Liu](https://tcheng-suda.github.io/people/yliu/)
-Email: [yliu1992@suda.edu.cn](yliu1992@suda.edu.cn)
+<div class="people-card">
+  <img src="/images/hyang.jpeg" alt="Hao Yang">
+  <div class="name"><a href="/people/hyang/">Hao Yang 杨昊</a></div>
+  <div class="role">Assistant Professor</div>
+  <div class="email">haoyang@suda.edu.cn</div>
+</div>
 
-{% include image.html url="/images/yliu.jpeg" caption="" width=300 align="center" %}
+<div class="people-card">
+  <img src="/images/yliu.jpeg" alt="Yue Liu">
+  <div class="name"><a href="/people/yliu/">Yue Liu 刘越</a></div>
+  <div class="role">Assistant Professor</div>
+  <div class="email">yliu1992@suda.edu.cn</div>
+</div>
 
-<a href="#top">Back to top</a>
+</div>
 
----
-<br />
-# <a name="byma"></a>Bingyun Ma(麻冰云)
-<span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>
-Personal web page: [Bingyun Ma](https://tcheng-suda.github.io/people/byma/)
-Email: [byma@suda.edu.cn](byma@suda.edu.cn)
+<h2 id="phd">Ph.D. Students</h2>
 
-{% include image.html url="/images/byma.jpeg" caption="" width=300 align="center" %}
+<div class="people-grid">
 
-<a href="#top">Back to top</a>
+<div class="people-card">
+  <img src="/images/byma.jpeg" alt="Bingyun Ma">
+  <div class="name"><a href="/people/byma/">Bingyun Ma 麻冰云</a></div>
+  <div class="role">Ph.D. Student</div>
+  <div class="email">byma@suda.edu.cn</div>
+</div>
 
----
-<br />
-# <a name="ppyu"></a>Peiping Yu(于沛平)
-<span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>
-Personal web page:  [Peiping Yu](https://tcheng-suda.github.io/people/ppyu/)
-Email: [ppyu@stu.suda.edu.cn](ppyu@stu.suda.edu.cn)
+<div class="people-card">
+  <img src="/images/ppyu.jpeg" alt="Peiping Yu">
+  <div class="name"><a href="/people/ppyu/">Peiping Yu 于沛平</a></div>
+  <div class="role">Ph.D. Student</div>
+  <div class="email">ppyu@stu.suda.edu.cn</div>
+</div>
 
-{% include image.html url="/images/ppyu.jpeg" caption="" width=300 align="center" %}
+<div class="people-card">
+  <img src="/images/lxu.jpeg" alt="Liang Xu">
+  <div class="name"><a href="/people/lxu/">Liang Xu 许亮</a></div>
+  <div class="role">Ph.D. Student</div>
+  <div class="email">lxu110@stu.suda.edu.cn</div>
+</div>
 
-<a href="#top">Back to top</a>
+<div class="people-card">
+  <img src="/images/qtsun.jpeg" alt="Qintao Sun">
+  <div class="name"><a href="/people/qtsun/">Qintao Sun 孙钦涛</a></div>
+  <div class="role">Ph.D. Student</div>
+  <div class="email">qtsunqtsun@stu.suda.edu.cn</div>
+</div>
 
----
-<br />
-# <a name="lxu"></a>Liang Xu(许亮)
-<span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>
-Personal web page:  [Liang Xu](https://tcheng-suda.github.io/people/lxu/)
-Email:[lxu110@stu.suda.edu.cn](lxu110@stu.suda.edu.cn)
+<div class="people-card">
+  <img src="/images/yqliao.jpg" alt="Yingqi Liao">
+  <div class="name"><a href="/people/yqliao/">Yingqi Liao 廖英琦</a></div>
+  <div class="role">Ph.D. Student</div>
+</div>
 
-{% include image.html url="/images/lxu.jpeg" caption="" width=300 align="center" %}
+<div class="people-card">
+  <img src="/images/xwgu.jpeg" alt="Xuewei Gu">
+  <div class="name"><a href="/people/xwgu/">Xuewei Gu 顾雪薇</a></div>
+  <div class="role">Ph.D. Student</div>
+</div>
 
-<a href="#top">Back to top</a>
+<div class="people-card">
+  <img src="/images/hctang.jpeg" alt="Hongchao Tang">
+  <div class="name"><a href="/people/hctang/">Hongchao Tang 唐宏超</a></div>
+  <div class="role">Ph.D. Student</div>
+</div>
 
----
-<br />
-# <a name="qtsun"></a>Qintao Sun(孙钦涛)
-<span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>
-Personal web page:  [Qintao Sun](https://tcheng-suda.github.io/people/qtsun/)
-Email:[qtsunqtsun@stu.suda.edu.cn](qtsunqtsun@stu.suda.edu.cn)
+</div>
 
-{% include image.html url="/images/qtsun.jpeg" caption="" width=300 align="center" %}
+<h2 id="ms">M.S. Students</h2>
 
-<a href="#top">Back to top</a>
+<div class="people-grid">
 
----
-<br />
-# <a name="hctang"></a>Hongchao Tang(唐宏超)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-Personal web page:  [Hongchao Tang](https://tcheng-suda.github.io/people/hctang/)
-Email:[1197853233@qq.com](1197853233@qq.com)
+<div class="people-card">
+  <img src="/images/hchuang.jpeg" alt="Haochen Huang">
+  <div class="name"><a href="/people/hchuang/">Haochen Huang 黄浩宸</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-{% include image.html url="/images/hctang.jpeg" caption="" width=300 align="center" %}
+<div class="people-card">
+  <img src="/images/jyli.jpg" alt="Jiayi Li">
+  <div class="name"><a href="/people/jyli/">Jiayi Li 李佳怡</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-<a href="#top">Back to top</a>
+<div class="people-card">
+  <img src="/images/jrzhu.jpg" alt="Jiarui Zhu">
+  <div class="name"><a href="/people/jrzhu/">Jiarui Zhu 朱佳睿</a></div>
+  <div class="role">Master Student</div>
+</div>
 
----
-<br />
-# <a name="yqliao"></a>Yingqi Liao(廖英琦)
-<span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>
-Personal web page:  [Yingqi Liao](https://tcheng-suda.github.io/people/yqliao/)
-Email:
+<div class="people-card">
+  <img src="/images/zzhang-2.jpg" alt="Zheng Zhang">
+  <div class="name"><a href="/people/zhengzhang/">Zheng Zhang 张郑</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-{% include image.html url="/images/yqliao.jpg" caption="" width=300 align="center" %}
+<div class="people-card">
+  <img src="/images/xgui-2.jpg" alt="Xia Gui">
+  <div class="name"><a href="/people/xgui/">Xia Gui 桂霞</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-<a href="#top">Back to top</a>
+<div class="people-card">
+  <img src="/images/skwang-2.jpg" alt="Shuaike Wang">
+  <div class="name"><a href="/people/skwang/">Shuaike Wang 王帅珂</a></div>
+  <div class="role">Master Student</div>
+</div>
 
----
-<br />
-# <a name="hchuang"></a>Haochen Huang(黄浩宸)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student)</span>
-Personal web page:  [Haochen Huang](https://tcheng-suda.github.io/people/hchuang/)
-Email:
+<div class="people-card">
+  <img src="/images/fli-2.jpg" alt="Fei Li">
+  <div class="name"><a href="/people/fli/">Fei Li 李飞</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-{% include image.html url="/images/hchuang.jpeg" caption="" width=300 align="center" %}
+<div class="people-card">
+  <img src="/images/bcluo-2.jpg" alt="Baicheng Luo">
+  <div class="name"><a href="/people/bcluo/">Baicheng Luo 罗柏成</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-<a href="#top">Back to top</a>
+<div class="people-card">
+  <img src="/images/szguan-2.jpg" alt="Shenzhen Guan">
+  <div class="name"><a href="/people/szguan/">Shenzhen Guan 关深圳</a></div>
+  <div class="role">Master Student</div>
+</div>
 
----
-<br />
-# <a name="xwgu"></a>Xuewei Gu(顾雪薇)
-<span style="color:black;font-size:18pt;font-weight:bold">Ph.D. Student</span>
-personal web page:  [Xuewei Gu](https://tcheng-suda.github.io/people/xwgu/)
-Email:
+<div class="people-card">
+  <img src="/images/zhzhang-2.jpg" alt="Zonghao Zhang">
+  <div class="name"><a href="/people/zhzhang/">Zonghao Zhang 张宗浩</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-{% include image.html url="/images/xwgu.jpeg" caption="" width=300 align="center" %}
+<div class="people-card">
+  <img src="/images/cypan.jpeg" alt="Chenyang Pan">
+  <div class="name"><a href="/people/cypan/">Chenyang Pan 潘晨阳</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-<a href="#top">back to top</a>
+<div class="people-card">
+  <img src="/images/kwang.jpeg" alt="Kun Wang">
+  <div class="name"><a href="/people/kwang/">Kun Wang 王坤</a></div>
+  <div class="role">Master Student</div>
+</div>
 
----
-<br />
-# <a name="jyli"></a>Jiayi Li(李佳怡)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Jiayi Li](https://tcheng-suda.github.io/people/jyli/)
-Email:
+<div class="people-card">
+  <img src="/images/tqzhao.jpeg" alt="Tianqi Zhao">
+  <div class="name"><a href="/people/tqzhao/">Tianqi Zhao 赵天奇</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-{% include image.html url="/images/jyli.jpg" caption="" width=300 align="center" %}
+<div class="people-card">
+  <img src="/images/ydsheng.jpeg" alt="Yidan Sheng">
+  <div class="name"><a href="/people/ydsheng/">Yidan Sheng 盛宜丹</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-<a href="#top">back to top</a>
+<div class="people-card">
+  <img src="/images/bbruan.jpeg" alt="Binbin Ruan">
+  <div class="name"><a href="/people/bbruan/">Binbin Ruan 阮彬彬</a></div>
+  <div class="role">Master Student</div>
+</div>
 
----
-<br />
-# <a name="jrzhu"></a>Jiarui Zhu(朱佳睿)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Jiarui Zhu](https://tcheng-suda.github.io/people/jrzhu/)
-Email:
+<div class="people-card">
+  <img src="/images/hyliu.png" alt="Hengyu Liu">
+  <div class="name"><a href="/people/hyliu/">Hengyu Liu 刘恒钰</a></div>
+  <div class="role">Master Student</div>
+</div>
 
-{% include image.html url="/images/jrzhu.jpg" caption="" width=300 align="center" %}
+</div>
 
-<a href="#top">back to top</a>
+<h2 id="outreach">Outreach (Undergraduates)</h2>
 
----
-<br />
-# <a name="zhengzhang"></a>Zheng Zhang(张郑)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Zheng Zhang](https://tcheng-suda.github.io/people/zhengzhang/)
+<div class="people-grid">
 
-{% include image.html url="/images/zzhang-2.jpg" caption="" width=300 align="center" %}
+<div class="people-card">
+  <div class="name">Ziyu Su 苏子彧</div>
+  <div class="role">Undergraduate Student</div>
+</div>
 
-Email:
+<div class="people-card">
+  <div class="name">Yanliang Chen 陈彦良</div>
+  <div class="role">Undergraduate Student</div>
+</div>
 
-<a href="#top">back to top</a>
+<div class="people-card">
+  <div class="name">Miao Zhang 张淼</div>
+  <div class="role">Undergraduate Student</div>
+</div>
 
----
-<br />
-# <a name="xgui"></a>Xia Gui(桂霞)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Xia Gui](https://tcheng-suda.github.io/people/xgui/)
+<div class="people-card">
+  <div class="name">Pengfei Gao 高鹏飞</div>
+  <div class="role">Undergraduate Student</div>
+</div>
 
-{% include image.html url="/images/xgui-2.jpg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="skwang"></a>Shuaike Wang(王帅珂)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Shuaike Wang](https://tcheng-suda.github.io/people/skwang/)
-
-{% include image.html url="/images/skwang-2.jpg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="fli"></a>Fei Li(李飞)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Fei Li](https://tcheng-suda.github.io/people/fli/)
-
-{% include image.html url="/images/fli-2.jpg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="bcluo"></a>Baicheng Luo(罗柏成)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Baicheng Luo](https://tcheng-suda.github.io/people/bcluo/)
-
-{% include image.html url="/images/bcluo-2.jpg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="szguan"></a>Shenzhen Guan(关深圳)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Shenzhen Guan](https://tcheng-suda.github.io/people/szguan/)
-
-{% include image.html url="/images/szguan-2.jpg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
+</div>
 
 ---
-<br />
-# <a name="zhzhang"></a>Zonghao Zhang(张宗浩)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Zonghao Zhang](https://tcheng-suda.github.io/people/zhzhang/)
 
-{% include image.html url="/images/zhzhang-2.jpg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="cypan"></a>Chenyang Pan(潘晨阳)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Chenyang Pan](https://tcheng-suda.github.io/people/cypan/)
-
-{% include image.html url="/images/cypan.jpeg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="kwang"></a>Kun Wang(王坤)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Kun Wang](https://tcheng-suda.github.io/people/kwang/)
-
-{% include image.html url="/images/kwang.jpeg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="tqzhao"></a>Tianqi Zhao(赵天奇)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Tianqi Zhao](https://tcheng-suda.github.io/people/tqzhao/)
-
-{% include image.html url="/images/tqzhao.jpeg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="ydsheng"></a>Yidan Sheng(盛宜丹)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Yidan Sheng](https://tcheng-suda.github.io/people/ydsheng/)
-
-{% include image.html url="/images/ydsheng.jpeg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="bbruan"></a>Binbin Ruan(阮彬彬)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Binbin Ruan](https://tcheng-suda.github.io/people/bbruan/)
-
-{% include image.html url="/images/bbruan.jpeg" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="hyliu"></a>Hengyu Liu(刘恒钰)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student</span>
-personal web page:  [Hengyu Liu](https://tcheng-suda.github.io/people/hyliu/)
-
-{% include image.html url="/images/hyliu.png" caption="" width=300 align="center" %}
-
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="szysu"></a>Ziyu Su(苏子彧)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Outreach)</span>
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="ylchen"></a>Yanliang Chen(陈彦良)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Outreach)</span>
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="mzhang2"></a>Miao Zhang(张淼)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Outreach)</span>
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="pfgao"></a>Pengfei Gao(高鹏飞)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Outreach)</span>
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-**Alumni**
-(**1 Postdoc, 11 M.S. student, 12 Undergraduates**)
-|[**Miao Xie(谢淼)**](#mxie)
-|[**Qi Yuan(苑琦)**](#qyuan)
-|[**Wenxuan Du(杜文轩)**](#wxdu)
-|[**Shiwen Wang(王诗文)**](#swwang)
-|[**Yu Wu(吴宇)**](#ywu)
-|[**Yiming Lu(陆一鸣)**](#ymlu)
-|[**Yanyan Zhang(张滟滟)**](#yyzhang)
-|[**Mengwen Wang(王梦文)**](#mwwang)
-|[**Zhe Zhang(张哲)**](#zzhang)
-|[**Xiangcong Song(宋相聪)**](#xhsong)
-|[**Jiachen Lu(鲁珈辰)**](#jclu)
-|[**Ruyue Yin(殷汝越)**](#ryyin)
-|[**Zhengan Yan(严正安)**](#zayan)
-|[**Qiyu Xu(徐祺禹)**](#qyxu)
-|[**Letao Bian(边乐陶)**](#ltbian)
-|[**Hu Yanhao(胡炎浩)**](#yhhu)
-|[**Qiwei Zhou(周琦蔚)**](#qwzhou)
-|[**Shuang Feng(冯爽)**](#sfeng)
-|[**Jiayi Zhang(张家奕)**](#jyzhang)
-|[**Jinying Wu(吴晋莹)**](#jywu)
-|[**Tianxiu Yin(殷田秀)**](#txyin)
-|[**Siyuan Fan(范思远)**](#syfan)
-|[**Jinglong Xiang(项景龙)**](#jlxiang)
-|
-
----
-<br />
-# <a name="mxie"></a>Miao Xie(谢淼)
-<span style="color:black;font-size:18pt;font-weight:bold">Senior Postdoctoral Researcher (Alumni: 2019-2022)</span>
-Personal web page: [Miao Xie](https://tcheng-suda.github.io/people/mxie/)
-Email: [xiemiao@suda.edu.cn](xiemiao@suda.edu.cn)
-Next: Associate Professor at Soochow University
-
-<!---
-{% include image.html url="/images/mxie.jpeg" caption="" width=300 align="center" %}
---->
-
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="qyuan"></a>Qi Yuan (苑琦)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2018-2021)</span>
-Personal web page:  [Qi Yuan](https://tcheng-suda.github.io/people/qyuan/)
-Email: [Qi Yuan email](1185326833@qq.com)
-Next: Ph. D. Student in Tsinghua University
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="wxdu"></a>Wenxuan Du(杜文轩)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2019-2022)</span>
-Personal web page:  [Wenxuan Du](https://tcheng-suda.github.io/people/wxdu/)
-Email:
-Next: Master Student in University of Southern California (USA)
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="swwang"></a>Shiwen Wang(王诗文)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2019-2022)</span>
-Personal web page:  [Shiwen Wang](https://tcheng-suda.github.io/people/swwang/)
-Email:
-Next: Master Student in Peking University
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="ywu"></a>Yu Wu(吴宇)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2019-2022)</span>
-Personal web page:  [Yu Wu](https://tcheng-suda.github.io/people/ywu/)
-Email:[20194214097@stu.suda.edu.cn](20194214097@stu.suda.edu.cn)
-Next: National Public Employee (Jiangsu Province)
-
-<!---
-{% include image.html url="/images/ywu.jpeg" caption="" width=300 align="center" %}
---->
-
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="ymlu"></a>Yiming Lu(陆一鸣)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2019-2022)</span>
-Personal web page:  [Yiming Lu](https://tcheng-suda.github.io/people/ymlu/)
-Email:[ymlu@stu.suda.edu.cn](ymlu@stu.suda.edu.cn)
-Next: High School Teacher (Jiangsu Province)
-
-<!---
-{% include image.html url="/images/ymlu.jpg" caption="" width=300 align="center" %}
---->
-
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="yyzhang"></a>Yanyan Zhang(张滟滟)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2019-2022)</span>
-Personal web page:  [Yanyan Zhang](https://tcheng-suda.github.io/people/yyzhang/)
-Email:[1814401017@stu.suda.edu.cn](1814401017@stu.suda.edu.cn)
-Next: Master Student at Fudan University
-
-<!---
-{% include image.html url="/images/yyzhang.jpeg" caption="" width=300 align="center" %}
---->
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="mwwang"></a>Mengwen Wang(王梦文)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2020-2023)</span>
-Personal web page:  [Mengwen Wang](https://tcheng-suda.github.io/people/mwwang/)
-Email:[mwwang1@stu.suda.edu.cn](mwwang1@stu.suda.edu.cn)
-Next: Eve Energy Co., Ltd.
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="zzhang"></a>Zhe Zhang(张哲)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2020-2023)</span>
-Personal web page:  [Zhe Zhang](https://tcheng-suda.github.io/people/zzhang/)
-Email:[zzhangz@stu.suda.edu.cn](zzhangz@stu.suda.edu.cn)
-Next:
-
-<!---
-{% include image.html url="/images/zzhang.jpeg" caption="" width=300 align="center" %}
---->
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="xhsong"></a>Xiangcong Song(宋相聪)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2020-2023)</span>
-Personal web page:  [Xiangcong Song](https://tcheng-suda.github.io/people/xhsong/)
-Email:[xcsongxcsong@stu.suda.edu.cn](xcsongxcsong@stu.suda.edu.cn)
-Next: Semiconductor Manufacturing International Corporation
-
-<!---
-{% include image.html url="/images/xcsong.jpeg" caption="" width=300 align="center" %}
---->
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="jclu"></a>Jiachen Lu(鲁珈辰)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2021-2023)</span>
-Personal web page:  [Jiachen Lu](https://tcheng-suda.github.io/people/jclu/)
-Email:
-Next: Master Student at Shanghai Jiao Tong University
-
-<!---
-{% include image.html url="/images/jclu.jpeg" caption="" width=300 align="center" %}
---->
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="ryyin"></a>Ruyue Yin(殷汝越)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2021-2023)</span>
-personal web page:  [Ruyue Yin](https://tcheng-suda.github.io/people/ryyin/)
-Email:
-Next: Master Student at Southeast University
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="zayan"></a>Zhengan Yan(严正安)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2023-2024)</span>
-Personal web page:  [Zhengan Yan](https://tcheng-suda.github.io/people/zayan/)
-Email:
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="qyxu"></a>Qiyu Xu(徐祺禹)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2023-2024)</span>
-Personal web page:  [Qiyu Xu](https://tcheng-suda.github.io/people/qyxu/)
-Email:
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="ltbian"></a>Letao Bian(边乐陶)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2024-2024)</span>
-personal web page:  [Letao Bian](https://tcheng-suda.github.io/people/ltbian/)
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="yhhu"></a>Yanhao Hu(胡炎浩)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2024-2024)</span>
-personal web page:  [Yanhao Hu](https://tcheng-suda.github.io/people/yhhu/)
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="qwzhou"></a>Qiwei Zhou(周琦蔚)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2021-2024)</span>
-Personal web page:  [Qiwei Zhou](https://tcheng-suda.github.io/people/qwzhou/)
-Email:[1012024382@qq.com](1012024382@qq.com)
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="sfeng"></a>Shuang Feng(冯爽)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2021-2024)</span>
-Personal web page:  [Shuang Feng](https://tcheng-suda.github.io/people/sfeng/)
-Email:[fengshuanghi@qq.com](fengshuanghi@qq.com)
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="jyzhang"></a>Jiayi Zhang(张家奕)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2019-2025)</span>
-Personal web page:  [Jiayi Zhang](https://tcheng-suda.github.io/people/jyzhang/)
-Email:[1219646977@qq.com](1219646977@qq.com)
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="jywu"></a>Jinying Wu(吴晋莹)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2021-2025)</span>
-Personal web page:  [Jinying Wu](https://tcheng-suda.github.io/people/jywu/)
-Email:[woshiwjy@foxmail.com](woshiwjy@foxmail.com)
-
-<a href="#top">Back to top</a>
-
----
-<br />
-# <a name="txyin"></a>Tianxiu Yin(殷田秀)
-<span style="color:black;font-size:18pt;font-weight:bold">Master Student (Alumni: 2022-2025)</span>
-personal web page:  [Tianxiu Yin](https://tcheng-suda.github.io/people/txyin/)
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="syfan"></a>Siyuan Fan(范思远)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2023-2024)</span>
-personal web page:  [Siyuan Fan](https://tcheng-suda.github.io/people/syfan/)
-Email:
-
-<a href="#top">back to top</a>
-
----
-<br />
-# <a name="jlxiang"></a>Jinglong Xiang(项景龙)
-<span style="color:black;font-size:18pt;font-weight:bold">Undergraduate Student (Alumni: 2023-2024)</span>
-personal web page:  [Jinglong Xiang](https://tcheng-suda.github.io/people/jlxiang/)
-Email:
-
-<a href="#top">back to top</a>
+<h2 id="alumni">Alumni</h2>
+
+<div class="people-grid">
+
+<div class="people-card">
+  <div class="name"><a href="/people/mxie/">Miao Xie 谢淼</a></div>
+  <div class="role">Postdoc (2019-2022)</div>
+  <div class="next">Associate Professor at Soochow University</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/qyuan/">Qi Yuan 苑琦</a></div>
+  <div class="role">M.S. (2018-2021)</div>
+  <div class="next">Ph.D. at Tsinghua University</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/wxdu/">Wenxuan Du 杜文轩</a></div>
+  <div class="role">Undergrad (2019-2022)</div>
+  <div class="next">M.S. at University of Southern California</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/swwang/">Shiwen Wang 王诗文</a></div>
+  <div class="role">Undergrad (2019-2022)</div>
+  <div class="next">M.S. at Peking University</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/ywu/">Yu Wu 吴宇</a></div>
+  <div class="role">M.S. (2019-2022)</div>
+  <div class="next">National Public Employee (Jiangsu)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/ymlu/">Yiming Lu 陆一鸣</a></div>
+  <div class="role">M.S. (2019-2022)</div>
+  <div class="next">High School Teacher (Jiangsu)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/yyzhang/">Yanyan Zhang 张滟滟</a></div>
+  <div class="role">Undergrad (2019-2022)</div>
+  <div class="next">M.S. at Fudan University</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/mwwang/">Mengwen Wang 王梦文</a></div>
+  <div class="role">M.S. (2020-2023)</div>
+  <div class="next">Eve Energy Co., Ltd.</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/zzhang/">Zhe Zhang 张哲</a></div>
+  <div class="role">M.S. (2020-2023)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/xhsong/">Xiangcong Song 宋相聪</a></div>
+  <div class="role">M.S. (2020-2023)</div>
+  <div class="next">Semiconductor Mfg. International Corp.</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/jclu/">Jiachen Lu 鲁珈辰</a></div>
+  <div class="role">Undergrad (2021-2023)</div>
+  <div class="next">M.S. at Shanghai Jiao Tong University</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/ryyin/">Ruyue Yin 殷汝越</a></div>
+  <div class="role">Undergrad (2021-2023)</div>
+  <div class="next">M.S. at Southeast University</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/zayan/">Zhengan Yan 严正安</a></div>
+  <div class="role">Undergrad (2023-2024)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/qyxu/">Qiyu Xu 徐祺禹</a></div>
+  <div class="role">Undergrad (2023-2024)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/ltbian/">Letao Bian 边乐陶</a></div>
+  <div class="role">Undergrad (2024)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/yhhu/">Yanhao Hu 胡炎浩</a></div>
+  <div class="role">Undergrad (2024)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/qwzhou/">Qiwei Zhou 周琦蔚</a></div>
+  <div class="role">M.S. (2021-2024)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/sfeng/">Shuang Feng 冯爽</a></div>
+  <div class="role">M.S. (2021-2024)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/jyzhang/">Jiayi Zhang 张家奕</a></div>
+  <div class="role">M.S. (2019-2025)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/jywu/">Jinying Wu 吴晋莹</a></div>
+  <div class="role">M.S. (2021-2025)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/txyin/">Tianxiu Yin 殷田秀</a></div>
+  <div class="role">M.S. (2022-2025)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/syfan/">Siyuan Fan 范思远</a></div>
+  <div class="role">Undergrad (2023-2024)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a href="/people/jlxiang/">Jinglong Xiang 项景龙</a></div>
+  <div class="role">Undergrad (2023-2024)</div>
+</div>
+
+</div>
