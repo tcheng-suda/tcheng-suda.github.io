@@ -218,4 +218,11 @@ text-decoration: none;
 font-family: 'Capita', Georgia, serif;
 }
 
+@include media-query($on-palm) {
+    img[alt="cover"] {
+        height: auto;
+        object-fit: contain;
+    }
+}
+
 
