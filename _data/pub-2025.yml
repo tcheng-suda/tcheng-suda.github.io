@@ -34,7 +34,7 @@
   URL: https://doi.org/10.1063/1674-0068/cjcp2505068
   type: article
   DOI: 10.1063/1674-0068/cjcp2505068
-  fulltext: null
+  fulltext: "223.pdf"
   language: english
 - title: Binding Energy-Assisted Oxidation Potential as a Measure of Prelithiation
     Capability
@@ -83,6 +83,7 @@
   journal:
     abbreviation: Angew. Chem. Int. Ed.
   URL: https://doi.org/10.1002/ange.202515463
+  fulltext: "222.pdf"
   type: article
   DOI: 10.1002/ange.202515463
   volume: 138
@@ -129,6 +130,7 @@
   journal:
     abbreviation: J. Am. Chem. Soc.
   URL: https://doi.org/10.1021/jacs.5c08253
+  fulltext: "221.pdf"
   type: article
   DOI: 10.1021/jacs.5c08253
   language: english
@@ -166,6 +168,7 @@
   journal:
     abbreviation: Small
   URL: https://doi.org/10.1002/smll.202510841
+  fulltext: "220.pdf"
   type: article
   DOI: 10.1002/smll.202510841
   language: english
@@ -227,6 +230,7 @@
   journal:
     abbreviation: ACS Nano
   URL: https://doi.org/10.1021/acsnano.5c11221
+  fulltext: "219.pdf"
   type: article
   DOI: 10.1021/acsnano.5c11221
   language: english
@@ -277,6 +281,7 @@
   journal:
     abbreviation: Angew. Chem. Int. Ed.
   URL: https://doi.org/10.1002/ange.202525130
+  fulltext: "218.pdf"
   type: article
   DOI: 10.1002/ange.202525130
   volume: 138
@@ -327,6 +332,7 @@
   journal:
     abbreviation: Phys. Rev. Lett.
   URL: https://doi.org/10.1103/sd72-g4t8
+  fulltext: "217.pdf"
   type: article
   DOI: 10.1103/sd72-g4t8
   language: english
@@ -372,7 +378,7 @@
   type: article
   DOI: 10.1021/acs.nanolett.5c04031
   language: english
-  fulltext: null
+  fulltext: "216.pdf"
 - title: Oxygen functionalization of carbon quantum dots enables efficient acidic
     hydrogen peroxide electrosynthesis
   volume: 17
@@ -465,6 +471,7 @@
   journal:
     abbreviation: Nanoscale
   URL: https://doi.org/10.1039/D5NR04472C
+  fulltext: "214.pdf"
   type: article
   DOI: 10.1039/D5NR04472C
   volume: 18
@@ -522,6 +529,7 @@
   journal:
     abbreviation: Adv. Mater.
   URL: https://doi.org/10.1002/adma.202519565
+  fulltext: "213.pdf"
   type: article
   DOI: 10.1002/adma.202519565
   language: english
@@ -570,6 +578,7 @@
   journal:
     abbreviation: Angew. Chem. Int. Ed.
   URL: https://doi.org/10.1002/anie.202521171
+  fulltext: "212.pdf"
   type: article
   DOI: 10.1002/anie.202521171
   language: english
@@ -630,6 +639,7 @@
   journal:
     abbreviation: Sep. Purif. Technol.
   URL: https://doi.org/10.1016/j.seppur.2025.132888
+  fulltext: "211.pdf"
   type: article
   DOI: 10.1016/j.seppur.2025.132888
   language: english
@@ -809,6 +819,7 @@
   journal:
     abbreviation: J. Am. Chem. Soc.
   URL: https://doi.org/10.1021/jacs.5c16009
+  fulltext: "208.pdf"
   type: article
   DOI: 10.1021/jacs.5c16009
   language: english
@@ -872,6 +883,7 @@
   journal:
     abbreviation: J. Catal.
   URL: https://doi.org/10.1016/j.jcat.2025.116618
+  fulltext: "207.pdf"
   type: article
   DOI: 10.1016/j.jcat.2025.116618
   language: english
@@ -944,6 +956,7 @@
   journal:
     abbreviation: J. Am. Chem. Soc.
   URL: https://doi.org/10.1021/jacs.5c06886
+  fulltext: "206.pdf"
   type: article
   DOI: 10.1021/jacs.5c06886
   language: english
@@ -994,6 +1007,7 @@
   journal:
     abbreviation: Adv. Energy Mater.
   URL: https://doi.org/10.1002/aenm.202504413
+  fulltext: "205.pdf"
   type: article
   DOI: 10.1002/aenm.202504413
   volume: 16
@@ -1212,7 +1226,7 @@
   URL: https://doi.org/10.1016/j.cej.2025.162396
   type: article
   DOI: null
-  fulltext: null
+  fulltext: "201.pdf"
   language: english
 - title: Imaging molecular structures and interactions by enhanced confinement effect
     in electron microscopy
@@ -1325,7 +1339,7 @@
   URL: https://doi.org/10.1021/jacs.4c17756
   type: article
   DOI: null
-  fulltext: null
+  fulltext: "199.pdf"
   language: english
 - title: Dynamic evolution of cathode-electrolyte interphase in lithium metal batteries
     with ether electrolytes
@@ -1391,7 +1405,7 @@
   URL: https://doi.org/10.1016/j.joule.2025.101885
   type: article
   DOI: null
-  fulltext: null
+  fulltext: "198.pdf"
   language: english
 - title: Popularizing Holistic High-Index Crystal Plane via Nonepitaxial Electrodeposition
     Toward Hydrogen-Embrittlement-Relieved Zn Anode
@@ -1502,7 +1516,7 @@
   URL: https://doi.org/10.1016/j.cclet.2024.110749
   type: article
   DOI: null
-  fulltext: null
+  fulltext: "196.pdf"
   language: english
 - title: A Thermally Robust Biopolymeric Separator Conveys K+ Transport and Interfacial
     Chemistry for Longevous Potassium Metal Batteries
@@ -1736,7 +1750,7 @@
   URL: https://doi.org/10.1002/smll.202406900
   type: article
   DOI: null
-  fulltext: null
+  fulltext: "192.pdf"
   language: english
 - title: Riveting Nucleation Enabled Long Cycling Life Calcium Metal Anodes
   volume: 37
