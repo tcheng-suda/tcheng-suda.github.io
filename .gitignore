@@ -15,3 +15,12 @@ Gemfile.lock
 *.swp
 *.swo
 *~
+
+# Local scripts
+gp.sh
+
+# Tools
+tools/
+
+# PDF
+pdf/

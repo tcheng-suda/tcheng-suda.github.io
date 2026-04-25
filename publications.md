@@ -8,7 +8,7 @@ permalink: /publications/
 |[**Google Scholar**](https://goo.gl/AgbNaK)
 |[**ResearchGate**](https://www.researchgate.net/profile/Tao_Cheng13)
 |[**ORCID**](http://orcid.org/0000-0003-4830-177X)
-|[**Web of Science**](https://www.webofscience.com/wos/author/record/1444044/)
+|[**Web of Science**](https://www.webofscience.com/wos/author/record/1444044)
 |  
 |[**2026**](#2026)
 |[**2025**](#2025)
@@ -65,7 +65,7 @@ permalink: /publications/
 ## <a name="2026"></a>2026
 
 <div class='panel-pub'>
-<ol start='235' reversed>
+<ol start='234' reversed>
 {% for article in site.data.pub-2026 %}
     <li>
     <div class="title">

@@ -1,41 +1,42 @@
-- title: 'Amorphous MoOx Interfaces Activate Pt Nanoclusters for Ultralow-Overpotential Chlorine Evolution'
-  volume:
-  issue:
-  page: ""
+- title: Amorphous MoOx Interfaces Activate Pt Nanoclusters for Ultralow-Overpotential
+    Chlorine Evolution
+  volume: null
+  issue: null
+  page: ''
   year: 2026
   author:
-  - given:
+  - given: null
     given_initial: LP
     family: Tang
-  - given:
+  - given: null
     given_initial: TQ
     family: Zhao
-  - given:
+  - given: null
     given_initial: JS
     family: Xie
-  - given:
+  - given: null
     given_initial: LK
     family: Fu
-  - given:
+  - given: null
     given_initial: YP
     family: Li
-  - given:
+  - given: null
     given_initial: YF
     family: Bu
-  - given:
+  - given: null
     given_initial: YF
     family: Fu
-  - given:
+  - given: null
     given_initial: JH
     family: Zhou
-  - given:
+  - given: null
     given_initial: BJ
     family: Xu
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: MF
     family: Li
     role: corr
@@ -44,56 +45,56 @@
   URL: https://doi.org/10.1002/anie.7262304
   type: article
   DOI: 10.1002/anie.7262304
-  fulltext:
+  fulltext: null
   language: english
-
-- title: 'Oxidation-resistant AgRuIr alloy nanocages for efficient and enduring oxygen evolution in proton exchange membrane electrolysis'
-  volume:
-  issue:
-  page: ""
+- title: Oxidation-resistant AgRuIr alloy nanocages for efficient and enduring oxygen
+    evolution in proton exchange membrane electrolysis
+  volume: null
+  issue: null
+  page: ''
   year: 2026
   author:
-  - given:
+  - given: null
     given_initial: XX
     family: Wang
-  - given:
+  - given: null
     given_initial: PP
     family: Yu
-  - given:
+  - given: null
     given_initial: MX
     family: Liu
-  - given:
+  - given: null
     given_initial: L
     family: Wang
-  - given:
+  - given: null
     given_initial: FF
     family: Shang
-  - given:
+  - given: null
     given_initial: FP
     family: Zhang
-  - given:
+  - given: null
     given_initial: ZJ
     family: Liu
-  - given:
+  - given: null
     given_initial: YK
     family: Bai
-  - given:
+  - given: null
     given_initial: K
     family: Liu
-  - given:
+  - given: null
     given_initial: L
     family: Zhang
-  - given:
+  - given: null
     given_initial: SC
     family: Yang
-  - given:
+  - given: null
     given_initial: Q
     family: Zhang
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: CB
     family: Gao
     role: corr
@@ -102,35 +103,35 @@
   URL: https://doi.org/10.1038/s41467-026-71943-6
   type: article
   DOI: 10.1038/s41467-026-71943-6
-  fulltext:
+  fulltext: null
   language: english
-
-- title: 'Differentiating interfacial water structures via alkali metal cation promotor for H2O2 electrosynthesis in acid'
-  volume:
-  issue:
-  page: ""
+- title: Differentiating interfacial water structures via alkali metal cation promotor
+    for H2O2 electrosynthesis in acid
+  volume: null
+  issue: null
+  page: ''
   year: 2026
   author:
-  - given:
+  - given: null
     given_initial: YF
     family: Wang
     role: corr
-  - given:
+  - given: null
     given_initial: PY
     family: Duan
-  - given:
+  - given: null
     given_initial: YQ
     family: Liao
-  - given:
+  - given: null
     given_initial: H
     family: Wang
-  - given:
+  - given: null
     given_initial: BB
     family: Li
-  - given:
+  - given: null
     given_initial: HY
     family: Zhang
-  - given:
+  - given: null
     given_initial: H
     family: Yang
     role: corr
@@ -138,7 +139,7 @@
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: JY
     family: Sun
     role: corr
@@ -147,78 +148,78 @@
   URL: https://doi.org/10.1038/s41467-026-71584-9
   type: article
   DOI: 10.1038/s41467-026-71584-9
-  fulltext:
+  fulltext: null
   language: english
-
-- title: 'Dynamic migration of framework Al atoms during the crystallization of MOR zeolite'
+- title: Dynamic migration of framework Al atoms during the crystallization of MOR
+    zeolite
   volume: 117
-  issue:
+  issue: null
   page: 657-668
   year: 2026
   author:
-  - given:
+  - given: null
     given_initial: YD
     family: Zhou
-  - given:
+  - given: null
     given_initial: YQ
     family: Liao
-  - given:
+  - given: null
     given_initial: CY
     family: Lou
-  - given:
+  - given: null
     given_initial: JF
     family: Han
-  - given:
+  - given: null
     given_initial: XZ
     family: Ding
-  - given:
+  - given: null
     given_initial: N
     family: Chen
-  - given:
+  - given: null
     given_initial: XH
     family: Wang
-  - given:
+  - given: null
     given_initial: YH
     family: Li
-  - given:
+  - given: null
     given_initial: J
     family: Niu
-  - given:
+  - given: null
     given_initial: J
     family: Sun
-  - given:
+  - given: null
     given_initial: L
     family: Wang
-  - given:
+  - given: null
     given_initial: FS
     family: Xiao
-  - given:
+  - given: null
     given_initial: XW
     family: Gu
-  - given:
+  - given: null
     given_initial: JR
     family: Zhu
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: P
     family: Tian
-  - given:
+  - given: null
     given_initial: WF
     family: Yan
-  - given:
+  - given: null
     given_initial: FX
     family: Zhang
-  - given:
+  - given: null
     given_initial: ST
     family: Xu
     role: corr
-  - given:
+  - given: null
     given_initial: YX
     family: Wei
-  - given:
+  - given: null
     given_initial: ZM
     family: Liu
   journal:
@@ -226,70 +227,70 @@
   URL: https://doi.org/10.1016/j.jechem.2026.02.048
   type: article
   DOI: 10.1016/j.jechem.2026.02.048
-  fulltext:
+  fulltext: null
   language: english
-
-- title: 'Knittable, thermally insulating, and sustainable aerogel fibers enabled by ion-mediated hierarchical assembly'
+- title: Knittable, thermally insulating, and sustainable aerogel fibers enabled by
+    ion-mediated hierarchical assembly
   volume: 17
-  issue:
+  issue: null
   page: 3335
   year: 2026
   author:
-  - given:
+  - given: null
     given_initial: G
     family: Xiao
-  - given:
+  - given: null
     given_initial: XT
     family: Ma
-  - given:
+  - given: null
     given_initial: BY
     family: Ma
-  - given:
+  - given: null
     given_initial: ZC
     family: Chen
-  - given:
+  - given: null
     given_initial: XX
     family: Qi
-  - given:
+  - given: null
     given_initial: C
     family: Shen
-  - given:
+  - given: null
     given_initial: JY
     family: Li
-  - given:
+  - given: null
     given_initial: YN
     family: Yang
-  - given:
+  - given: null
     given_initial: ZW
     family: Lin
-  - given:
+  - given: null
     given_initial: SD
     family: Yao
-  - given:
+  - given: null
     given_initial: JN
     family: Yue
-  - given:
+  - given: null
     given_initial: SY
     family: Duan
-  - given:
+  - given: null
     given_initial: WF
     family: Yang
-  - given:
+  - given: null
     given_initial: X
     family: Zhang
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: PB
     family: Ma
     role: corr
-  - given:
+  - given: null
     given_initial: YL
     family: Shao
     role: corr
-  - given:
+  - given: null
     given_initial: J
     family: Zhang
     role: corr
@@ -298,44 +299,44 @@
   URL: https://doi.org/10.1038/s41467-026-69790-6
   type: article
   DOI: 10.1038/s41467-026-69790-6
-  fulltext:
+  fulltext: null
   language: english
-
-- title: 'Dual-Ion Confined-Region Channels Enable Rapid Ion Transport for All-Solid-State Lithium Metal Batteries'
+- title: Dual-Ion Confined-Region Channels Enable Rapid Ion Transport for All-Solid-State
+    Lithium Metal Batteries
   volume: 148
   issue: 8
   page: 8784-8794
   year: 2026
   author:
-  - given:
+  - given: null
     given_initial: XY
     family: Ma
-  - given:
+  - given: null
     given_initial: JT
     family: Yu
-  - given:
+  - given: null
     given_initial: X
     family: Gui
-  - given:
+  - given: null
     given_initial: Y
     family: Liu
-  - given:
+  - given: null
     given_initial: Y
     family: Hu
-  - given:
+  - given: null
     given_initial: LN
     family: Pan
-  - given:
+  - given: null
     given_initial: YP
     family: She
-  - given:
+  - given: null
     given_initial: Y
     family: Kuang
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: F
     family: Yan
     role: corr
@@ -344,86 +345,86 @@
   URL: https://doi.org/10.1021/jacs.5c21322
   type: article
   DOI: 10.1021/jacs.5c21322
-  fulltext:
+  fulltext: null
   language: english
-
-- title: 'Enhanced Li-ion diffusion improves N2-to-NH3 current efficiency at 100 mA cm−2'
+- title: Enhanced Li-ion diffusion improves N2-to-NH3 current efficiency at 100 mA
+    cm−2
   volume: 391
   issue: 6786
   page: 724-729
   year: 2026
   author:
-  - given:
+  - given: null
     given_initial: Q
     family: Zhang
-  - given:
+  - given: null
     given_initial: HM
     family: Li
-  - given:
+  - given: null
     given_initial: PP
     family: Yu
-  - given:
+  - given: null
     given_initial: PY
     family: Liu
-  - given:
+  - given: null
     given_initial: N
     family: Sun
-  - given:
+  - given: null
     given_initial: YY
     family: Wang
-  - given:
+  - given: null
     given_initial: CL
     family: Tu
-  - given:
+  - given: null
     given_initial: YP
     family: Liu
-  - given:
+  - given: null
     given_initial: Y
     family: Wang
-  - given:
+  - given: null
     given_initial: XY
     family: Yue
-  - given:
+  - given: null
     given_initial: LL
     family: Ma
-  - given:
+  - given: null
     given_initial: W
     family: Wen
-  - given:
+  - given: null
     given_initial: JY
     family: Xu
-  - given:
+  - given: null
     given_initial: ZF
     family: Liang
-  - given:
+  - given: null
     given_initial: JY
     family: Ma
-  - given:
+  - given: null
     given_initial: F
     family: Song
-  - given:
+  - given: null
     given_initial: Z
     family: Liang
-  - given:
+  - given: null
     given_initial: H
     family: Sun
-  - given:
+  - given: null
     given_initial: DS
     family: Ling
-  - given:
+  - given: null
     given_initial: HY
     family: Liang
-  - given:
+  - given: null
     given_initial: F
     family: Liu
-  - given:
+  - given: null
     given_initial: YF
     family: Hu
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: J
     family: Li
     role: corr
@@ -432,40 +433,40 @@
   URL: https://doi.org/10.1126/science.adw5462
   type: article
   DOI: 10.1126/science.adw5462
-  fulltext:
+  fulltext: null
   language: english
-
-- title: 'Weakly-Solvated and Co-Intercalation-Free Ether-Based Electrolytes Enhance the Low- Temperature and Fast-Charging Performance of LiFePO4||Graphite Batteries'
+- title: Weakly-Solvated and Co-Intercalation-Free Ether-Based Electrolytes Enhance
+    the Low- Temperature and Fast-Charging Performance of LiFePO4||Graphite Batteries
   volume: 138
   issue: 1
   page: e21171
   year: 2026
   author:
-  - given:
+  - given: null
     given_initial: ZW
     family: Wang
-  - given:
+  - given: null
     given_initial: XW
     family: Gu
-  - given:
+  - given: null
     given_initial: JC
     family: Zhu
-  - given:
+  - given: null
     given_initial: C
     family: Zhong
-  - given:
+  - given: null
     given_initial: SW
     family: Xu
-  - given:
+  - given: null
     given_initial: ST
     family: Weng
-  - given:
+  - given: null
     given_initial: BW
     family: Liu
-  - given:
+  - given: null
     given_initial: ZX
     family: Wang
-  - given:
+  - given: null
     given_initial: YJ
     family: Li
     role: corr
@@ -473,7 +474,7 @@
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: XF
     family: Wang
     role: corr
@@ -482,40 +483,40 @@
   URL: https://doi.org/10.1002/ange.202521171
   type: article
   DOI: 10.1002/ange.202521171
-  fulltext:
+  fulltext: null
   language: english
-
-- title: 'Revealing the direct role of cobalt in oxygen evolution reaction initiation over high-performance iridium-cobalt oxide catalysts'
+- title: Revealing the direct role of cobalt in oxygen evolution reaction initiation
+    over high-performance iridium-cobalt oxide catalysts
   volume: 14
-  issue:
+  issue: null
   page: 10646-10656
   year: 2026
   author:
-  - given:
+  - given: null
     given_initial: QY
     family: Lin
-  - given:
+  - given: null
     given_initial: QT
     family: Sun
-  - given:
+  - given: null
     given_initial: HJ
     family: Xu
-  - given:
+  - given: null
     given_initial: FY
     family: Yu
-  - given:
+  - given: null
     given_initial: WW
     family: Li
-  - given:
+  - given: null
     given_initial: HZ
     family: Yu
-  - given:
+  - given: null
     given_initial: MW
     family: Shao
-  - given:
+  - given: null
     given_initial: H
     family: Huang
-  - given:
+  - given: null
     given_initial: ZL
     family: Fan
     role: corr
@@ -523,15 +524,15 @@
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: F
     family: Liao
     role: corr
-  - given:
+  - given: null
     given_initial: Y
     family: Liu
     role: corr
-  - given:
+  - given: null
     given_initial: ZH
     family: Kang
     role: corr
@@ -540,51 +541,51 @@
   URL: https://doi.org/10.1039/D5TA09735E
   type: article
   DOI: 10.1039/D5TA09735E
-  fulltext:
+  fulltext: null
   language: english
-
-- title: 'Grain-Boundary-Enriched SEI via Field Regulation Enables Anode-Less Potassium Metal Batteries'
-  volume:
-  issue:
-  page: ""
+- title: Grain-Boundary-Enriched SEI via Field Regulation Enables Anode-Less Potassium
+    Metal Batteries
+  volume: null
+  issue: null
+  page: ''
   year: 2026
   author:
-  - given:
+  - given: null
     given_initial: XY
     family: Lian
-  - given:
+  - given: null
     given_initial: YZ
     family: Wu
-  - given:
+  - given: null
     given_initial: JY
     family: Li
-  - given:
+  - given: null
     given_initial: XZ
     family: Zhang
-  - given:
+  - given: null
     given_initial: ZJ
     family: Ju
     role: corr
-  - given:
+  - given: null
     given_initial: ZA
     family: Chen
-  - given:
+  - given: null
     given_initial: Q
     family: Liu
-  - given:
+  - given: null
     given_initial: R
     family: Xu
-  - given:
+  - given: null
     given_initial: YQ
     family: Song
   - given: Tao
     given_initial: T
     family: Cheng
     role: corr, main
-  - given:
+  - given: null
     given_initial: XY
     family: Tao
-  - given:
+  - given: null
     given_initial: JY
     family: Sun
     role: corr
@@ -593,105 +594,49 @@
   URL: https://doi.org/10.1002/adfm.202528259
   type: article
   DOI: 10.1002/adfm.202528259
-  fulltext:
+  fulltext: null
   language: english
-
-- title: 'In Situ Polymerized Polysiloxane Enables Cohesive Solid‐Electrolyte Interphase for Practical Lithium‐Metal Batteries'
-  volume: 38
-  issue: 10
-  page: e19565
+- title: Tuning ionic transport in 2D ionic COFs through ultrasound-driven morphology
+    engineering
   year: 2026
   author:
-  - given:
-    given_initial: YN
-    family: Wang
-  - given:
-    given_initial: Y
-    family: Liu
-  - given:
-    given_initial: XQ
-    family: Zhang
-    role: corr
-  - given:
-    given_initial: SY
-    family: Sun
-  - given:
-    given_initial: Y
-    family: Li
-  - given:
-    given_initial: JL
-    family: Li
-  - given:
-    given_initial: QK
-    family: Zhang
-  - given:
-    given_initial: Z
-    family: Zheng
-  - given:
-    given_initial: WJ
-    family: Feng
-  - given:
-    given_initial: BQ
-    family: Li
-  - given: Tao
-    given_initial: T
-    family: Cheng
-    role: main
-  - given:
-    given_initial: R
-    family: Wen
-  - given:
-    given_initial: JQ
-    family: Huang
-    role: corr
-  journal:
-    abbreviation: Adv. Mater.
-  URL: https://doi.org/10.1002/adma.202519565
-  type: article
-  DOI: 10.1002/adma.202519565
-  fulltext:
-  language: english
-
-- title: 'Tuning ionic transport in 2D ionic COFs through ultrasound-driven morphology engineering'
-  year: 2026
-  author:
-  - given:
+  - given: null
     given_initial: X
     family: Hu
-  - given:
+  - given: null
     given_initial: YF
     family: Shi
-  - given:
+  - given: null
     given_initial: ZM
     family: Wang
-  - given:
+  - given: null
     given_initial: YH
     family: Wei
-  - given:
+  - given: null
     given_initial: Z
     family: Zhang
-  - given:
+  - given: null
     given_initial: H
     family: Yang
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
-  - given:
+  - given: null
     given_initial: G
     family: Lu
-  - given:
+  - given: null
     given_initial: KJ
     family: Tang
-  - given:
+  - given: null
     given_initial: O
     family: Ivasenko
     role: corr
-  - given:
+  - given: null
     given_initial: ZS
     family: Zhang
     role: corr
-  - given:
+  - given: null
     given_initial: Y
     family: Fang
     role: corr
