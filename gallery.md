@@ -7,6 +7,21 @@ permalink: /gallery/
 <div class="photo-wall">
 
 <div class="photo-wall-item">
+  <a href="/images/2026-03.jpg" target="_blank"><img src="/images/2026-03.jpg" alt="Group 2026"></a>
+  <div class="photo-caption">Suzhou 2026 Spring</div>
+</div>
+
+<div class="photo-wall-item">
+  <a href="/images/2025-09.jpg" target="_blank"><img src="/images/2025-09.jpg" alt="Group 2025"></a>
+  <div class="photo-caption">2025 Visit</div>
+</div>
+
+<div class="photo-wall-item">
+  <a href="/images/2024-04.jpg" target="_blank"><img src="/images/2024-04.jpg" alt="Group 2024"></a>
+  <div class="photo-caption">Group 2024</div>
+</div>
+
+<div class="photo-wall-item">
   <a href="/images/group-2023-03.jpg" target="_blank"><img src="/images/group-2023-03.jpg" alt="Autumn Break 1 2023"></a>
   <div class="photo-caption">Autumn Break 1 2023</div>
 </div>
