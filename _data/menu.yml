@@ -23,9 +23,9 @@
 - title: "Gallery"
   href: "/gallery/"
 
-- title: "Opening"
-  href: "/opening/"
-  
+#- title: "Opening"
+#  href: "/opening/"
+
 - title: "More"
   href: "/more/"
 
