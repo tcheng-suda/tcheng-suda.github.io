@@ -28,9 +28,16 @@
 <script>
   window.addEventListener('DOMContentLoaded', function() {
     var btn = document.getElementById('theme-toggle-btn');
-    var icon = document.getElementById('theme-icon');
+    var sunIcon = document.getElementById('icon-sun');
+    var moonIcon = document.getElementById('icon-moon');
     function updateIcon(theme) {
-      icon.className = theme === 'dark' ? 'fa fa-moon' : 'fa fa-sun';
+      if (theme === 'dark') {
+        sunIcon.style.display = 'none';
+        moonIcon.style.display = 'inline-block';
+      } else {
+        sunIcon.style.display = 'inline-block';
+        moonIcon.style.display = 'none';
+      }
     }
     var current = document.documentElement.getAttribute('data-theme') || 'light';
     updateIcon(current);

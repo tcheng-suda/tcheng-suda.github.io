@@ -216,18 +216,26 @@ z-index:999;
 .theme-toggle {
     cursor: pointer;
     vertical-align: middle;
+    height: auto !important;
+    line-height: 23px;
 
     a {
-        font-size: 16px !important;
-        padding: 0 4px !important;
+        font-size: 18px !important;
+        padding: 0 6px !important;
         text-transform: none !important;
         letter-spacing: 0 !important;
-        display: inline-block;
+        display: inline-block !important;
         line-height: 23px;
+        color: var(--header-text) !important;
+        opacity: 1 !important;
+
+        svg {
+            vertical-align: 0;
+        }
     }
 
     &:hover a {
-        opacity: 0.7;
+        opacity: 0.7 !important;
         text-decoration: none !important;
     }
 }
