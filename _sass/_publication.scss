@@ -4,10 +4,10 @@
     }
     .title {
         font-weight: bold;
-        color: #0000FF;
+        color: var(--pub-title-color);
         a {
             &:hover {
-                color: #0000FF;
+                color: var(--pub-title-hover);
             }
         }
     }
