@@ -437,3 +437,58 @@ ul.listing li.listing-item a {
     }
 }
 
+/* Talks page */
+.talk-year {
+    font-size: 1.4em;
+    font-weight: 700;
+    color: $clemson-orange;
+    margin-top: 32px;
+    margin-bottom: 16px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid $clemson-orange;
+}
+
+.talk-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.talk-item {
+    padding: 14px 18px;
+    margin-bottom: 10px;
+    background: rgba(22, 97, 188, 0.04);
+    border-radius: 6px;
+    border-left: 4px solid $clemson-orange;
+    transition: background 0.2s;
+
+    &:hover {
+        background: rgba(22, 97, 188, 0.08);
+    }
+
+    .talk-title {
+        font-size: 1.05em;
+        font-weight: 600;
+        color: #1e1a15;
+        margin-bottom: 6px;
+    }
+
+    .talk-meta {
+        font-size: 0.88em;
+        color: #555;
+        line-height: 1.5;
+    }
+
+    .talk-type {
+        display: inline-block;
+        font-size: 0.78em;
+        font-weight: 600;
+        color: #fff;
+        background: $clemson-orange;
+        padding: 2px 8px;
+        border-radius: 3px;
+        margin-right: 8px;
+        vertical-align: middle;
+    }
+}
+
