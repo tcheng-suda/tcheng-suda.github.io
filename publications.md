@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
+Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you need the full text.
 ## Journal Articles
 |[**Google Scholar**](https://goo.gl/AgbNaK)
 |[**ResearchGate**](https://www.researchgate.net/profile/Tao_Cheng13)
