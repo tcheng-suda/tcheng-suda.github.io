@@ -4,41 +4,71 @@ title: Gallery
 permalink: /gallery/
 ---
 
-# **Autumn Break 1 2023**
-![group_2023_01](/images/group-2023-03.jpg)
+<div class="photo-wall">
 
-# **Spring Break 2 2023**
-![group_2023_01](/images/group-2023-02.jpg)
+<div class="photo-wall-item">
+  <img src="/images/group-2023-03.jpg" alt="Autumn Break 1 2023">
+  <div class="photo-caption">Autumn Break 1 2023</div>
+</div>
 
-# **Spring Break 2023**
-![group_2023_01](/images/group-2023-01.jpeg)
+<div class="photo-wall-item">
+  <img src="/images/group-2023-02.jpg" alt="Spring Break 2 2023">
+  <div class="photo-caption">Spring Break 2 2023</div>
+</div>
 
-# **Seminar 2022 2**
-![seminar_2022_02](/images/seminar-2022-02.jpg)
+<div class="photo-wall-item">
+  <img src="/images/group-2023-01.jpeg" alt="Spring Break 2023">
+  <div class="photo-caption">Spring Break 2023</div>
+</div>
 
-# **Seminar 2022 1**
-![seminar_2022_01](/images/seminar-2022-01.jpg)
+<div class="photo-wall-item">
+  <img src="/images/seminar-2022-02.jpg" alt="Seminar 2022 2">
+  <div class="photo-caption">Seminar 2022 2</div>
+</div>
 
-# **Group 2022 2**
-![group 2022_out_2](/images/group-2022-02.jpeg)
+<div class="photo-wall-item">
+  <img src="/images/seminar-2022-01.jpg" alt="Seminar 2022 1">
+  <div class="photo-caption">Seminar 2022 1</div>
+</div>
 
-# **Group 2022 1**
-![group 2022_out](/images/group-2022-01.jpg)
+<div class="photo-wall-item">
+  <img src="/images/group-2022-02.jpeg" alt="Group 2022 2">
+  <div class="photo-caption">Group 2022 2</div>
+</div>
 
-# **Group 2021 3**
-![group 2021_out](/images/group-2021-out.jpeg)
+<div class="photo-wall-item">
+  <img src="/images/group-2022-01.jpg" alt="Group 2022 1">
+  <div class="photo-caption">Group 2022 1</div>
+</div>
 
-# **Group 2021 2**
-![group 2021](/images/group2021-office.jpg)
+<div class="photo-wall-item">
+  <img src="/images/group-2021-out.jpeg" alt="Group 2021 3">
+  <div class="photo-caption">Group 2021 3</div>
+</div>
 
-# **Group 2021 1**
-![group 2021](/images/group2021.jpeg)
+<div class="photo-wall-item">
+  <img src="/images/group2021-office.jpg" alt="Group 2021 2">
+  <div class="photo-caption">Group 2021 2</div>
+</div>
 
-# **Cover 2021 ACS Energy Letter**
-![aelccp-2020](/images/aelccp-2020.jpg)
+<div class="photo-wall-item">
+  <img src="/images/group2021.jpeg" alt="Group 2021 1">
+  <div class="photo-caption">Group 2021 1</div>
+</div>
 
-# **Cover 2020 JPCL**
-![cover2020](/images/jpclcd_v011i017-3.jpeg)
+<div class="photo-wall-item">
+  <img src="/images/aelccp-2020.jpg" alt="Cover 2021 ACS Energy Letter">
+  <div class="photo-caption">Cover 2021 ACS Energy Letter</div>
+</div>
 
-# **Group 2020**
-![group 2020](/images/group-01-cut.jpg)
+<div class="photo-wall-item">
+  <img src="/images/jpclcd_v011i017-3.jpeg" alt="Cover 2020 JPCL">
+  <div class="photo-caption">Cover 2020 JPCL</div>
+</div>
+
+<div class="photo-wall-item">
+  <img src="/images/group-01-cut.jpg" alt="Group 2020">
+  <div class="photo-caption">Group 2020</div>
+</div>
+
+</div>
