@@ -25,6 +25,64 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+// CSS custom properties for theming
+:root {
+    --bg-primary: #fdfdfd;
+    --text-primary: #111;
+    --header-bg: #{$clemson-orange};
+    --header-text: #ffffff;
+    --brand-color: #{$brand-color};
+    --border-color: #e0e0e0;
+    --code-bg: #eef;
+    --card-bg: rgba(22,97,188,0.06);
+    --sub-menu-bg: #ffffff;
+    --sub-menu-text: #1e1a15;
+    --grey-color: #{$grey-color};
+    --heading-color: #1e1a15;
+    --footer-text: #{$grey-color};
+    --link-hover-text: #{$text-color};
+    --listing-time-color: #333;
+    --talk-meta-color: #555;
+    --talk-type-bg: #{$clemson-orange};
+    --talk-type-text: #fff;
+    --link-grid-border: #ddd;
+    --link-grid-hover-bg: #eef5fc;
+    --photo-caption-gradient: rgba(0,0,0,0.6);
+    --highlight-bg: #fff;
+    --pub-title-color: #0000FF;
+    --pub-title-hover: #0000FF;
+    --caption-bg: #f3f3f3;
+    --caption-text: #000000;
+}
+
+[data-theme="dark"] {
+    --bg-primary: #1a1a2e;
+    --text-primary: #e0e0e0;
+    --header-bg: #0d1b2a;
+    --header-text: #e0e0e0;
+    --brand-color: #5dade2;
+    --border-color: #333;
+    --code-bg: #2d2d44;
+    --card-bg: rgba(93,173,226,0.08);
+    --sub-menu-bg: #16213e;
+    --sub-menu-text: #e0e0e0;
+    --grey-color: #999;
+    --heading-color: #e0e0e0;
+    --footer-text: #999;
+    --link-hover-text: #e0e0e0;
+    --listing-time-color: #aaa;
+    --talk-meta-color: #aaa;
+    --talk-type-bg: #5dade2;
+    --talk-type-text: #1a1a2e;
+    --link-grid-border: #444;
+    --link-grid-hover-bg: rgba(93,173,226,0.12);
+    --photo-caption-gradient: rgba(0,0,0,0.7);
+    --highlight-bg: #1e1e36;
+    --pub-title-color: #7eb8ff;
+    --pub-title-hover: #a8d0ff;
+    --caption-bg: #2a2a40;
+    --caption-text: #ccc;
+}
 
 // Width of the content area
 $content-width:    950px;
