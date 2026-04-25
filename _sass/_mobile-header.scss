@@ -37,12 +37,12 @@
 .site-nav .menu li {
 		display: block;
 		margin: 0;
-		color: #1e1a15;
+		color: var(--sub-menu-text);
 	}
 
 .site-nav ul.menu a {
 	background: #fff;
-	color: #1e1a15;
+	color: var(--sub-menu-text);
 
 }
 
