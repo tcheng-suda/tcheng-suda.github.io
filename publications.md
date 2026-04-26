@@ -27,10 +27,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.representative %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -70,10 +70,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2026 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -113,10 +113,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2025 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -156,10 +156,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2024 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -199,10 +199,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2023 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -242,10 +242,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2022 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -285,10 +285,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2021 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -328,10 +328,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2020 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -371,10 +371,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2019 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -414,10 +414,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2018 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -457,10 +457,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2017 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -500,10 +500,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2016 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -543,10 +543,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2015 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -586,10 +586,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2014 %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
@@ -629,10 +629,10 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you n
 {% for article in site.data.pub-2014-b %}
     <li>
     <div class="title">
-    <span class="title">{{ article.title }}</span>
     {% if article.fulltext %}
         <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
     {% endif %}
+    <span class="title">{{ article.title }}</span>
     </div>
     <div class='author'>
     {% for author in article.author %}
