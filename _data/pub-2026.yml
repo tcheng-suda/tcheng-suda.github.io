@@ -1,3 +1,74 @@
+- title: 'Low-temperature hyperbolic phonon polaritonics with suppressed phononic scattering'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: G
+    family: Zhong
+  - given:
+    given_initial: L
+    family: Liu
+  - given:
+    given_initial: WQ
+    family: Bi
+  - given:
+    given_initial: ZY
+    family: Xie
+  - given:
+    given_initial: Z
+    family: Cui
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: JD
+    family: Wu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: Y
+    family: Xiao
+  - given:
+    given_initial: QX
+    family: Xing
+  - given:
+    given_initial: YJ
+    family: Wu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: HG
+    family: Yan
+  - given:
+    given_initial: B
+    family: Peng
+  - given:
+    given_initial: QL
+    family: Bao
+  - given:
+    given_initial: C
+    family: Wang
+    role: corr
+  - given:
+    given_initial: ZG
+    family: Dai
+    role: corr
+  - given:
+    given_initial: QD
+    family: Ou
+    role: corr
+  journal:
+    abbreviation: Submitted
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
 - title: Amorphous MoOx Interfaces Activate Pt Nanoclusters for Ultralow-Overpotential
     Chlorine Evolution
   volume: null

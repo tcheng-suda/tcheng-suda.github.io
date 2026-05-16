@@ -54,6 +54,15 @@ $grey-color-dark:  darken($grey-color, 25%);
     --pub-title-hover: #0000FF;
     --caption-bg: #f3f3f3;
     --caption-text: #000000;
+
+    .cover-dark { display: none; }
+}
+
+.cover-light, .cover-dark {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    object-position: center;
 }
 
 [data-theme="dark"] {
@@ -84,6 +93,9 @@ $grey-color-dark:  darken($grey-color, 25%);
     --pub-title-hover: #a8d0ff;
     --caption-bg: #2a2a40;
     --caption-text: #ccc;
+
+    .cover-light { display: none; }
+    .cover-dark { display: block; }
 }
 
 // Width of the content area

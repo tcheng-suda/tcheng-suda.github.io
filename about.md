@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div id="top" class="link-grid-section" style="margin-bottom: 18px;">
-  <h2>Members (26: 1 Professor, 2 Assistant Professors, 7 Ph.D. Students, 16 M.S. Students)</h2>
+  <h2>Members (30: 1 Professor, 2 Assistant Professors, 7 Ph.D. Students, 20 M.S. Students)</h2>
   <a href="#professor">Professor</a>
   <a href="#assistant-professor">Assistant Professor</a>
   <a href="#phd">Ph.D. Students</a>
@@ -227,6 +227,26 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
   <img src="/images/hyliu.png" alt="Hengyu Liu">
   <div class="name"><a target="_blank" href="/people/hyliu/">Hengyu Liu 刘恒钰</a></div>
   <div class="role">Master Student</div>
+</div>
+
+<div class="people-card">
+  <div class="name">Chu Lin 林楚</div>
+  <div class="role">Master Student (2026 Fall)</div>
+</div>
+
+<div class="people-card">
+  <div class="name">Xiaoran Sun 孙笑然</div>
+  <div class="role">Master Student (2026 Fall)</div>
+</div>
+
+<div class="people-card">
+  <div class="name">Zihao Liu 刘梓皓</div>
+  <div class="role">Master Student (2026 Fall)</div>
+</div>
+
+<div class="people-card">
+  <div class="name">Linlu Tong 仝林鹭</div>
+  <div class="role">Master Student (2026 Fall)</div>
 </div>
 
 </div>
