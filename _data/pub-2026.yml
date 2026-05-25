@@ -1,3 +1,58 @@
+- title: 'Enabling 5V-class lithium metal batteries via an aggregation-enhanced solvation electrolyte'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: YZ
+    family: Guo
+  - given:
+    given_initial: YL
+    family: Jie
+  - given:
+    given_initial: Z
+    family: Zhang
+  - given:
+    given_initial: YH
+    family: Yi
+  - given:
+    given_initial: Y
+    family: Wang
+  - given:
+    given_initial: YQ
+    family: Dong
+  - given:
+    given_initial: K
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: ZW
+    family: Lei
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: RG
+    family: Cao
+    role: corr
+  - given:
+    given_initial: Y
+    family: Yu
+  - given:
+    given_initial: SH
+    family: Jiao
+    role: corr
+  journal:
+    abbreviation: Nano Research
+  URL: https://doi.org/10.26599/NR.2026.94908856
+  type: article
+  DOI: 10.26599/NR.2026.94908856
+  fulltext:
+  language: english
 - title: 'Low-temperature hyperbolic phonon polaritonics with suppressed phononic scattering'
   volume:
   issue:
@@ -63,7 +118,7 @@
     family: Ou
     role: corr
   journal:
-    abbreviation: Submitted
+    abbreviation: Science Advances
   URL:
   type: article
   DOI:
