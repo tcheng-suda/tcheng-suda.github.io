@@ -1,3 +1,49 @@
+- title: 'Novel Silicon-Based Solid-State Electrolytes Li2SiI4O Based on Theoretical Calculation Prediction'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: HG
+    family: Yu
+  - given:
+    given_initial: XX
+    family: Ma
+  - given:
+    given_initial: C
+    family: Liu
+  - given:
+    given_initial: Q
+    family: Yang
+    role: corr
+  - given:
+    given_initial: SL
+    family: Wang
+  - given:
+    given_initial: JM
+    family: Li
+  - given:
+    given_initial: JY
+    family: Li
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: H
+    family: Li
+    role: corr
+  - given:
+    given_initial: LQ
+    family: Chen
+  journal:
+    abbreviation: 'J. Materiomics.'
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
 - title: 'Enabling 5V-class lithium metal batteries via an aggregation-enhanced solvation electrolyte'
   volume:
   issue:
