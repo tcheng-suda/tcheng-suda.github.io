@@ -10,15 +10,16 @@ permalink: /publications/
 |  
 |(citation:22,713; h-index:76; i10-index: 201 updated by April 4 2026)
 |  
-|[**2026**](#2026)
-|[**2025**](#2025)
-|[**2024**](#2024)
-|[**2023**](#2023)
-|[**2022**](#2022)
-|[**2021**](#2021)
-|[**2020**](#2020)
-|[**2019**](#2019)|[**2018**](#2018)|[**2017**](#2017)|[**2016**](#2016)
-|[**2015**](#2015)|[**2014**](#2014)|[**before 2014**](#2014-b)|  
+{% assign show_counts = jekyll.environment != 'production' %}
+|[**2026{% if show_counts %}(14){% endif %}**](#2026)
+|[**2025{% if show_counts %}(34){% endif %}**](#2025)
+|[**2024{% if show_counts %}(30){% endif %}**](#2024)
+|[**2023{% if show_counts %}(26){% endif %}**](#2023)
+|[**2022{% if show_counts %}(29){% endif %}**](#2022)
+|[**2021{% if show_counts %}(29){% endif %}**](#2021)
+|[**2020{% if show_counts %}(14){% endif %}**](#2020)
+|[**2019{% if show_counts %}(14){% endif %}**](#2019)|[**2018{% if show_counts %}(11){% endif %}**](#2018)|[**2017{% if show_counts %}(15){% endif %}**](#2017)|[**2016{% if show_counts %}(4){% endif %}**](#2016)
+|[**2015{% if show_counts %}(7){% endif %}**](#2015)|[**2014{% if show_counts %}(4){% endif %}**](#2014)|[**before 2014{% if show_counts %}(6){% endif %}**](#2014-b)|
 Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn) if you need the full text.  
 
 ## <a name="Selected"></a>Selected
