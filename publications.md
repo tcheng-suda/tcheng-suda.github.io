@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+{% assign show_counts = jekyll.environment != 'production' %}
 |[**Google Scholar**](https://goo.gl/AgbNaK)
 |[**ResearchGate**](https://www.researchgate.net/profile/Tao_Cheng13)
 |[**ORCID**](http://orcid.org/0000-0003-4830-177X)
@@ -10,7 +11,6 @@ permalink: /publications/
 |  
 |(citation:22,713; h-index:76; i10-index: 201 updated by April 4 2026)
 |  
-{% assign show_counts = jekyll.environment != 'production' %}
 |[**2026{% if show_counts %}(14){% endif %}**](#2026)
 |[**2025{% if show_counts %}(34){% endif %}**](#2025)
 |[**2024{% if show_counts %}(30){% endif %}**](#2024)
