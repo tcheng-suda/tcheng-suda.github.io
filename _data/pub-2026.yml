@@ -1,3 +1,108 @@
+- title: 'Spatial-Interfacial Dual Confinement in Phase-Separated Polymer Electrolytes for Cryogenic Lithium Metal Batteries'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: YT
+    family: Jing
+  - given:
+    given_initial: JY
+    family: Li
+  - given:
+    given_initial: C
+    family: Li
+  - given:
+    given_initial: JC
+    family: Zhu
+  - given:
+    given_initial: Q
+    family: Lv
+  - given:
+    given_initial: JR
+    family: Zhu
+  - given:
+    given_initial: JY
+    family: Zhang
+  - given:
+    given_initial: XW
+    family: Gu
+  - given:
+    given_initial: S
+    family: Liu
+  - given:
+    given_initial: DL
+    family: Wang
+    role: corr
+  - given:
+    given_initial: XF
+    family: Wang
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: B
+    family: Wang
+    role: corr
+  journal:
+    abbreviation: Adv. Energy Mater.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+- title: 'Surface Gradient Sn Doping of Copper Enables Adsorption-Controlled Electrohydrogenation of Biomass-Derived Aldehydes'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: MY
+    family: Zhao
+  - given:
+    given_initial: CY
+    family: Pan
+  - given:
+    given_initial: XY
+    family: Han
+  - given:
+    given_initial: YF
+    family: Fu
+  - given:
+    given_initial: YF
+    family: Xu
+  - given:
+    given_initial: JS
+    family: Xie
+  - given:
+    given_initial: BJ
+    family: Xu
+  - given:
+    given_initial: JH
+    family: Zhou
+  - given:
+    given_initial: ZP
+    family: Zhao
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: MF
+    family: Li
+    role: corr
+  journal:
+    abbreviation: ACS Nano
+  URL: https://doi.org/10.1021/acsnano.6c04674
+  type: article
+  DOI: 10.1021/acsnano.6c04674
+  fulltext:
+  language: english
 - title: 'Novel Silicon-Based Solid-State Electrolytes Li2SiI4O Based on Theoretical Calculation Prediction'
   volume:
   issue:

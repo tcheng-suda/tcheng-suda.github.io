@@ -3,11 +3,14 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-\|[**Google Scholar**](https://goo.gl/AgbNaK) \|[**ResearchGate**](https://www.researchgate.net/profile/Tao_Cheng13) \|[**ORCID**](http://orcid.org/0000-0003-4830-177X) \|[**Web of Science**](https://www.webofscience.com/wos/author/record/1444044) \|  
+\|[**Google Scholar**](https://goo.gl/AgbNaK){:target="_blank" rel="noopener noreferrer"}
+\|[**ResearchGate**](https://www.researchgate.net/profile/Tao_Cheng13){:target="_blank" rel="noopener noreferrer"}
+\|[**ORCID**](http://orcid.org/0000-0003-4830-177X){:target="_blank" rel="noopener noreferrer"}
+\|[**Web of Science**](https://www.webofscience.com/wos/author/record/1444044){:target="_blank" rel="noopener noreferrer"} \|  
 |(citation:22,713; h-index:76; i10-index: 201 updated by April 4 2026)
 |  
 {% if jekyll.environment == 'production' %}{% assign local = false %}{% else %}{% assign local = true %}{% endif %}
-|[**26{% if local %}-14{% endif %}**](#2026)
+|[**26{% if local %}-16{% endif %}**](#2026)
 |[**25{% if local %}-34{% endif %}**](#2025)
 |[**24{% if local %}-30{% endif %}**](#2024)
 |[**23{% if local %}-26{% endif %}**](#2023)
@@ -20,7 +23,7 @@ permalink: /publications/
 |[**16{% if local %}-4{% endif %}**](#2016)
 |[**15{% if local %}-7{% endif %}**](#2015)
 |[**14{% if local %}-4{% endif %}**](#2014)
-|[**before 14{% if local %}-6{% endif %}**](#2014-b)|
+|[**before{% if local %}-6{% endif %}**](#2014-b)|  
 Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn), if full text is needed.  
 
 ## <a name="Selected"></a>Selected
@@ -68,7 +71,7 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn), if full
 ## <a name="2026"></a>2026
 
 <div class='panel-pub'>
-<ol start='237' reversed>
+<ol start='239' reversed>
 {% for article in site.data.pub-2026 %}
     <li>
     <div class="title">
