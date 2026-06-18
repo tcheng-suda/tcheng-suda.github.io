@@ -1,3 +1,72 @@
+- title: 'Lewis acidic molecule-modulated synchronous anion immobilization and decomposition towards a robust solid electrolyte interphase with enhanced Zn2+ kinetics'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: K
+    family: Liu
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: AQ
+    family: Zhu
+  - given:
+    given_initial: JP
+    family: Li
+  - given:
+    given_initial: HC
+    family: Huang
+  - given:
+    given_initial: JZ
+    family: Yuan
+  - given:
+    given_initial: T
+    family: Zhang
+  - given:
+    given_initial: Y
+    family: Zhou
+  - given:
+    given_initial: CH
+    family: Luan
+  - given:
+    given_initial: GQ
+    family: Gan
+  - given:
+    given_initial: DW
+    family: Lin
+  - given:
+    given_initial: KL
+    family: Liu
+  - given:
+    given_initial: DY
+    family: Feng
+  - given:
+    given_initial: YC
+    family: Pan
+  - given:
+    given_initial: SY
+    family: Bu
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: G
+    family: Hong
+    role: corr
+  - given:
+    given_initial: WJ
+    family: Zhang
+  journal:
+    abbreviation: Energy Environ. Sci.
+  URL: https://doi.org/10.1039/D6EE02521H
+  type: article
+  DOI: 10.1039/D6EE02521H
+  fulltext:
+  language: english
 - title: 'Spatial-Interfacial Dual Confinement in Phase-Separated Polymer Electrolytes for Cryogenic Lithium Metal Batteries'
   volume:
   issue:

@@ -10,7 +10,7 @@ permalink: /publications/
 |(citation:22,713; h-index:76; i10-index: 201 updated by April 4 2026)
 |  
 {% if jekyll.environment == 'production' %}{% assign local = false %}{% else %}{% assign local = true %}{% endif %}
-|[**26{% if local %}-16{% endif %}**](#2026)
+|[**26{% if local %}-17{% endif %}**](#2026)
 |[**25{% if local %}-34{% endif %}**](#2025)
 |[**24{% if local %}-30{% endif %}**](#2024)
 |[**23{% if local %}-26{% endif %}**](#2023)
@@ -71,7 +71,7 @@ Please send an email to [tcheng@suda.edu.cn](mailto:tcheng@suda.edu.cn), if full
 ## <a name="2026"></a>2026
 
 <div class='panel-pub'>
-<ol start='239' reversed>
+<ol start='240' reversed>
 {% for article in site.data.pub-2026 %}
     <li>
     <div class="title">
