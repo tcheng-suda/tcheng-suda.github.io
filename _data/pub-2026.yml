@@ -1,3 +1,280 @@
+- title: 'High-rate electro-photochemical alkane conversion to isoalcohols under ambient conditions'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: W
+    family: Zhong
+  - given:
+    given_initial: PY
+    family: Liu
+  - given:
+    given_initial: J
+    family: Meng
+  - given:
+    given_initial: YH
+    family: Wang
+  - given:
+    given_initial: HJ
+    family: Dai
+  - given:
+    given_initial: XY
+    family: You
+  - given:
+    given_initial: N
+    family: Sun
+  - given:
+    given_initial: HM
+    family: Li
+  - given:
+    given_initial: X
+    family: Wang
+  - given:
+    given_initial: ZB
+    family: Yao
+  - given:
+    given_initial: Q
+    family: Zhang
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: YQ
+    family: Liao
+  - given:
+    given_initial: HY
+    family: Liang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: LF
+    family: Pan
+  - given:
+    given_initial: YH
+    family: Su
+  - given:
+    given_initial: YF
+    family: Zhou
+  - given:
+    given_initial: Jun
+    family: Li
+    role: corr
+  journal:
+    abbreviation: Joule
+  URL: https://doi.org/10.1016/j.joule.2026.102586
+  type: article
+  DOI: 10.1016/j.joule.2026.102586
+  fulltext:
+  language: english
+- title: 'Integrating Solution Physical Properties into Zeolite Synthesis Prediction via Causal Machine Learning'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: XW
+    family: Gu
+  - given:
+    given_initial: JY
+    family: Wu
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: BY
+    family: Ma
+  - given:
+    given_initial: H
+    family: Yang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  journal:
+    abbreviation: J. Phys. Chem. Lett.
+  URL:
+  type: article
+  DOI: 10.1021/acs.jpclett.6c01624
+  fulltext: 244.pdf
+  language: english
+- title: 'Phase Engineering of Iridium Oxides Enable Direct Coupling of Proton Exchange Membrane Water Electrolysis with Intermittent Electrical Energy'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: ZL
+    family: Fan
+  - given:
+    given_initial: QT
+    family: Sun
+  - given:
+    given_initial: F
+    family: Liao
+    role: corr
+  - given:
+    given_initial: JC
+    family: Li
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: H
+    family: Zhang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Y
+    family: Liu
+    role: corr
+  - given:
+    given_initial: MH
+    family: Shao
+    role: corr
+  - given:
+    given_initial: ZH
+    family: Kang
+    role: corr
+  journal:
+    abbreviation: Adv. Mater.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+- title: 'Unraveling the formation mechanism of solid electrolyte interphase in lithium metal batteries'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: XX
+    family: X
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: XQ
+    family: Zhang
+    role: corr
+  journal:
+    abbreviation: Sci. China Chem.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+- title: 'Sulfur-Fluoride Exchange-Driven Covalent Grafting Tunes the Electric Double Layer for Stabilizing LiNi0.9Co0.05Mn0.05O2 Cathode'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: ZQ
+    family: Wang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: BC
+    family: Luo
+  - given:
+    given_initial: Q
+    family: Kang
+  - given:
+    given_initial: X
+    family: Gui
+  - given:
+    given_initial: R
+    family: Li
+  - given:
+    given_initial: KJ
+    family: Zhang
+  - given:
+    given_initial: YW
+    family: Chen
+  - given:
+    given_initial: HW
+    family: Xing
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: corr, main
+  - given:
+    given_initial: W
+    family: Luo
+    role: corr
+  journal:
+    abbreviation: ACS Energy Lett.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
+- title: 'Single-Atom Ni-Modified SnO2 for Ultrasensitive NO2 Gas Sensing through Enhanced Molecular Adsorption and Efficient Charge Transfer'
+  volume:
+  issue:
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: YT
+    family: Yang
+  - given:
+    given_initial: JR
+    family: Zhu
+  - given:
+    given_initial: YH
+    family: Zhong
+  - given:
+    given_initial: H
+    family: Zhang
+    role: corr
+  - given:
+    given_initial: WQ
+    family: Yu
+  - given:
+    given_initial: YY
+    family: Hao
+  - given:
+    given_initial: Y
+    family: Pan
+  - given:
+    given_initial: B
+    family: Song
+  - given:
+    given_initial: H
+    family: Yang
+    role: corr
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: XH
+    family: Sun
+    role: corr
+  journal:
+    abbreviation: ACS Sens.
+  URL:
+  type: article
+  DOI:
+  fulltext:
+  language: english
 - title: 'Lewis acidic molecule-modulated synchronous anion immobilization and decomposition towards a robust solid electrolyte interphase with enhanced Zn2+ kinetics'
   volume:
   issue:
@@ -339,9 +616,9 @@
     role: corr
   journal:
     abbreviation: Science Advances
-  URL:
+  URL: https://www.science.org/doi/10.1126/sciadv.aef2802
   type: article
-  DOI:
+  DOI: 10.1126/sciadv.aef2802
   fulltext:
   language: english
 - title: Amorphous MoOx Interfaces Activate Pt Nanoclusters for Ultralow-Overpotential
@@ -780,56 +1057,6 @@
   type: article
   DOI: 10.1126/science.adw5462
   fulltext: 228.pdf
-  language: english
-- title: Weakly-Solvated and Co-Intercalation-Free Ether-Based Electrolytes Enhance
-    the Low- Temperature and Fast-Charging Performance of LiFePO4||Graphite Batteries
-  volume: 138
-  issue: 1
-  page: e21171
-  year: 2026
-  author:
-  - given: null
-    given_initial: ZW
-    family: Wang
-  - given: null
-    given_initial: XW
-    family: Gu
-  - given: null
-    given_initial: JC
-    family: Zhu
-  - given: null
-    given_initial: C
-    family: Zhong
-  - given: null
-    given_initial: SW
-    family: Xu
-  - given: null
-    given_initial: ST
-    family: Weng
-  - given: null
-    given_initial: BW
-    family: Liu
-  - given: null
-    given_initial: ZX
-    family: Wang
-  - given: null
-    given_initial: YJ
-    family: Li
-    role: corr
-  - given: Tao
-    given_initial: T
-    family: Cheng
-    role: corr, main
-  - given: null
-    given_initial: XF
-    family: Wang
-    role: corr
-  journal:
-    abbreviation: Angew. Chem. Int. Ed.
-  URL: https://doi.org/10.1002/ange.202521171
-  type: article
-  DOI: 10.1002/ange.202521171
-  fulltext: null
   language: english
 - title: Revealing the direct role of cobalt in oxygen evolution reaction initiation
     over high-performance iridium-cobalt oxide catalysts
