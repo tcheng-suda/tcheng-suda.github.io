@@ -2,7 +2,10 @@
 layout: page
 title: Publications
 permalink: /publications/
+last_updated: 2026-10-14
 ---
+<p class="publication-updated">Last updated: <time datetime="{{ page.last_updated | date: '%Y-%m-%d' }}">{{ page.last_updated | date: '%B %-d, %Y' }}</time></p>
+
 \|[**Google Scholar**](https://goo.gl/AgbNaK){:target="_blank" rel="noopener noreferrer"}
 \|[**ResearchGate**](https://www.researchgate.net/profile/Tao_Cheng13){:target="_blank" rel="noopener noreferrer"}
 \|[**ORCID**](http://orcid.org/0000-0003-4830-177X){:target="_blank" rel="noopener noreferrer"}
