@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 last_updated: 2026-10-14
 ---
+{% include pdf-icon.html %}
 <p class="publication-updated">Last updated: <time datetime="{{ page.last_updated | date: '%Y-%m-%d' }}">{{ page.last_updated | date: '%B %-d, %Y' }}</time></p>
 
 \|[**Google Scholar**](https://goo.gl/AgbNaK){:target="_blank" rel="noopener noreferrer"}

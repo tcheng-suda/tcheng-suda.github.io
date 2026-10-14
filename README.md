@@ -13,6 +13,10 @@ Gallery previews live in `images/thumbnails/`; clicking them opens the original
 photo. After adding or replacing photos in `gallery.md`, regenerate the previews
 on macOS with `python3 scripts/generate-gallery-thumbnails.py`.
 
+People-card previews and homepage covers use WebP, with originals retained in
+`images/`. Regenerate them with `python3 scripts/optimize-page-images.py` on macOS
+(requires `sips` and `cwebp`; install the encoder with `brew install webp`).
+
 Historical page/data backups are kept in `_archive/`, outside the published site.
 Development scripts, tools, design notes and temporary files are excluded through
 `_config.yml`. PDF and download links retain their existing paths.

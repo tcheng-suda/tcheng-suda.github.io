@@ -62,14 +62,14 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <div class="people-grid">
 
 <div class="people-card">
-  <img src="/images/hyang.jpeg" alt="Hao Yang">
+  <img src="/images/people-previews/hyang.webp" alt="Hao Yang" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/hyang/">Hao Yang 杨昊</a></div>
   <div class="role">Assistant Professor</div>
   <div class="email">haoyang@suda.edu.cn</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/yliu.jpeg" alt="Yue Liu">
+  <img src="/images/people-previews/yliu.webp" alt="Yue Liu" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/yliu/">Yue Liu 刘越</a></div>
   <div class="role">Assistant Professor</div>
   <div class="email">yliu1992@suda.edu.cn</div>
@@ -82,47 +82,47 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <div class="people-grid">
 
 <div class="people-card">
-  <img src="/images/byma.jpeg" alt="Bingyun Ma">
+  <img src="/images/people-previews/byma.webp" alt="Bingyun Ma" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/byma/">Bingyun Ma 麻冰云</a></div>
   <div class="role">Ph.D. Student</div>
   <div class="email">byma@suda.edu.cn</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/ppyu.jpeg" alt="Peiping Yu">
+  <img src="/images/people-previews/ppyu.webp" alt="Peiping Yu" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/ppyu/">Peiping Yu 于沛平</a></div>
   <div class="role">Ph.D. Student</div>
   <div class="email">ppyu@stu.suda.edu.cn</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/lxu.jpeg" alt="Liang Xu">
+  <img src="/images/people-previews/lxu.webp" alt="Liang Xu" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/lxu/">Liang Xu 许亮</a></div>
   <div class="role">Ph.D. Student</div>
   <div class="email">lxu110@stu.suda.edu.cn</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/qtsun.jpeg" alt="Qintao Sun">
+  <img src="/images/people-previews/qtsun.webp" alt="Qintao Sun" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/qtsun/">Qintao Sun 孙钦涛</a></div>
   <div class="role">Ph.D. Student</div>
   <div class="email">qtsunqtsun@stu.suda.edu.cn</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/yqliao.jpg" alt="Yingqi Liao">
+  <img src="/images/people-previews/yqliao.webp" alt="Yingqi Liao" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/yqliao/">Yingqi Liao 廖英琦</a></div>
   <div class="role">Ph.D. Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/xwgu.jpeg" alt="Xuewei Gu">
+  <img src="/images/people-previews/xwgu.webp" alt="Xuewei Gu" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/xwgu/">Xuewei Gu 顾雪薇</a></div>
   <div class="role">Ph.D. Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/hctang.jpeg" alt="Hongchao Tang">
+  <img src="/images/people-previews/hctang.webp" alt="Hongchao Tang" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/hctang/">Hongchao Tang 唐宏超</a></div>
   <div class="role">Ph.D. Student</div>
 </div>
@@ -134,97 +134,97 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <div class="people-grid">
 
 <div class="people-card">
-  <img src="/images/hchuang.jpeg" alt="Haochen Huang">
+  <img src="/images/people-previews/hchuang.webp" alt="Haochen Huang" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/hchuang/">Haochen Huang 黄浩宸</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/jyli.jpg" alt="Jiayi Li">
+  <img src="/images/people-previews/jyli.webp" alt="Jiayi Li" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/jyli/">Jiayi Li 李佳怡</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/jrzhu.jpg" alt="Jiarui Zhu">
+  <img src="/images/people-previews/jrzhu.webp" alt="Jiarui Zhu" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/jrzhu/">Jiarui Zhu 朱佳睿</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/zzhang-2.jpg" alt="Zheng Zhang">
+  <img src="/images/people-previews/zzhang-2.webp" alt="Zheng Zhang" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/zhengzhang/">Zheng Zhang 张郑</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/xgui-2.jpg" alt="Xia Gui">
+  <img src="/images/people-previews/xgui-2.webp" alt="Xia Gui" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/xgui/">Xia Gui 桂霞</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/skwang-2.jpg" alt="Shuaike Wang">
+  <img src="/images/people-previews/skwang-2.webp" alt="Shuaike Wang" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/skwang/">Shuaike Wang 王帅珂</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/fli-2.jpg" alt="Fei Li">
+  <img src="/images/people-previews/fli-2.webp" alt="Fei Li" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/fli/">Fei Li 李飞</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/bcluo-2.jpg" alt="Baicheng Luo">
+  <img src="/images/people-previews/bcluo-2.webp" alt="Baicheng Luo" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/bcluo/">Baicheng Luo 罗柏成</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/szguan-2.jpg" alt="Shenzhen Guan">
+  <img src="/images/people-previews/szguan-2.webp" alt="Shenzhen Guan" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/szguan/">Shenzhen Guan 关深圳</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/zhzhang-2.jpg" alt="Zonghao Zhang">
+  <img src="/images/people-previews/zhzhang-2.webp" alt="Zonghao Zhang" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/zhzhang/">Zonghao Zhang 张宗浩</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/cypan.jpeg" alt="Chenyang Pan">
+  <img src="/images/people-previews/cypan.webp" alt="Chenyang Pan" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/cypan/">Chenyang Pan 潘晨阳</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/kwang.jpeg" alt="Kun Wang">
+  <img src="/images/people-previews/kwang.webp" alt="Kun Wang" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/kwang/">Kun Wang 王坤</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/tqzhao.jpeg" alt="Tianqi Zhao">
+  <img src="/images/people-previews/tqzhao.webp" alt="Tianqi Zhao" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/tqzhao/">Tianqi Zhao 赵天奇</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/ydsheng.jpeg" alt="Yidan Sheng">
+  <img src="/images/people-previews/ydsheng.webp" alt="Yidan Sheng" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/ydsheng/">Yidan Sheng 盛宜丹</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/bbruan.jpeg" alt="Binbin Ruan">
+  <img src="/images/people-previews/bbruan.webp" alt="Binbin Ruan" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/bbruan/">Binbin Ruan 阮彬彬</a></div>
   <div class="role">Master Student</div>
 </div>
 
 <div class="people-card">
-  <img src="/images/hyliu.png" alt="Hengyu Liu">
+  <img src="/images/people-previews/hyliu.webp" alt="Hengyu Liu" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/hyliu/">Hengyu Liu 刘恒钰</a></div>
   <div class="role">Master Student</div>
 </div>

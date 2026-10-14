@@ -1,7 +1,7 @@
     <li>
     <div class="title">
     {% if article.fulltext %}
-        <a title="fulltext" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
+        <a title="fulltext" aria-label="Full text PDF" href="{{ site.url }}/pdf/{{ article.fulltext }}" target="_blank" rel="noopener"><svg class="pdf-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><use href="#pdf-file-icon"/></svg></a>
     {% endif %}
     <span class="title">{{ article.title }}</span>
     </div>
