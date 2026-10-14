@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-14",
+  "reason": "No references in active source files or rendered site; not needed by image regeneration scripts.",
+  "count": 17,
+  "bytes": 8695744,
+  "files": [
+    {
+      "original_path": "images/tao-caltech-2018.JPG",
+      "archive_path": "_archive/images/tao-caltech-2018.JPG",
+      "bytes": 108711,
+      "sha256": "5e94c42ee04ccf222567118ce3dcb6e21e06acf87737681703f87a06a3460839"
+    },
+    {
+      "original_path": "images/energy.jpg",
+      "archive_path": "_archive/images/energy.jpg",
+      "bytes": 60821,
+      "sha256": "5c62d8eb74e320305fe1a2da962852caed5c76107a0387d835b80933d703fbc3"
+    },
+    {
+      "original_path": "images/f001.jpeg",
+      "archive_path": "_archive/images/f001.jpeg",
+      "bytes": 253040,
+      "sha256": "8b55fc05a4d770a6a61d9fe72bc4fb3e767f52b6c322b49ab9ce4c7d9cc70f1f"
+    },
+    {
+      "original_path": "images/octojekyll.png",
+      "archive_path": "_archive/images/octojekyll.png",
+      "bytes": 22360,
+      "sha256": "075a87503a354ca28555b71c7c4b3aaa9af8a7f2f610b41ff026d0c666e8a155"
+    },
+    {
+      "original_path": "images/tao.jpg.3",
+      "archive_path": "_archive/images/tao.jpg.3",
+      "bytes": 503891,
+      "sha256": "16b5415ef2664a3909ad8027ecd7bea645156c64ae08c77b7ef0d22a273e64cd"
+    },
+    {
+      "original_path": "images/tao.jpg.2",
+      "archive_path": "_archive/images/tao.jpg.2",
+      "bytes": 482530,
+      "sha256": "b0f45b92a61584b5d12c13e743469acf20d0686d546be885d9e97a7e4b7e61b6"
+    },
+    {
+      "original_path": "images/tao-5.png",
+      "archive_path": "_archive/images/tao-5.png",
+      "bytes": 203559,
+      "sha256": "4f003dd65efa3f3bfa756931cdbab981c40fc7ff858fd467f236616b40f898ce"
+    },
+    {
+      "original_path": "images/tao-6.jpg",
+      "archive_path": "_archive/images/tao-6.jpg",
+      "bytes": 780504,
+      "sha256": "a5400b05d9952c03952fbb96cdc7e11d4c250ccd1a61da9d531ca5f95762ea21"
+    },
+    {
+      "original_path": "images/cover.png",
+      "archive_path": "_archive/images/cover.png",
+      "bytes": 1790672,
+      "sha256": "f2bf95d3718ea9e111ab96c3187e1a2077eee4e6d8b561c8797c6994469b57c9"
+    },
+    {
+      "original_path": "images/Organic-Functional-Groups-Update.pdf",
+      "archive_path": "_archive/images/Organic-Functional-Groups-Update.pdf",
+      "bytes": 166031,
+      "sha256": "a06f9e8dc181732a8bf9ba0a6cabd703e5dde65bcd41405d99943228b93359bd"
+    },
+    {
+      "original_path": "images/oaao-2026-1.png",
+      "archive_path": "_archive/images/oaao-2026-1.png",
+      "bytes": 1112280,
+      "sha256": "7acca86280b6165dab98991a625e7d07fea8d40121de65039ec90a54c1292689"
+    },
+    {
+      "original_path": "images/oaao-d.png",
+      "archive_path": "_archive/images/oaao-d.png",
+      "bytes": 1279403,
+      "sha256": "8357bcd69465a2864cdeac74c61f4b94b858a8f8fa13b916766918a23370e1c3"
+    },
+    {
+      "original_path": "images/oaao-2026-2.png",
+      "archive_path": "_archive/images/oaao-2026-2.png",
+      "bytes": 1097116,
+      "sha256": "091acab1afc3653115417e36a3891cd13a87b6196495ef6800f4f689a5769079"
+    },
+    {
+      "original_path": "images/tao.jpg.1",
+      "archive_path": "_archive/images/tao.jpg.1",
+      "bytes": 92782,
+      "sha256": "1fdd5fde812c012b0012419452bf274cfca46600c67cf9b44e2c91002d349a36"
+    },
+    {
+      "original_path": "images/ppt-01/fig-03.png",
+      "archive_path": "_archive/images/ppt-01/fig-03.png",
+      "bytes": 85861,
+      "sha256": "8b3fc55fcb2cc8d39767503072166741034c8d97be7e8b5da45dcc640ff7980c"
+    },
+    {
+      "original_path": "images/ppt-01/fig-02.png",
+      "archive_path": "_archive/images/ppt-01/fig-02.png",
+      "bytes": 596649,
+      "sha256": "7d3466fe8173fc85761733af63131b44ff9bb7194ee1377f593ab00d0dd4b07f"
+    },
+    {
+      "original_path": "images/ppt-01/cv.png",
+      "archive_path": "_archive/images/ppt-01/cv.png",
+      "bytes": 59534,
+      "sha256": "399757f4c9b4f0771003949e887b8a2be35a825f3699f7a9fdb9c7f94ce73fc4"
+    }
+  ]
+}
