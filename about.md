@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div id="top" class="link-grid-section" style="margin-bottom: 18px;">
-  <h2>Members (30: 1 Professor, 2 Assistant Professors, 7 Ph.D. Students, 20 M.S. Students)</h2>
+  <h2>Members (29: 1 Professor, 2 Assistant Professors, 7 Ph.D. Students, 19 M.S. Students)</h2>
   <a href="#professor">Professor</a>
   <a href="#assistant-professor">Assistant Professor</a>
   <a href="#phd">Ph.D. Students</a>
@@ -196,12 +196,6 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <div class="people-card">
   <img src="/images/people-previews/cypan.webp" alt="Chenyang Pan" width="100" height="100" loading="lazy" decoding="async">
   <div class="name"><a target="_blank" href="/people/cypan/">Chenyang Pan 潘晨阳</a></div>
-  <div class="role">Master Student</div>
-</div>
-
-<div class="people-card">
-  <img src="/images/people-previews/kwang.webp" alt="Kun Wang" width="100" height="100" loading="lazy" decoding="async">
-  <div class="name"><a target="_blank" href="/people/kwang/">Kun Wang 王坤</a></div>
   <div class="role">Master Student</div>
 </div>
 
