@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div id="top" class="link-grid-section" style="margin-bottom: 18px;">
-  <h2>Members (29: 1 Professor, 2 Assistant Professors, 7 Ph.D. Students, 19 M.S. Students)</h2>
+  <h2>Members (26: 1 Professor, 2 Assistant Professors, 7 Ph.D. Students, 16 M.S. Students)</h2>
   <a href="#professor">Professor</a>
   <a href="#assistant-professor">Assistant Professor</a>
   <a href="#phd">Ph.D. Students</a>
@@ -132,24 +132,6 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <h2 id="ms">M.S. Students</h2>
 
 <div class="people-grid">
-
-<div class="people-card">
-  <img src="/images/people-previews/hchuang.webp" alt="Haochen Huang" width="100" height="100" loading="lazy" decoding="async">
-  <div class="name"><a target="_blank" href="/people/hchuang/">Haochen Huang 黄浩宸</a></div>
-  <div class="role">Master Student</div>
-</div>
-
-<div class="people-card">
-  <img src="/images/people-previews/jyli.webp" alt="Jiayi Li" width="100" height="100" loading="lazy" decoding="async">
-  <div class="name"><a target="_blank" href="/people/jyli/">Jiayi Li 李佳怡</a></div>
-  <div class="role">Master Student</div>
-</div>
-
-<div class="people-card">
-  <img src="/images/people-previews/jrzhu.webp" alt="Jiarui Zhu" width="100" height="100" loading="lazy" decoding="async">
-  <div class="name"><a target="_blank" href="/people/jrzhu/">Jiarui Zhu 朱佳睿</a></div>
-  <div class="role">Master Student</div>
-</div>
 
 <div class="people-card">
   <img src="/images/people-previews/zzhang-2.webp" alt="Zheng Zhang" width="100" height="100" loading="lazy" decoding="async">
@@ -408,6 +390,21 @@ Advisor: Prof. [**Huai Sun**](http://sun.sjtu.edu.cn/)
 <div class="people-card">
   <div class="name"><a target="_blank" href="/people/jlxiang/">Jinglong Xiang 项景龙</a></div>
   <div class="role">Undergrad (2023-2024)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a target="_blank" href="/people/hchuang/">Haochen Huang 黄浩宸</a></div>
+  <div class="role">M.S. (2023-2026)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a target="_blank" href="/people/jyli/">Jiayi Li 李佳怡</a></div>
+  <div class="role">M.S. (2023-2026)</div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a target="_blank" href="/people/jrzhu/">Jiarui Zhu 朱佳睿</a></div>
+  <div class="role">M.S. (2023-2026)</div>
 </div>
 
 </div>
