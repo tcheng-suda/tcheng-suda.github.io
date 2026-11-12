@@ -100,7 +100,7 @@
   URL:
   type: article
   DOI: 10.1021/acs.jpclett.6c01624
-  fulltext: 244.pdf
+  fulltext: 250.pdf
   language: english
 - title: 'Phase Engineering of Iridium Oxides Enable Direct Coupling of Proton Exchange Membrane Water Electrolysis with Intermittent Electrical Energy'
   volume:
@@ -160,21 +160,48 @@
   year: 2026
   author:
   - given:
-    given_initial: XX
-    family: X
+    given_initial: XY
+    family: Yan
+  - given:
+    given_initial: PP
+    family: Yu
+  - given:
+    given_initial: JX
+    family: Tian
+  - given:
+    given_initial: SY
+    family: Sun
+  - given:
+    given_initial: YN
+    family: Wang
+  - given:
+    given_initial: JL
+    family: Li
+  - given:
+    given_initial: Z
+    family: Zheng
+  - given:
+    given_initial: WJ
+    family: Feng
   - given: Tao
     given_initial: T
     family: Cheng
     role: main
   - given:
+    given_initial: R
+    family: Wen
+  - given:
     given_initial: XQ
     family: Zhang
     role: corr
+  - given:
+    given_initial: JQ
+    family: Huang
   journal:
     abbreviation: Sci. China Chem.
-  URL:
+  URL: https://doi.org/10.1007/s11426-026-3695-5
   type: article
-  DOI:
+  DOI: 10.1007/s11426-026-3695-5
   fulltext:
   language: english
 - title: 'Sulfur-Fluoride Exchange-Driven Covalent Grafting Tunes the Electric Double Layer for Stabilizing LiNi0.9Co0.05Mn0.05O2 Cathode'
@@ -726,7 +753,7 @@
   URL: https://doi.org/10.1038/s41467-026-71943-6
   type: article
   DOI: 10.1038/s41467-026-71943-6
-  fulltext: null
+  fulltext: 238.pdf
   language: english
 - title: Differentiating interfacial water structures via alkali metal cation promotor
     for H2O2 electrosynthesis in acid
@@ -771,7 +798,7 @@
   URL: https://doi.org/10.1038/s41467-026-71584-9
   type: article
   DOI: 10.1038/s41467-026-71584-9
-  fulltext: null
+  fulltext: 237.pdf
   language: english
 - title: Dynamic migration of framework Al atoms during the crystallization of MOR
     zeolite
@@ -922,7 +949,7 @@
   URL: https://doi.org/10.1038/s41467-026-69790-6
   type: article
   DOI: 10.1038/s41467-026-69790-6
-  fulltext: 230.pdf
+  fulltext: 235.pdf
   language: english
 - title: Dual-Ion Confined-Region Channels Enable Rapid Ion Transport for All-Solid-State
     Lithium Metal Batteries
@@ -968,7 +995,7 @@
   URL: https://doi.org/10.1021/jacs.5c21322
   type: article
   DOI: 10.1021/jacs.5c21322
-  fulltext: null
+  fulltext: 234.pdf
   language: english
 - title: Enhanced Li-ion diffusion improves N2-to-NH3 current efficiency at 100 mA
     cm−2
@@ -1056,7 +1083,7 @@
   URL: https://doi.org/10.1126/science.adw5462
   type: article
   DOI: 10.1126/science.adw5462
-  fulltext: 228.pdf
+  fulltext: 233.pdf
   language: english
 - title: Revealing the direct role of cobalt in oxygen evolution reaction initiation
     over high-performance iridium-cobalt oxide catalysts
@@ -1220,4 +1247,364 @@
   URL: http://dx.doi.org/10.1039/D5TA08950F
   type: article
   DOI: 10.1039/D5TA08950F
+  language: english
+
+- title: 'Metal-free carbon dots toward bio-green hydrogen evolution via photocatalysis'
+  volume: 18
+  issue: 4
+  page: 2131-2143
+  year: 2026
+  author:
+  - given:
+    given_initial: J
+    family: Wang
+  - given:
+    given_initial: S
+    family: Feng
+  - given:
+    given_initial: T
+    family: He
+  - given:
+    given_initial: Z
+    family: Li
+  - given:
+    given_initial: T
+    family: Shi
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: Z
+    family: Kang
+  journal:
+    abbreviation: Nanoscale
+  URL: https://doi.org/10.1039/d5nr04472c
+  type: article
+  DOI: 10.1039/d5nr04472c
+  fulltext:
+  language: english
+
+- title: 'Mechano-electrochemically stable fibrous zinc-ion batteries with unified aramid nanofibres skeleton'
+  volume: 
+  issue: 
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: Y
+    family: Yang
+  - given:
+    given_initial: Z
+    family: Chen
+  - given:
+    given_initial: X
+    family: Ma
+  - given:
+    given_initial: B
+    family: Ma
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: G
+    family: Xiao
+  - given:
+    given_initial: M
+    family: Xu
+  - given:
+    given_initial: Z
+    family: Lin
+  - given:
+    given_initial: Y
+    family: Shao
+  - given:
+    given_initial: Z
+    family: Xiong
+  - given:
+    given_initial: W
+    family: Yang
+  - given:
+    given_initial: X
+    family: Zhao
+  - given:
+    given_initial: J
+    family: Zhang
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: X
+    family: Zhang
+  - given:
+    given_initial: Y
+    family: Shao
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-026-75859-z
+  type: article
+  DOI: 10.1038/s41467-026-75859-z
+  fulltext: 228.pdf
+  language: english
+
+- title: 'Inorganic Miniature Ion Pair for Unlocking Fast-Charging Mg-Metal Batteries'
+  volume: 8
+  issue: 11
+  page: 5433-5445
+  year: 2026
+  author:
+  - given:
+    given_initial: Y
+    family: Bao
+  - given:
+    given_initial: S
+    family: Wang
+  - given:
+    given_initial: B
+    family: Ma
+  - given:
+    given_initial: S
+    family: Weng
+  - given:
+    given_initial: J
+    family: Zhu
+  - given:
+    given_initial: K
+    family: Wang
+  - given:
+    given_initial: L
+    family: Lu
+  - given:
+    given_initial: L
+    family: Zhao
+  - given:
+    given_initial: X
+    family: Li
+  - given:
+    given_initial: S
+    family: Cao
+  - given:
+    given_initial: Y
+    family: Chai
+  - given:
+    given_initial: Z
+    family: Xu
+  - given:
+    given_initial: L
+    family: Li
+  - given:
+    given_initial: J
+    family: Yan
+  - given:
+    given_initial: Y
+    family: Wang
+  - given:
+    given_initial: Q
+    family: Li
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: X
+    family: Wang
+  - given:
+    given_initial: S
+    family: Jiao
+  - given:
+    given_initial: D
+    family: Xu
+  journal:
+    abbreviation: CCS Chem.
+  URL: https://doi.org/10.31635/ccschem.026.202608446
+  type: article
+  DOI: 10.31635/ccschem.026.202608446
+  fulltext:
+  language: english
+
+- title: 'Interface-induced tensile strain stabilizes ruthenium oxide for high-performance acidic water oxidation'
+  volume: 17
+  issue: 
+  page: 10603
+  year: 2026
+  author:
+  - given:
+    given_initial: W
+    family: Zhu
+  - given:
+    given_initial: M
+    family: Ma
+  - given:
+    given_initial: Q
+    family: Sun
+  - given:
+    given_initial: F
+    family: Liao
+  - given:
+    given_initial: J
+    family: Wu
+  - given:
+    given_initial: X
+    family: Che
+  - given:
+    given_initial: K
+    family: Feng
+  - given:
+    given_initial: Z
+    family: Yang
+  - given:
+    given_initial: H
+    family: Huang
+  - given:
+    given_initial: J
+    family: Zhong
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: Y
+    family: Liu
+  - given:
+    given_initial: M
+    family: Shao
+  - given:
+    given_initial: Z
+    family: Kang
+  - given:
+    given_initial: M
+    family: Ni
+  journal:
+    abbreviation: Nat. Commun.
+  URL: https://doi.org/10.1038/s41467-026-77521-0
+  type: article
+  DOI: 10.1038/s41467-026-77521-0
+  fulltext: 226.pdf
+  language: english
+
+- title: 'Physics-Guided Descriptors Enable Data-Efficient Prediction of Battery Coulombic Efficiency'
+  volume: 
+  issue: 
+  page: e76510
+  year: 2026
+  author:
+  - given:
+    given_initial: Q
+    family: Sun
+  - given:
+    given_initial: X
+    family: Gu
+  - given:
+    given_initial: Y
+    family: Jie
+  - given:
+    given_initial: H
+    family: Yang
+  - given:
+    given_initial: S
+    family: Jiao
+  - given:
+    given_initial: C
+    family: Tang
+  - given:
+    given_initial: Y
+    family: Sheng
+  - given:
+    given_initial: Y
+    family: Lu
+  - given:
+    given_initial: R
+    family: Cao
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  journal:
+    abbreviation: Adv. Sci.
+  URL: https://doi.org/10.1002/advs.76510
+  type: article
+  DOI: 10.1002/advs.76510
+  fulltext:
+  language: english
+
+- title: 'Constructing Hybrid Solid–Liquid Li+ Transport Networks for Fast-Charging Thick Electrodes'
+  volume: 
+  issue: 
+  page: ""
+  year: 2026
+  author:
+  - given:
+    given_initial: J
+    family: Zhu
+  - given:
+    given_initial: X
+    family: Gu
+  - given:
+    given_initial: H
+    family: Song
+  - given:
+    given_initial: D
+    family: Cao
+  - given:
+    given_initial: J
+    family: Qiu
+  - given:
+    given_initial: Q
+    family: Yang
+  - given:
+    given_initial: H
+    family: Li
+  - given:
+    given_initial: S
+    family: Li
+  - given:
+    given_initial: W
+    family: Li
+  - given:
+    given_initial: Z
+    family: Wang
+  - given:
+    given_initial: Q
+    family: Fang
+  - given:
+    given_initial: C
+    family: Zhong
+  - given:
+    given_initial: Z
+    family: Wang
+  - given:
+    given_initial: B
+    family: Kang
+  - given:
+    given_initial: J
+    family: Li
+  - given:
+    given_initial: H
+    family: Yu
+  - given:
+    given_initial: Y
+    family: Li
+  - given:
+    given_initial: H
+    family: Li
+  - given: Tao
+    given_initial: T
+    family: Cheng
+    role: main
+  - given:
+    given_initial: X
+    family: Wang
+  journal:
+    abbreviation: ACS Energy Lett.
+  URL: https://doi.org/10.1021/acsenergylett.6c03027
+  type: article
+  DOI: 10.1021/acsenergylett.6c03027
+  fulltext:
   language: english

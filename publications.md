@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-last_updated: 2026-10-14
+last_updated: 2026-11-10
 ---
 {% include pdf-icon.html %}
 <p class="publication-updated">Last updated: <time datetime="{{ page.last_updated | date: '%Y-%m-%d' }}">{{ page.last_updated | date: '%B %-d, %Y' }}</time></p>
@@ -14,7 +14,7 @@ last_updated: 2026-10-14
 |(citation:22,713; h-index:76; i10-index: 201 updated by April 4 2026)
 |  
 {% if jekyll.environment == 'production' %}{% assign local = false %}{% else %}{% assign local = true %}{% endif %}
-|[**26{% if local %}-22{% endif %}**](#2026)
+|[**26{% if local %}-28{% endif %}**](#2026)
 |[**25{% if local %}-34{% endif %}**](#2025)
 |[**24{% if local %}-30{% endif %}**](#2024)
 |[**23{% if local %}-26{% endif %}**](#2023)
