@@ -13,27 +13,35 @@
 
 .site-title {
     font-size: 26px;
-/* 		margin-top: 15px;
-    line-height: 40px; */
     letter-spacing: -1px;
     margin-bottom: 0;
     font-weight: 500;
-		font-family: 'Titillium Web', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
     color: var(--header-text);
 
-    &,
     &:visited {
         color: var(--header-text);
     }
-    &,
+
     &:hover {
-	text-decoration: none;
-}
+        text-decoration: none;
+    }
+
+    @include media-query($on-palm) {
+        display: block;
+        max-width: calc(100% - 80px);
+        font-size: clamp(21px, 5.7vw, 26px);
+        line-height: 1.25;
+    }
 }
 
 .site-header .wrapper {
 	padding-top: 20px;
 	position: relative;
+
+    @include media-query($on-palm) {
+        padding-bottom: 10px;
+    }
 }
 
 .site-nav ul li a {
@@ -65,6 +73,7 @@
 	margin: 12px 0 0 20px;
 	padding: 0 0 2px 0;
 	position: relative;
+	text-align: center;
 	vertical-align: top;
 }
 
@@ -214,29 +223,25 @@ z-index:999;
 
 .theme-toggle {
     cursor: pointer;
-    vertical-align: middle;
-    height: auto !important;
-    line-height: 23px;
 
     a {
-        font-size: inherit !important;
-        padding: 0 6px !important;
-        text-transform: none !important;
-        letter-spacing: 0 !important;
-        display: inline-block !important;
-        line-height: 23px;
-        color: var(--header-text) !important;
-        opacity: 1 !important;
+        display: flex;
+        align-items: center;
+        min-height: #{$base-line-height}em;
+        padding: 0 6px;
 
         svg {
-            vertical-align: -2px;
             width: 14px;
             height: 14px;
+        }
+
+        @include media-query($on-palm) {
+            padding: 5px 10px;
         }
     }
 
     &:hover a {
-        opacity: 0.7 !important;
-        text-decoration: none !important;
+        opacity: 0.7;
+        text-decoration: none;
     }
 }

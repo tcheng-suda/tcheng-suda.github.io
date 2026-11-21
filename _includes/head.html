@@ -63,8 +63,6 @@
 <script>
   window.addEventListener('DOMContentLoaded', function() {
     var btn = document.getElementById('lang-toggle-btn');
-    var enLabels = document.querySelectorAll('.lang-btn-en');
-    var zhLabels = document.querySelectorAll('.lang-btn-zh');
     var titles = { en: document.title };
     var zhMeta = document.querySelector('meta[name="page-title-zh"]');
     if (zhMeta) { titles.zh = zhMeta.getAttribute('content'); }
@@ -74,14 +72,10 @@
         document.documentElement.setAttribute('data-lang', 'zh');
         document.documentElement.setAttribute('lang', 'zh-CN');
         if (titles.zh) { document.title = titles.zh; } else { document.title = siteZh; }
-        enLabels.forEach(function(el) { el.style.display = 'none'; });
-        zhLabels.forEach(function(el) { el.style.display = 'inline-block'; });
       } else {
         document.documentElement.removeAttribute('data-lang');
         document.documentElement.setAttribute('lang', 'en');
         document.title = titles.en;
-        enLabels.forEach(function(el) { el.style.display = 'inline-block'; });
-        zhLabels.forEach(function(el) { el.style.display = 'none'; });
       }
     }
     var current = document.documentElement.getAttribute('data-lang') === 'zh' ? 'zh' : 'en';

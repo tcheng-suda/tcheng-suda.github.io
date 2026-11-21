@@ -1,59 +1,51 @@
-/**
- * Bilingual (EN/ZH) toggle styles.
- * Text is duplicated with .en-only / .zh-only spans in the markup;
- * the html[data-lang] attribute (set by the toggle button) picks one.
- */
-
-html:not([data-lang="zh"]) .zh-only {
-    display: none !important;
-}
-
-html[data-lang="zh"] .en-only {
-    display: none !important;
-}
-
-/* Language toggle button: show "中" in EN mode, "EN" in ZH mode */
-.lang-btn-zh {
-    display: none;
-}
-
-html[data-lang="zh"] .lang-btn-en {
-    display: none;
-}
-
-html[data-lang="zh"] .lang-btn-zh {
-    display: inline;
-}
-
 /*
- * Keep the Chinese version typographically consistent with the English one.
- * Every selector that declares its own font stack (Titillium Web / Open Sans
- * elsewhere in the stylesheets) gets the same Latin font followed by a CJK
- * fallback chain, so zh mode never drops to the browser's default CJK font.
+ * Stack the translations so the longer one reserves space at any width.
+ * Visibility keeps the inactive translation out of keyboard navigation
+ * and the accessibility tree while its box still participates in layout.
  */
+.language-pair {
+    display: inline-grid;
+    max-width: 100%;
+    vertical-align: top;
+
+    > .en-only,
+    > .zh-only {
+        grid-area: 1 / 1;
+        min-width: 0;
+    }
+}
+
+html:not([data-lang="zh"]) .zh-only,
+html[data-lang="zh"] .en-only {
+    visibility: hidden;
+}
+
 $cjk-fonts: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
 
-html[data-lang="zh"] {
-    body {
-        font-family: 'Open Sans', $cjk-fonts;
-    }
+body {
+    font-family: 'Open Sans', $cjk-fonts;
+}
 
-    .site-title,
-    .site-nav ul,
-    .site-nav .sub-menu {
-        font-family: 'Titillium Web', $cjk-fonts;
-    }
+h1,
+.post-content h2,
+.link-grid-section h2,
+ul.listing li.listing-seperator,
+ul.listing li.listing-item a,
+.site-nav ul,
+.site-nav .sub-menu {
+    font-family: 'Titillium Web', $cjk-fonts;
+}
 
-    h1,
-    .post-content h2,
-    .link-grid-section h2,
-    ul.listing li.listing-seperator,
-    ul.listing li.listing-item a {
-        font-family: 'Titillium Web', $cjk-fonts;
-    }
+h1 {
+    line-height: 1.25;
+}
 
-    /* CJK glyphs fill the whole em box; leading 1 on wrapped h1 lines crowds them */
-    h1 {
-        line-height: 1.25;
-    }
+.site-nav .language-pair > [lang="zh-CN"] {
+    font-size: 0.95em;
+    letter-spacing: 0.04em;
+}
+
+#lang-toggle-btn .zh-only {
+    position: relative;
+    top: -1px;
 }
