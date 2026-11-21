@@ -38,6 +38,6 @@
     abbreviation: J. Phys. Chem. Lett.
   URL: https://doi.org/10.1021/acs.jpclett.2c02222
   type: article
-  DOI:
+  DOI: 10.1021/acs.jpclett.2c02222
   fulltext:
   language: english

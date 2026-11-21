@@ -33,6 +33,6 @@
     abbreviation: J. Electrochem. Soc.
   URL: https://doi.org/10.1149/1945-7111/ac44bc
   type: article
-  DOI:
+  DOI: 10.1149/1945-7111/ac44bc
   fulltext:
   language: english

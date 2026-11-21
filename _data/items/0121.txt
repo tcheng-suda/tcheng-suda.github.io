@@ -30,6 +30,6 @@
     abbreviation: ACS Appl. Mater. Interfaces
   URL: https://doi.org/10.1021/acsami.1c22610
   type: article
-  DOI:
+  DOI: 10.1021/acsami.1c22610
   fulltext:
   language: english

@@ -42,6 +42,6 @@
     abbreviation: Energy Storage Mater. 
   URL:
   type: article
-  DOI:
+  DOI: 10.1016/j.ensm.2024.103388
   fulltext:
   language: english

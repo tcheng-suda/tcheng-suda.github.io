@@ -31,7 +31,7 @@
     abbreviation: Energy Storage Science and Technology
   URL: https://esst.cip.com.cn/CN/10.19799/j.cnki.2095-4239.2022.0046
   type: article
-  DOI: 
+  DOI: 10.19799/j.cnki.2095-4239.2022.0046
   fulltext:
   language: english
   note: 多尺度模拟研究固体电解质界面

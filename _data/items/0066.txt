@@ -47,6 +47,6 @@
     abbreviation: J. Mater. Chem. A,
   URL: https://doi.org/10.1039/D0TA00962H
   type: article
-  DOI: 
+  DOI: 10.1039/D0TA00962H
   fulltext:
   language: english

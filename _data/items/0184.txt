@@ -70,6 +70,6 @@
     abbreviation: Nano Energy
   URL:
   type: article
-  DOI:
+  DOI: 10.1016/j.nanoen.2024.110280
   fulltext:
   language: english

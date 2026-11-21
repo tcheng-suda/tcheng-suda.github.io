@@ -41,7 +41,7 @@
     abbreviation: ACS Catal.
   URL:
   type: article
-  DOI:
+  DOI: 10.1021/acscatal.4c02062
   fulltext:
   language: english
 

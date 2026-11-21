@@ -43,6 +43,6 @@
     abbreviation: Semicond. Sci. Technol.
   URL: https://doi.org/10.1088/1361-6641/aa7c58
   type: article
-  DOI:
+  DOI: 10.1088/1361-6641/aa7c58
   fulltext:
   language: english

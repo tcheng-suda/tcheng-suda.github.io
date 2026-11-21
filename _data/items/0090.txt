@@ -34,6 +34,6 @@
     abbreviation: Mater. Today Energy
   URL: https://doi.org/10.1016/j.mtener.2021.100730
   type: article
-  DOI: 
+  DOI: 10.1016/j.mtener.2021.100730
   fulltext:
   language: english

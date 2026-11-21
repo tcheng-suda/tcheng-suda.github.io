@@ -25,6 +25,6 @@
     abbreviation: ACS Mater. Lett.
   URL: https://doi.org/10.1021/acsmaterialslett.1c00263
   type: article
-  DOI: 
+  DOI: 10.1021/acsmaterialslett.1c00263
   fulltext:
   language: english

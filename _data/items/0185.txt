@@ -35,7 +35,7 @@
     abbreviation: Adv. Mater.
   URL:
   type: article
-  DOI:
+  DOI: 10.1002/adma.202404271
   fulltext:
   language: english
 

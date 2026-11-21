@@ -46,6 +46,6 @@
     abbreviation: Sci. China Chem.
   URL: https://doi.org/10.1007/s11426-021-1213-2
   type: article
-  DOI:
+  DOI: 10.1007/s11426-021-1213-2
   fulltext:
   language: english

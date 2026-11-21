@@ -38,6 +38,6 @@
     abbreviation: Adv. Mater.
   URL: https://doi.org/10.1002/adma.202300653
   type: article
-  DOI:
+  DOI: 10.1002/adma.202300653
   fulltext: 
   language: english

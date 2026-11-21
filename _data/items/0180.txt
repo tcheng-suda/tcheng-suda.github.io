@@ -47,6 +47,6 @@
     abbreviation: Appl. Catal. B
   URL: https://doi.org/10.1016/j.apcatb.2023.123561
   type: article
-  DOI:
+  DOI: 10.1016/j.apcatb.2023.123561
   fulltext:
   language: english

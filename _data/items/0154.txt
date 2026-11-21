@@ -31,6 +31,6 @@
     abbreviation: J. Mater. Sci. Technol.
   URL: https://doi.org/10.1016/j.jmst.2023.05.040
   type: article
-  DOI:
+  DOI: 10.1016/j.jmst.2023.05.040
   fulltext:
   language: english

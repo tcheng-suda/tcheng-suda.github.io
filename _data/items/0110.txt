@@ -47,6 +47,6 @@
     abbreviation: Chem. Eng. Sci.
   URL: https://doi.org/10.1016/j.cej.2022.134865
   type: article
-  DOI: 
+  DOI: 10.1016/j.cej.2022.134865
   fulltext:
   language: english

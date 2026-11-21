@@ -38,6 +38,6 @@
     abbreviation: Phys. Chem. Chem. Phys.
   URL: https://doi.org/10.1039/D2CP02130G
   type: article
-  DOI:
+  DOI: 10.1039/D2CP02130G
   fulltext:
   language: english

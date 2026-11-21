@@ -28,6 +28,6 @@
     abbreviation: Chin. J. Chem. Phys
   URL: https://doi.org/10.1063/1674-0068/cjcp2109153 
   type: article
-  DOI: 
+  DOI: 10.1063/1674-0068/cjcp2109153
   fulltext:
   language: english

@@ -47,6 +47,6 @@
     abbreviation: Nat. Catal.
   URL: https://doi.org/10.1038/s41929-020-00504-x
   type: article
-  DOI: 
+  DOI: 10.1038/s41929-020-00504-x
   fulltext:
   language: english

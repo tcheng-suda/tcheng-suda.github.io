@@ -60,6 +60,6 @@
     abbreviation: Submitted
   URL:
   type: article
-  DOI:
+  DOI: 10.1002/smll.202400498
   fulltext:
   language: english

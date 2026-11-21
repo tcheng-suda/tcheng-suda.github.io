@@ -56,6 +56,6 @@
     abbreviation: Chem
   URL: https://doi.org/10.1016/j.chempr.2022.02.003
   type: article
-  DOI: 
+  DOI: 10.1016/j.chempr.2022.02.003
   fulltext:
   language: english

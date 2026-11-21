@@ -35,6 +35,6 @@
     abbreviation: Nat. Catal.
   URL:
   type: article
-  DOI:
+  DOI: 10.1007/s12598-024-02903-6
   fulltext:
   language: english

@@ -48,6 +48,6 @@
     abbreviation: J. Am. Chem. Soc.
   URL:
   type: article
-  DOI:
+  DOI: 10.1021/jacs.3c14667
   fulltext:
   language: english

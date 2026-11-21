@@ -66,6 +66,6 @@
     abbreviation: Nat. Commun.
   URL: https://doi.org/10.1038/s41467-023-41036-9
   type: article
-  DOI:
+  DOI: 10.1038/s41467-023-41036-9
   fulltext:
   language: english

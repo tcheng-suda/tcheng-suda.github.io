@@ -22,7 +22,7 @@
     abbreviation: Adv. Mater.
   URL:
   type: article
-  DOI:
+  DOI: 10.1002/adma.202402963
   fulltext:
   language: english
 

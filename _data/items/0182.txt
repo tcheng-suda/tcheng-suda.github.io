@@ -28,6 +28,6 @@
     abbreviation: J. Colloid Interface Sci.
   URL: https://doi.org/10.1016/j.jcis.2024.01.122
   type: article
-  DOI:
+  DOI: 10.1016/j.jcis.2024.01.122
   fulltext:
   language: english

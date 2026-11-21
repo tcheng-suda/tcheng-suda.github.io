@@ -31,6 +31,6 @@
     abbreviation: Top. Catal.
   URL: https://doi.org/10.1007/s11244-021-01546-6
   type: article
-  DOI: 
+  DOI: 10.1007/s11244-021-01546-6
   fulltext:
   language: english

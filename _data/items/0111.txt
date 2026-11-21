@@ -38,6 +38,6 @@
     abbreviation: ACS Appl. Nano Mater.
   URL: https://doi.org/10.1021/acsanm.1c03619
   type: article
-  DOI: 
+  DOI: 10.1021/acsanm.1c03619
   fulltext:
   language: english

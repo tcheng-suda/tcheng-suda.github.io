@@ -46,6 +46,6 @@
     abbreviation: Angew. Chem. Int. Ed.
   URL: https://doi.org/10.1002/anie.202013047
   type: article
-  DOI: 
+  DOI: 10.1002/anie.202013047
   fulltext:
   language: english

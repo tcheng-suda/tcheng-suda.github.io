@@ -25,6 +25,6 @@
     abbreviation: ACS Energy Lett.
   URL: https://doi.org/10.1021/acsenergylett.8b01933
   type: article
-  DOI: 
+  DOI: 10.1021/acsenergylett.8b01933
   fulltext: 
   language: english

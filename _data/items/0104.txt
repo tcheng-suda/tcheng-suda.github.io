@@ -36,6 +36,6 @@
     abbreviation: J. Electrochem.
   URL: http://electrochem.xmu.edu.cn/CN/10.13208/j.electrochem.210518
   type: article
-  DOI: 
+  DOI: 10.13208/j.electrochem.210518
   fulltext:
   language: english

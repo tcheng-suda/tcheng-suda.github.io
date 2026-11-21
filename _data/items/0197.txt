@@ -44,7 +44,7 @@
     abbreviation: Nat. Commun.
   URL:
   type: article
-  DOI:
+  DOI: 10.1038/s41467-024-52162-3
   fulltext:
   language: english
 

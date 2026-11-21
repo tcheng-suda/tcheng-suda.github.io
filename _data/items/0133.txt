@@ -37,6 +37,6 @@
     abbreviation: Inorg. Chem. Front.
   URL: https://doi.org/10.1039/D2QI01958B
   type: article
-  DOI:
+  DOI: 10.1039/D2QI01958B
   fulltext:
   language: english

@@ -60,6 +60,6 @@
     abbreviation: Nat. Commun.
   URL: https://www.nature.com/articles/s41467-023-40221-0
   type: article
-  DOI:
+  DOI: 10.1038/s41467-023-40221-0
   fulltext:
   language: english

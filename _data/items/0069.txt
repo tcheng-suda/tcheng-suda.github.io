@@ -53,6 +53,6 @@
     abbreviation: Sci. Bull
   URL: https://doi.org/10.1016/j.scib.2020.06.023
   type: article
-  DOI: 
+  DOI: 10.1016/j.scib.2020.06.023
   fulltext:
   language: english

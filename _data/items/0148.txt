@@ -35,6 +35,6 @@
     abbreviation: J. Chem. Phys.
   URL: https://doi.org/10.1063/5.0130686
   type: article
-  DOI:
+  DOI: 10.1063/5.0130686
   fulltext:
   language: english

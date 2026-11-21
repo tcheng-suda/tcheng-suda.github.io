@@ -60,6 +60,6 @@
     abbreviation: Nat. Catal.
   URL:
   type: article
-  DOI:
+  DOI: 10.1038/s41929-024-01156-x
   fulltext:
   language: english

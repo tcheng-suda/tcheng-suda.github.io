@@ -41,7 +41,7 @@
     abbreviation: ACS Appl. Mater. Interfaces.
   URL:
   type: article
-  DOI:
+  DOI: 10.1021/acsami.4c09083
   fulltext:
   language: english
 

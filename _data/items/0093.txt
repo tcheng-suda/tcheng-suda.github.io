@@ -23,6 +23,6 @@
     abbreviation: J. Phys. Chem. C
   URL: https://doi.org/10.1021/acs.jpcc.1c07362
   type: article
-  DOI: 
+  DOI: 10.1021/acs.jpcc.1c07362
   fulltext:
   language: english

@@ -44,6 +44,6 @@
     abbreviation: Sci. China Mater.
   URL: https://doi.org/10.1007/s40843-020-1440-6
   type: article
-  DOI: 
+  DOI: 10.1007/s40843-020-1440-6
   fulltext:
   language: english

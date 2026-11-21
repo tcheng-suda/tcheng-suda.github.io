@@ -38,6 +38,6 @@
     abbreviation: Nat. Commun.
   URL: https://doi.org/10.1038/s41467-022-31427-9
   type: article
-  DOI:
+  DOI: 10.1038/s41467-022-31427-9
   fulltext:
   language: english

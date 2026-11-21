@@ -42,7 +42,7 @@
     abbreviation: Proc. Natl. Acad. Sci. U.S.A.
   URL: https://doi.org/10.1073/pnas.2208187119
   type: article
-  DOI:
+  DOI: 10.1073/pnas.2208187119
   fulltext:
   language: english
   note: (Zhong GY and Cheng T contributed equally)

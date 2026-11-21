@@ -41,6 +41,6 @@
     abbreviation: Energy Environ. Sci.
   URL: https://doi.org/10.1039/D3EE01788E
   type: article
-  DOI:
+  DOI: 10.1039/D3EE01788E
   fulltext:
   language: english

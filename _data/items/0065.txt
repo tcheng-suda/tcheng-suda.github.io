@@ -41,6 +41,6 @@
     abbreviation: J. Mater. Chem. C,
   URL: https://doi.org/10.1039/D0TC00718H
   type: article
-  DOI: 
+  DOI: 10.1039/D0TC00718H
   fulltext:
   language: english

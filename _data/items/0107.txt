@@ -46,6 +46,6 @@
     abbreviation: Nano Lett.
   URL: https://doi.org/10.1021/acs.nanolett.1c03805
   type: article
-  DOI: 
+  DOI: 10.1021/acs.nanolett.1c03805
   fulltext: 
   language: english

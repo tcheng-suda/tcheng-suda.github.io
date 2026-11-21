@@ -40,6 +40,6 @@
     abbreviation: Research
   URL: https://doi.org/10.34133/2020/2131806
   type: article
-  DOI: 
+  DOI: 10.34133/2020/2131806
   fulltext:
   language: english

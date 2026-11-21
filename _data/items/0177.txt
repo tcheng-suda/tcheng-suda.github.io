@@ -46,6 +46,6 @@
     abbreviation: Small
   URL: https://doi.org/10.1002/smll.202308209
   type: article
-  DOI:
+  DOI: 10.1002/smll.202308209
   fulltext:
   language: english

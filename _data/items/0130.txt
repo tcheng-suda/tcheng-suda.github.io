@@ -28,6 +28,6 @@
     abbreviation: J. Phys. Chem. C
   URL: https://doi.org/10.1021/acs.jpcc.2c01125
   type: article
-  DOI:
+  DOI: 10.1021/acs.jpcc.2c01125
   fulltext:
   language: english

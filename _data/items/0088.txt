@@ -36,6 +36,6 @@
     abbreviation: J. Phys. Chem. Lett.
   URL: https://doi.org/10.1021/acs.jpclett.1c00279
   type: article
-  DOI: 
+  DOI: 10.1021/acs.jpclett.1c00279
   fulltext:
   language: english

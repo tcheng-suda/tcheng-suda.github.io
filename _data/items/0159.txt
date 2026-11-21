@@ -78,6 +78,6 @@
     abbreviation: Nat. Energy
   URL:
   type: article
-  DOI:
+  DOI: 10.1038/s41560-024-01565-z
   fulltext:
   language: english

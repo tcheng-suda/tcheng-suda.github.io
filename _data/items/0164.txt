@@ -34,6 +34,6 @@
     abbreviation: Mater. Today Chem.
   URL: https://doi.org/10.1016/j.mtchem.2023.101735
   type: article
-  DOI:
+  DOI: 10.1016/j.mtchem.2023.101735
   fulltext:
   language: english

@@ -32,6 +32,6 @@
     abbreviation: Nano Lett.
   URL: https://doi.org/10.1021/acs.nanolett.0c03400
   type: article
-  DOI: 
+  DOI: 10.1021/acs.nanolett.0c03400
   fulltext:
   language: english

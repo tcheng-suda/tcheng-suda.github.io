@@ -29,6 +29,6 @@
     abbreviation: Nano Energy
   URL: https://doi.org/10.1016/j.nanoen.2020.105224
   type: article
-  DOI: 
+  DOI: 10.1016/j.nanoen.2020.105224
   fulltext:
   language: english

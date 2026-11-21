@@ -30,6 +30,6 @@
     abbreviation: Proc. Natl. Acad. Sci. U.S.A.
   URL: http://dx.doi.org/10.1073/pnas.1701405114
   type: article
-  DOI:
+  DOI: 10.1073/pnas.1701405114
   fulltext:
   language: english

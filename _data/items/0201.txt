@@ -54,7 +54,7 @@
     abbreviation: ACS Nano
   URL:
   type: article
-  DOI:
+  DOI: 10.1021/acsnano.4c06057
   fulltext:
   language: english
 

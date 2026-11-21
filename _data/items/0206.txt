@@ -44,7 +44,7 @@
     abbreviation: Adv. Energy Mater.
   URL: 
   type: article
-  DOI: 
+  DOI: 10.1002/aenm.202402941
   fulltext:
   language: english
 

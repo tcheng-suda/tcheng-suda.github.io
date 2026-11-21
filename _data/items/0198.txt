@@ -37,7 +37,7 @@
     abbreviation: ChemSusChem
   URL:
   type: article
-  DOI:
+  DOI: 10.1002/cssc.202400940
   fulltext:
   language: english
 

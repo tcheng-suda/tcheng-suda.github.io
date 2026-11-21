@@ -50,6 +50,6 @@
     abbreviation: ACS Nano
   URL: https://doi.org/10.1021/acsnano.3c02762
   type: article
-  DOI:
+  DOI: 10.1021/acsnano.3c02762
   fulltext:
   language: english

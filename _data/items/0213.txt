@@ -45,7 +45,7 @@
     abbreviation: Small
   URL:
   type: article
-  DOI:
+  DOI: 10.1002/smll.202407328
   fulltext:
   language: english
 
