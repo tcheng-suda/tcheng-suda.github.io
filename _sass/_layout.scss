@@ -553,13 +553,148 @@ ul.listing li.listing-item a {
     }
 }
 
-.role-label {
-    font-size: 18pt;
-    font-weight: bold;
-    color: #000;
+.faculty-profile {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) clamp(8rem, 22vw, 12rem);
+    grid-template-areas: "heading portrait" "details portrait";
+    align-items: start;
+    gap: 1rem 1.5rem;
+    margin-bottom: 1.5rem;
+    padding: clamp(1rem, 3vw, 1.5rem);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    scroll-margin-top: 1rem;
 }
 
-[data-theme="dark"] .role-label {
-    color: #fff;
+.faculty-profile,
+.faculty-history {
+    a {
+        color: var(--brand-color);
+        overflow-wrap: anywhere;
+
+        &:focus-visible {
+            outline: 2px solid var(--brand-color);
+            outline-offset: 2px;
+        }
+    }
+}
+
+.faculty-profile-heading {
+    grid-area: heading;
+
+    h2 {
+        margin: 0;
+        color: var(--heading-color);
+        font-size: 1.7em;
+        font-weight: 600;
+        scroll-margin-top: 1rem;
+    }
+}
+
+.faculty-profile-role {
+    margin: 0.15rem 0 0;
+    color: var(--talk-meta-color);
+    font-weight: 600;
+}
+
+.faculty-profile-affiliation {
+    display: grid;
+    justify-items: start;
+    gap: 0.15rem;
+    margin: 0.45rem 0 0;
+}
+
+.faculty-profile-portrait {
+    grid-area: portrait;
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.faculty-profile-details {
+    grid-area: details;
+    display: grid;
+    gap: 0.75rem;
+    margin: 0;
+    padding-top: 0.85rem;
+    border-top: 1px solid var(--border-color);
+
+    dt {
+        color: var(--heading-color);
+        font-weight: 600;
+    }
+
+    dd {
+        margin: 0.15rem 0 0;
+    }
+}
+
+.faculty-profile-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1rem;
+    margin: 0;
+    list-style: none;
+}
+
+.faculty-history {
+    margin-bottom: 1.75rem;
+
+    h2 {
+        margin: 0 0 0.55rem;
+        color: var(--heading-color);
+        font-size: 1.45em;
+        font-weight: 600;
+        scroll-margin-top: 1rem;
+    }
+
+    ul {
+        margin: 0;
+        list-style: none;
+    }
+
+    li {
+        display: grid;
+        grid-template-columns: 11rem minmax(0, 1fr);
+        align-items: baseline;
+        gap: 0.25rem 1.25rem;
+        padding-block: 0.75rem;
+        border-top: 1px solid var(--border-color);
+    }
+
+    h3 {
+        margin: 0;
+        color: var(--heading-color);
+        font-size: 1.05em;
+        font-style: normal;
+        font-weight: 600;
+    }
+
+    p {
+        margin: 0.2rem 0 0;
+    }
+
+    .faculty-history-date {
+        margin: 0;
+        color: var(--talk-meta-color);
+        font-size: 0.9em;
+        font-variant-numeric: tabular-nums;
+    }
+}
+
+@include media-query($on-palm) {
+    .faculty-profile {
+        grid-template-columns: minmax(0, 1fr);
+        grid-template-areas: "heading" "portrait" "details";
+    }
+
+    .faculty-profile-portrait {
+        max-width: 9rem;
+    }
+
+    .faculty-history li {
+        grid-template-columns: minmax(0, 1fr);
+    }
 }
 
