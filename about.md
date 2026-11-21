@@ -28,7 +28,7 @@ permalink: /about/
 <span class="en-only">**Early Career Advisory Board:**</span><span class="zh-only">**期刊青年编委：**</span>
 [Energy & Environmental Materials (EEM)](https://onlinelibrary.wiley.com/journal/25750356) | [SmartMat](https://onlinelibrary.wiley.com/journal/2688819x) | [Chinese Chemical Letters (CCL)](https://www.sciencedirect.com/journal/chinese-chemical-letters) | [Materials Today Energy](https://www.materialstoday.com/energy/journals/materials-today-energy/)
 
-# <span class="en-only">Experience</span><span class="zh-only">工作经历</span>
+## <span class="en-only">Experience</span><span class="zh-only">工作经历</span>
 - **2018.11 - now**
 **<span class="en-only">Professor</span><span class="zh-only">教授</span>**
 [**<span class="en-only">Institute of Functional Nano & Soft Materials (FUNSOM)</span><span class="zh-only">功能纳米与软物质研究院（FUNSOM）</span>**](http://funsom.suda.edu.cn/funsomen/3c/0c/c3002a277516/page.htm),
@@ -42,7 +42,7 @@ permalink: /about/
 [**<span class="en-only">Division of Chemistry and Chemical Engineering</span><span class="zh-only">化学与化学工程系</span>**](http://cce.caltech.edu/), [**<span class="en-only">Caltech</span><span class="zh-only">加州理工学院</span>**](http://www.caltech.edu/)
 <span class="en-only">with Prof.</span><span class="zh-only">合作导师：</span> [**William A Goddard III**](https://www.cce.caltech.edu/content/william-a-goddard)<span class="zh-only"> 教授</span>
 
-# <span class="en-only">Education</span><span class="zh-only">教育经历</span>
+## <span class="en-only">Education</span><span class="zh-only">教育经历</span>
 - **2009.9 - 2012.9**
 **<span class="en-only">Ph.D.in Chemistry</span><span class="zh-only">化学博士</span>**
 [**<span class="en-only">School of Chemistry and Chemical Engineering (SCCE)</span><span class="zh-only">化学化工学院</span>**](http://scce.sjtu.edu.cn/)
