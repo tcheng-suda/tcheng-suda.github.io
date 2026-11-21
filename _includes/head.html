@@ -5,6 +5,7 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.title_zh %}<meta name="page-title-zh" content="{{ page.title_zh }}">{% endif %}
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -23,6 +24,14 @@
       document.documentElement.setAttribute('data-theme', saved);
     } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
       document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  })();
+</script>
+<script>
+  (function() {
+    if (localStorage.getItem('lang') === 'zh') {
+      document.documentElement.setAttribute('data-lang', 'zh');
+      document.documentElement.setAttribute('lang', 'zh-CN');
     }
   })();
 </script>
@@ -48,6 +57,39 @@
       localStorage.setItem('theme', next);
       current = next;
       updateIcon(next);
+    });
+  });
+</script>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    var btn = document.getElementById('lang-toggle-btn');
+    var enLabels = document.querySelectorAll('.lang-btn-en');
+    var zhLabels = document.querySelectorAll('.lang-btn-zh');
+    var titles = { en: document.title };
+    var zhMeta = document.querySelector('meta[name="page-title-zh"]');
+    if (zhMeta) { titles.zh = zhMeta.getAttribute('content'); }
+    var siteZh = '程涛课题组 - 苏州大学';
+    function apply(lang) {
+      if (lang === 'zh') {
+        document.documentElement.setAttribute('data-lang', 'zh');
+        document.documentElement.setAttribute('lang', 'zh-CN');
+        if (titles.zh) { document.title = titles.zh; } else { document.title = siteZh; }
+        enLabels.forEach(function(el) { el.style.display = 'none'; });
+        zhLabels.forEach(function(el) { el.style.display = 'inline-block'; });
+      } else {
+        document.documentElement.removeAttribute('data-lang');
+        document.documentElement.setAttribute('lang', 'en');
+        document.title = titles.en;
+        enLabels.forEach(function(el) { el.style.display = 'inline-block'; });
+        zhLabels.forEach(function(el) { el.style.display = 'none'; });
+      }
+    }
+    var current = document.documentElement.getAttribute('data-lang') === 'zh' ? 'zh' : 'en';
+    apply(current);
+    btn.addEventListener('click', function() {
+      current = current === 'zh' ? 'en' : 'zh';
+      localStorage.setItem('lang', current);
+      apply(current);
     });
   });
 </script>

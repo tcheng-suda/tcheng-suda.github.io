@@ -1,13 +1,14 @@
 ---
 layout: page
 title: More
+title_zh: 更多
 permalink: /more/
 ---
 
 <div class="link-grid">
 
 <div class="link-grid-section">
-  <h2>Manual</h2>
+  <h2><span class="en-only">Manual</span><span class="zh-only">手册</span></h2>
   <a href="http://www.ks.uiuc.edu/Research/vmd/current/ug/">VMD</a>
   <a href="https://vasp.at/wiki/The_VASP_Manual">VASP</a>
   <a href="https://www.dftbplus.org/documentation.html">DFTB+</a>
@@ -16,7 +17,7 @@ permalink: /more/
 </div>
 
 <div class="link-grid-section">
-  <h2>Journals</h2>
+  <h2><span class="en-only">Journals</span><span class="zh-only">期刊投稿</span></h2>
   <a href="https://acs.manuscriptcentral.com/acs">ACS</a>
   <a href="https://mc.manuscriptcentral.com/rsc">RSC</a>
   <a href="http://www.editorialmanager.com/anie/default.aspx">Wiley</a>
@@ -34,13 +35,13 @@ permalink: /more/
 </div>
 
 <div class="link-grid-section">
-  <h2>苏州大学</h2>
+  <h2><span class="en-only">苏州大学</span><span class="zh-only">Soochow University</span></h2>
   <a href="https://www.suda.edu.cn/commonity_service/univ_calander.jsp">校历 (Academic Calendar)</a>
   <a href="http://map.suda.edu.cn/Projects/SZDX/WebSite/Index.aspx">地图 (Map)</a>
 </div>
 
 <div class="link-grid-section">
-  <h2>量子化学</h2>
+  <h2><span class="en-only">量子化学</span><span class="zh-only">Quantum Chemistry</span></h2>
 
   <h3>2019</h3>
   <a href="https://tcheng-suda.github.io/downloads/chap0.pdf">c1</a>
@@ -78,12 +79,12 @@ permalink: /more/
 </div>
 
 <div class="link-grid-section">
-  <h2>Tools</h2>
-  <a href="https://www.gamry.com/resources-2/electrochemical-calculators-tools">electrochemical calculators</a>
+  <h2><span class="en-only">Tools</span><span class="zh-only">工具</span></h2>
+  <a href="https://www.gamry.com/resources-2/electrochemical-calculators-tools"><span class="en-only">electrochemical calculators</span><span class="zh-only">电化学计算器</span></a>
 </div>
 
 <div class="link-grid-section">
-  <h2>VIP papers</h2>
+  <h2><span class="en-only">VIP papers</span><span class="zh-only">VIP 论文</span></h2>
   <a href="https://tcheng-suda.github.io/downloads/vip-1.pdf">Molecular Modeling of Environmentally Important Processes: Reduction Potentials</a>
 </div>
 

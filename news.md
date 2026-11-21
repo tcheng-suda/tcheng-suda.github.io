@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+title_zh: 博客
 permalink: /news/
 ---
 

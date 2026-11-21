@@ -1,32 +1,40 @@
 - title: "Research"
+  title_zh: "研究"
   href: "/research/"
 
   
 - title: "Blog"
+  title_zh: "博客"
   href: "/news/"
 
 - title: "People"
+  title_zh: "成员"
   href: "/about/"
 
 #- title: "Members"
 #  href: "/members/"
 
 - title: "Publications"
+  title_zh: "论文"
   href: "/publications/"
   
 - title: "Talks"
+  title_zh: "报告"
   href: "/talks/"
 
 - title: "Software"
+  title_zh: "软件"
   href: "/software/"
 
 - title: "Gallery"
+  title_zh: "相册"
   href: "/gallery/"
 
 #- title: "Opening"
 #  href: "/opening/"
 
 - title: "More"
+  title_zh: "更多"
   href: "/more/"
 
 #- title: "blog"
@@ -37,6 +45,3 @@
 #  subcategories:
 #    - subtitle: "Journals"
 #      subhref: "/more/journals/"
-
-
-

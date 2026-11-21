@@ -2,18 +2,18 @@
 
     {% for steve in site.data.menu %}
     {% if steve.subcategories != null %}
-    <li><a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a>
+    <li><a href="{{ steve.href }}" class="page-link">{% if steve.title_zh %}<span class="en-only">{{ steve.title }}</span><span class="zh-only">{{ steve.title_zh }}</span>{% else %}{{ steve.title }}{% endif %}</a>
     <ul class="sub-menu">
     {% for subcategory in steve.subcategories %}
-    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    <li><a href="{{ subcategory.subhref }}">{% if subcategory.subtitle_zh %}<span class="en-only">{{ subcategory.subtitle }}</span><span class="zh-only">{{ subcategory.subtitle_zh }}</span>{% else %}{{ subcategory.subtitle }}{% endif %}</a></li>
     {% endfor %}
     </ul>
     {% else %}
-     <li><a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a>
+     <li><a href="{{ steve.href }}" class="page-link">{% if steve.title_zh %}<span class="en-only">{{ steve.title }}</span><span class="zh-only">{{ steve.title_zh }}</span>{% else %}{{ steve.title }}{% endif %}</a>
     {% endif %}
     </li>
     {% endfor %}
-    <li class="theme-toggle">
+    <li class="theme-toggle lang-toggle">
         <a href="javascript:void(0)" id="theme-toggle-btn" title="Toggle dark mode" aria-label="Toggle dark mode">
             <svg class="icon-sun" id="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <circle cx="12" cy="12" r="5"></circle>
@@ -29,6 +29,11 @@
             <svg class="icon-moon" id="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none;">
                 <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
             </svg>
+        </a>
+    </li>
+    <li class="theme-toggle lang-toggle">
+        <a href="javascript:void(0)" id="lang-toggle-btn" title="Switch language / 切换语言" aria-label="Switch language / 切换语言">
+            <span class="lang-btn-en">中</span><span class="lang-btn-zh">EN</span>
         </a>
     </li>
     </ul>

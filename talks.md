@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Talks
+title_zh: 报告
 permalink: /talks/
 ---
 
