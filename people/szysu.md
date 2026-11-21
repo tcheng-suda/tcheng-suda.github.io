@@ -4,4 +4,4 @@ title: Ziyu Su
 permalink: /people/szysu/
 ---
 
-Undergraduate Student (Outreach)
+Alumni (2026).

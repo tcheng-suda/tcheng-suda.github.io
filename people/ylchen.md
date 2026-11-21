@@ -4,4 +4,4 @@ title: Yanliang Chen
 permalink: /people/ylchen/
 ---
 
-Undergraduate Student (Outreach)
+Alumni (2026).

@@ -4,4 +4,4 @@ title: Miao Zhang
 permalink: /people/mzhang2/
 ---
 
-Undergraduate Student (Outreach)
+Alumni (2023-2026).

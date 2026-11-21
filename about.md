@@ -234,22 +234,12 @@ permalink: /about/
 <div class="people-grid">
 
 <div class="people-card">
-  <div class="name">Ziyu Su 苏子彧</div>
+  <div class="name">Zheyu Hu 胡哲宇</div>
   <div class="role"><span class="en-only">Undergraduate Student</span><span class="zh-only">本科生</span></div>
 </div>
 
 <div class="people-card">
-  <div class="name">Yanliang Chen 陈彦良</div>
-  <div class="role"><span class="en-only">Undergraduate Student</span><span class="zh-only">本科生</span></div>
-</div>
-
-<div class="people-card">
-  <div class="name">Miao Zhang 张淼</div>
-  <div class="role"><span class="en-only">Undergraduate Student</span><span class="zh-only">本科生</span></div>
-</div>
-
-<div class="people-card">
-  <div class="name">Pengfei Gao 高鹏飞</div>
+  <div class="name">Yangkai Zhang 张杨凯</div>
   <div class="role"><span class="en-only">Undergraduate Student</span><span class="zh-only">本科生</span></div>
 </div>
 
@@ -392,6 +382,26 @@ permalink: /about/
 <div class="people-card">
   <div class="name"><a target="_blank" href="/people/jlxiang/">Jinglong Xiang 项景龙</a></div>
   <div class="role"><span class="en-only">Undergrad (2023-2024)</span><span class="zh-only">本科（2023-2024）</span></div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a target="_blank" href="/people/szysu/">Ziyu Su 苏子彧</a></div>
+  <div class="role"><span class="en-only">Undergrad (2026)</span><span class="zh-only">本科（2026）</span></div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a target="_blank" href="/people/ylchen/">Yanliang Chen 陈彦良</a></div>
+  <div class="role"><span class="en-only">Undergrad (2026)</span><span class="zh-only">本科（2026）</span></div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a target="_blank" href="/people/mzhang2/">Miao Zhang 张淼</a></div>
+  <div class="role"><span class="en-only">Undergrad (2023-2026)</span><span class="zh-only">本科（2023-2026）</span></div>
+</div>
+
+<div class="people-card">
+  <div class="name"><a target="_blank" href="/people/pfgao/">Pengfei Gao 高鹏飞</a></div>
+  <div class="role"><span class="en-only">Undergrad (2026)</span><span class="zh-only">本科（2026）</span></div>
 </div>
 
 <div class="people-card">
